@@ -1,0 +1,11 @@
+*.model
+*.zip
+*.gz
+*.tgz
+*.mid
+*.MID
+*.kar
+tmp/*
+*.arff
+*.log
+*.pyc
