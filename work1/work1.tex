@@ -1,0 +1,158 @@
+% This is LLNCS.DEM the demonstration file of
+% the LaTeX macro package from Springer-Verlag
+% for Lecture Notes in Computer Science,
+% version 2.3 for LaTeX2e
+%
+\documentclass{llncs}
+%
+% Para cambiar el idioma:
+\usepackage[utf8]{inputenc} % el documento esta codificado en utf8
+\usepackage[spanish]{babel} % convenciones tipograficas del castellano
+
+
+\usepackage{makeidx}  % allows for indexgeneration
+\usepackage{amssymb}
+%\setcounter{tocdepth}{3}
+\usepackage{graphicx}
+\usepackage[fleqn]{amsmath} % putting displayed equations at a fixed position from the left margin by using the fleqn option for amsmath 
+
+%\usepackage[numbers,sort]{natbib}
+%\usepackage{openbib}
+
+
+\usepackage{url}
+
+
+%\renewcommand{\thefootnote}{\dag{footnote}}
+%
+\begin{document}
+
+\title{A Pattern Recognition Approach for Bass Track Identification in MIDI Files.\\ Repetición del
+experimento para la melodía y cálculo de errores Tipo 1, Tipo 2 y Tipo 3}
+%
+\titlerunning{Bass Track Identification in MIDI Files}  % abbreviated title (for running head)
+%                                     also used for the TOC unless
+%                                     \toctitle is used
+%
+\author{Octavio Vicente}
+%
+\authorrunning{Octavio Vicente}   % abbreviated author list (for running head)
+%
+%%%% list of authors for the TOC (use if author list has to be modified)
+\tocauthor{Octavio Vicente}
+%
+\institute{Universidad de Alicante, Spain,\\
+\email{octavio@wipzona.es}\\ 
+%WWW home page: \texttt{http://www.ua.es}
+}
+
+\maketitle              % typeset the title of the contribution
+
+
+
+%\begin{abstract}
+%\end{abstract}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Introducción}
+El objetivo es aplicar el mismo sistema utilizado en la selección de la pista de bajo a la 
+selección de la pista que contiene la melodía, y comprobar si se obtienen resultados similares
+a los que se obtuvieron en la Tesis de Pierre.
+
+En la segunda parte repito los experimentos de selección de la pista de bajo, obteniendo los
+errores de \emph{Tipo 1}, \emph{Tipo 2} y \emph{Tipo 3}. Hay una pequeña desviación en algunos
+de los resultados con respecto a los resultados de \emph{paper}. Esto puede ser debido a alguna
+corrección que se ha realizado en la obtención de los descriptores.
+
+\section{Melody track selection}
+
+Comparación de los resultados obtenidos en las Tesis de Pierre y los que obtengo yo utilizando el
+mismo sistema que en la selección de la pista de bajo. 
+
+\subsection{Melody track selection}
+
+El umbral de error utilizado es $p_{\epsilon}=0.25$, tanto en el experimento realizado, como en
+la Tesis de Pierre.
+
+\begin{table}
+\begin{center}
+\begin{tabular}{ l | l | r | r | r | r }
+\hline
+   &   Dataset \hspace{0.5cm} &  \hspace{0.5cm} Success & \hspace{0.2cm} Tipo 1 & \hspace{0.2cm} Tipo 2 & \hspace{0.2cm} Tipo 3 \\
+\hline
+\hline
+Melody track selection  &   clas200 	&	 99.5\%	&	 1 	&	 0 	&	 0 	 \\
+                        &   jazz200 	&	 98.5\% &	 1 	&	 0 	&	 2 	 \\
+                        &   kar200 	&	 83.5\%	&	 10 	&	 3 	&	 20 	 \\
+\hline 
+Melody track selection  &   CLA200	&	99.0\%	&	2	&	0	&	0	\\
+(Tesis Pierre, tabla 3.9)&  JAZZ200	&	99.0\%	&	1	&	0	&	1	\\
+                        &   KAR200	&	84.5\%	&	14	&	4	&	13	\\
+\hline
+\end{tabular}
+\caption{Melody track selection results.}
+\label{result2}
+\end{center}
+\end{table}
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Bass track selection}
+
+Obtención de los errores \emph{Tipo 1}, \emph{Tipo 2} y \emph{Tipo 3} en la selección de la pista de bajo.
+
+
+\subsection{Bass track selection}
+
+
+\begin{table}
+\begin{center}
+\begin{tabular}{ l | l | r | r | r | r }
+\hline
+   &   Dataset \hspace{0.5cm} &  \hspace{0.5cm} Success & \hspace{0.2cm} Tipo 1 & \hspace{0.2cm} Tipo 2 & \hspace{0.2cm} Tipo 3 \\
+\hline
+\hline
+Bass track selection    &   kar200 	&	 94.5 	&	 5 	&	 5 	&	 1 	 \\
+                        &   jazz200 	&	 100.0 	&	 0 	&	 0 	&	 0 	 \\
+                        &   clas200 	&	 99.5 	&	 0 	&	 0 	&	 1 	 \\
+\hline
+\end{tabular}
+\caption{Bass track selection results.}
+\label{result2}
+\end{center}
+\end{table}
+
+
+
+\subsection{Bass track selection across styles}
+\begin{table}
+\begin{center}
+\begin{tabular}{ l | l | l | r | r | r | r }
+\hline
+& Training Dataset  & Test Dataset    &  Success & Tipo1 & Tipo 2 & Tipo 3 \\
+\hline
+\hline
+Bass track     &   KAR200 + JAZ200  &   clas200 	& 72.5 	& 0 	& 55 	& 0 	 \\
+selection      &   CLA200 + KAR200  &   jazz200 	& 100.0 & 0 	& 0 	& 0 	 \\
+               &   CLA200 + JAZ200  &   kar200 		& 91.5 	& 8 	& 4 	& 5 	 \\
+\hline
+\end{tabular}
+\caption{Bass track selection  across styles.}
+\label{result3}
+\end{center}
+\end{table}
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+\end{document}

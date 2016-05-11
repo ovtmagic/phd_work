@@ -1,0 +1,22 @@
+Tester:     weka.experiment.PairedCorrectedTTester
+Analysing:  Percent_correct
+Datasets:   4
+Resultsets: 1
+Confidence: 0.05 (two tailed)
+Sorted by:  -
+Date:       28/10/15 8:34
+
+
+Dataset                   (1) trees.RandomFore
+----------------------------------------------
+melody_class/class_train.(100)   87.11(1.54) |
+melody_jazz/jazz_train.cs(100)   93.84(1.22) |
+melody_kar/kar_train.csv (100)   96.14(0.69) |
+melody_all_train.csv     (100)   92.31(0.60) |
+----------------------------------------------
+(v/ /*)                                      |
+
+
+Key:
+(1) trees.RandomForest '-I 10 -K 6 -S 1' -2260823972777004705
+

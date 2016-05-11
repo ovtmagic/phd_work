@@ -1,0 +1,9 @@
+total 6412
+lrwxrwxrwx  1 vicenoc Domain Users      14 Feb 10 12:51 datasets -> ../../datasets
+-rw-r--r--  1 vicenoc Domain Users       0 Feb 10 15:01 list.txt
+-rw-r--r--  1 vicenoc Domain Users       0 Feb 10 14:34 res3.csv
+-rwxr-xr-x  1 vicenoc Domain Users     362 Feb 10 13:02 run3.sh
+-rwxr-xr-x  1 vicenoc Domain Users     362 Feb 10 13:02 run3.sh.bak
+-rwxr-xr-x  1 vicenoc Domain Users     377 Feb 10 14:41 smf2txt.exe.stackdump
+drwxr-xr-x+ 1 vicenoc Domain Users       0 Feb 10 14:42 tmp
+-rw-r-----  1 vicenoc Domain Users 6555904 Feb 10 13:18 weka.jar

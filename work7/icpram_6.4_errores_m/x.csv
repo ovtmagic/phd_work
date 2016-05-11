@@ -1,0 +1,2 @@
+Filename;track type;Acc.%,Error 0;Error 1;Error 2;Error 3;TP;FP;FN;TN;Precision;Recall;F-measure
+class_train.csv;melody;70.48%,616;123;115;20;561;238;20;55;0.70;0.97;0.81

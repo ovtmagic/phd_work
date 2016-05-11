@@ -1,0 +1,7774 @@
+1931.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+A_Call_for_All_Demons.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+ACCENTUATE_THE_POSITIVE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+ACCUSTOMED_TO_HER_FACE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+A_Certain_Smile.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+A_CHANCE_TO_TRY_AGAIN.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+A_Child_is_Born.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+AckVE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+A_Cottage_For_Sale.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+A_Family_Joy.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+A_FELICIDADE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+A_FINAL_DRINK.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+A_Foggy_Day.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+AFRICAN_FLOWER.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+AFRO_BLUE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+AINT_MISBEHAVIN.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+AIREGIN.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+A_kiss_to_build_a_dream_on.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+ALICE_IN_WONDERLAND.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+All_About_Ronnie.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+All_Blues.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+All_By_Myself.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+All_Gods_Chillun_Got_Rhyth.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+ALL_IN_LOVE_IS_FAIR.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+ALL_MY_TOMORROWS.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+All_Of_Me.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+ALL_OF_YOU.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+ALLO.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+All_Or_Nothing_At_All.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+All_the_way_Jimmy_van_Heus.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Almost_Like_Being_in_Love.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+A_lonely_man.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+ALONE_TOGETHER.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Along_Came_Betty.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+ALWAYS.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+AM_I_BLUE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+ANA_MARIA.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+AND_I_LOVE_HER.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Angel_Eyes.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+ANGEL_EYES.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+A_nightingale_sang_in_Berke.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+ANOTHER_YOU_THERE_WILL_NEV.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+ANTHROPOLOGY.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Antigua.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody Harmony (below)
+@track 7  < no harmony >
+@track 8 Voice 1 ( Melody )--BBOK
+@track 9 Soloist Harmony (below)
+@track 10  Harmony # 247
+@track 11 Voice 1 (Soloist)
+
+ANYTHING_FOR_YOU.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+ANYTHING_GOES.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+ANY_TIME.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+ANYWAY.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+APRIL_IN_PARIS.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+APRIL_JOY.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+A_PURO_SOL.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+ARMAGEDDON.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+A_Smooth_One.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+As_Time_Goes_By.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+A_SUNDAY_KIND_OF_LOVE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+AT_LAST_IVE_FOUND_YOU.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+au_privave_arranged_by_geo.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Au_Privave.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+AUTUMN_IN_NEW_YORK.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Autumn_Leaves.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+AUTUMN_LEAVES.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Avant_de_Mourir.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Ay_Arriba.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Backstage_Sally.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+BAGS_GROOVE_F_BLUES.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+BA_LUE_BOLIVAR_BA_LUES_ARE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+BEAUTIFUL_LOVE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+BEAUTY_AND_THE_BEAST.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+BE_CERTAIN.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+BEGINNING_TO_SEE_THE_LIGHT.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+BEMSHA_SWING.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+BESSIES_BLUES.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+BETTER_IN_FRENCH.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+BEWITCHED.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+BIG_NICK.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+BILLY_BOY.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Birks_works_Dizzy_Gillesp.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Black_Coffee.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+BLACK_DIAMOND.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+BLACK_NARCISSUS.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Black_Nile.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Black_Orpheus_Orfeo_Negro.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Black_Velvet_Alann.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB ) (none)
+@track 7 Soloist ( BB )--BBOK
+
+Blame_It_On_My_Youth.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+BLUE_BOSSA.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+BLUE_COMEDY.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Blue_in_Green.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Bluemax.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+BLUE_MONK.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )
+@track 7 Soloist ( BB ) (none)
+
+BLUE_MOON.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+BLUE_ROOM.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Blues_Backstage_Frank_Fost.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+BLUESETTE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Blues_For_Alice.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Blue_Skies.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Blues_March.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+BLUES_RIFF.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+BLUE_TRANE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+BODY_AND_SOUL.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+BOPLICITY.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+BORN_TO_BE_BLUE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+BOTH_SIDES_NOW.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Brainville.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+BREEZIN.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+BRIGHT_MISSISSIPPI.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+BRIGHT_SIZE_LIFE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+BRILLIANT_CORNERS.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+BRITE_BREEZY.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+BULLET_TRAIN.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+BUT_BEAUTIFUL_Jimmy_van_He.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+But_Beautiful.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+BUT_NOT_FOR_ME.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+But_Not_For_Me_Verse.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+BYE_BYE_BLACKBIRD.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+By_Myself.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Cabaret_Fred_Ebb_John.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+CALL_IT_A_SUMMER_DAY.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+CANDLE_GLOW.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+CANDYMAN.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Candy.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+CANT_BUY_ME_LOVE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Cant_Help_Lovin_That_Ma.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+CANT_WE_BE_FRIENDS.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+CAPTAIN_MARVEL.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Caravan.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Carioca.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB )
+
+CARNIVAL.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+CEORA.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+CHACQUE_FOIS.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+CHARLSTON.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+CHATTENOOGA_CHOO_CHOO.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Cheek_to_Cheek_Berlin.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Chega_De_Saudade_No_More_B.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+CHILD_IS_BORN_A.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+CHRISTMAS_IS_HERE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+CHRISTMAS_SONG.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+City_of_New_Orleans...by_S.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+CLEAR_DAY_ON_A.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+CLOSE_TO_YOU.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Come_Rain_or_Come_Shine.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+COME_SUNDAY.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Con_Alma.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Conception.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB )
+
+CONFESSIN_THAT_I_LOVE_YOU.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Confirmation.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+confirmation_omni_parker_s.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Cooking_in_Your_Head.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+CORAL.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+CORCOVADO.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Corcovado_Quiet_Nights_of.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+COTTONTAIL.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+COULD_IT_BE_YOU.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+COUNTDOWN.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+COUNTRY_NIGHTS.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+CRAZY.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+CRISS_CROSS.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+CRUISING_AROUND.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+CRUSH_ON_YOU_IVE_GOT_A.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Cry_Me_A_River.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+CRY_ME_A_RIVER.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+CRYSTAL_SILENCE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+CUANDO_CUANDO.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+CUTE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+DAAHOUD.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+DANCING_ON_THE_CEILING.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+DANNY_BOY.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+DARN_THAT_DREAM_Jimmy_van.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Darn_That_Dream.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+DARN_THAT_DREAM.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Days_of_Wine_and_Roses.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Days_of_Wine_and_Roses_The.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Deacon_Blues_see_memo.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB )
+
+DEAR_ACQUAINTANCE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+DEARLY_BELOVED.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+DEAR_OLD_STOCKHOLM.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Deed_I_Do.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+DEED_I_DO.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+DEEP_PURPLE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Delias_gone_Blake.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+DELORES.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+DELUGE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+De_Pois_Do_Amor_OVazio.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+DESAFINADO.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Dialog.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB )
+
+Dindi.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB )
+
+DJANGO.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+DOLPHIN_DANCE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+DO_NOTHIN_TIL_YOU_HEAR_FR.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+DONT_BLAME_ME.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+DONT_FEEL_TOO_SORRY_FOR_ME.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+DONT_GET_AROUND_MUCH_ANYMO.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Dont_get_around_much_more.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+DONT_MEAN_A_THING_IT.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+DOUJIE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Do_You_Know_What_It_Means.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+DREAM.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody Harmony (below)
+@track 7  5-Part Brass section in 4ths
+@track 8 Voice 1 ( Melody )--BBOK
+@track 9 Voice 2 ( Harmony )--BBOK
+@track 10 Voice 3 ( Harmony ) --BBOK
+@track 11 Voice 4 ( Harmony )--BBOK
+@track 12  Voice 5 ( Harmony ) --BBOK
+@track 13  Melody Doubled #1--BBOK
+@track 14 Soloist Harmony (below)
+@track 15  AppleYard Vibes
+@track 16 Voice 1 (Soloist)
+@track 17 Voice 2 (Harmony) 
+
+Driftin.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+East_of_the_Sun.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+EASY_LIVING.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Easy_to_Love.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+EDELWEISS.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+EIGHTY_ONE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+EL_GAUCHO.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+ellen.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Elsa.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+EMBRACEABLE_YOU.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+EPISTROPHY.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+EQUINOX.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Equipoise.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB )
+
+ERONEL.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+E.S.P..MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Evergreen.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+EVERYTHING_I_HAVE_IS_YOURS.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+EVERYTHING_IS_BEAUTIFUL.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+EVIDENCE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+EXACTLY_LIKE_YOU.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+EXCERCISE_#3_MISSOURI_UNC.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+EXERCISE_#6_Unity_Village.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Fables_of_Faubus.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+FALLING_GRACE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Falling_in_Love_w_Love_Joe.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+FALL.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+FASCINATIN_RHYTHM.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+FEE_FI_FO_FUM.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+FEELS_SO_GOOD.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Feest.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Fia_Pash.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+FIFTY_SECOND_STREET_THEME.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+FINE_ROMANCE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+FIVE_0_TWO_BLUES.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+FIVE_HUNDRED_MILES_HIGH.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Flamingo.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist Harmony (below)
+@track 8  Vol + 40 - Generic  
+@track 9 Voice 1 (Soloist)
+
+FLINTSTONES_THEME.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+FLY_AWAY.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+FLY_ME_TO_THE_MOON.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+FOGGY_DAY.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+FOOLISH_HEART_MY.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+FOOLISH_THINGS_THESE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+FOOLS_RUSH_IN.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+FREE_FOR_ALL.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+FRENESI.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Friday_night_at_the_Cadilla.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+From_This_Moment_On.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+funk_dumplin_see_memo.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB )
+
+Gatorwhale_by_W._Jackson.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+GENTLE_RAIN.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+GEORGIA.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+GET_ME_TO_THE_CHURCH.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Gettin_it_right.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+GETTIN_SENTIMENTAL_OVER_YO.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+GHOST_OF_A_CHANCE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Giant_steps_J.Coltrane.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Giant_Steps.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Girl_from_Ipanema.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB )
+
+GIRL_TALK.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Glorias_step_Scott_LaFaro.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Glow_Worm.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+God_Bless_The_Child.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+GOD_BLESS_THE_CHILD.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+GOOD_BAIT_TODD_DAMERON.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+HACKENSACK.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+HAD_TO_BE_YOU_IT.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+HALF_NELSON.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Hand_in_hand.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+HANDYMAN.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+HAPPY_HAPPY_BIRTHDAY_BABY.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+HARD_DAYS_NIGHT.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Harlem_Nocturne.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Hassles_Just_Friends_by_R.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Have_A_Nice_Day_By_Will.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+HAVE_ANOTHER.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Have_You_Met_Miss_Jones.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Havona.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+HAWAIIAN_WEDDING_SONG.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+HE_AINT_HEAVY..HES_MY_BRO.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Heal_My_Heart_Continentals.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Soloist ( BB )
+@track 7 Melody Harmony (below)
+@track 8  < no harmony >
+@track 9 Voice 1 ( Melody )--BBOK
+@track 10 Voice 2 ( Harmony )--BBOK
+@track 11 Voice 3 ( Harmony ) --BBOK
+@track 12  Melody Doubled #1--BBOK
+@track 13 Voice 2 Doubled --BBOK
+
+HEAVEN_D.Ellington.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Heigh_ho_Morey_Churchill.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Hello_Dolly.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+HELP_ME_MAKE_IT_THROUGH_THE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+HERE_COMES_THE_SUN.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+HERES_THAT_RAINY_DAY.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+HERES_TO_YOU.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+HERE_THERE_AND_EVERYWHERE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+HES_GOT_THE_WHOLE_WORLD_IN.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+HEY_JUDE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+HEY_MISTER.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+HEY_THERE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+High_Society_Steele_Melros.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Hommage_a_Enelram_Astening.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Honeysuckle_Rose.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+HONEYSUCKLE_ROSE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+HOUSE_OF_JADE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Hou_vol.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB )
+
+HOW_ABOUT_YOUJimmy_van_H.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+HOW_ABOUT_YOU.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+How_deep_is_the_ocean.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+HOW_DEEP_IS_YOUR_LOVE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+HOW_HIGH_THE_MOON.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+HOW_INSENSITIVE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+HOW_LONG_HAS_THIS_BEEN_GOIN.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+HOW_SWEET_IT_IS_TO_BE_LOVED.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+I_cant_believe_that_youre.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+I_Cant_Get_Started.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+I_CANT_GIVE_YOU_ANYTHING_B.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+I_CANT_HELP_FALLING_IN_LOV.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+ICARUS.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Ice_Cream_King_Mole_Johnso.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+I_COULD_HAVE_DANCED_ALL_NIG.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+I_Could_Write_a_Book.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+I_COVER_THE_WATERFRONT.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+I_CRIED_FOR_YOU.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+I_DONT_KNOW_WHY.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+I_DONT_WANT_TO_SAY_GOOD_BY.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+I_FALL_TO_PIECES.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+IF_I_FELL.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+If_I_had_you.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+IF_lyrics_expanded.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+IF_YOU_COULD_SEE_ME_NOW.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+IF_YOU_NEVER_COME_TO_ME.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+I_Got_It_Bad.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+I_GOT_RHYTHM.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+I_HEAR_A_RHAPSODY.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+I_JUST_CALLED_TO_SAY_I_LOVE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Ik_zoek_je.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+I_LEFT_MY_HEART_IN_SAN_FRAN.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+I_Left_My_Heart_In_San_Fr.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+I_LET_A_SONG_GO_OUT_OF_MY.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+ILL_BE_AROUND.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+ILL_BE_SEEING_YOU.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Ill_Get_By_As_Long_As_I.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+ILL_GET_BY.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Ill_Never_Smile_Again.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+ILL_NEVER_SMILE_AGAIN.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+ILL_REMEMBER_APRIL.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+I_love_you_just_the_way_you.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+I_Love_You.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+IM_A_FOOL_TO_WANT_YOU.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+IMAGINATION_J.van_Heusen.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+IMAGINATION.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+IM_ALL_SMILES.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+IM_BEGINNING_TO_SEE_THE_LI.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Im_Confessin_That_I_Lov.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Im_Glad_There_Is_You.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+IM_IN_THE_MOOD_FOR_LOVE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Im_in_the_mood_for_swing.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+IMPRESSIONS.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+IM_STUCK_WITH_YOU.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+IM_WALKIN.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+In_A_Mellow_Tone.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+IN_A_MELLOWTONE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+INDIANA_BACK_HOME_AGAIN_IN.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+I_Need_A_Saviour_Kenny_Mar.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+INNER_URGE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Interplay.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB )
+
+In_the_Kingdom_Whitecross.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+IN_THE_STILL_OF_THE_NIGHT.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+INVITATION.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+IN_WALKED_BUD.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+In_Your_Own_Sweet_Way.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+IN_YOUR_OWN_SWEET_WAY_w_8.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+IPANEMA_THE_GIRL_FROM.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+I_REMEMBER_CLIFFORD.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+I_REMEMBER_YOU.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+I_SAW_HER_STANDING_THERE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+I_SHALL_PASS_THIS_WAY_BUT_O.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+I_SHOULD_CARE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+ISNT_IT_ROMANTIC.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+ISNT_SHE_LOVELY.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+ISOTOPE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+ISRAEL.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+I_SURRENDER_DEAR.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+IT_COULD_HAPPEN_TO_YOU.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+It_had_to_be_you.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+I_THOUGHT_ABOUT_YOU_JvH.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+I_THOUGHT_ABOUT_YOU.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+It_hurts_me_to.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+It_Might_As_Will_Be_Sprin.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+It_Only_Hurts_For_A_Little.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+ITS_IMPOSSIBLE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+ITS_MY_BIRTHDAY.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Its_Not_For_Me_To_Say.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+ITS_NOW_OR_NEVER.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Its_Only_a_Paper_Moon.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Its_Only_A_Paper_Moon.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+ITS_YOU_OR_NO_ONE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Ive_Heard_That_Song_Befo.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+I_Want_a_Little_Girl.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+I_WANT_TO_HOLD_YOUR_HAND.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+I_WILL_WAIT_FOR_YOU.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+I_WISH_YOU_LOVE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+I_WONT_DANCE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+I_WRITE_THE_SONGS.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+JACKIE_ING.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+JAMAICA_FAREWELL.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+JEAN.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+JE_VOUS_AIME_BEACOUP_DARLI.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+JINRIKSHA.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+JOHNNY_B._GOODE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Johnny_One_Note.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+JORDU.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+JOSIE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+JOY_SPRING.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+JOY_TO_THE_WORLD.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+JU_JU.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+JUMPIN_JACK_FLASH.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Jump_Monk.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Just_A_Few_by_Shorty_Rogers.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+JUST_FRIENDS.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Just_In_Time.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+JUST_IN_TIME.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+JUST_THE_WAY_YOU_ARE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+JUST_THE_WAY_YOU_LOOK_TONIG.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+KANSAS_CITY.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+KEEP_A_KNOCKIN.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Killer_Joe.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Killer_Queen.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+KILLING_ME_SOFTLY.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+KING_OF_THE_ROAD.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Knock_Three_Times_Medley.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+La_Champagne.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+LADY_BE_GOOD.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+LADY_BIRD.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+LADY_IS_A_TRAMP.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Lament.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB )
+
+LAND_OF_DREAMS.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+LAURA.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+LAZYBIRD.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+LE_SIROP_DERABLE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Les_Paul.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Let_It_Be_The_Beatles.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Let_It_Grow_Eric_Clapton.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Lets_Call_The_Whole_Thing.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+LETS_COOL_ONE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+LETS_DO_LUNCH_SOMETIME.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Lets_Fall_In_Love.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+LETS_FORM_A_COMMITTE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+LET_THE_FOUR_WINDS_BLOW.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Let_There_Be_Love.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Lightly_in_the_Basie_style.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB )
+
+LIGHT_MY_FIRE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Light_My_Fire_The_Doors.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+LIKE_A_LOVER.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+LIKE_SOMEONE_IN_LOVE_JvH.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+LIKE_SOMEONE_IN_LOVE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+LIMEHOUSE_BLUES.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+LINDA_POLKA.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+LITTLE_GIRLS.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+LITTLE_ROTTIE_TOOTIE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+LITTLE_TOWN_NAMED_PARIS.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Little_Waltz.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+LJ.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+LONG_AGO_AND_FAR_AWAY.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+LONG_AND_WINDING_ROAD_THE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Look_for_the_silver_lining.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+LOOK_TO_THE_SKY.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+LOST_ONE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Love_For_Sale.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+LOVE_IN_THE_NICK_OF_TIME.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Love_is_Blue_A._Popp_P.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+LOVE_LETTERS_IN_THE_SAND.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+LOVE_ME_TENDER.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+LOVER_MAN.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+LOVE_WILL_KEEP_US_TOGETHER.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+LUCKY_SOUTHERN.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+LULLABY_OF_BIRDLAND.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Lullaby_of_the_leaves.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+LULUS_BACK_IN_TOWN.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Lush_Life.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Ma_Cherry_Amoure.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Mad_About_The_Boy.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+MAIDEN_VOYAGE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+MAJOONG.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+make_me_a_memory_grover_w.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Make_Someone_Happy.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+MAKE_SOMEONE_HAPPY.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+MAME.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+MANANA.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Mandy.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist Harmony (below)
+@track 8  Harmony # 247
+@track 9 Voice 1 (Soloist)
+
+Manteca.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB )
+
+Maputo_see_memo.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+MARGIE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+MARYS_BOYCHILD.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+MASQUERADE_THIS.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+MAXINE_4_bar_intro.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+MEAN_TO_ME.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+MEDITATION.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Memories_of_Tomorrow.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+MEMORIES_OF_YOU.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+MEMPHIS.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+mercy_mercy_mercy.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB )
+
+MERRILYNNE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+MICHELLE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+MIDNIGHT_BLUE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+MIDNIGHT_SUN.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Milenberg_Joys.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+MILESTONES.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+MISSOURI_UNCOMPROMISED.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+MISTY.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+MIYAKO.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+MOCKIN_BIRD_HILL.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Mojave.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB )
+
+Moment_notice.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+MOMENTS_NOTICE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+MONKS_MOOD.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+MOOD_INDIGO.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Moonglow.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+MOONGLOW.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+MOONLIGHT_AND_ROSES.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+MOONLIGHT_COCKTAIL.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Moonlight_Cocktails.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Moonlight_In_Vermont.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+MOONLIGHT_IN_VERMONT.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Moonlight_On_The_Ganges.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Moonlight_Serenade.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+MOON_LOVE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+MOON_RIVER.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+MOOSE_THE_MOOCHE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+More_I_See_You_The.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+MORE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+MORE_THAN_YOU_KNOW.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+More_Today_Than_Yesterday.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+MOST_EVRY_MORNING.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+MR._P.C..MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+MY_BLUE_HEAVEN.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+MY_FAVOURITE_THINGS.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+My_Foolish_Heart.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+My_funny_Valentine.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+MY_HEART_BELONGS_TO_DADDY.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+My_Heart_Sings.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB ) (none)
+@track 7 Soloist ( BB )--BBOK
+
+MY_LITTLE_SUEDE_SHOES.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+My_Melancholy_Baby.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+MY_OLD_FLAME.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+MY_ONE_AND_ONLY_LOVE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+MY_ROMANCE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+MY_SHINING_HOUR.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+MY_SHIP.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+My_son_calls_an_other_man_d.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+MYSTERIOSO.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+MY_SWEET_LORD.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+NAIMA.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Nancy.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Nardis.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+NATURE_BOY.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+NEARNESS_OF_YOU_THE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+NEFERTITI.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+NEVER_ON_A_SUNDAY.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+NICAS_DREAM.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Nice_Work_if_you_Can_get_it.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Night_and_Day.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+NIGHT_DREAMER.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Night_Has_A_THousand_Eyes.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Night_of_white_satin.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB )
+
+Nikita.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB )
+
+Nobodys_sweetheart.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+No_fumes_mas.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+NO_MOON_AT_ALL.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+NORWEGIAN_WOOD.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Not_Ethiopia.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+NOT_TO_WORRY.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+NOW_IS_THE_HOUR.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Ob_La_Di_Ob_La_Di_The_Beat.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+OB_LA_DI_OB_LA.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+OFF_MINOR.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+OH_WHAT_A_BEAUTIFUL_MORNIN.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+OH_YES.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+OH_YOU_BEUTIFUL_DOLL.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Old_Fashioned_way.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Old_Father_Thames.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+OLEO.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Ol_man_river_Kern.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+ON_A_CLEAR_DAY.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+ON_A_SLOW_BOAT_TO_CHINA.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+ON_BROADWAY.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+ONCE_I_LOVED.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+ONCE_IN_A_WHILE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+ONCE_UPON_A_SUMMERTIME.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+ONE_BY_ONE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+ONE_NOTE_SAMBA.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+One_Of_Us_Joan_Osborne.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB ) (none)
+@track 7 Soloist ( BB )--BBOK
+
+One_Song_Morey_Churchill.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+ON_THE_STREET_WHERE_YOU_LIV.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+On_the_sunny_Side_of_the_St.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+OPEN_THE_SHOW.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+OPEN_YOUR_EYES_YOU_CAN_FLY.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+OPUS_ONE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+ORNITHOLOGY.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+OTTAWA_EXHIBITION_64.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Our_Love_is_Here_to_Stay.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+OUT_OF_NOWHERE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+PALLADIUM_Try_a_SYNTH_pat.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+PANNONICA.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+PAPER_MOON_ITS_ONLY_A.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+PAS_DE_TRISTESSE_POUR_MOI.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+PEACE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Peel_Me_A_Grape.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Pee_Wee_Tony_Williams.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Pennies_From_Heaven.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+PENNIES_FROM_HEAVEN.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+PENNY_LANE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+PENSATIVA.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Pepe.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB )
+
+PERDIDO.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Perfidia.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Soloist ( BB )
+@track 7 Melody Harmony (below)
+@track 8  Trombone, Guitar & Tenor
+@track 9 Voice 1 ( Melody )--BBOK
+@track 10 Voice 2 ( Harmony )--BBOK
+@track 11 Voice 3 ( Harmony ) --BBOK
+
+PERIS_SCOPE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+PERPETUAL_MOTION_Good_chop.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+PICK_YOURSELF_UP.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+PLAYED_TWICE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+POINCIANA.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+POLKA_DOTS_AND_MOONBEAMS_B.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+POLKA_DOTS_AND_MOONBEAMS.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Poor_Butterfly.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+PORTRAIT_OF_JENNIE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Power_Choralerna.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB )
+
+Prelude.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+PRELUDE_TO_A_KISS.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+prism_SE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+PROUD_MARY.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+PUT_ON_A_HAPPY_FACE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+QUI_ES_TU.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+QUIET_NOW.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Radar_Love_Golden_Earrin.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+RAKE_THE_LEAVES.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+RECADO_BOSSA_NOVA.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Recado.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody Harmony (below)
+@track 7  Generic 3 Pt + Mel
+@track 8 Voice 1 ( Melody )--BBOK
+@track 9 Voice 2 ( Harmony )
+@track 10 Voice 3 ( Harmony ) 
+@track 11  Melody Doubled #1--BBOK
+@track 12 Soloist Harmony (below)
+@track 13  Octaves (no Patch)
+@track 14 Voice 1 (Soloist)
+@track 15 Soloist Doubled #1 
+
+Recorda_Me_Joe_Henderson.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Red_roses_for_a_blue_lady.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+RED_SAILS_IN_THE_SUNSET.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+RED_TOP.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+REFLECTIONS.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+RHYTHM_A_NING.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Riders_On_The_Storm_The_Do.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+RIVERBOAT.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+ROCK_AROUND_THE_CLOCK.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+ROCKIN_ROBIN.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+RODGERS_HART_COLLAGE_Om.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Rose_Room.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+ROSETTA.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Round_Midnight.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+ROUND_MIDNIGHT.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+ROUTE_66.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+RUBY_MY_DEAR.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Sack_of_Woe.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+SAMBA_BEAT.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Satin_Doll.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Saving_All_my_Love_for_You.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+SCARBOROUGH_FAIR.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Scotch_and_Soda.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+SCRAPPLE_FROM_THE_APPLE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Searchin_My_Soul_Ally.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Soloist ( BB )--BBOK
+@track 7 Melody Harmony (below)
+@track 8  Generic Two Pt 3rds
+@track 9 Voice 1 ( Melody )
+@track 10 Voice 2 ( Harmony )
+
+Sebastian.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB )
+
+SECOND_HAND_ROSE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+sedih.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB )
+
+Sentimental_Journey.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+SENTIMENTAL_JOURNEY.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+September_in_the_Rain.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+SEPTEMBER_SONG.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+SETTING_YOUR_SIGHTS.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Shadow_of_Your_Smile_The.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+SHE_LOVES_YOU.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Shes_Funny_That_Way.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+SHINY_STOCKINGS.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+SIDE_BY_SIDE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+SINCE_I_FELL_FOR_YOU.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+SINCERLY.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Slow_Hot_Wind.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+SMALL_HOTEL_THERES_A.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+SMOKE_GETS_IN_YOUR_EYES.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+SOFTLY_AS_IN_A_MORNING_SUNR.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+SOLAR.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+SOLITUDE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Somebody_Loves_Me.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Someday_my_prince_will_come.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Some_Day_My_Prince_Will_Com.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+SOMEDAY_YOULL_BE_SORRY.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+SOME_OTHER_TIME.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+SOMETIMES_WHEN_WE_TOUCH.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Somewhere_over_the_rainbow.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+S_O_N_G_S.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+SOPHISTICATED_LADY.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+SOUL_EYES.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+SO_WHAT.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+SPEAK_LOW.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+SPEAK_NO_EVIL.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Splanky.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody Harmony (below)
+@track 7  SuperSax (4+1)
+@track 8 Voice 1 ( Melody )--BBOK
+@track 9 Voice 2 ( Harmony )--BBOK
+@track 10 Voice 3 ( Harmony ) --BBOK
+@track 11 Voice 4 ( Harmony )--BBOK
+@track 12  Melody Doubled #1--BBOK
+@track 13 Soloist Harmony (below)
+@track 14  Big Band Brass 5 part (8va)
+@track 15 Voice 1 (Soloist)--BBOK
+@track 16 Voice 2 (Harmony) --BBOK
+@track 17 Voice 3 (Harmony)  --BBOK
+@track 18 Voice 4 (Harmony) --BBOK
+@track 19 Voice 5 (Harmony) --BBOK
+@track 20 Soloist Doubled #1 --BBOK
+
+SPOSIN.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+SPRING_IS_HERE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+STABLEMATES.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Stairway_to_Heaven_Led_Zep.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+STAR_CROSSED_LOVERS.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+STARDUST_with_Verse.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+STAR_EYES.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+STELLA_BY_STARLIGHT.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Steves_sauce.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Stevie.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+St._Louis_Blues_W.C.Han.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+STOLEN_MOMENTS.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+STOMPIN_AT_THE_SAVOY.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+STORMY_WEATHER.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Straight_No_Chaser.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+STRAIGHT_NO_CHASER.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+STRANGE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+STRANGERS_IN_THE_NIGHT.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Sugar.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Soloist ( BB ) (none)
+@track 7 Melody Harmony (below)
+@track 8  Generic 3 Part
+@track 9 Voice 1 ( Melody )
+@track 10 Voice 2 ( Harmony )
+@track 11 Voice 3 ( Harmony ) 
+@track 12  Melody Doubled #1
+
+Sultry_serenade.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Sumer_Set_Collet_Bilk.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+SUMMERTIME.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Sunrise_Serenade.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+SUNSET_MOOD.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+SWEET_DREAMS.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Sweet_Georgie_Fame.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Sweet_Lorraine.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Sweet_Transvestite.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Swinging_Shepherd_Blues.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+SWINGIN_SHEPHERD_BLUES.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+SWonderful.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Symphony_Sid.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Take_Five.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Take_the_A_Train.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Talk_of_the_Town.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB )
+
+TANGERINE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+TA_TA_TANGO.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Tears_in_Heaven.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB )
+
+TENDERLY.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+That_old_feeling.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+THATS_FOR_YOU.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Thats_Life.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+THE_ANGELS.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+THE_BEE_Copyrite_1997_by.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+The_Best_Is_Yet_To_Come_B.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+The_Best_Is_Yet_To_Come.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+The_Best_Things_In_Life_A.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+THE_DOLPHIN.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+THE_DUKE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+The_End_Of_The_World.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+The_Entertainer_Rag_Joplin.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+The_Flintstones_Guy_Lebui.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+THE_GODFATHER.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+The_Good_Life.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+The_Gypsy.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+THE_HORIZON_OF_MY_DREAM.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+The_Lady_Is_A_Tramp.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+The_Letter_Boxtops_Joe.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+THE_NEARNESS_OF_YOU.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+The_Night_Has_A_Thousand_Ey.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+THE_PARTYS_OVER.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+THE_REASON_IS_THE_SEASON.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+THERE_IS_NO_GREATER_LOVE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Theres_A_Tear_In_My_Beer.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+THE_RISING_WALTZ.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+The_Rose.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+The_Shadow_of_Your_Smile.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+THE_SHEIK_OF_ARABY.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+The_Surrey_With_The_Fring.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+The_Way_Fastball.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Soloist ( BB )
+@track 7 Melody Harmony (below)
+@track 8  Generic Two Pt 3rds
+@track 9 Voice 1 ( Melody )--BBOK
+@track 10 Voice 2 ( Harmony )--BBOK
+
+The_Way_You_Look_Tonight.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+THE_WIND.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+THEY_ALL_LAUGHED.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+They_Cant_Take_That_Away_F.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Things.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+THINK_OF_ONE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+THIS_GUYS_IN_LOVE_WITH_YOU.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+this_masqerade_with_benson.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+THOUGHTS_OF_YOU.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+TIE_A_YELLOW_RIBBON.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Till_then.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+TILL_THERE_WAS_YOU.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+TIME_AFTER_TIME.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Time_Remembered.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+TOO_LATE_BABY_ITS.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+TOTAL_ECLIPSE_OF_THE_HEART.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+TOUCH_OF_YOUR_LIPS.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Triste.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Soloist ( BB )
+@track 7 Melody Harmony (below)
+@track 8  < no harmony >
+@track 9 Voice 1 ( Melody )
+
+Trubbel_Olle_Adolphsson.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+TRUE_LOVE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Tune_Up.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Two_sleepy_people.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+UGETSU.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Undecided.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+UNDER_THE_BOARDWALK.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+UNE_CHANSONETTE_OPEN_THE_S.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Unforgettable.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+UNIT_SEVEN.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+UNITY_VILLAGE_Excercise_#6.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Until_The_Real_Thing_Come.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Untitled.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Up_Jumped_Spring.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+VAYA_CON_DIOS.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Venutian_Rhythm.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Waar_de_blanke_top.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+WALKIN_AFTER_MIDNIGHT.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Walk_on_by.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+WAVE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB )
+
+WE_ARE_THE_PEOPLE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+WELL_BE_TOGETHER_AGAIN.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+WELL_YOU_NEEDNT.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+WERE_GOING_ON_A_TOUR.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+WE_SAID_IT_WAS_FOREVER.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+What_A_Diffrence_A_Day_M.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+What_a_Diffrenze_a_Day_Mad.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+WHAT_AM_I_DOIN_HERE_TO_NIG.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+WHAT_AM_I_HERE_FOR.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+What_Are_You_Doing_the_Rest.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+What_Kind_Of_Fool_Am_I.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+WHATS_NEW.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+WHEN_I_FALL_IN_LOVE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+When_its_sleepy_time_down.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+WHEN.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+WHEN_SUNNY_GETS_BLUE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+WHEN_YOU_LOOK_AT_ME.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+WHEN_YOURE_SMILING.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+When_Youre_Smilin.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+When_your_lover_has_gone.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+When_You_Wish_Upon_A_Star.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Where_Are_You.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Soloist ( BB )
+@track 7 Melody Harmony (below)
+@track 8  Generic 3 Part
+@track 9 Voice 1 ( Melody )--BBOK
+@track 10 Voice 2 ( Harmony )--BBOK
+@track 11 Voice 3 ( Harmony ) --BBOK
+
+WHERE_IS_MY_LOVE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Where_or_When_note_ch.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB )
+
+Whisper_not.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+WHO_ARE_YOU.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Who_Can_I_Turn_To.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+WHO_WHAT_WHY.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+WHY_DID_HAVE_TO_FIND_ROMANC.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+WHY_DO_FOOLS_FALL_IN_LOVE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Willow_Weep_For_Me.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Wind_Beneath_My_Wings.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+WINNIPEG.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+WINTERLUDE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Witchcraft.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Without_You_Maria_Carey.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Soloist ( BB )
+@track 7 Melody Harmony (below)
+@track 8  < no harmony >
+@track 9 Voice 1 ( Melody )--BBOK
+@track 10 Voice 2 ( Harmony )
+@track 11 Voice 3 ( Harmony ) 
+
+wonderful_land.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Wouldnt_It_Be_Loverly.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Wrap_your_trubbels_in_dream.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+WRY_ON_THE_ROCKS.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+XMAS_TIME.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Year_Of_The_Cat.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )
+@track 7 Soloist ( BB ) (none)
+
+YESTERDAY_IS_GONE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Yesterdays_Kern.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+YESTERDAYS.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+YOU_ARE_TOO_BEAUTIFUL.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+You_brought_a_new_kind_of_l.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+You_Came_A_Long_Way_From.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+YOU_DONT_KNOW_ME.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+YOU_DONT_KNOW_WHAT_LOVE_IS.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+YOU_GOT_US.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+YOU_MAKE_ME_FEEL_LIKE_DANCI.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+YOUNGER_THAN_I.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Your_Cheatin_Heart.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+YOURE_BREAKING_MY_HEART.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Youre_nobody_til_somebody.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Youre_The_Cream_In_My_Co.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+YOUR_MAMA_DONT_DANCE.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+YOU_SEND_ME.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+YOU_TOOK_ADVANTAGE_OF_ME.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+YOUVE_CHANGED.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+Youve_Got_A_Friend.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB ) 
+@track 5 Strings ( BB ) 
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+
+You_Win_Again.MID
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 Melody ( BB )--BBOK
+@track 7 Soloist ( BB ) (none)
+

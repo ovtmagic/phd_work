@@ -1,0 +1,209 @@
+#################################################################################################################
+ Columnas:
+ <numero pista>	<prediccion>	<prob melodia>	<prob bajo>	<ocupacion>	<etiquetado>	<nombre de pista>
+
+prediccion: tipo de pista que el algoritmo predice que es: +m para melodia, +b para bajo
+
+#################################################################################################################
+
+* Baroque_Baroque-Late_Bach_BWV818.mid
+    1        0.4   0.0  0.97 mixdown    Track 1
+    2                                   MIDI
+
+
+%----------------------------------
+
+* Baroque_Baroque-Late_Corelli_Corelli_Pastorale_dal_Concerto_per_la_notte_di_Natale.mid
+    1        0.2   0.0  0.45 mixdown    Swell Organ
+    2        0.2   0.0   0.5 mixdown    Great Organ
+    3   +b   0.1   0.7  0.48 bass       Pedal
+    4                                   Stops Combinations
+    5                                   Arcangelo Corelli
+    6                                   Pastorale (Organ transcription)
+    7                                   performed by R.Diodati
+    8                                   Organ sounds by
+    9                                   "The Sound Canvas Pipe Organ Project"
+   10                                   WWW.SCPOP.DE
+   11                                   
+   12                                   
+   13                                   
+   14                                   
+   15                                   
+   16                                   
+
+
+%----------------------------------
+
+* Baroque_Baroque-Late_Pachelbel_pachelbel_magnificat_part_II_07.mid
+    1        0.2   0.0  0.97 mixdown    Pachelbel's Magnificat
+    2                                   [...]
+    3                                   Live by © A.G. Simonetto
+    4                                   © www.KunstderFuge.com
+    5                                   
+    6                                   
+    7                                   
+    8                                   
+    9                                   
+   10                                   
+   11                                   
+   12                                   
+   13                                   
+   14                                   
+   15                                   
+   16                                   
+
+
+%----------------------------------
+
+* Renaissance_Renaissance-Late_Byrd_FW058.mid
+    1        0.3   0.0  0.97 mixdown    Track 1
+    2                                   MIDI
+
+
+%----------------------------------
+
+* Renaissance_Renaissance-Middle_Susato_susato-labattaille.mid
+    1   +m   0.6   0.0  0.79            Pavane V La Bataille by T. Susato
+    2   +m   0.8   0.0  0.73 melody     Arranged and Sequenced by MJ Starke
+    3   +m   0.5   0.0  0.73            E-mail mjstarke@ix.netcom.com
+    4        0.3   0.0  0.72            ©1995mjstarke
+    5        0.0   0.1  0.72 bass       
+    6        0.0   0.0   0.6            
+    7        0.3   0.0  0.41            
+    8        0.0   0.0  0.41            
+    9        0.2   0.0  0.52            
+   10        0.4   0.0  0.51            
+   11        0.1   0.0  0.69            
+   12        0.0   0.0   0.7            
+   13   +b   0.0   0.9  0.79                                                             ©1995mjstarke
+   14                                   
+
+
+%----------------------------------
+
+* Romanticism_Romantic-Nationalism_Rimsky_Korsakov_12FLIGHT.mid
+    1                                   
+    2                                   
+    3                                   
+    4                                   
+    5   +m   0.6   0.0  0.95 melody     
+    6        0.0   0.2  0.46            
+    7        0.0   0.2  0.46            
+
+
+%----------------------------------
+
+* Romanticism_Romanticism_Chopin_CHOP59_2.mid
+    1        0.1   0.0  0.95 mixdown     
+    2                                    
+    3                                    
+    4                                    
+    5                                    
+    6                                    
+    7                                    
+    8                                    
+    9                                    
+
+
+%----------------------------------
+
+* Romanticism_Romanticism_Chopin_Etude_in_Gbm_Op10_No5_7.mid
+    1   +m   0.6   0.0  0.99 piano_rh   Piano right
+    2   +b   0.0   0.5  0.76 piano_lh   Piano left
+    3                                   Chopin: Etude Op, 10, No. 5
+    4                                   Copyright © 1999 by Bernd Krüger
+    5                                   email: BKrueger@csi.com
+    6                                   http://piano-midi.com
+    7                                   Edition: 21.4.99
+
+
+%----------------------------------
+
+* Romanticism_Romanticism_Chopin_Mazurka_Op.7_No2_in_Am.mid
+    1        0.3   0.0  0.89 mixdown    Chopin: Op. 7 No. 2
+    2                                   Played by Dr. Ron Lubetsky
+    3                                   Jan. 10, 1998
+    4                                   email: acuity2020@aol.com
+    5                                   Copyright © 1998
+    6                                   All Rights Reserved
+
+
+%----------------------------------
+
+* Romanticism_Romanticism_Chopin_Trois_Valses_Op.70_1.Molto_vivace_in_Gb.mid
+    1        0.2   0.0  0.92 mixdown    Chopin's Waltzes played by © Alessandro Simonetto (info@onclassical.com)
+    2                                   
+    3                                   
+    4                                   
+    5                                   
+    6                                   
+
+
+%----------------------------------
+
+* Romanticism_Romanticism_Mendelssohn_Eli28.mid
+    1        0.4   0.0  0.88 melody     
+    2   +m   0.6   0.0  0.91            
+    3   +m   0.6   0.4  0.87            
+    4                                   LIFT THINE EYES   Felix Mendellsohn
+
+
+%----------------------------------
+
+* XXCentury_Impressionism_Debussy_debussy-lafille.mid
+    1   +m   1.0   0.0  0.84 melody     La fille aux chevaux de lin
+    2                                   By Claude Debussy
+    3   +b   0.0   0.6  0.76 mixdown    "Midified" by Casey Cook
+
+
+%----------------------------------
+
+* XXCentury_Impressionism_Ravel_ravel-gaspard_nuit_ondine_1.mid
+    1        0.3   0.0  0.98 mixdown    
+    2                                   
+    3                                   
+    4                                   
+    5                                   
+
+
+%----------------------------------
+
+* XXCentury_XX-Nationalism_Khachaturian_toccata.mid
+    1        0.2   0.0  0.91 mixdown    Acou Grand Piano
+    2                                   
+    3                                   Toccata
+    4                                   Aram Il'ich Khachaturian
+    5                                   Performed by
+    6                                   Jeff Abrams
+    7                                   
+    8                                   doctorpc@aol.com
+
+
+%----------------------------------
+
+* XXCentury_XX-Nationalism_Orff_Orff-Carmina_Burana-werwelmi.mid
+    1   +m   0.5   0.0  0.58 melody     1st Violin
+    2   +m   0.8   0.0   0.6            2nd Violin
+    3   +m   0.7   0.0  0.69            Viola
+    4        0.1   0.0  0.72            Cello
+    5   +b   0.0   0.9  0.66            Bass
+    6                                   Cello Pizzicato
+    7                                   Bass Pizzicato
+    8   +m   1.0   0.0   0.5            Flute 1 | Flauti 1
+    9        0.4   0.0  0.67            Oboe 1 | Oboi 1
+   10        0.3   0.0  0.66            Clarinet Sib | Clarinetti 2
+   11        0.1   0.3  0.68            Bassoon 1 | Fagotti 1
+   12   +b   0.0   0.9  0.68            Contra Bassoon | Fagotti 2
+   13   +m   0.5   0.0  0.68            Cornet 1 | Corni 1
+   14        0.0   0.0  0.35            Trumpet Do
+   15        0.2   0.0  0.36            Trombone 1 | Trombe 1
+   16        0.1   0.2  0.66 bass       Tuba
+   17                                   Timpani
+   18                                   Percussion | Percussione
+   19                                   Sequenced by
+   20                                   "Yasha Hivits"
+   21                                   70523.2516@compuserve.com
+
+
+%----------------------------------
+

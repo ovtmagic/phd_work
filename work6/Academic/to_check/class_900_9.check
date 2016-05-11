@@ -1,0 +1,50 @@
+#################################################################################################################
+ Columnas:
+ <numero pista>	<prediccion>	<prob melodia>	<prob bajo>	<ocupacion>	<etiquetado>	<nombre de pista>
+
+prediccion: tipo de pista que el algoritmo predice que es: +m para melodia, +b para bajo
+
+#################################################################################################################
+
+%----------------------------------
+
+* Renaissance_Renaissance-Late_Byrd_FW061.mid
+    1        0.3   0.0  0.98 mixdown    Track 1
+    2                                   MIDI
+
+
+%----------------------------------
+
+* Renaissance_Renaissance-Late_Praetorius_pragav2.mid
+    1                                   Gavotte 2
+    2   +m   0.7   0.0  0.88 melody     s1
+    3        0.4   0.0  0.86            s2
+    4   +m   0.5   0.0  0.87            a
+    5   +m   0.6   0.0  0.86            t2
+    6        0.1   0.4  0.86 bass       b
+    7                                   2. Gavotte
+    8                                   Michael Praetorius
+    9                                   © 1996 by Curtis Clark. Free for personal use
+   10                                   jcclark@csupomona.edu
+   11                                   http://www.csupomona.edu/~jcclark/emusic/
+
+
+%----------------------------------
+
+* Romanticism_Romanticism_Beethoven_symphony5m3.mid
+    1                                   (C) & (P) 1992
+    2                                   Romeo Music Intl.
+    3        0.2   0.0  0.74 melody     2 Flšten
+    4        0.1   0.0   1.0            2 Hoboen
+    5        0.2   0.0   0.6            2 Klarinetten in B
+    6        0.0   0.0  0.61            2 Fagotte
+    7        0.3   0.0  0.75            2 Hšrner in Es
+    8   +m   0.5   0.0   0.7            1. Violine
+    9   +m   0.7   0.0   0.7            2. Violine
+   10   +m   0.5   0.0   0.7            Bratsche
+   11        0.0   0.1  0.89            Violoncell
+   12   +b   0.0   1.0  0.89 bass       Kontraba§
+
+
+%----------------------------------
+

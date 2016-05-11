@@ -1,0 +1,2 @@
+Filename;track type;Acc.%,Error 0;Error 1;Error 2;Error 3;TP;FP;FN;TN;Precision;Recall;F-measure
+class_train.csv;bass;78.00%,683;34;126;31;478;160;31;205;0.75;0.94;0.83

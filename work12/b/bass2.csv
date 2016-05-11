@@ -1,0 +1,4 @@
+Filename;track type;Acc.%;Error 0;Error 1;Error 2;Error 3;TP;FP;FN;TN;Precision;Recall;F-measure
+class_train.csv;bass;87.48%;566;21;45;15;520;66;15;46;0.89;0.97;0.93
+jazz_train.csv;bass;99.42%;853;4;1;0;851;5;0;2;0.99;1.00;1.00
+kar_train.csv;bass;97.89%;880;7;6;6;862;13;6;18;0.99;0.99;0.99

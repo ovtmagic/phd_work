@@ -1,0 +1,152 @@
+#################################################################################################################
+ Columnas:
+ <numero pista>	<prediccion>	<prob melodia>	<prob bajo>	<ocupacion>	<etiquetado>	<nombre de pista>
+
+prediccion: tipo de pista que el algoritmo predice que es: +m para melodia, +b para bajo
+
+#################################################################################################################
+
+%----------------------------------
+
+* Classicism_Classicism_Mozart_Symphony35-41-012-mok543m3.mid
+    1                                   3rd Movement - Menuetto
+    2                                   Sequenced by D. L. Viens 10 May 2001
+    3                                   dlviens@empire.net
+    4                                   
+    5   +m   0.8   0.0  0.56 melody     Flute
+    6        0.4   0.0  0.66            Clarinet in B-flat
+    7        0.2   0.0  0.55            Bassoon
+    8        0.1   0.0   0.5            French Horn in E-flat
+    9        0.2   0.0  0.42            Trumpet in E-flat
+   10        0.1   0.1  0.24            Timpani in E-flat and B-flat
+   11        0.4   0.0  0.78            Violin I
+   12   +m   0.9   0.0  0.76            Violin II
+   13        0.3   0.0  0.65            Viola 
+   14        0.0   0.0  0.62            Cello
+   15   +b   0.0   1.0  0.62 bass       Contrabass
+   16                                   W. A. Mozart - Symphony No. 39 in E-flat Major, K.543 - 3. Menuetto
+
+
+* Romanticism_Romantic-Nationalism_Sousa_1760n735sousa.mid
+    1   +m   0.6   0.0  0.86 melody     Treble
+    2        0.0   0.4  0.77 bass       Bass
+    3   +m   0.6   0.0  0.86            Treble
+    4        0.0   0.4  0.77 bass       Bass
+    5                                   "The Liberty Bell March"
+    6                                   by John Phillip Sousa
+    7                                   Seq. by R. Reid, troppo@msn.com
+
+
+%----------------------------------
+
+* Romanticism_Romanticism_Brahms_BRAHMS24.mid
+    1   +m   0.6   0.0  0.54            Flutes
+    2   +m   0.5   0.0  0.45            Oboes
+    3        0.3   0.0  0.52            Clarinets in A
+    4        0.0   0.0  0.49            Bassoons
+    5        0.0   0.0  0.29            Horns I, II
+    6        0.1   0.0  0.16            Horns III,IV
+    7        0.3   0.0  0.16            Trumpets in D
+    8        0.3   0.0  0.16            Trombones I,II
+    9        0.0   0.0  0.15            Trombone III
+   10        0.0   0.1  0.15 bass       Tuba
+   11        0.0   0.2  0.15            Timpani
+   12   +m   0.6   0.0  0.63 melody     Violin I
+   13        0.4   0.0  0.62            Violin II
+   14   +m   0.6   0.0  0.63            Viola
+   15        0.0   0.0  0.59            Cello
+   16   +b   0.0   1.0  0.49            Double Bass
+   17                                   seq by David Siu dss@po.cwru.edu
+
+
+%----------------------------------
+
+* Romanticism_Romanticism_Chopin_Krakowiak_Op14.mid
+    1        0.4   0.0  0.64 melody     Track 1
+    2   +m   0.5   0.0  0.38 melody     Track 2
+    3        0.0   0.0   0.2            Track 3
+    4        0.1   0.1  0.49            Track 4
+    5        0.4   0.0  0.71            Track 11
+    6        0.2   0.0  0.42            Track 12
+    7        0.0   0.1  0.32            Track 13
+    8   +b   0.0   0.5  0.61            Track 14
+    9   +b   0.0   0.6   0.4 bass       Chopin
+   10                                   Krakowiak
+   11                                   Arr.W.Pepperdine 2000
+   12                                   
+   13                                   
+   14                                   
+   15                                   
+   16        0.3   0.0   1.0            
+   17                                   
+
+
+%----------------------------------
+
+* XXCentury_Impressionism_Debussy_debussy-prelude_1livre_06.mid
+    1   +m   0.8   0.0   0.8 piano_rh   Right Treble
+    2        0.4   0.0  0.37 piano_lh   Left Treble
+    3        0.0   0.3  0.64            Left Bass
+    4                                   Pedal
+    5                                   Debussy, Claude
+    6                                   Prelude Book 1 No. 06 Des pas sur la neige
+    7                                   Jeruen E. Dery jawjaw@hotmail.com
+
+
+%----------------------------------
+
+* XXCentury_XX-Nationalism_Joplin_The_Entertainer.mid
+    1   +m   0.7   0.0   1.0 piano_rh   The Entertainer     
+    2        0.4   0.0  0.97 piano_lh   By                  
+    3   +b   0.0   0.9  0.96 piano_lh   Scott Joplin        
+    4                                   Tracked by          
+    5                                   Larry Laitola       
+
+
+%----------------------------------
+
+* XXCentury_XX-Nationalism_Vaughan_Williams_Seasongs.mid
+    1   +m   0.8   0.0  0.49 melody     SEA SONGS
+    2   +m   0.8   0.0  0.49 melody     Trad: Vaughan-Williams
+    3   +m   0.9   0.0   0.6 melody     
+    4   +m   0.6   0.0  0.72 melody     
+    5   +m   0.7   0.0  0.53            
+    6        0.0   0.0  0.53            
+    7        0.0   0.3  0.35            
+    8   +m   0.7   0.0  0.71            
+    9        0.2   0.0  0.63            
+   10        0.1   0.0  0.44            
+   11        0.1   0.0  0.36            
+   12        0.0   0.0  0.35            
+   13   +b   0.0   1.0  0.37 bass       
+   14                                   
+   15                                   
+   16   +m   0.5   0.0  0.74            
+   17   +m   0.9   0.0  0.65            
+   18   +m   0.7   0.0  0.66            
+   19        0.0   0.0  0.54            
+   20   +b   0.0   1.0  0.53             
+
+
+%----------------------------------
+
+* XXCentury_XX-Nationalism_Villalobos_prole_do_bebe_no1_no4_petite_mulatrese.mid
+    1   +m   0.6   0.0   0.4 piano_rh   aux Right Hand
+    2   +m   0.8   0.0  0.72 piano_rh   Piano Right Hand
+    3        0.1   0.1  0.74 piano_lh   Piano Left Hand
+    4                                   _
+    5                                   Heitor Villa-Lobos
+    6                                   _
+    7                                   Prole do Bebe nr. 1
+    8                                   Mulatinha
+    9                                   _
+   10                                   Digitized by
+   11                                   Marcelo A. K. Fontana
+   12                                   (makf@unisys.com.br)
+   13                                   _
+   14                                   from a score of
+   15                                   Consolidated Music Publishers, Inc.
+
+
+%----------------------------------
+

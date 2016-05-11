@@ -1,0 +1,32 @@
+time ./exp_1.py  2> /tmp/exp1.err
+;0.01;0.25;0.5
+#>>>> /tmp/clasica.arff
+clasica;cl200;0,706;0,748;0,757
+clasica;jz200;0,505;0,554;0,491
+clasica;kr200;0,503;0,665;0,710
+#>>>> /tmp/jazz.arff
+jazz;cl200;0,999;0,999;0,999
+jazz;jz200;0,999;1,000;1,000
+jazz;kr200;0,999;0,999;0,994
+#>>>> /tmp/kar.arff
+
+real	226m3.792s
+user	11m13.994s
+sys	12m5.733s
+
+
+Traceback (most recent call last):
+  File "./exp_1.py", line 89, in <module>
+    arff_test_filename, instance = create_arff_test(corpus, corpus_midifiles)
+  File "./exp_1.py", line 44, in create_arff_test
+    for l in corpus_midifiles[m].get_arff([]).split("\n"):
+  File "/home/octavio/MIR/cosas/work3b/lmidi.py", line 526, in get_arff
+    self.gen_descriptors()
+  File "/home/octavio/MIR/cosas/work3b/lmidi.py", line 478, in gen_descriptors
+    self.readSkyline()
+  File "/home/octavio/MIR/cosas/work3b/lmidi.py", line 469, in readSkyline
+    self.read_file(True)
+  File "/home/octavio/MIR/cosas/work3b/lmidi.py", line 434, in read_file
+    f=os.popen(self.smf2txt+" -p 1 "+self.filename)
+OSError: [Errno 12] Cannot allocate memory
+

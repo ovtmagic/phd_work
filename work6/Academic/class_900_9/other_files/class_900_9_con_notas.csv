@@ -1,0 +1,78 @@
+Nombre_fichero;N_Pistas;melody;bass;piano_rh;piano_lh;mixdown;;;;
+Baroque_Baroque-Late_Bach_1696tpinven5.mid;3;;;1;3;;Track 3;Track 4;OK;
+Baroque_Baroque-Late_Bach_2part09.mid;4;;;3;4;;Right Hand;Left Hand;OK;
+Baroque_Baroque-Late_Bach_348baw101f.mid;6;3 4 5;6;;;;Part 1;Part 4;OK;
+Baroque_Baroque-Late_Bach_7.mid;2;1;;;;;Bach J.S.;;xxxxx;solo una pista valida
+Baroque_Baroque-Late_Bach_bach_10p.mid;4;1;2;;;;top line            ;bass line           ;OK;
+Baroque_Baroque-Late_Bach_branden4.mid;4;1 2;4;;;;;;OK;
+Baroque_Baroque-Late_Bach_GOLDBERG.mid;9;;;1 3;2 4;;PIANO               ;PIANO               ;OK;
+Baroque_Baroque-Late_Haendel_handms44.mid;10;1 6;5 10;;;;violin1;cello2;OK;
+Baroque_Baroque-Late_Haendel_Mes05.mid;7;1;6;;;;;;OK;
+Baroque_Baroque-Late_Marcello_B.Marcello_Corale.mid;11;1 2 3 5 6;9;10;11;;;;OK;
+Baroque_Baroque-Late_Pachelbel_pachelbel_magnificat_part_I_21.mid;16;1;;;;;J. Pachelbel;;xxxxx;solo una pista valida
+Baroque_Baroque-Late_Pachelbel_pachelbel_magnificat_part_II_07.mid;16;1;;;;;Pachelbel's Magnificat;;xxxxx;solo una pista valida
+Baroque_Baroque-Middle_Pezel_3abends_m.mid;4;1 2;3 4;;;;{\twelvebf{\rm{Tenore}}};{\twelvebf{\rm{Organo}}};OK;
+Baroque_Baroque-Middle_Uccellini_08op8sy_m.mid;4;1;4;;;;Violino Primo;B. Continuo e Violone;OK;
+Classicism_Classicism_Haydn_sonata_piano_no53_en_E_joseph_haydn.mid;4;;;1;2;;Piano Sonata No.34 in e;by F.J. Haydn (1st mvmt - presto);OK;
+Classicism_Classicism_Mozart_2025pianos3no2.mid;20;;13;3 5;6 8;;Piano 1 Trebble;Bassi;OK;
+Classicism_Classicism_Mozart_mozc3.mid;6;1;3;;;;Solo Violin;Low Strings;OK;
+Classicism_Classicism_Mozart_Symphony35-41-012-mok543m1.mid;16;5 11 12;15;;;;Flute;Contrabass;OK;
+Medieval_ArsAntiqua_Anonymous_hac.mid;4;2 3;4;;;;[A-01] ;[A-03] ;OK;
+Renaissance_Renaissance-Early_Compere_alons_fere_nos_barbes.mid;10;2;5;;;;superius;bassus;OK;
+Renaissance_Renaissance-Late_Byrd_FW061.mid;2;;;;;1;Track 1;;OK;
+Renaissance_Renaissance-Late_Praetorius_pragav2.mid;11;2;6;;;;s1;b;OK;
+Renaissance_Renaissance-Late_Rosseter_ROSSETER_Whether_Men_to_Laugh_or_Weep.mid;2;1;;;;;�Whether men do laugh or cry�;;OK;
+Renaissance_Renaissance-Late_Victoria_Alma_Redemptoris-5-Agnus_Dei-2b.mid;8;1 5;4 8;;;;1s;2b;OK;
+Renaissance_Renaissance-Late_Victoria_Benedicam_Dominum-2s.mid;4;1 2;4;;;;1s;b;OK;dudas pista1
+Renaissance_Renaissance-Late_Victoria_De_Beata_Maria-2-Gloria-1t.mid;5;3;5;;;;s;b;OK;dudas pista1
+Renaissance_Renaissance-Late_Victoria_Iste_Sanctus-c.mid;4;1 2;4;;;;s;b;OK;
+Renaissance_Renaissance-Late_Victoria_Lauda_Sion_Salvatorem-1c.mid;8;4 5;4 8;;;;2s;2b;OK;
+Renaissance_Renaissance-Late_Victoria_LJ3-Jod_Manum_Suam.mid;6;1 2;6;;;;1s;b;OK;
+Renaissance_Renaissance-Late_Victoria_LJbis3-Jod_Manum_Suam-2c.mid;6;4;6;;;;2s;b;OK;
+Renaissance_Renaissance-Late_Victoria_LJbis8-Aleph_Quomodo_Obscuratum-1s.mid;5;1;5;;;;1s;b;OK;
+Renaissance_Renaissance-Late_Victoria_Magi_Viderunt_Stellam-s.mid;4;1;4;;;;b;b;OK;
+Renaissance_Renaissance-Late_Victoria_Magnificat_Quinti_Toni-pares-b.mid;7;1 2;7;;;;1s;b;OK;Pista 7 melodia tambien
+Renaissance_Renaissance-Late_Victoria_Misa_Quarti_Toni-1-Kyrie-c.mid;4;2;4;;;;s;b;OK;Pista 1 melodia?
+Renaissance_Renaissance-Late_Victoria_O_Sacrum_Convivium-1t.mid;4;1;4;;;;1b;2b;OK;
+Renaissance_Renaissance-Late_Victoria_OD-08-Communio.mid;6; 1 2;6;;;;1s;b;OK;
+Renaissance_Renaissance-Late_Victoria_OD-10-Libera_Me-1s.mid;6;1 2;6;;;;1s;b;OK;
+Renaissance_Renaissance-Late_Victoria_OD-10-Libera_Me-2s.mid;6;1 2;6;;;;1s;b;OK;
+Renaissance_Renaissance-Late_Victoria_Te_Lucis_Ante_Terminum-t.mid;4;3;4;;;;s;b;OK;
+Renaissance_Renaissance-Late_Victoria_Trahe_Me_Post_Te-5-Benedictus-1c.mid;5;2;5;;;;s;b;OK;
+Renaissance_Renaissance-Late_Victoria_Tu_Es_Petrus-b.mid;6;1 2;6;;;;1s;b;OK;dudas melodia pista 6
+Renaissance_Renaissance-Late_Victoria_Urbs_Beata_Jerusalem-t.mid;4;1;4;;;;b;b;OK;
+Romanticism_Post-romanticism_Mahler_1394mahl4mov1.mid;16;3 4 11;15;;;;;;OK;
+Romanticism_Romantic-Nationalism_Mussorgsky_01promen.mid;2;;;1;2;;Treble Clef         ;Bass Clef           ;OK;
+Romanticism_Romantic-Nationalism_Tchaikovsky_TCHPC1B.mid;14;1;6;;;;Piano;Double Bass;xxxxx;muchas melodias?
+Romanticism_Romanticism_Alkan_42alk76.mid;6;3;;;;;;;xxxxx;una sola pista valida
+Romanticism_Romanticism_Alkan_AESOPE.mid;10;;;1;2;;Right Hand;Left Hand;OK;
+Romanticism_Romanticism_Beethoven_3rdSymph_3RD2.mid;18;1 2 9;13;;;;Flutes  ;Contrabass;OK;
+Romanticism_Romanticism_Beethoven_3rdSymph_SYM3-2.mid;18;1 2 9;13;;;;Flutes  ;Contrabass;OK;
+Romanticism_Romanticism_Beethoven_8thSymph_SYM8_F_1.mid;17;5;16;;;;Flute;Contrabass;OK;
+Romanticism_Romanticism_Beethoven_HAMMKLV3.mid;4;;;1;2;;Right Hand;Left Hand;OK;
+Romanticism_Romanticism_Beethoven_minuet_g.mid;7;7;;;;;*Piano;;xxxxx;dos pistas iguales
+Romanticism_Romanticism_Beethoven_op27_2_1.mid;2;;;1;2;;Piano;Piano;OK;
+Romanticism_Romanticism_Beethoven_SONATAC.mid;2;;;1;2;;Right Hand;;OK;
+Romanticism_Romanticism_Beethoven_Sonate15_Opus28_Pastorale.mid;5;1;4 5;;;;No Name;No Name;OK;dudas
+Romanticism_Romanticism_Beethoven_symphony5m3.mid;12;3;12;;;;2 Flﾚten;Kontrabaﾧ;OK;
+Romanticism_Romanticism_Brahms_Brahms_hungarian.mid;6;1;;;;;Brahms J.;;xxxxx;solo una pista
+Romanticism_Romanticism_Brahms_Waltzes_Op.39_No.16_in_C#m.mid;2;;;1;2;;Piano;;OK;
+Romanticism_Romanticism_Burgmuller_2516bl109n15.mid;3;2;1;;;;Chord Piano 1;Acoustic Grand Piano;xxxxx;????
+Romanticism_Romanticism_Carulli_814carandc2.mid;3;1;3;;;;Ferdinando Carulli;;xxxxx;????
+Romanticism_Romanticism_Chopin_chop25e9.mid;3;;;2;3;;Ken's Stuff;ﾩ 1996;OK;
+Romanticism_Romanticism_Chopin_chord42.mid;2;;;1;2;;Track-1;Track-2;OK;
+Romanticism_Romanticism_Chopin_fcnoctn3.mid;3;3;;;;;;;xxxxx;solo una pista valida
+Romanticism_Romanticism_Chopin_SON3_FIN.mid;10;1;;;;;Chopin B minor Sonata;;xxxxx;solo una pista valida
+Romanticism_Romanticism_Liszt_Symphonic_Poem_No7.mid;16;2 12;16;;;;Parkanyi;;OK;
+Romanticism_Romanticism_Mendelssohn_4403precm.mid;5;2;5;;;;Manual;Pedal 16ﾴ;OK;
+Romanticism_Romanticism_Mendelssohn_Eli31.mid;8;1 2;7;;;;;;OK;dudas pista 2
+Romanticism_Romanticism_Panofka_panofka_24_vocalises_ttes_voix_09.mid;3;1;;2;3;;chant;piano 2;OK;
+Romanticism_Romanticism_Schubert_Piano_Sonata_in_A-_Op.posth.143_D.784_1.Allegro_giusto.mid;4;;;1;3;;Grand Piano;Instrument19;OK;
+Romanticism_Romanticism_Schumann_piano_sonata_Gm_Op.22_mov.1.mid;6;1;;;;;R. Schumann;;xxxxx;solo una pista valida
+Romanticism_Romanticism_Sullivan_2580chieftain209.mid;5;1;;2;3;;Pedro;piano;OK;Pists 5 y melodia?
+Romanticism_Romanticism_Wolf_wolf_2_einklang.mid;4;1;4;;;;S;B;OK;
+XXCentury_Impressionism_Debussy_debussy-prelude_1livre_08.mid;7;;;1;3;;Right Treble;Left Bass;OK;
+XXCentury_Neoclassicism_Prokofiev_Prokofiev-MonteguesAndCapulets.mid;16;1 2 6 12;7 11 16;;;;TRUMPET 1;TIMPANI;OK;
+XXCentury_Neoclassicism_Shostakovich_s_waltz4.mid;3;2 3;;;;;Flute;Clarinet;OK;Pista 2?
+XXCentury_XX-Nationalism_Elgar_cello_conc_op85_mov4.mid;18;11;16;;;;Violin I;Tuba;OK;
+XXCentury_XX-Nationalism_Villalobos_suite_floral_no2.mid;16;2;11;;;;Trumpet;Cello;OK;

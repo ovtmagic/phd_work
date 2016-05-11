@@ -1,0 +1,13 @@
+Train Filename;Test Filename;track type;Acc.%;Error 0;Error 1;Error 2;Error 3;TP;FP;FN;TN;Precision;Recall;F-measure
+Total m_class_train.model;class_test.csv;melody;88.72%;299;30;8;0;298;38;0;1;0.89;1.00;0.94
+Total resample_m_class_train.model;class_test.csv;melody;87.54%;295;33;9;0;295;42;0;0;0.88;1.00;0.93
+Total smote_m_class_train.model;class_test.csv;melody;85.76%;289;40;8;0;288;48;0;1;0.86;1.00;0.92
+Total sss_m_class_train.model;class_test.csv;melody;85.16%;287;42;8;0;286;50;0;1;0.85;1.00;0.92
+Total m_jazz_train.model;jazz_test.csv;melody;88.86%;383;23;19;6;364;42;6;19;0.90;0.98;0.94
+Total resample_m_jazz_train.model;jazz_test.csv;melody;86.54%;373;25;28;5;363;53;5;10;0.87;0.99;0.93
+Total smote_m_jazz_train.model;jazz_test.csv;melody;87.24%;376;24;25;6;363;49;6;13;0.88;0.98;0.93
+Total sss_m_jazz_train.model;jazz_test.csv;melody;87.01%;375;23;28;5;365;51;5;10;0.88;0.99;0.93
+Total m_kar_train.model;kar_test.csv;melody;87.28%;391;25;5;27;387;30;27;4;0.93;0.93;0.93
+Total resample_m_kar_train.model;kar_test.csv;melody;90.62%;406;25;5;12;402;30;12;4;0.93;0.97;0.95
+Total smote_m_kar_train.model;kar_test.csv;melody;90.18%;404;29;5;10;400;34;10;4;0.92;0.98;0.95
+Total sss_m_kar_train.model;kar_test.csv;melody;89.06%;399;41;7;1;397;48;1;2;0.89;1.00;0.94

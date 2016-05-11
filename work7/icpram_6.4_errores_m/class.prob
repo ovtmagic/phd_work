@@ -1,0 +1,89 @@
+#################################################################################################################
+ Columnas:
+ <numero pista>	<prediccion>	<prob melodia>	<prob bajo>	<ocupacion>	<etiquetado>	<nombre de pista>
+
+prediccion: tipo de pista que el algoritmo predice que es: +m para melodia, +b para bajo
+
+#################################################################################################################
+
+*  A_bach1.mid
+    1        0.0   0.4  0.32 piano_lh   Piano   (BB)
+    2   +m   1.0   0.0  0.53 melody     Melody  (BB)--BBOK
+
+
+%----------------------------------
+
+*  A_mozrt3.mid
+    1        0.0   0.1  0.69 piano_lh   Piano   (BB)
+    2   +m   1.0   0.1  0.67 melody     Melody  (BB)--BBOK
+
+
+%----------------------------------
+
+*  ADAGOP26.mid
+    1        0.2   0.1  0.95 piano_lh   2.ADAGIO in Gm
+    2   +m   0.9   0.0  0.95 melody     by MAX BRUCH BBOK BBOK
+
+
+%----------------------------------
+
+*  adieu_corage_adieu.mid
+    1   +m   0.9   0.1   0.8 melody     alto BBOK BBOK
+    2   +m   0.7   0.0   0.9 melody     tenor BBOK
+    3   +b   0.0   0.8  0.78 bass       bass
+    4                                   38. Adieu, corage, adieu
+    5                                   William Cornysh
+    6                                   © 1996 by Curtis Clark. Free fo
+    7                                   http://www.csupomona.edu/~jccla
+    8                                   jcclark@csupomona.edu
+
+
+%----------------------------------
+
+*  Air_On_The_G_String.mid
+    1   +m   1.0   0.0  0.88 melody     Melody--BBOK
+    2        0.1   0.0  0.87            Accompaniment
+    3        0.0   0.0  0.86            Accompaniment
+    4   +b   0.0   0.9  0.56 bass       Pizzicato Bass
+
+
+%----------------------------------
+
+*  ALKANCHM.mid
+    1                                   Pasaje MIDI
+    2   +m   1.0   0.0  0.88 melody     RH--BBOK
+    3        0.0   0.1  0.51 piano_lh   LH
+
+
+%----------------------------------
+
+*  ALKN61N3.mid
+    1   +m   1.0   0.0  0.83 melody     M: D:--BBOK
+    2        0.0   0.1  0.76 piano_lh   M: S:
+    3                                   Pedals
+
+
+%----------------------------------
+
+*  ALKN61N4.mid
+    1   +m   1.0   0.0  0.89 melody     M: D:--BBOK
+    2        0.0   0.1  0.86 piano_lh   M: S:
+    3                                   Ped:
+
+
+%----------------------------------
+
+*  allemande_otra.mid
+    1   +m   1.0   0.0   0.9 melody     Recorder BBOK
+    2        0.1   0.0  0.88            Recorder-2
+    3        0.0   0.0  0.89            Recorder-3
+    4   +b   0.0   1.0  0.87 bass       Serpent
+    5                                   Tielman Susato
+    6                                   Allemande
+    7                                   http://www.csupomona.edu/~jccla
+    8                                   jcclark@csupomona.edu
+    9                                   © 1999 by Curtis Clark. Free fo
+
+
+%----------------------------------
+

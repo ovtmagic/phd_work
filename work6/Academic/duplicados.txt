@@ -1,0 +1,84 @@
+427a34f13335ba01376e17f65a6b0f33 class_2000/Academic_Romanticism_Post-romanticism_Puccini_Tosca_Di_G.Puccini_E_Lucean_Le_Stelle.mid
+427a34f13335ba01376e17f65a6b0f33 class_2000/Academic_Romanticism_Post-romanticism_Puccini_Tosca_E_Lucean_Le_Stelle.mid
+%---------------------
+f28c17f81726e218949e3f8ec599184e clasica/x.cgi_mid_mozart_wamk497.mid
+f28c17f81726e218949e3f8ec599184e class_2000/Academic_Classicism_Classicism_Mozart_x.cgi-mid-mozart-wamk497.mid
+%---------------------
+c10348da658c56db2bb35924b134be14 class_2000/Academic_Renaissance_Renaissance-Late_Bassano_bassano_fanfare5.mid
+c10348da658c56db2bb35924b134be14 class_2000/Academic_Renaissance_Renaissance-Late_Bassano_fantasia5.mid
+%---------------------
+d566cdf670661473fee837dc46ba5d1a clasica/1886sonatin36n3reg.mid
+d566cdf670661473fee837dc46ba5d1a class_2000/Academic_Classicism_Classicism_Clementi_1886sonatin36n3reg.mid
+%---------------------
+c795b8f17b5bae1eca965fc806747aa3 clasica/982czerny11reg.mid
+c795b8f17b5bae1eca965fc806747aa3 class_2000/Academic_Classicism_Classicism_Czerny_982czerny11reg.mid
+%---------------------
+d9343d77b25839ca3714bb74a0035c78 class_2000/Academic_Romanticism_Romanticism_Chopin_Les_Sylphides_Ballet_Nocturne_in_Ab_Op.32_No.2.mid
+d9343d77b25839ca3714bb74a0035c78 class_2000/Academic_Romanticism_Romanticism_Chopin_Nocturne_No10_In_Ab_Op.32_Nocturne_No2.mid
+%---------------------
+b2f3749c7b87f94cc5fb360d0f3781c3 class_2000/Academic_Classicism_Classicism_Haydn_FANTSY_C.mid
+b2f3749c7b87f94cc5fb360d0f3781c3 class_2000/Academic_Classicism_Classicism_Mozart_269Fantsy_c.mid
+%---------------------
+95644a6c7e5ea27212dd67d65c5b9a37 class_2000/Academic_XXCentury_Impressionism_Debussy_4_debfetes.mid
+95644a6c7e5ea27212dd67d65c5b9a37 class_2000/Academic_XXCentury_Impressionism_Debussy_debussy-noct_fetes.mid
+%---------------------
+8ea0f2cdb8dcd540291728a1445dd862 class_2000/Academic_Romanticism_Romanticism_Mendelssohn_me19-1.mid
+8ea0f2cdb8dcd540291728a1445dd862 class_2000/Academic_Romanticism_Romanticism_Mendelssohn_SNG_WOUT.mid
+%---------------------
+c0433fc4c25012895ac752893bae0c10 class_2000/Academic_Romanticism_Romantic-Nationalism_Tchaikovsky_TheBeautifulBlueDanube.mid
+c0433fc4c25012895ac752893bae0c10 class_2000/Academic_Romanticism_Romanticism_Strauss_Johann_TheBeautifulBlueDanube.mid
+%---------------------
+bbbe040a244b8b2d937bac95f1c7554b class_2000/Academic_Romanticism_Post-romanticism_Puccini_La_Boheme_Di_G._Puccini_Si_Mi_Chiamano_Mim8.mid
+bbbe040a244b8b2d937bac95f1c7554b class_2000/Academic_Romanticism_Post-romanticism_Puccini_La_Boheme_Di_G._Puccini_Si_Mi_Chiamano_Mimì.mid
+bbbe040a244b8b2d937bac95f1c7554b class_2000/Academic_Romanticism_Post-romanticism_Puccini_La_Boheme_Si_Mi_Chiamano_Mim8.mid
+bbbe040a244b8b2d937bac95f1c7554b class_2000/Academic_Romanticism_Post-romanticism_Puccini_La_Boheme_Si_Mi_Chiamano_Mimì.mid
+%---------------------
+d3c6736a96fe8911b8e24a378eead911 clasica/1727clementi.mid
+d3c6736a96fe8911b8e24a378eead911 class_2000/Academic_Classicism_Classicism_Clementi_1727clementi.mid
+%---------------------
+9c0d75c71223dda50e0d4050e18a5e72 clasica/1009czerny14reg.mid
+9c0d75c71223dda50e0d4050e18a5e72 class_2000/Academic_Classicism_Classicism_Czerny_1009czerny14reg.mid
+%---------------------
+6b639777579d07e8c45bd187bd040448 class_2000/Academic_XXCentury_Neoclassicism_Stravinsky_stravin2.mid
+6b639777579d07e8c45bd187bd040448 class_2000/Academic_XXCentury_Neoclassicism_Stravinsky_Stravinsky-SymphonyOfPsalmsMovement2.mid
+%---------------------
+a8cd282d03525148996b6c6e5d022a6d class_2000/Academic_Baroque_Baroque-Late_Haendel_2120n7wrdsp14.mid
+a8cd282d03525148996b6c6e5d022a6d class_2000/Academic_Classicism_Classicism_Haydn_2120n7wrdsp14.mid
+%---------------------
+b585982e132c0f25364ada5fe712d975 clasica/831czerny2eg.mid
+b585982e132c0f25364ada5fe712d975 class_2000/Academic_Classicism_Classicism_Czerny_831czerny2eg.mid
+%---------------------
+2858c4c9c2f489d1f4a13382793b2d08 class_2000/Academic_Baroque_Baroque-Late_Albinoni_ALBINO.mid
+2858c4c9c2f489d1f4a13382793b2d08 class_2000/Academic_Romanticism_Romantic-Nationalism_Borodin_1433bosq22.mid
+%---------------------
+be9d9af552b37581b656b12452a247ba class_2000/Academic_Romanticism_Romanticism_Schumann_ROMANC_2.mid
+be9d9af552b37581b656b12452a247ba class_2000/Academic_Romanticism_Romanticism_Schumann_Romance_Fs_Op.28_No.2.mid
+%---------------------
+334c59d600d28acf822bbe5831b0bd20 class_2000/Academic_Romanticism_Romanticism_Mendelssohn_mewed.mid
+334c59d600d28acf822bbe5831b0bd20 class_2000/Academic_Romanticism_Romanticism_Mendelssohn_weddingmarch.mid
+%---------------------
+1d530cebbe4c8e4bb3a7214671fd947c clasica/1095czerny16reg.mid
+1d530cebbe4c8e4bb3a7214671fd947c class_2000/Academic_Classicism_Classicism_Czerny_1095czerny16reg.mid
+%---------------------
+fd835d9dc6e65d81020e48ef90e34b61 clasica/1409qmenvo.mid
+fd835d9dc6e65d81020e48ef90e34b61 class_2000/Academic_Romanticism_Post-romanticism_Puccini_1409qmenvo.mid
+%---------------------
+552ecdd4e5faaa0ede08c79a4d2b10a4 clasica/x.cgi_mid_mozart_wamk358.mid
+552ecdd4e5faaa0ede08c79a4d2b10a4 class_2000/Academic_Classicism_Classicism_Mozart_x.cgi-mid-mozart-wamk358.mid
+%---------------------
+f3f5c13fa66791e5034496f805572038 class_2000/Academic_Baroque_Baroque-Late_Haendel_1641clockno4.mid
+f3f5c13fa66791e5034496f805572038 class_2000/Academic_Classicism_Classicism_Haydn_1641clockno4.mid
+%---------------------
+b1c13aebf5686bfca5c40799ecf88ab1 class_2000/Academic_Romanticism_Romanticism_Schumann_Kinderszenen_Op15_3_Hasche-Mann_2.mid
+b1c13aebf5686bfca5c40799ecf88ab1 class_2000/Academic_Romanticism_Romanticism_Schumann_sr15-3.mid
+%---------------------
+c6114cda085b7cc9995b66f86d1deb27 clasica/clementi_sonatina_gradus_16.mid
+c6114cda085b7cc9995b66f86d1deb27 class_2000/Academic_Classicism_Classicism_Clementi_clementi-sonatina_gradus_16.mid
+%---------------------
+
+
+#Clustering
+
+
+#Possible repeated groups of file (one group each line)
+1008czerny13reg.mid,chopin16.mid

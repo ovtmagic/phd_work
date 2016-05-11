@@ -1,0 +1,182 @@
+#################################################################################################################
+ Columnas:
+ <numero pista>	<prediccion>	<prob melodia>	<prob bajo>	<ocupacion>	<etiquetado>	<nombre de pista>
+
+prediccion: tipo de pista que el algoritmo predice que es: +m para melodia, +b para bajo
+
+#################################################################################################################
+
+*  20abril.kar
+    1                                   Soft Karaoke
+    2                                   Words
+    3        0.0   0.0  0.84            Piano
+    4   +b   0.0   1.0  0.81 bass       Bass
+    5        0.0   0.0  0.28            MutedGuit
+    6        0.2   0.0  0.16            OverdrGui
+    7        0.0   0.0  0.47            Violin
+    8        0.1   0.0  0.55            Flauta
+    9                                   GsDrums
+   10                                   Brush
+   11   +m   0.8   0.0  0.35 melody     Melodia--BBOK
+   12                                   Claqueta
+   13                                   SysEx SC5
+   14                                   MSReset
+   15                                   (c) 1993
+   16                                   Musicorreo
+
+
+%----------------------------------
+
+*  55301_Gitano_Abigail4.kar
+    1                                   Soft Karaoke
+    2                                   Words
+    3        0.0   0.0  0.28            www.kantamania.com
+    4   +b   0.1   0.7  0.73 bass       Copyright Kantamania
+    5        0.1   0.0   0.1            
+    6   +m   0.7   0.0  0.76 melody     Melodia--BBOK
+    7        0.0   0.0  0.95            
+    8        0.1   0.0  0.15            
+    9        0.0   0.0  0.74            
+   10        0.0   0.0  0.61            
+   11        0.0   0.1   0.8            
+   12                                   
+   13        0.0   0.0  0.46            
+   14                                   www.kantamania.com
+
+
+%----------------------------------
+
+*  56507_CRISTIAN_AZUL.kar
+    1                                   Soft Karaoke
+    2                                   Words
+    3                                   drummix
+    4   +b   0.0   0.9  0.78 bass        Fretless Bs.
+    5        0.0   0.1  0.78             Distortion Gt
+    6        0.0   0.0  0.34             Overdrive Gt.
+    7   +m   0.7   0.0  0.62 melody     Vocal--BBOK
+    8        0.0   0.0  0.24             Choir Aahs 
+    9        0.0   0.0  0.63             Bright Piano 
+   10        0.0   0.0  0.54             Muted Gt. 
+   11        0.0   0.0  0.16             Jazz Gt. 
+   12        0.0   0.0  0.99             Syn. Strings1
+   13        0.0   0.0  0.69             RockOrgan 
+   14        0.0   0.0  0.02             Polysynth 
+   15        0.0   0.0   0.8             Steelstr. Gt.
+   16                                   sysex
+   17                                   
+
+
+%----------------------------------
+
+*  56509_DUO_DINAMICO_SI_NO_FUERA_POR_TI.kar
+    1                                   Soft Karaoke
+    2                                   Words
+    3                                   drummix
+    4   +b   0.1   0.9  0.62 bass        Fretless Bs. 
+    5        0.0   0.0  0.53             Nylonstr. Gt.
+    6        0.1   0.0  0.26             Clavinet 
+    7   +m   0.8   0.0  0.46 melody     Vocal--BBOK
+    8        0.3   0.0  0.41             Choir Aahs 
+    9        0.0   0.0  0.53             Clean Gt. 
+   10        0.0   0.0   1.0             Warm Pad 
+   11        0.2   0.0  0.12             Polysynth 
+   12        0.0   0.0  0.59             Overdrive Gt.
+   13        0.0   0.0  0.94             Steelstr. Gt.
+   14                                   sysex
+   15                                   
+
+
+%----------------------------------
+
+*  56510_ANA_BELEN_Y_VICTOR_la_muralla.kar
+    1                                   Soft Karaoke
+    2                                   Words
+    3                                   KANTAMANIA
+    4   +b   0.0   0.8  0.69 bass       FRETLESS
+    5        0.1   0.0   0.9            LEADGTR 
+    6   +m   0.7   0.1  0.57 melody     Vocal--BBOK
+    7        0.0   0.0  0.23            CHOIR   
+    8        0.0   0.0  0.49            PIANO   
+    9        0.1   0.1  0.15            TRUMPET 
+   10        0.0   0.1  0.41            ALTOSAX 
+   11        0.0   0.0  0.45            STRING  
+   12        0.0   0.0  0.22            MUTEDGTR
+   13        0.0   0.0  0.48            CLEANGTR
+   14        0.0   0.0  0.51            EPIANO  
+   15        0.0   0.0  0.91            ACUSGTR2
+   16                                   sysex
+   17                                   
+
+
+%----------------------------------
+
+*  56513_LA_PARED_SOTOKAR.kar
+    1                                   Soft Karaoke
+    2                                   Words
+    3                                   drummix
+    4   +b   0.0   0.8   0.8 bass        Fretless Bs. 
+    5        0.0   0.0   0.6             Grand Piano 
+    6        0.0   0.0  0.34             Nylonstr. Gt.
+    7   +m   0.6   0.0  0.57 melody     Vocal--BBOK
+    8        0.0   0.0  0.58             Choir Aahs 
+    9        0.0   0.0  0.36             Nylonstr. Gt.
+   10        0.0   0.0  0.71             Nylonstr. Gt.
+   11                                   sysex
+   12                                   
+
+
+%----------------------------------
+
+*  AGUSTIN_LARA_MARIA_BONITA.kar
+    1                                   Soft karaoke
+    2                                   Words
+    3        0.0   0.0  0.52            MIDI
+    4   +b   0.0   1.0  0.91 bass       MIDI
+    5   +m   0.7   0.0  0.78 melody     Melody--BBOK
+    6        0.0   0.0  0.71            MIDI
+    7        0.2   0.0  0.25            MIDI
+    8        0.2   0.1  0.92            MIDI
+    9        0.0   0.1  0.43            MIDI
+   10        0.0   0.0  0.68            MIDI
+   11                                   MIDI
+   12        0.1   0.0   0.4            MIDI
+
+
+%----------------------------------
+
+*  ANDREA_BOCELLI_Por_ti_volare.kar
+    1                                   Soft karaoke
+    2                                   
+    3   +b   0.0   0.7  0.66 bass       Bass    
+    4        0.0   0.0  0.91            Slow str
+    5   +m   0.7   0.0  0.79 melody     Melody--BBOK
+    6        0.0   0.0  0.41            Halo pad
+    7        0.0   0.0  0.28            Fr.horns
+    8        0.0   0.0  0.48            Strings 
+    9        0.0   0.0  0.02            Pizzicat
+   10        0.3   0.0  0.59            Choir ah
+   11                                   Drums   
+   12        0.1   0.0  0.26            Bassoon 
+   13        0.0   0.0  0.99            Flute   
+   14                                            
+
+
+%----------------------------------
+
+*  ANTONIO_FLORES_Alba.kar
+    1                                   Soft Karaoke
+    2                                   Words
+    3                                   alba
+    4   +b   0.0   1.0   0.7 bass       FRETLESS
+    5        0.0   0.0  0.24            AGTR 1  
+    6   +m   1.0   0.0  0.43 melody     Vocal--BBOK
+    7        0.0   0.0  0.71            AGTR 2  
+    8        0.0   0.0  0.12            AGTR 3  
+    9        0.0   0.0  0.17            SAX     
+   10        0.0   0.0  0.17            TRUMPET 
+   11        0.0   0.0  0.13            BRASS   
+   12                                   CHOIR   
+
+
+%----------------------------------
+

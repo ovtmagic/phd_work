@@ -1,0 +1,15 @@
+
+Construcción de los ficheros CSV para los conjuntos de validacion.
+
+Programa: csv.py
+
+
+
+Errores:
+smf2txt Berlioz_Hector_Absence.mid|grep track
+Bad Message Buffer...
+ length=0 buffer=144
+
+smf2txt -p 1 Vanessa_Paradis_Marylin_et_John.kar 
+Violación de segmento
+

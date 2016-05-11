@@ -1,0 +1,3 @@
+multimodal_loo.py melody bass 0.25 ../../../datasets/class/class_train.csv ../../../datasets/class/class
+multimodal_loo.py melody bass 0.25 ../../../datasets/jazz/jazz_train.csv ../../../datasets/jazz/jazz
+multimodal_loo.py melody bass 0.25 ../../../datasets/kar/kar_train.csv ../../../datasets/kar/kar

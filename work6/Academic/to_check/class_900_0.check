@@ -1,0 +1,282 @@
+#################################################################################################################
+ Columnas:
+ <numero pista>	<prediccion>	<prob melodia>	<prob bajo>	<ocupacion>	<etiquetado>	<nombre de pista>
+
+prediccion: tipo de pista que el algoritmo predice que es: +m para melodia, +b para bajo
+
+#################################################################################################################
+
+* Baroque_Baroque-Late_Bach_BACH17.MID_dist3.mid
+    1                                   
+    2                                   
+    3                                   
+    4                                   
+    5                                   
+    6        0.3   0.0  0.41            
+    7                                   
+
+
+%----------------------------------
+
+* Baroque_Baroque-Late_Bach_bjs0978c.mid
+    1   +m   0.6   0.0  0.93 melody     Concerto No.7 in F, BWV 978
+    2        0.1   0.4  0.92 bass       3rd movement - allegro
+    3                                   by JS Bach after Vivaldi's op.3 #3
+    4                                   MIDI by Marty Weimer 10/20/96
+    5                                   weimermt@libby.org Eureka, MT  USA
+    6                                   MIDIscan file - no music added
+
+
+%----------------------------------
+
+* Baroque_Baroque-Late_Bach_jsbbrc53.mid
+    1                                   3rd Movement - Allegro
+    2                                   Sequenced by D. L. Viens 28 Feb 1999
+    3                                   dlviens@empire.net
+    4                                   
+    5   +m   1.0   0.0  0.75 melody     Flute
+    6   +m   0.8   0.0  0.78 melody     Solo Violin 
+    7   +m   1.0   0.0  0.44            Violin
+    8   +m   0.6   0.0  0.39            Viola
+    9        0.0   0.0  0.35            Cello
+   10   +b   0.0   0.9  0.28 bass       Contrabass
+   11        0.2   0.0  0.75            Harpsichord 
+   12                                   dlviens@empire.net
+
+
+%----------------------------------
+
+* Baroque_Baroque-Late_Haendel_Mes53b.mid
+    1   +m   0.9   0.0  0.71            
+    2   +m   0.5   0.0  0.81            
+    3        0.3   0.0  0.65            
+    4        0.2   0.4  0.68            
+    5   +m   0.9   0.0  0.87 melody     
+    6   +m   0.7   0.0   0.7            
+    7   +m   0.7   0.0  0.46            
+    8        0.1   0.0  0.78            
+    9   +b   0.0   0.9  0.67 bass       
+   10                                   <No Title>
+
+
+%----------------------------------
+
+* Classicism_Classicism_Haydn_haydn_-9.mid
+    1   +m   0.9   0.0  0.77 melody     
+    2   +m   1.0   0.0   0.3 melody     
+    3   +b   0.1   0.5  0.78            
+    4        0.1   0.3  0.26            
+    5                                   Piano Solo   <composer>  
+
+
+%----------------------------------
+
+* Classicism_Classicism_Paradis_paradis-sicilienne.mid
+    1        0.4   0.0  0.97 melody     Maria-Theresia von Paradis
+    2        0.0   0.0  0.97            Sicilienne
+    3   +b   0.0   0.7  0.82 bass       Arranged by Samuel Dushkin
+    4                                   Entered by John Cowles
+    5                                   cowles@hydra.convex.com
+
+
+%----------------------------------
+
+* Medieval_ArsNova_Machau_machaut-b17.mid
+    1                                                                       
+    2   +m   0.8   0.0  0.84 melody     Sanz cuer m'en vois/Amis, dolens    
+    3   +b   0.3   0.6  0.84                /Dame, par vous                 
+    4   +b   0.3   0.6  0.84 bass       (Guillaume de Machaut)              
+
+
+%----------------------------------
+
+* Romanticism_Post-romanticism_Dupre_1510n15pn04.mid
+    1                                   pan20
+    2   +m   0.9   0.0   0.9 melody     pan107
+    3        0.3   0.0  0.69            pan30
+    4        0.1   0.0  0.64            pan97
+    5   +b   0.1   1.0  0.64 bass       pan40
+    6        0.3   0.0  0.69            pan87
+    7   +m   0.9   0.0   0.9 melody     pan50
+    8                                   pan77
+
+
+%----------------------------------
+
+* Romanticism_Romantic-Nationalism_Rimsky_Korsakov_gp_tumb.mid
+    1   +m   0.6   0.0  0.18 melody     Dance of the tumblers
+    2   +m   0.6   0.0  0.21 melody     from the opera :
+    3   +m   0.6   0.0  0.34 melody     The Snow Maiden
+    4   +m   0.8   0.0  0.43 melody     by Rimski-Korsakov
+    5        0.0   0.4  0.36            arr : Pollen (2001)
+    6        0.1   0.0  0.48            
+    7        0.1   0.0  0.23            
+    8        0.2   0.0  0.16            
+    9        0.0   0.1  0.18            
+   10   +b   0.0   0.5  0.21            
+   11                                   
+   12        0.0   0.2  0.23            
+   13   +m   0.8   0.0  0.54            
+   14   +m   0.7   0.0  0.29            
+   15        0.3   0.0  0.53            
+   16        0.0   0.0  0.53            
+   17   +b   0.0   1.0  0.34 bass       
+
+
+%----------------------------------
+
+* Romanticism_Romantic-Nationalism_Tchaikovsky_tcsl20.mid
+    1   +m   0.7   0.0  0.64            Piccolo
+    2   +m   0.5   0.0  0.65 melody     2 Flauti
+    3        0.4   0.0  0.36            2 Oboi
+    4        0.3   0.0  0.73 melody     2 Clarinetti in A
+    5        0.0   0.0  0.48            2 Fagotti
+    6        0.0   0.0  0.37            Corni in F I II
+    7        0.1   0.0  0.23            Corni in F III IV
+    8        0.3   0.0  0.43            2 Cornets à piston in A
+    9        0.3   0.0  0.19            2 Trombe in F
+   10        0.4   0.0  0.27            2 Tromboni
+   11        0.1   0.0  0.43            Trombone 3
+   12        0.1   0.1   0.4 bass       Tuba
+   13        0.1   0.0  0.39            Timpani
+   14                                   Triangolo
+   15                                   Piatti
+   16   +b   0.0   0.7  0.42            Gran Cassa
+   17   +m   0.6   0.0  0.86            Violine I
+   18   +m   0.6   0.0  0.86            Violine II
+   19        0.4   0.0  0.66            Viola
+   20        0.0   0.0  0.62 bass       Violoncelle
+   21   +b   0.0   0.5  0.49 bass       Contrabasse
+   22                                   Sequ. by J.F.Lucarelli
+   23                                   j-f.lucarelli@infonie.be  --  http://perso.infonie.fr/espace-midi
+   24                                   Optimized for AWE 64 + 8 MB
+   25                                   © Juli 1999
+
+
+%----------------------------------
+
+* Romanticism_Romanticism_Brahms_BRAHMS_R1.mid
+    1   +m   0.6   0.0  0.12            Flute               
+    2        0.3   0.0  0.11            Viola               
+    3        0.1   0.0  0.04            Cello               
+    4   +b   0.1   0.8  0.04            Bass                
+    5        0.2   0.0  0.26            Bassoon             
+    6        0.0   0.0  0.76            Piano               
+    7   +m   0.5   0.0  0.74            Piano               
+    8   +m   0.9   0.0  0.24            Violin              
+    9   +m   0.6   0.0  0.12            Piccolo
+   10        0.3   0.0  0.11            Strings             
+   11        0.1   0.0  0.04            Strings             
+   12        0.2   0.0  0.26            Piccolo
+   13        0.0   0.0  0.76            Piano               
+   14   +m   0.5   0.0  0.74            Piano               
+   15   +m   0.9   0.0  0.23            Strings             
+   16                                   Creative Labs Inc.  
+   17                                   Recorded by Dr.Chew 
+   18                                   Piano Concerto no1  
+   19                                   D minor Rondo       
+   20                                   by Brahms           
+
+
+%----------------------------------
+
+* XXCentury_Misc_Balasanyan_balasanyan-round_dance.mid
+    1   +m   0.6   0.0  0.36 melody     Piccolo
+    2   +m   0.5   0.0  0.38 melody     Flutes
+    3        0.3   0.0  0.47 melody     Oboes
+    4   +m   0.7   0.0   0.4            English Horn
+    5        0.1   0.0  0.53            Clarinets
+    6        0.0   0.0  0.49            Bassoons
+    7        0.2   0.0  0.44            Horns
+    8        0.4   0.0  0.14            Mute Trumpets
+    9        0.0   0.0  0.41            Trumpets
+   10        0.0   0.0  0.53            Trombones
+   11   +b   0.0   0.9  0.49            Korg Tuba
+   12                                   Triangle
+   13                                   Tambourine
+   14                                   Timplipito
+   15                                   Snare Drum
+   16                                   Cymbals
+   17                                   Bass Drum
+   18        0.0   0.0  0.35            Timpani
+   19        0.4   0.0  0.94            Korg Glockenspiel
+   20        0.3   0.0  0.89            Korg Xylophone
+   21        0.0   0.0   0.3            Korg Harp
+   22        0.1   0.0   0.2            Pizz Violins
+   23        0.2   0.0  0.42            Violins
+   24        0.2   0.0  0.22            Pizz Violas
+   25   +m   0.8   0.0  0.47            Violas
+   26        0.0   0.0  0.54            Pizz Cellos
+   27        0.0   0.1  0.46 bass       Cellos
+   28   +b   0.0   0.6   0.4            Pizz Basses
+   29   +b   0.0   1.0  0.46 bass       Basses
+
+
+%----------------------------------
+
+* XXCentury_XX-Nationalism_Holst_SECOND-4.mid
+    1   +m   0.7   0.0   0.5 melody     Piccolo
+    2   +m   1.0   0.0  0.48 melody     C Flutes
+    3   +m   1.0   0.0  0.46 melody     Oboe
+    4   +m   1.0   0.0  0.49 melody     Eb Clarinet
+    5   +m   0.8   0.0  0.69 melody     Solo Bb Clarinet
+    6   +m   0.8   0.0  0.42            2nd Bb Clarinet
+    7        0.1   0.0  0.08            3rd Bb Clarinet
+    8        0.1   0.1  0.72            Bb Bass Clarinet
+    9                                   w/ CB clar. end
+   10        0.2   0.1  0.75            Bassoons
+   11        0.3   0.0  0.74            Alto Sax
+   12        0.1   0.0  0.36            Tenor Sax
+   13        0.3   0.2  0.76            Bari Sax
+   14        0.0   0.3  0.45            Bass Sax - op.
+   15   +m   0.6   0.0  0.63            Solo & 1st Cornet
+   16        0.4   0.0  0.36            2nd Bb Cornet
+   17        0.4   0.0   0.8            Bb Trumpets
+   18   +m   0.5   0.0  0.68            1st & 2nd Horns
+   19        0.2   0.1  0.92            3rd & 4th Horns
+   20        0.3   0.0  0.45            1st Trombone
+   21        0.2   0.0  0.31            2nd Trombone
+   22        0.2   0.1  0.47            Bass Trombone
+   23        0.1   0.0  0.66            Euphonium
+   24   +b   0.2   0.7  0.78 bass       Basses
+   25                                   Percussion
+   26   +b   0.1   0.8  0.24            Orchestral Bass Drum
+   27                                   Second Suite in F
+   28                                   4. Fantasia on the Dargason
+   29                                   Gustav Holst
+   30                                   GM by Jeff Adams
+   31                                   jeffadams2@juno.com
+
+
+%----------------------------------
+
+* XXCentury_XX-Nationalism_Orff_orff_carmina_03.mid
+    1        0.3   0.0  0.61 melody     S
+    2   +m   0.6   0.0  0.41 melody     A
+    3        0.1   0.1  0.61 melody     T
+    4        0.0   0.0  0.41 melody     B
+    5                                   Percussion
+    6        0.3   0.0  0.21            Piano
+    7   +b   0.0   0.6  0.18            Piano-2
+    8   +m   0.6   0.0  0.47            Glockenspiel/Gong
+    9        0.2   0.0  0.47            Glockenspiel/Gong-2
+   10        0.0   0.0  0.06            Timpani
+   11                                   Tempo Track
+
+
+%----------------------------------
+
+* XXCentury_XX-Nationalism_Villalobos_suite_infantil_no2_mov3.mid
+    1   +m   0.9   0.1  0.95            Piano Aux R.H.
+    2   +m   0.6   0.0  0.94 melody     Piano R.H.
+    3        0.0   0.4  0.94 piano_lh   Piano L.H.
+    4                                   Piano Aux L.H.
+    5                                   Segunda Suite Infantil
+    6                                   No. 3 - Allegretto
+    7                                   by Heitor Villa-Lobos
+    8                                   Sequence Copyright 1997 Brian M. Ames
+    9                                   bmames@apk.net
+
+
+%----------------------------------
+

@@ -1,0 +1,5 @@
+Total:Filename,track type,Acc.%,Error 0,Error 1,Error 2,Error 3,TP,FP,FN,TN,Precision,Recall,F-measure
+ ./get_prob_and_tags.py <bass|melody> <threshold> <csv_file> <path_to_files>
+        <bass|melody>
+        <csv_file>: fichero con las etiquetas
+        <path_to_files>: directorio con los ficheros MIDI

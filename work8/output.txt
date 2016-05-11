@@ -1,0 +1,78 @@
+Style ( bass ):  class
+-,Num tracks,4591
+-,Num bass tracks,646
+-,Num no bass tracks,3945
+-,Diferent all tags,1283
+-,Diferent bass tags,188
+-,Files with 0 bass tracks,331
+-,Files with 1 bass tracks,451
+-,Files with more than 1 bass tracks,92
+-,Total files,874
+
+
+
+Style ( bass ):  jazz
+-,Num tracks,4178
+-,Num bass tracks,885
+-,Num no bass tracks,3293
+-,Diferent all tags,780
+-,Diferent bass tags,111
+-,Files with 0 bass tracks,5
+-,Files with 1 bass tracks,832
+-,Files with more than 1 bass tracks,25
+-,Total files,862
+
+
+
+Style ( bass ):  kar
+-,Num tracks,7662
+-,Num bass tracks,916
+-,Num no bass tracks,6746
+-,Diferent all tags,2440
+-,Diferent bass tags,173
+-,Files with 0 bass tracks,33
+-,Files with 1 bass tracks,826
+-,Files with more than 1 bass tracks,44
+-,Total files,903
+
+
+
+Style ( melody ):  class
+-,Num tracks,4591
+-,Num melody tracks,1118
+-,Num no melody tracks,3473
+-,Diferent all tags,1283
+-,Diferent melody tags,382
+-,Files with 0 melody tracks,170
+-,Files with 1 melody tracks,446
+-,Files with more than 1 melody tracks,258
+-,Total files,874
+
+
+
+Style ( melody ):  jazz
+-,Num tracks,4178
+-,Num melody tracks,1131
+-,Num no melody tracks,3047
+-,Diferent all tags,780
+-,Diferent melody tags,298
+-,Files with 0 melody tracks,14
+-,Files with 1 melody tracks,698
+-,Files with more than 1 melody tracks,150
+-,Total files,862
+
+
+
+Style ( melody ):  kar
+-,Num tracks,7662
+-,Num melody tracks,902
+-,Num no melody tracks,6760
+-,Diferent all tags,2440
+-,Diferent melody tags,56
+-,Files with 0 melody tracks,47
+-,Files with 1 melody tracks,815
+-,Files with more than 1 melody tracks,41
+-,Total files,903
+
+
+

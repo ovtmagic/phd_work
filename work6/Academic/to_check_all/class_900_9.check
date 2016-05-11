@@ -1,0 +1,760 @@
+#################################################################################################################
+ Columnas:
+ <numero pista>	<prediccion>	<prob melodia>	<prob bajo>	<ocupacion>	<etiquetado>	<nombre de pista>
+
+prediccion: tipo de pista que el algoritmo predice que es: +m para melodia, +b para bajo
+
+#################################################################################################################
+
+*  Baroque_Baroque-Late_Bach_1696tpinven5.mid
+    1   +m   0.6   0.0  0.91 piano_rh   Track 2
+    2   +m   0.6   0.0  0.96            Track 3
+    3   +b   0.0   0.6  0.94 piano_lh   Track 4
+
+
+%----------------------------------
+
+*  Baroque_Baroque-Late_Bach_2part09.mid
+    1                                   (C) & (P) 1992
+    2                                   Romeo Music Intl.
+    3   +m   1.0   0.0   1.0 piano_rh   Right Hand
+    4        0.1   0.3   1.0 piano_lh   Left Hand
+
+
+%----------------------------------
+
+*  Baroque_Baroque-Late_Bach_bach_10p.mid
+    1   +m   0.6   0.0  0.77 melody     top line            
+    2   +b   0.0   0.7  0.75 bass       bass line           
+    3                                   encoded by:         
+    4                                   Stew Lindenberger   
+
+
+%----------------------------------
+
+*  Baroque_Baroque-Late_Bach_branden4.mid
+    1   +m   0.6   0.0  0.76 melody     
+    2   +m   0.8   0.0  0.92 melody     
+    3        0.0   0.0  0.66            
+    4   +b   0.0   0.7  0.76 bass       
+
+
+%----------------------------------
+
+*  Baroque_Baroque-Late_Bach_GOLDBERG.mid
+    1   +m   0.8   0.0  0.53 piano_rh   PIANO               
+    2        0.1   0.2  0.48 piano_lh   PIANO               
+    3   +m   0.8   0.0  0.53 piano_rh   PIANO               
+    4        0.1   0.2  0.48 piano_lh   PIANO               
+    5                                   Creative            
+    6                                   Labs Inc            
+    7                                   Recorded by Dr.Chew 
+    8                                   Bach                
+    9                                   Goldberg Variation  
+
+
+%----------------------------------
+
+*  Baroque_Baroque-Late_Haendel_handms44.mid
+    1                                   REV. 19:6, 11:15, 19:16      G. F. HANDEL
+    2   +m   0.5   0.0  0.75 melody     Soprano
+    3        0.3   0.0  0.75            Alto
+    4   +m   0.7   0.0  0.77 melody     Tenor
+    5        0.1   0.2  0.75 bass       Bass
+    6   +m   0.6   0.1   0.9 melody     violin1
+    7   +m   0.5   0.0  0.71            violin4
+    8   +m   0.5   0.0  0.54            cello1
+    9   +b   0.0   0.5  0.76 bass       cello2
+   10   +b   0.0   0.5  0.76 bass       contrabass
+
+
+%----------------------------------
+
+*  Baroque_Baroque-Late_Haendel_Mes05.mid
+    1        0.4   0.0  0.76 melody     
+    2   +m   0.8   0.0  0.56            
+    3   +m   0.8   0.0   0.5            
+    4   +m   0.7   0.0  0.56            
+    5        0.3   0.0  0.55            
+    6   +b   0.0   1.0  0.29 bass       
+    7                                   <No Title>
+
+
+%----------------------------------
+
+*  Baroque_Baroque-Late_Marcello_B.Marcello_Corale.mid
+    1   +m   0.8   0.0  0.61 melody     
+    2   +m   0.5   0.0  0.56 melody     
+    3        0.3   0.0  0.63 melody     
+    4        0.0   0.0  0.53            
+    5   +m   0.9   0.0  0.48 melody     
+    6   +m   0.6   0.0  0.44 melody     
+    7        0.2   0.0  0.46            
+    8        0.1   0.0  0.41            
+    9        0.0   0.4  0.17 bass       
+   10        0.3   0.0  0.71 piano_rh   
+   11        0.0   0.0  0.71 piano_lh   
+
+
+%----------------------------------
+
+*  Baroque_Baroque-Middle_Pezel_3abends_m.mid
+    1        0.4   0.0  0.74 melody     {\twelvebf{\rm{Tenore}}}
+    2        0.2   0.0  0.73 melody     {\twelvebf{\rm{Basso}}}
+    3   +b   0.0   0.8  0.93 bass       {\twelvebf{\rm\vn}}
+    4   +b   0.0   0.8  0.93 bass       {\twelvebf{\rm{Organo}}}
+
+
+%----------------------------------
+
+*  Baroque_Baroque-Middle_Uccellini_08op8sy_m.mid
+    1   +m   0.7   0.0  0.93 melody     Violino Primo
+    2   +m   0.5   0.0  0.87            Violino Secondo ad Lib.
+    3   +m   0.8   0.0  0.94            Violino Terzo ad Lib.
+    4   +b   0.0   0.9  0.96 bass       B. Continuo e Violone
+
+
+%----------------------------------
+
+*  Classicism_Classicism_Haydn_sonata_piano_no53_en_E_joseph_haydn.mid
+    1   +m   1.0   0.0  0.72 piano_rh   Piano Sonata No.34 in e
+    2   +b   0.1   0.7  0.69 piano_lh   by F.J. Haydn (1st mvmt - presto)
+    3                                   MIDI by Marty Weimer 7/7/96
+    4                                   weimermt@libby.org  Eureka, MT  USA
+
+
+%----------------------------------
+
+*  Classicism_Classicism_Mozart_2025pianos3no2.mid
+    1   +m   0.5   0.0  0.25            Oboi I & II
+    2        0.3   0.0  0.14            Corni in F
+    3   +m   0.8   0.0  0.73 piano_rh   Piano 1 Trebble
+    4   +m   0.8   0.0  0.68            Piano 1 Bass
+    5   +m   1.0   0.0  0.62 piano_rh   Piano 2 Trebble
+    6        0.3   0.0  0.53 piano_lh   Piano 2 Bass
+    7        0.2   0.0   0.3            Piano 3 Trebble
+    8        0.0   0.0  0.27 piano_lh   Piano 3 Bass
+    9   +m   0.8   0.0  0.36            Violin I
+   10   +m   0.7   0.0  0.36            Violin II
+   11        0.1   0.0  0.39            Viola
+   12        0.0   0.0  0.36            Celli
+   13   +b   0.0   1.0  0.36 bass       Bassi
+   14                                   ******************************************
+   15                                   Mozart Concerto for 3 Pianos 
+   16                                      and Orchestra in F, K.242
+   17                                   Input and Sequence by Randy Reid
+   18                                      Troppo@msn.com
+   19                                      Non Nobis Domine
+   20                                   Console Automation Data
+
+
+%----------------------------------
+
+*  Classicism_Classicism_Mozart_mozc3.mid
+    1   +m   0.8   0.0  0.71 melody     Solo Violin
+    2   +m   0.5   0.0  0.69            High Strings
+    3        0.0   0.2   0.5 bass       Low Strings
+    4                                   Concerto No.3
+    5                                   W.A. Mozart
+    6                                   Midi by: M. Dikmen
+
+
+%----------------------------------
+
+*  Classicism_Classicism_Mozart_Symphony35-41-012-mok543m1.mid
+    1                                   1st Movement - Adagio--Allegro
+    2                                   Sequenced by D. L. Viens 27 Apr 2001
+    3                                   dlviens@empire.net
+    4                                   
+    5   +m   0.7   0.0  0.57 melody     Flute
+    6   +m   0.6   0.0  0.64            Clarinet in B-flat
+    7        0.4   0.0   0.6            Bassoon
+    8        0.0   0.0  0.54            French Horn in E-flat
+    9   +m   0.7   0.0   0.4            Trumpet in E-flat
+   10        0.0   0.2  0.25            Timpani in E-flat and B-flat
+   11        0.2   0.0  0.77 melody     Violin I
+   12        0.2   0.0  0.73 melody     Violin II
+   13   +m   0.6   0.0  0.66            Viola 
+   14        0.1   0.0  0.68            Cello
+   15   +b   0.0   0.9   0.7 bass       Contrabass
+   16                                   W. A. Mozart - Symphony No. 39 in E-flat Major, K.543 - 1. Adagio--Allegro
+
+
+%----------------------------------
+
+*  Medieval_ArsAntiqua_Anonymous_hac.mid
+    1                                   [A-01] 
+    2   +m   0.7   0.0   0.9 melody     [A-01] 
+    3        0.4   0.1  0.91 melody     [A-02] 
+    4   +b   0.1   0.7  0.94 bass       [A-03] 
+
+
+%----------------------------------
+
+*  Renaissance_Renaissance-Early_Compere_alons_fere_nos_barbes.mid
+    1                                   Alons fere nos barbes
+    2   +m   0.7   0.0  0.77 melody     superius
+    3        0.2   0.1  0.79            altus
+    4        0.1   0.0  0.73            tenor
+    5   +b   0.1   0.6  0.79 bass       bassus
+    6                                   Alons fere nos barbes
+    7                                   Loyset Compère
+    8                                   © 1996 by Curtis Clark. Free for personal use
+    9                                   jcclark@csupomona.edu
+   10                                   http://www.csupomona.edu/~jcclark/emusic/
+
+
+%----------------------------------
+
+*  Renaissance_Renaissance-Late_Byrd_FW061.mid
+    1        0.3   0.0  0.98 mixdown    Track 1
+    2                                   MIDI
+
+
+%----------------------------------
+
+*  Renaissance_Renaissance-Late_Praetorius_pragav2.mid
+    1                                   Gavotte 2
+    2   +m   0.7   0.0  0.88 melody     s1
+    3        0.4   0.0  0.86            s2
+    4   +m   0.5   0.0  0.87            a
+    5   +m   0.6   0.0  0.86            t2
+    6        0.1   0.4  0.86 bass       b
+    7                                   2. Gavotte
+    8                                   Michael Praetorius
+    9                                   © 1996 by Curtis Clark. Free for personal use
+   10                                   jcclark@csupomona.edu
+   11                                   http://www.csupomona.edu/~jcclark/emusic/
+
+
+%----------------------------------
+
+*  Renaissance_Renaissance-Late_Rosseter_ROSSETER_Whether_Men_to_Laugh_or_Weep.mid
+    1   +m   0.7   0.0  0.81 melody     ÒWhether men do laugh or cryÓPhilip Rosseter (1601)
+    2        0.0   0.3   0.8            
+
+
+%----------------------------------
+
+*  Renaissance_Renaissance-Late_Victoria_Alma_Redemptoris-5-Agnus_Dei-2b.mid
+    1   +m   0.7   0.0  0.73 melody     1s
+    2        0.4   0.0   0.7            1c
+    3        0.1   0.0   0.7            1t
+    4        0.1   0.1   0.7 bass       1b
+    5   +m   0.7   0.0  0.77 melody     2s
+    6   +m   0.9   0.1   0.9            2c
+    7        0.2   0.1  0.89            2t
+    8   +b   0.0   0.8  0.85 bass       2b
+
+
+%----------------------------------
+
+*  Renaissance_Renaissance-Late_Victoria_Benedicam_Dominum-2s.mid
+    1   +m   0.9   0.0  0.95 melody     1s
+    2   +m   0.8   0.0  0.95 melody     2s
+    3   +m   0.5   0.0  0.92            t
+    4   +b   0.0   0.6  0.93 bass       b
+
+
+%----------------------------------
+
+*  Renaissance_Renaissance-Late_Victoria_De_Beata_Maria-2-Gloria-1t.mid
+    1   +m   1.0   0.0  0.85            s
+    2        0.2   0.1  0.88            c
+    3        0.2   0.0  0.82 melody     1t
+    4        0.1   0.0  0.86            2t
+    5   +b   0.0   0.5  0.71 bass       b
+
+
+%----------------------------------
+
+*  Renaissance_Renaissance-Late_Victoria_Iste_Sanctus-c.mid
+    1   +m   0.7   0.0  0.88 melody     s
+    2        0.3   0.0  0.94 melody     c
+    3        0.1   0.1  0.97            t
+    4   +b   0.0   0.7  0.96 bass       b
+
+
+%----------------------------------
+
+*  Renaissance_Renaissance-Late_Victoria_Lauda_Sion_Salvatorem-1c.mid
+    1   +m   0.7   0.0  0.79            1s
+    2        0.4   0.0  0.77            1c
+    3        0.1   0.0  0.76            1t
+    4   +b   0.1   0.7  0.77 melody     1b
+    5   +m   0.6   0.0  0.74 melody     2s
+    6        0.4   0.0  0.72            2c
+    7        0.4   0.0  0.71            2t
+    8        0.0   0.4  0.73 bass       2b
+
+
+%----------------------------------
+
+*  Renaissance_Renaissance-Late_Victoria_LJ3-Jod_Manum_Suam.mid
+    1   +m   0.9   0.0   0.8 melody     1s
+    2   +m   0.5   0.0  0.74 melody     2s
+    3   +m   0.5   0.1  0.85            1c
+    4        0.4   0.1  0.84            2c
+    5        0.1   0.0   0.8            t
+    6   +b   0.1   0.7   0.8 bass       b
+
+
+%----------------------------------
+
+*  Renaissance_Renaissance-Late_Victoria_LJbis3-Jod_Manum_Suam-2c.mid
+    1   +m   0.8   0.0  0.82            1s
+    2   +m   0.9   0.0  0.74            2s
+    3        0.4   0.1  0.83            1c
+    4        0.3   0.0  0.79 melody     2c
+    5        0.1   0.0  0.79            t
+    6   +b   0.1   0.5  0.78 bass       b
+
+
+%----------------------------------
+
+*  Renaissance_Renaissance-Late_Victoria_LJbis8-Aleph_Quomodo_Obscuratum-1s.mid
+    1   +m   0.8   0.0  0.82 melody     1s
+    2   +m   0.5   0.0  0.83            2s
+    3        0.3   0.0  0.86            c
+    4        0.1   0.1  0.87            t
+    5   +b   0.0   0.8  0.87 bass       b
+
+
+%----------------------------------
+
+*  Renaissance_Renaissance-Late_Victoria_Magi_Viderunt_Stellam-s.mid
+    1   +m   1.0   0.0  0.93 melody     s
+    2   +m   0.5   0.0  0.93            c
+    3        0.1   0.0  0.89            t
+    4   +b   0.0   0.7  0.88 bass       b
+
+
+%----------------------------------
+
+*  Renaissance_Renaissance-Late_Victoria_Magnificat_Quinti_Toni-pares-b.mid
+    1   +m   0.8   0.0  0.66 melody     1s
+    2   +m   0.8   0.0  0.64 melody     2s
+    3        0.4   0.0  0.78            1c
+    4   +m   0.7   0.0  0.78            2c
+    5        0.3   0.1  0.83            1t
+    6        0.2   0.0  0.73            2t
+    7        0.1   0.3  0.62 bass       b
+
+
+%----------------------------------
+
+*  Renaissance_Renaissance-Late_Victoria_Misa_Quarti_Toni-1-Kyrie-c.mid
+    1   +m   0.8   0.0  0.77            s
+    2        0.3   0.1  0.89 melody     c
+    3        0.0   0.0  0.62            t
+    4   +b   0.1   0.8  0.92 bass       b
+
+
+%----------------------------------
+
+*  Renaissance_Renaissance-Late_Victoria_O_Sacrum_Convivium-1t.mid
+    1   +m   0.6   0.0  0.89 melody     1t
+    2        0.4   0.0  0.95            2t
+    3        0.2   0.0  0.96            1b
+    4   +b   0.0   0.9  0.95 bass       2b
+
+
+%----------------------------------
+
+*  Renaissance_Renaissance-Late_Victoria_OD-08-Communio.mid
+    1   +m   0.6   0.0  0.82 melody     1s
+    2   +m   0.5   0.0  0.97 melody     2s
+    3   +m   0.5   0.0   0.8            c
+    4        0.2   0.0  0.74            1t
+    5        0.3   0.0  0.73            2t
+    6   +b   0.0   0.6  0.85 bass       b
+
+
+%----------------------------------
+
+*  Renaissance_Renaissance-Late_Victoria_OD-10-Libera_Me-1s.mid
+    1   +m   0.7   0.0   0.8 melody     1s
+    2   +m   0.6   0.0  0.82 melody     2s
+    3        0.4   0.0  0.57            c
+    4        0.3   0.0  0.59            1t
+    5        0.1   0.0   0.6            2t
+    6   +b   0.0   0.5  0.51 bass       b
+
+
+%----------------------------------
+
+*  Renaissance_Renaissance-Late_Victoria_OD-10-Libera_Me-2s.mid
+    1   +m   0.7   0.0   0.8 melody     1s
+    2   +m   0.6   0.0  0.82 melody     2s
+    3        0.4   0.0  0.57            c
+    4        0.3   0.0  0.59            1t
+    5        0.1   0.0   0.6            2t
+    6   +b   0.0   0.5  0.51 bass       b
+
+
+%----------------------------------
+
+*  Renaissance_Renaissance-Late_Victoria_Te_Lucis_Ante_Terminum-t.mid
+    1   +m   0.7   0.0  0.91            s
+    2   +m   0.5   0.0  0.94            c
+    3        0.2   0.0  0.91 melody     t
+    4   +b   0.1   0.5  0.91 bass       b
+
+
+%----------------------------------
+
+*  Renaissance_Renaissance-Late_Victoria_Trahe_Me_Post_Te-5-Benedictus-1c.mid
+    1   +m   0.5   0.0  0.88            s
+    2        0.3   0.0  0.88 melody     1c
+    3        0.3   0.0  0.83            2c
+    4        0.1   0.0  0.88            t
+    5   +b   0.0   0.6   0.9 bass       b
+
+
+%----------------------------------
+
+*  Renaissance_Renaissance-Late_Victoria_Tu_Es_Petrus-b.mid
+    1   +m   1.0   0.0  0.76 melody     1s
+    2   +m   1.0   0.0  0.77 melody     2s
+    3   +m   0.5   0.1  0.84            c
+    4        0.2   0.0  0.78            1t
+    5        0.2   0.0  0.75            2t
+    6   +b   0.1   0.8   0.7 bass       b
+
+
+%----------------------------------
+
+*  Renaissance_Renaissance-Late_Victoria_Urbs_Beata_Jerusalem-t.mid
+    1   +m   0.8   0.0   0.9 melody     s
+    2        0.2   0.1   0.9            c
+    3        0.0   0.0  0.84            t
+    4   +b   0.0   0.5  0.83 bass       b
+
+
+%----------------------------------
+
+*  Romanticism_Post-romanticism_Mahler_1394mahl4mov1.mid
+    1   +m   0.7   0.0  0.35            
+    2        0.2   0.0  0.15            
+    3   +m   0.5   0.0  0.35 melody     
+    4        0.4   0.0  0.43 melody     
+    5        0.0   0.1  0.42            
+    6        0.3   0.0   0.4            
+    7        0.4   0.0   0.2            
+    8        0.1   0.0  0.12            
+    9        0.0   0.3  0.21            
+   10                                   
+   11   +m   0.6   0.0  0.44 melody     
+   12   +m   0.6   0.0  0.34            
+   13   +m   0.5   0.0  0.34            
+   14        0.3   0.0   0.5            
+   15   +b   0.0   0.8  0.39 bass       
+   16        0.0   0.0  0.19            
+
+
+%----------------------------------
+
+*  Romanticism_Romantic-Nationalism_Mussorgsky_01promen.mid
+    1   +m   0.8   0.0   1.0 piano_rh   Treble Clef         
+    2   +b   0.0   0.8  0.88 piano_lh   Bass Clef           
+
+
+%----------------------------------
+
+*  Romanticism_Romanticism_Alkan_AESOPE.mid
+    1   +m   0.6   0.0  0.71 piano_rh   Right Hand
+    2   +b   0.0   0.6  0.66 piano_lh   Left Hand
+    3                                   ------------------------
+    4                                   Le Festin D'esope
+    5                                   Op. 39 # 12
+    6                                   by Charles-Valentin Alkan
+    7                                   Sequenced by:
+    8                                   Philip DeWalt
+    9                                   pdewalkc@cyclops.pei.edu
+   10                                   or PFilD@aol.com
+
+
+%----------------------------------
+
+*  Romanticism_Romanticism_Beethoven_3rdSymph_3RD2.mid
+    1        0.3   0.0  0.33 melody     Flutes  
+    2        0.4   0.0   0.4 melody     Oboes   
+    3        0.3   0.1  0.33            Clarinets in Bb
+    4        0.1   0.0  0.42            Bassoons
+    5        0.0   0.1  0.44            Horns in C
+    6        0.3   0.0  0.27            Horns in Eb
+    7        0.3   0.0  0.27            Trumpet 
+    8        0.0   0.2  0.17            Timpani 
+    9   +m   0.9   0.0  0.61 melody     Violin I
+   10   +m   0.6   0.0  0.54            Violin II
+   11        0.3   0.0  0.52            Viola   
+   12        0.1   0.0  0.48            Cello   
+   13   +b   0.0   1.0  0.45 bass       Contrabass
+   14                                   Controls
+   15                                   L. v. Beethoven:
+   16                                   Symph. No. 3; 2nd Mvmt.
+   17                                   Sequenced for the Sound Canvas
+   18                                   by H.-J. Roeder
+
+
+%----------------------------------
+
+*  Romanticism_Romanticism_Beethoven_3rdSymph_SYM3-2.mid
+    1        0.3   0.0  0.33 melody     Flutes  
+    2        0.4   0.0   0.4 melody     Oboes   
+    3        0.3   0.1  0.33            Clarinets in Bb
+    4        0.1   0.0  0.42            Bassoons
+    5        0.0   0.1  0.44            Horns in C
+    6        0.3   0.0  0.27            Horns in Eb
+    7        0.3   0.0  0.27            Trumpet 
+    8        0.0   0.2  0.17            Timpani 
+    9   +m   0.9   0.0  0.61 melody     Violin I
+   10   +m   0.6   0.0  0.54            Violin II
+   11        0.3   0.0  0.52            Viola   
+   12        0.1   0.0  0.48            Cello   
+   13   +b   0.0   1.0  0.45 bass       Contrabass
+   14                                   Controls
+   15                                   L. v. Beethoven:
+   16                                   Symph. No. 3; 2nd Mvmt.
+   17                                   Sequenced for the Sound Canvas
+   18                                   by H.-J. Roeder
+
+
+%----------------------------------
+
+*  Romanticism_Romanticism_Beethoven_8thSymph_SYM8_F_1.mid
+    1                                   1st Movement - Allegro vivace con brio
+    2                                   Sequenced by D. L. Viens 20 Apr 1998
+    3                                   dlviens@ix.netcom.com
+    4                                   
+    5   +m   0.8   0.0  0.56 melody     Flute
+    6   +m   0.5   0.0  0.58            Oboe
+    7   +m   0.9   0.0  0.55            Clarinet in B-flat
+    8        0.3   0.0  0.63            Bassoon
+    9        0.0   0.0  0.51            French Horn in F
+   10        0.1   0.0  0.33            Trumpet in F
+   11        0.0   0.2  0.26            Timpani
+   12   +m   0.6   0.0  0.67            Violin I
+   13   +m   0.7   0.0  0.74            Violin II
+   14        0.3   0.0  0.66            Viola 
+   15        0.0   0.1  0.58            Cello
+   16   +b   0.0   1.0   0.5 bass       Contrabass
+   17                                   
+
+
+%----------------------------------
+
+*  Romanticism_Romanticism_Beethoven_HAMMKLV3.mid
+    1        0.2   0.0   0.7 piano_rh   Right Hand
+    2        0.0   0.2  0.81 piano_lh   Left Hand
+    3                                   Pedal
+    4                                   Tempo
+
+
+%----------------------------------
+
+*  Romanticism_Romanticism_Beethoven_op27_2_1.mid
+    1   +m   0.6   0.0  0.98 piano_rh   Piano
+    2   +b   0.0   1.0   1.0 piano_lh   Piano
+
+
+%----------------------------------
+
+*  Romanticism_Romanticism_Beethoven_SONATAC.mid
+    1   +m   1.0   0.0  0.68 piano_rh   Right Hand
+    2   +m   0.5   0.4   0.6 piano_lh   Left Hand
+
+
+%----------------------------------
+
+*  Romanticism_Romanticism_Beethoven_Sonate15_Opus28_Pastorale.mid
+    1   +m   1.0   0.0  0.83 melody     No Name
+    2   +m   0.7   0.0  0.42            No Name
+    3        0.1   0.0  0.15            No Name
+    4        0.0   0.1   0.4 bass       No Name
+    5   +b   0.0   0.5  0.63 bass       No Name
+
+
+%----------------------------------
+
+*  Romanticism_Romanticism_Beethoven_symphony5m3.mid
+    1                                   (C) & (P) 1992
+    2                                   Romeo Music Intl.
+    3        0.2   0.0  0.74 melody     2 Flšten
+    4        0.1   0.0   1.0            2 Hoboen
+    5        0.2   0.0   0.6            2 Klarinetten in B
+    6        0.0   0.0  0.61            2 Fagotte
+    7        0.3   0.0  0.75            2 Hšrner in Es
+    8   +m   0.5   0.0   0.7            1. Violine
+    9   +m   0.7   0.0   0.7            2. Violine
+   10   +m   0.5   0.0   0.7            Bratsche
+   11        0.0   0.1  0.89            Violoncell
+   12   +b   0.0   1.0  0.89 bass       Kontraba§
+
+
+%----------------------------------
+
+*  Romanticism_Romanticism_Brahms_Waltzes_Op.39_No.16_in_C#m.mid
+    1   +m   0.9   0.0  0.95 piano_rh   Piano
+    2   +b   0.1   0.6   0.9 piano_lh   Piano
+
+
+%----------------------------------
+
+*  Romanticism_Romanticism_Chopin_chop25e9.mid
+    1                                   Grand Piano
+    2        0.4   0.0  0.72 piano_rh   Ken's Stuff
+    3   +b   0.0   0.5  0.73 piano_lh   © 1996
+
+
+%----------------------------------
+
+*  Romanticism_Romanticism_Chopin_chord42.mid
+    1   +m   0.7   0.1  0.94 piano_rh   Track-1
+    2        0.0   0.3  0.93 piano_lh   Track-2
+
+
+%----------------------------------
+
+*  Romanticism_Romanticism_Liszt_Symphonic_Poem_No7.mid
+    1        0.4   0.0  0.24            Liszt
+    2   +m   0.9   0.0  0.41 melody     Ferenc:
+    3   +m   1.0   0.0  0.46            Festklange
+    4        0.2   0.0  0.47            (Festival Sounds)
+    5        0.3   0.0  0.25            Symphonic Poem
+    6        0.3   0.0  0.19            No. 7
+    7        0.2   0.0  0.15            
+    8        0.0   0.0  0.14            1854
+    9        0.0   0.4  0.11            
+   10                                   Sequenced by
+   11        0.0   0.0  0.06            Peter
+   12        0.4   0.0  0.53 melody     Parkanyi
+   13        0.4   0.0  0.51            
+   14   +m   0.7   0.0   0.5            parkanyi@icbank.hu
+   15        0.3   0.0  0.39            
+   16   +b   0.0   0.9  0.29 bass       27 December 1998
+
+
+%----------------------------------
+
+*  Romanticism_Romanticism_Mendelssohn_4403precm.mid
+    1                                   Praeludium  c-moll
+    2   +m   0.9   0.0   0.8 melody     Manual
+    3        0.2   0.0  0.56            Manual
+    4        0.0   0.0  0.53            Pedal 8´
+    5   +b   0.0   0.7  0.53 bass       Pedal 16´
+
+
+%----------------------------------
+
+*  Romanticism_Romanticism_Mendelssohn_Eli31.mid
+    1   +m   0.7   0.0   0.9 melody     
+    2   +m   0.7   0.0  0.84 melody     
+    3   +m   0.8   0.0  0.76            
+    4        0.0   0.0  0.32            
+    5        0.0   0.0  0.41            
+    6        0.0   0.0  0.51            
+    7   +b   0.0   0.6  0.65 bass       
+    8                                   <No Title>
+
+
+%----------------------------------
+
+*  Romanticism_Romanticism_Panofka_panofka_24_vocalises_ttes_voix_09.mid
+    1   +m   1.0   0.0  0.86 melody     chant
+    2        0.3   0.0  0.71 piano_rh   piano 1
+    3   +b   0.0   0.8  0.74 piano_lh   piano 2
+
+
+%----------------------------------
+
+*  Romanticism_Romanticism_Schubert_Piano_Sonata_in_A-_Op.posth.143_D.784_1.Allegro_giusto.mid
+    1        0.4   0.0  0.75 piano_rh   Grand Piano
+    2        0.1   0.0  0.05            Instrument17
+    3        0.0   0.0  0.74 piano_lh   Instrument18
+    4        0.0   0.0  0.02            Instrument19
+
+
+%----------------------------------
+
+*  Romanticism_Romanticism_Sullivan_2580chieftain209.mid
+    1   +m   0.7   0.0  0.66 melody     Inez/Juanita
+    2   +m   0.6   0.0  0.88 piano_rh   piano
+    3        0.0   0.4  0.87 piano_lh   piano
+    4        0.1   0.2  0.56            Sancho/Jose
+    5        0.2   0.0  0.58            Pedro
+
+
+%----------------------------------
+
+*  Romanticism_Romanticism_Wolf_wolf_2_einklang.mid
+    1   +m   0.8   0.0  0.97 melody     S
+    2        0.3   0.0  0.95            A
+    3        0.1   0.0  0.96            T
+    4   +b   0.0   0.7  0.96 bass       B
+
+
+%----------------------------------
+
+*  XXCentury_Impressionism_Debussy_debussy-prelude_1livre_08.mid
+    1   +m   1.0   0.0  0.98 piano_rh   Right Treble
+    2        0.3   0.0  0.16            Left Treble
+    3        0.0   0.4  0.92 piano_lh   Left Bass
+    4                                   Pedal
+    5                                   Debussy, Claude
+    6                                   Prelude Book 1 No. 08 La fille aux cheveux de lin
+    7                                   Jeruen E. Dery jawjaw@hotmail.com
+
+
+%----------------------------------
+
+*  XXCentury_Neoclassicism_Prokofiev_Prokofiev-MonteguesAndCapulets.mid
+    1   +m   0.6   0.0  0.76 melody     Flute
+    2   +m   1.0   0.0  0.98 melody     Clarinet
+    3   +m   0.6   0.0  0.87            Alto Sax
+    4        0.0   0.0  0.64            Tenor Sax
+    5   +b   0.0   0.5   0.4            Bari Sax
+    6   +m   0.9   0.0  0.76 melody     TRUMPET 1
+    7   +m   0.6   0.0  0.75 bass       TRUMPET 2-3
+    8        0.3   0.0  0.51            FRENCH HORNS
+    9   +m   0.5   0.0  0.52            
+   10        0.3   0.0  0.47            Trombone 2-3
+   11   +b   0.0   0.5   0.4 bass       TUBA
+   12   +m   0.9   0.0  0.93 melody     BELLS
+   13   +m   0.9   0.0  0.93            XYLOPHONE
+   14   +b   0.1   0.6  0.45            TIMPANI
+   15                                   Pit Perc
+   16   +b   0.0   0.5   0.4 bass        TUBA
+
+
+%----------------------------------
+
+*  XXCentury_Neoclassicism_Shostakovich_s_waltz4.mid
+    1        0.2   0.1  0.52            Grand Piano
+    2   +m   0.7   0.2  0.95 melody     Clarinet
+    3   +m   0.9   0.0  0.95 melody     Flute
+
+
+%----------------------------------
+
+*  XXCentury_XX-Nationalism_Villalobos_suite_floral_no2.mid
+    1   +m   0.5   0.0  0.32            Flute
+    2   +m   0.8   0.0  0.73 melody     English Horn
+    3        0.1   0.0  0.14            Clarinet
+    4        0.4   0.0  0.18            Harp 1
+    5        0.0   0.0  0.41            Harp 2
+    6        0.2   0.0  0.86            Trumpet
+    7        0.1   0.0  0.74            Trombone
+    8        0.4   0.0   0.6            French Horn
+    9        0.1   0.1  0.94            Strings
+   10   +m   0.6   0.0  0.34            Violin
+   11   +b   0.0   0.9  0.66 bass       Cello
+   12                                   Uma Camponeza Cantadeira
+   13                                   Suite Floral No. 2
+   14                                   by Heitor Villa-Lobos
+   15                                   Sequence Copyright 1997 Brian M. Ames
+   16                                   bmames@apk.net
+
+
+%----------------------------------
+

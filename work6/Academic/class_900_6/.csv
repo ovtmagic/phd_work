@@ -1,0 +1,83 @@
+Nombre_fichero,N_Pistas,melody,bass,piano_rh,piano_lh,mixdown,,,
+Baroque_Baroque-Early_Marini_op22_2ballet_m.mid,4,1 2,4,,,,Violino Primo,Basso Continuo,OK
+Baroque_Baroque-Early_Marini_op22_svlnsol_m.mid,3,1,3,,,,Violino,Basso Continuo,OK
+Baroque_Baroque-Late_Bach_127.mid,2,,,1,2,,treble clef,bass clef,OK
+Baroque_Baroque-Late_Bach_1699tpinven8.mid,3,1,3,,,,OBOE,BASSOON,OK
+Baroque_Baroque-Late_Bach_BWV810G.mid,3,,,1,2,,English Suite 5, 7. Gigue,OK
+Baroque_Baroque-Late_Bach_f19amaj.mid,4,1 2,3,,,,voice 2,voice 3,OK
+Baroque_Baroque-Late_Bach_jsbwv541.mid,3,1,3,,,,Prelude and Fugue BWV541,Sequenced: Dean Lampe 1/96,OK
+Baroque_Baroque-Late_Bach_p02cmin.mid,3,,,1,2,,Track-1,Track-2,OK
+Baroque_Baroque-Late_Bach_wtc1092.mid,5,1 2,3,,,,Track 1,Track 3,OK
+Baroque_Baroque-Late_Bach_wtc1131.mid,4,, ,1,2,,Track 1,Track 2,OK
+Baroque_Baroque-Late_Bach_wtc1242.mid,6,1 2,4,,,,Track 1,Track 4,OK
+Baroque_Baroque-Late_Haendel_1644gdance6.mid,10,,,1,2,,German Dance 6,Arr. By Rob Dwyer,OK
+Baroque_Baroque-Late_Haendel_Mes06.mid,7,1,6,,,,,,OK
+Baroque_Baroque-Late_Pachelbel_Canon_R1.mid,10,1 2,4 5,,,,Track-1,DB,OK
+Baroque_Baroque-Middle_Becker_4245ersts_m.mid,3,1,3,,,,Violino,Basso Continuo,OK
+Classicism_Classicism_Haydn_hydn06_1.mid,9,1 2 5 6,9,,,,Flauto,Basso,OK
+Classicism_Classicism_Mozart_arias-4-508_1.mid,3,1,3,,,,,,OK
+Classicism_Classicism_Mozart_arias-kv472.mid,4,1,,2,4,,Vocals,Pianoforte,OK
+Classicism_Classicism_Mozart_mozart_chanson_a_boire.mid,4,1,,,,,1,2,OK
+Classicism_Classicism_Mozart_mozk211b.mid,16,1,,2,3,,Mozart - Violin,,OK
+Classicism_Classicism_Mozart_mz_493_1.mid,10,1,7,5,6,,WinJammer Demo,WinJammer Demo,OK
+Classicism_Classicism_Mozart_Symphony35-41-011-mok425m2.mid,15,10,14,,,,Oboe,Contrabass,OK
+Classicism_Classicism_Mozart_Symphony35-41-012-mok543m3.mid,16,5,15,,,,Flute,Contrabass,OK
+Classicism_Pre-classicism_Boyce_1116boycev.mid,4,1,3,,,,Staff 1,,OK
+Medieval_ArsNova_Machau_machaut-b16.mid,3,2,3,,,,Dame, comment qu'amez               ,OK
+Medieval_ArsNova_Senleches_senle05.mid,4,2,4,,,,[A-01] Tel me voit,[A-03] seq by n.nakamura,OK
+Renaissance_Renaissance-Early_Anonymous_sifortune.mid,9,2,4,,,,alto,bass,OK
+Renaissance_Renaissance-Late_Palestrina_2155gpbndcts.mid,10,5 7,9 10,,,,Contralto I. (tenor1),Bass II.,OK
+Renaissance_Renaissance-Late_Praetorius_vom_gimmel_och_da_komm_ich_her.mid,10,2,5,,,,1,4,OK
+Renaissance_Renaissance-Late_Victoria_Alma_Redemptoris-2-Gloria.mid,8,1 5,4 8,,,,1s,1b,OK
+Renaissance_Renaissance-Late_Victoria_Ascendens_Christus_In_Altum-4-Sanctus-b.mid,5,1,5,,,,b,b,OK
+Renaissance_Renaissance-Late_Victoria_Ave_Maris_Stella-6-Agnus_Dei-2t.mid,5,1 4,5,,,,s,b,OK
+Renaissance_Renaissance-Late_Victoria_Ave_Regina-6-Agnus_Dei-1t.mid,8,1 3 5,4 8,,,,2s,2b,OK
+Renaissance_Renaissance-Late_Victoria_Conditor_Alme_Siderum-s.mid,4,1,4,,,,s,b,OK
+Renaissance_Renaissance-Late_Victoria_Dixit_Dominus_bis_bis-s.mid,4,1,4,,,,s,b,OK
+Renaissance_Renaissance-Late_Victoria_Dum_Complerentur-6-Agnus_Dei-2t.mid,7,6,7,,,,1s,b,OK
+Renaissance_Renaissance-Late_Victoria_Ecce_Sacerdos_Magnus-c.mid,4,1 2,4,,,,s,b,OK
+Renaissance_Renaissance-Late_Victoria_Gaudeamus-5-Benedictus-1s.mid,6,1,6,,,,1s,b,OK
+Renaissance_Renaissance-Late_Victoria_Laetatus_Sum-1-Kyrie-4s.mid,12,1 9,8 12,,,,1s,3b,OK
+Renaissance_Renaissance-Late_Victoria_LJ6-Aleph_Ego_Vir-2c.mid,6,4,6,,,,1c,b,OK
+Renaissance_Renaissance-Late_Victoria_LJbis2-Vau_Et_Egressus_Est-c.mid,5,3,5,,,,1s,b,OK
+Renaissance_Renaissance-Late_Victoria_Magnificat_Quinti_Toni-impares-2t.mid,5,3 4,5,,,,1t,b,OK
+Renaissance_Renaissance-Late_Victoria_Misa_Quarti_Toni-2-Gloria-s.mid,4,1,4,,,,s,b,OK
+Renaissance_Renaissance-Late_Victoria_Nunc_Dimittis-s.mid,4,1,4,,,,t,b,OK
+Renaissance_Renaissance-Late_Victoria_O_Magnum_Mysterium-2-Gloria-c.mid,4,2,4,,,,s,b,OK
+Renaissance_Renaissance-Late_Victoria_O_Quam_Gloriosum-5-Benedictus-s.mid,4,1,4,,,,s,b,OK
+Renaissance_Renaissance-Late_Victoria_OD-02-Introitus.mid,6,1 2,6,,,,1s,b,OK
+Renaissance_Renaissance-Late_Victoria_Simile_Est_Regnum_Coelorum-5-Benedictus-b.mid,4,4,,,,,s,b,OK
+Renaissance_Renaissance-Late_Victoria_Surge_Propera-2-Gloria-2t.mid,5,4,5,,,,1t,b,OK
+Renaissance_Renaissance-Late_Victoria_SV02-Confitebor_Tibi-b.mid,4,4,,,,,s,b,OK
+Romanticism_Post-romanticism_Messager_2906mirette13.mid,5,1 2 3,,4,5,,Mirette,Gerard,OK
+Romanticism_Post-romanticism_Rachmaninoff_rachmaninoff_ave_maria.mid,5,1,4,,,,S,B,OK
+Romanticism_Post-romanticism_Rachmaninoff_symph_no1_op25_mov3.mid,12,1,12,,,,"Symphony No.1 in D ""Classical""",,OK
+Romanticism_Romantic-Nationalism_Dvorak_dvop22-3.mid,15,1,10,,,,Violini I-1,Contrabassi-1,OK
+Romanticism_Romantic-Nationalism_Sousa_1760n735sousa.mid,7,1,2 4,,,,Treble,,OK
+Romanticism_Romanticism_Beethoven_5thSymph_B5TH-4G.mid,23,1,23,,,,WinJammer Demo,WinJammer Demo,OK
+Romanticism_Romanticism_Beethoven_Symphonie7_Opus92_Mvt3-cvikl.mid,12,1 2,12,,,,Flauti,Bassi,OK
+Romanticism_Romanticism_Brahms_BRAHMS24.mid,17,12,10,,,,Violin I,Tuba,OK
+Romanticism_Romanticism_Brahms_hun7.mid,2, ,,1,2,,,,OK
+Romanticism_Romanticism_Chopin_19_Polish_Songs_for_Voice_and_Piano_Op74_19.Reverie.mid,2,1,,,,,Voice,,OK
+Romanticism_Romanticism_Chopin_Krakowiak_Op14.mid,17,1 2,9,,,,Track 1,Chopin,OK
+Romanticism_Romanticism_Chopin_Prelude_Op28_No24_in_Dm_The_Storm_3.mid,2,,,1,2,,,,OK
+Romanticism_Romanticism_Chopin_Valse_No10_in_Bm_Op.69_No2_2.mid,4,,,1,2,,,,OK
+Romanticism_Romanticism_Heller_2081melody5reg.mid,2,,,1,2,,Copyright 2001 Reg,Reginald Steven Ritchie,OK
+Romanticism_Romanticism_Heller_2159melody8reg.mid,2,,,1,2,,Copyright 2001 Reg,,OK
+Romanticism_Romanticism_Liszt_1558earlking.mid,14,,,1,2,,Erlkonig - The Witch King,,OK
+Romanticism_Romanticism_Mendelssohn_239Bridalch.mid,3,,3,1,2,,Upper Manual,Pedal,OK
+Romanticism_Romanticism_Schubert_shubavem.mid,4,3,1,,,,Voice,Piano-1,OK
+Romanticism_Romanticism_Verdi_1609verdilux.mid,5,1 2,3,4,5,,Tenor,Bass,OK
+XXCentury_Impressionism_Debussy_debussy-estampes_jardin_pluie.mid,2,,,1,2,,,,OK
+XXCentury_Impressionism_Debussy_debussy-prelude_1livre_06.mid,7,,,1,2,,Right Treble,Left Bass,OK
+XXCentury_Impressionism_Debussy_gmclair.mid,4,,,1,2,,Piano Right Hand,Piano Left Hand,OK
+XXCentury_Misc_Britten_litle_babe.mid,10,1 2,4,5,6,,sop,bass,OK
+XXCentury_Neoclassicism_Stravinsky_2809stravinsky2.mid,17,1 2 3 6,17,,,,Flute 1,Double Basses,OK
+XXCentury_Neoclassicism_Stravinsky_stravin3.mid,12,4 5,7,,,,soprano,bottom staff,OK
+XXCentury_XX-Nationalism_Barrios_Mangore_abarrios-reloj.mid,4,1,4,,,,Choir Aahs,Instrument4,OK
+XXCentury_XX-Nationalism_Bartok_Bartok_Roumanian-3.mid,7,,,1,2,,Right Hand,Left Hand,OK
+XXCentury_XX-Nationalism_Bartok_Bartok_Roumanian-4.mid,7,,,1,2,,Right Hand,Left Hand,OK
+XXCentury_XX-Nationalism_Holst_FIRST-2.mid,31,1 2 3 5 16,15 24,,,,C Piccolo,Bass Sax,OK
+XXCentury_XX-Nationalism_Joplin_The_Entertainer.mid,5,,,1,2 3,,The Entertainer     ,Scott Joplin        ,OK
+XXCentury_XX-Nationalism_Vaughan_Williams_Seasongs.mid,20,1 2 3 4,13,,,,,,OK
+XXCentury_XX-Nationalism_Villalobos_prole_do_bebe_no1_no4_petite_mulatrese.mid,15,,,1 2,3,,Piano Right Hand,aux Right Hand,OK

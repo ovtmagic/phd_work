@@ -1,0 +1,121 @@
+#################################################################################################################
+ Columnas:
+ <numero pista>	<prediccion>	<prob melodia>	<prob bajo>	<ocupacion>	<etiquetado>	<nombre de pista>
+
+prediccion: tipo de pista que el algoritmo predice que es: +m para melodia, +b para bajo
+
+#################################################################################################################
+
+* Baroque_Baroque-Late_Bach_fuguein_2.mid
+    1   +m   0.6   0.0  0.69 melody     Midi C2, T1         
+    2   +m   0.6   0.0  0.46 melody     Midi C3, T2         
+    3        0.1   0.0  0.21 melody     Midi C4, T3         
+    4        0.3   0.0  0.49            Midi C5, T4         
+    5        0.0   0.2  0.18 bass       Midi C6, T5         
+    6        0.0   0.2  0.19            Midi C7, T6         
+    7                                   Meter Track         
+
+
+%----------------------------------
+
+* Baroque_Baroque-Late_Bach_wtc1211.mid
+    1   +m   0.5   0.0   0.7 piano_rh   Track 1
+    2        0.2   0.1  0.74 piano_lh   Track 2
+    3        0.1   0.2   1.0            Track 3
+    4                                   Control
+    5                                   Reset
+
+
+%----------------------------------
+
+* Classicism_Classicism_Haydn_haydn-6.mid
+    1        0.4   0.0  0.87 piano_rh   
+    2                                   
+    3        0.0   0.3  0.69 piano_lh   
+    4   +b   0.1   0.5  0.03            
+    5                                   Sonata I   Haydn  
+
+
+%----------------------------------
+
+* Romanticism_Post-romanticism_Rachmaninoff_RACH1_1.mid
+    1        0.0   0.0  0.74            
+    2        0.1   0.4  0.44            
+    3                                   
+    4                                   
+    5                                   
+    6                                   
+    7                                   
+    8                                   
+    9                                   
+   10                                   
+
+
+%----------------------------------
+
+* Romanticism_Post-romanticism_Rachmaninoff_symph_no5_op100_mov3.mid
+    1   +m   0.5   0.0   0.2            PICCOLO
+    2   +m   0.6   0.0  0.38            FLUTE
+    3   +m   0.6   0.0  0.29            OBOE
+    4   +m   0.5   0.0  0.28            ENGLISH HORN
+    5   +m   0.9   0.0  0.17 melody     Es CLARINET
+    6   +m   0.6   0.0  0.36            CLARINET
+    7        0.1   0.0  0.33            BS CLARINET
+    8        0.2   0.0  0.48            BASSOON
+    9   +b   0.0   0.8  0.21 bass       CONTRA BASSOON
+   10                                   DRUM
+   11        0.1   0.0  0.33            HORN
+   12        0.0   0.0  0.29            HORN
+   13        0.2   0.0  0.12            TRUMPET
+   14        0.3   0.0  0.08            TRUMPET
+   15        0.0   0.0   0.3            TROMBONE
+   16   +b   0.0   0.5  0.34            TUBA
+   17        0.3   0.0  0.58            1ST VIOLIN
+   18        0.4   0.0  0.52            2ND VIOLIN
+   19   +m   0.5   0.0  0.59            VIOLA
+   20        0.1   0.0   0.7            CHELLO
+   21   +b   0.0   0.7  0.64            CONTRABASS
+   22        0.0   0.0  0.23            HARP
+   23        0.0   0.0  0.34            PIANO
+   24        0.1   0.0  0.07            TIMPANI
+
+
+%----------------------------------
+
+* Romanticism_Post-romanticism_Saint_Saens_Saint-Saens_carnaval12.mid
+    1                                   Petite Flute
+    2                                   Flute
+    3                                   Clarinette en UT
+    4        0.4   0.0  0.31 melody     Clarinette Sib
+    5                                   Harmonica
+    6   +m   0.8   0.0  0.37            Xylophone
+    7        0.1   0.0  0.42            1er Piano 1
+    8        0.0   0.0  0.49            1er Piano 2
+    9        0.1   0.0  0.49            2d Piano 1
+   10        0.0   0.0  0.51            2d Piano 2
+   11                                   Tempo
+   12   +m   0.5   0.0  0.43            1er Violon
+   13   +m   0.7   0.0  0.44            2d Violon
+   14   +m   0.6   0.0  0.42            Alto
+   15        0.0   0.0  0.41            Violoncelle
+   16   +b   0.0   1.0  0.24 bass       Contrebasse
+   17                                   Le Carnaval del Animaux (1886)
+   18                                   12. Fossiles
+   19                                   by Camille Saint-Saens (1835-1921)
+   20                                   seq. (c) 1999 by Ramon Pajares Box
+   21                                   rpajares@rpajares.net
+
+
+%----------------------------------
+
+* Romanticism_Post-romanticism_Scriabin_etude_op56_no4.mid
+    1   +m   0.8   0.0  0.86 piano_rh   Right
+    2        0.2   0.1  0.06            Left Treble
+    3        0.0   0.2  0.38 piano_lh   Left Bass
+    4                                   Pedal
+    5                                   Op. 56-04
+    6                                   Jeruen E. Dery
+
+
+%----------------------------------
+

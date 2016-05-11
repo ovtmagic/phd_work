@@ -1,0 +1,3602 @@
+clasica.bass.csv clasica
+    "1008czerny13reg.mid",	1,	staff
+    "1008czerny13reg.mid",	2,	staff-1
+"1008czerny13reg.mid",2,,,1,2,
+    "1009czerny14reg.mid",	1,	staff
+    "1009czerny14reg.mid",	2,	staff-1
+"1009czerny14reg.mid",2,,,1,2,
+    "1052czerny34.mid",	1,	right hand
+    "1052czerny34.mid",	2,	right hand2
+    "1052czerny34.mid",	3,	left hand
+    "1052czerny34.mid",	4,	lefthand2
+"1052czerny34.mid",4,,,1,2,
+    "1095czerny16reg.mid",	1,	staff
+    "1095czerny16reg.mid",	2,	staff-1
+"1095czerny16reg.mid",2,,,1,2,
+    "1096czerny15reg.mid",	1,	staff
+    "1096czerny15reg.mid",	2,	staff-1
+"1096czerny15reg.mid",2,,,1,2,
+    "1173nuitdete.mid",	1,	rh --bbok
+    "1173nuitdete.mid",	2,	lh
+    "1173nuitdete.mid",	3,	pedal
+"1173nuitdete.mid",3,1 ,,1,2,
+    "1174saltarel.mid",	1,	right hand 1--bbok
+    "1174saltarel.mid",	2,	left hand 1
+"1174saltarel.mid",2,1 ,,1,2,
+    "1215czerny18reg.mid",	1,	staff
+    "1215czerny18reg.mid",	2,	staff-1
+"1215czerny18reg.mid",2,,,1,2,
+    "1216czerny19reg.mid",	1,	staff
+    "1216czerny19reg.mid",	2,	staff-1
+"1216czerny19reg.mid",2,,,1,2,
+    "1364brawaltz10.mid",	1,	piano--bbok
+    "1364brawaltz10.mid",	2,	piano
+"1364brawaltz10.mid",2,1 ,,1,2,
+    "1365brawaltz15.mid",	1,	piano--bbok
+    "1365brawaltz15.mid",	2,	piano
+"1365brawaltz15.mid",2,1 ,,1,2,
+    "1406humming.mid",	1,	
+    "1406humming.mid",	2,	humming chorus from madama butterfly(g.puccini)
+    "1406humming.mid",	3,	humming chorus from madama butterfly(g.puccini)_1
+    "1406humming.mid",	4,	seq by chiaki ikenoue
+    "1406humming.mid",	5,	         ike_chan@d1.dion.ne.jp
+    "1406humming.mid",	6,	track 4c0
+    "1406humming.mid",	7,	track 5c0
+    "1406humming.mid",	8,	track 6c0
+    "1406humming.mid",	9,	track 7c0
+    "1406humming.mid",	10,	track 8c0
+    "1406humming.mid",	11,	track 9c0
+    "1406humming.mid",	12,	track 10c0
+    "1406humming.mid",	13,	track 11c0
+    "1406humming.mid",	14,	track 12c0
+"1406humming.mid",14,,12 13,,,
+    "1407manina.mid",	1,	
+    "1407manina.mid",	2,	flutes
+    "1407manina.mid",	3,	oboes
+    "1407manina.mid",	4,	cor  anglais
+    "1407manina.mid",	5,	clarinets in bb
+    "1407manina.mid",	6,	bassoons
+    "1407manina.mid",	7,	horns in f
+    "1407manina.mid",	8,	trombones
+    "1407manina.mid",	9,	timpani
+    "1407manina.mid",	10,	harp
+    "1407manina.mid",	11,	rodolfo
+    "1407manina.mid",	12,	1st violins
+    "1407manina.mid",	13,	2nd violins
+    "1407manina.mid",	14,	violas
+    "1407manina.mid",	15,	cellos
+"1407manina.mid",15,,10 14 15,,,
+    "1408nessun.mid",	1,	
+    "1408nessun.mid",	2,	track 1c0
+    "1408nessun.mid",	3,	voices
+    "1408nessun.mid",	4,	flutes
+    "1408nessun.mid",	5,	oboes
+    "1408nessun.mid",	6,	clarinets
+    "1408nessun.mid",	7,	bassoons
+    "1408nessun.mid",	8,	horns
+    "1408nessun.mid",	9,	trumpets
+    "1408nessun.mid",	10,	trombones
+    "1408nessun.mid",	11,	timpani
+    "1408nessun.mid",	12,	tubular bells
+    "1408nessun.mid",	13,	celesta
+    "1408nessun.mid",	14,	harp
+    "1408nessun.mid",	15,	violins
+    "1408nessun.mid",	16,	violas
+    "1408nessun.mid",	17,	violincellos
+"1408nessun.mid",17,,17,,,
+    "1409qmenvo.mid",	1,	flutes
+    "1409qmenvo.mid",	2,	oboes
+    "1409qmenvo.mid",	3,	cor anglais
+    "1409qmenvo.mid",	4,	clarinets in a
+    "1409qmenvo.mid",	5,	bass clarinets
+    "1409qmenvo.mid",	6,	bassoons
+    "1409qmenvo.mid",	7,	horns in f
+    "1409qmenvo.mid",	8,	harp
+    "1409qmenvo.mid",	9,	mussetta
+    "1409qmenvo.mid",	10,	1st violins
+    "1409qmenvo.mid",	11,	2nd violins
+    "1409qmenvo.mid",	12,	violas
+    "1409qmenvo.mid",	13,	cellos
+    "1409qmenvo.mid",	14,	basses
+    "1409qmenvo.mid",	15,	marcello / mimi
+    "1409qmenvo.mid",	16,	alcindoro
+    "1409qmenvo.mid",	17,	sequenced by
+    "1409qmenvo.mid",	18,	bill king 1997
+    "1409qmenvo.mid",	19,	wk@mecheng.strath.ac.uk
+"1409qmenvo.mid",19,,14,,,
+    "1410tinyhand.mid",	1,	flutes
+    "1410tinyhand.mid",	2,	oboes
+    "1410tinyhand.mid",	3,	cor  anglais
+    "1410tinyhand.mid",	4,	clarinets in bb
+    "1410tinyhand.mid",	5,	bassoons
+    "1410tinyhand.mid",	6,	horns in f
+    "1410tinyhand.mid",	7,	trombones
+    "1410tinyhand.mid",	8,	timpani
+    "1410tinyhand.mid",	9,	harp
+    "1410tinyhand.mid",	10,	rodolfo
+    "1410tinyhand.mid",	11,	solo violins
+    "1410tinyhand.mid",	12,	1st violins
+    "1410tinyhand.mid",	13,	2nd violins
+    "1410tinyhand.mid",	14,	violas
+    "1410tinyhand.mid",	15,	cellos
+    "1410tinyhand.mid",	16,	sequenced by
+    "1410tinyhand.mid",	17,	bill king 1997
+    "1410tinyhand.mid",	18,	wk@mecheng.strath.ac.uk
+"1410tinyhand.mid",18,,14 15 ,,,
+    "1411turan1.mid",	1,	piano
+    "1411turan1.mid",	2,	mandarino
+    "1411turan1.mid",	3,	calaf
+    "1411turan1.mid",	4,	timur
+    "1411turan1.mid",	5,	liu'
+    "1411turan1.mid",	6,	ping
+    "1411turan1.mid",	7,	pong
+    "1411turan1.mid",	8,	pang
+    "1411turan1.mid",	9,	coro m
+    "1411turan1.mid",	10,	sax int
+    "1411turan1.mid",	11,	xyl
+    "1411turan1.mid",	12,	gong
+    "1411turan1.mid",	13,	coro d
+    "1411turan1.mid",	14,	coro u
+"1411turan1.mid",14,,,,,
+    "1412turan2.mid",	1,	piano
+    "1412turan2.mid",	2,	mandarino
+    "1412turan2.mid",	3,	calaf
+    "1412turan2.mid",	4,	timur
+    "1412turan2.mid",	5,	liu'
+    "1412turan2.mid",	6,	ping
+    "1412turan2.mid",	7,	pong
+    "1412turan2.mid",	8,	pang
+    "1412turan2.mid",	9,	coro m
+    "1412turan2.mid",	10,	sax int
+    "1412turan2.mid",	11,	xyl
+    "1412turan2.mid",	12,	gong
+    "1412turan2.mid",	13,	coro d
+    "1412turan2.mid",	14,	coro u
+"1412turan2.mid",14,,,,,
+    "1429gpsenza.mid",	1,	senza mamma
+    "1429gpsenza.mid",	2,	from the opera
+    "1429gpsenza.mid",	3,	sister angelica
+    "1429gpsenza.mid",	4,	by g. puccini
+    "1429gpsenza.mid",	5,	
+    "1429gpsenza.mid",	6,	arr : g. pollen (2000)
+    "1429gpsenza.mid",	7,	
+    "1429gpsenza.mid",	8,	
+    "1429gpsenza.mid",	9,	
+    "1429gpsenza.mid",	10,	
+    "1429gpsenza.mid",	11,	
+    "1429gpsenza.mid",	12,	
+    "1429gpsenza.mid",	13,	
+"1429gpsenza.mid",13,,13,,,
+    "14arenskiy.mid",	1,	fairy tale by a.arenskiy
+    "14arenskiy.mid",	2,	piano1 --bbok
+    "14arenskiy.mid",	3,	piano2              
+"14arenskiy.mid",3,2 ,,2,3,
+    "155.mid",	1,	piano
+    "155.mid",	2,	marcello
+    "155.mid",	3,	rodolfo
+    "155.mid",	4,	colline
+    "155.mid",	5,	schaunard
+    "155.mid",	6,	benoit
+    "155.mid",	7,	mimi'
+    "155.mid",	8,	sysex
+    "155.mid",	9,	m.salvi
+    "155.mid",	10,	mtrack
+    "155.mid",	11,	on
+    "155.mid",	12,	+039(010)
+    "155.mid",	13,	2722510
+    "155.mid",	14,	genoa
+    "155.mid",	15,	this 2par
+    "155.mid",	16,	of 1¡act
+"155.mid",16,,,,,
+    "172.mid",	1,	pasaje midi--bbok
+    "172.mid",	2,	pasaje midi
+"172.mid",2,1 ,,,,
+    "1727clementi.mid",	1,	harpsichord high
+    "1727clementi.mid",	2,	harpsichord low
+"1727clementi.mid",2,,,1,2,
+    "1730gradu9.mid",	1,	r.h.
+    "1730gradu9.mid",	2,	l.h.
+    "1730gradu9.mid",	3,	gradus ad parnassum no.9
+    "1730gradu9.mid",	4,	by clementi, m
+    "1730gradu9.mid",	5,	sequence by
+    "1730gradu9.mid",	6,	gabriele giulimondi
+    "1730gradu9.mid",	7,	july, 1996
+    "1730gradu9.mid",	8,	giulim@mclink.it
+"1730gradu9.mid",8,,,1,2,
+    "1731fantasia2.mid",	1,	tr viol 1 bbok
+    "1731fantasia2.mid",	2,	tr viol 2 bbok
+    "1731fantasia2.mid",	3,	tenor vil 1
+    "1731fantasia2.mid",	4,	tenor viol 2
+    "1731fantasia2.mid",	5,	bass viol 1
+    "1731fantasia2.mid",	6,	bass viol 1
+    "1731fantasia2.mid",	7,	bass 2/contra
+    "1731fantasia2.mid",	8,	lute
+"1731fantasia2.mid",8,1 2 ,7,,,
+    "1736no67woodssowild.mid",	1,	instrument 1 bbok
+    "1736no67woodssowild.mid",	2,	instrument2
+"1736no67woodssowild.mid",2,1 ,,,,
+    "1830sonatin36reg.mid",	1,	staff
+    "1830sonatin36reg.mid",	2,	staff-1
+"1830sonatin36reg.mid",2,,,1,2,
+    "1875palestrina.mid",	1,	esercizio sopra la scala
+    "1875palestrina.mid",	2,	trumpet 1
+    "1875palestrina.mid",	3,	trumpet 2 bbok
+    "1875palestrina.mid",	4,	trumpet 3
+    "1875palestrina.mid",	5,	trumpet 4
+"1875palestrina.mid",5,3 ,,,,
+    "1886sonatin36n3reg.mid",	1,	c\right reg ritchie 2000
+    "1886sonatin36n3reg.mid",	2,	reg ritchie 2000
+"1886sonatin36n3reg.mid",2,,,1,2,
+    "1912belli1.mid",	1,	untitled
+    "1912belli1.mid",	2,	great organ--bbok
+    "1912belli1.mid",	3,	swell organ
+    "1912belli1.mid",	4,	pedal
+"1912belli1.mid",4,2 ,,,,
+    "1913absent.mid",	1,	l'absent, mŽlodie--bbok
+    "1913absent.mid",	2,	giunti bellini
+    "1913absent.mid",	3,	goninet@neuronnexion.fr
+"1913absent.mid",3,1 ,,2,3,
+    "1914norma_ov.mid",	1,	primo rh--bbok
+    "1914norma_ov.mid",	2,	primo lh--bbok
+    "1914norma_ov.mid",	3,	secondo rh
+    "1914norma_ov.mid",	4,	secondo lh
+"1914norma_ov.mid",4,1 2 ,,1 3,2 4,
+    "1915normamarchreg.mid",	1,	march from norma
+    "1915normamarchreg.mid",	2,	reginald steven ritchie--bbok
+    "1915normamarchreg.mid",	3,	copyright 2000 reg
+"1915normamarchreg.mid",3,2 ,,2,3,
+    "2070lachassereg.mid",	1,	copyright 2001 reg
+    "2070lachassereg.mid",	2,	reginald steven ritchie
+"2070lachassereg.mid",2,,,1,2,
+    "2150boh2no1.mid",	1,	piano
+    "2150boh2no1.mid",	2,	marcello
+    "2150boh2no1.mid",	3,	rodolfo
+    "2150boh2no1.mid",	4,	colline
+    "2150boh2no1.mid",	5,	schaunard
+    "2150boh2no1.mid",	6,	mimi
+    "2150boh2no1.mid",	7,	parpignol
+    "2150boh2no1.mid",	8,	musetta
+    "2150boh2no1.mid",	9,	alcindoro
+    "2150boh2no1.mid",	10,	coro d
+    "2150boh2no1.mid",	11,	coro u
+    "2150boh2no1.mid",	12,	coro m
+    "2150boh2no1.mid",	13,	tamb
+    "2150boh2no1.mid",	14,	sysex gm
+    "2150boh2no1.mid",	15,	maurizio 
+    "2150boh2no1.mid",	16,	salvi
+    "2150boh2no1.mid",	17,	c.sodogal
+    "2150boh2no1.mid",	18,	9/1genoa
+    "2150boh2no1.mid",	19,	16136
+    "2150boh2no1.mid",	20,	+39-10
+    "2150boh2no1.mid",	21,	2722510
+    "2150boh2no1.mid",	22,	masalv@
+    "2150boh2no1.mid",	23,	mbox.
+    "2150boh2no1.mid",	24,	vol.it
+    "2150boh2no1.mid",	25,	rodolfo=
+    "2150boh2no1.mid",	26,	mimi=
+    "2150boh2no1.mid",	27,	marcello=
+    "2150boh2no1.mid",	28,	schaunard
+    "2150boh2no1.mid",	29,	colline=
+    "2150boh2no1.mid",	30,	musetta=
+    "2150boh2no1.mid",	31,	parpignol
+    "2150boh2no1.mid",	32,	alcindoro
+"2150boh2no1.mid",32,,,,,
+    "2279laconsolreg.mid",	1,	copyright 2001 reg
+    "2279laconsolreg.mid",	2,	reginald steven ritchie
+"2279laconsolreg.mid",2,,,1,2,
+    "2336cr29g.mid",	1,	cramer's studies
+    "2336cr29g.mid",	2,	[...]
+    "2336cr29g.mid",	3,	by a. g. simonetto
+    "2336cr29g.mid",	4,	alessandrosimonetto@hotmail.com
+    "2336cr29g.mid",	5,	all rights reserved!
+    "2336cr29g.mid",	6,	
+    "2336cr29g.mid",	7,	
+    "2336cr29g.mid",	8,	
+    "2336cr29g.mid",	9,	
+    "2336cr29g.mid",	10,	
+    "2336cr29g.mid",	11,	
+    "2336cr29g.mid",	12,	
+"2336cr29g.mid",12,,,1,2,
+    "2425rosacruz1.mid",	1,	sequence 1 bbok
+    "2425rosacruz1.mid",	2,	sequence 2 bbok
+    "2425rosacruz1.mid",	3,	sequence 3 bbok
+    "2425rosacruz1.mid",	4,	sequence 4 bbok
+    "2425rosacruz1.mid",	5,	sequence
+"2425rosacruz1.mid",5,1 2 3 4 ,,,,
+    "254BOH1.mid",	1,	piano
+    "254BOH1.mid",	2,	marcello bbok
+    "254BOH1.mid",	3,	rodolfo bbok
+    "254BOH1.mid",	4,	colline bbok
+    "254BOH1.mid",	5,	schaunard
+    "254BOH1.mid",	6,	benoit bbok
+    "254BOH1.mid",	7,	mimi'
+    "254BOH1.mid",	8,	sysex
+    "254BOH1.mid",	9,	m.salvi
+    "254BOH1.mid",	10,	csodogali
+    "254BOH1.mid",	11,	9/1 16136
+    "254BOH1.mid",	12,	genova
+    "254BOH1.mid",	13,	+39(010)
+    "254BOH1.mid",	14,	2722510
+    "254BOH1.mid",	15,	mtrack
+    "254BOH1.mid",	16,	on
+    "254BOH1.mid",	17,	mar=fg
+    "254BOH1.mid",	18,	rod=cl
+    "254BOH1.mid",	19,	coll=crn
+    "254BOH1.mid",	20,	sch=trbn bbok
+    "254BOH1.mid",	21,	ben=tb bbok
+    "254BOH1.mid",	22,	mimi=ob bbok
+"254BOH1.mid",22,2 3 4 6 20 21 22 ,,,,
+    "254BOH1_tr2.mid",	1,	
+    "254BOH1_tr2.mid",	2,	marcello bbok
+"254BOH1_tr2.mid",2,2 ,,,,
+    "262car_ante.mid",	1,	pasaje midi--bbok
+    "262car_ante.mid",	2,	pasaje midi
+"262car_ante.mid",2,1 ,,1,2,
+    "33apasnato.mid",	1,	cello-bbok
+    "33apasnato.mid",	2,	piano
+    "33apasnato.mid",	3,	piano
+"33apasnato.mid",3,1 ,,2,3,
+    "421hungdan5.mid",	1,	piano righthand--bbok
+    "421hungdan5.mid",	2,	piano left hand
+    "421hungdan5.mid",	3,	clarinet--bbok
+    "421hungdan5.mid",	4,	"hungarian     
+    "421hungdan5.mid",	5,	  dance no.5"  
+    "421hungdan5.mid",	6,	 by j. brahms  
+    "421hungdan5.mid",	7,	---------------
+    "421hungdan5.mid",	8,	midi'ized by:  
+    "421hungdan5.mid",	9,	  doug fetter  
+    "421hungdan5.mid",	10,	 nov. 27, 1989 
+    "421hungdan5.mid",	11,	***************
+"421hungdan5.mid",11,1 3 ,,1,2,
+    "548agnus.mid",	1,	cantus bbok
+    "548agnus.mid",	2,	altus
+    "548agnus.mid",	3,	tenor
+    "548agnus.mid",	4,	bassus
+"548agnus.mid",4,1 ,4,,,
+    "580elucev.mid",	1,	cavaradossi bbok
+    "580elucev.mid",	2,	cavaradossi bbok
+    "580elucev.mid",	3,	orquestra
+    "580elucev.mid",	4,	clarineta bbok
+    "580elucev.mid",	5,	cordas
+    "580elucev.mid",	6,	"e lucevan le stelle"
+    "580elucev.mid",	7,	da opera "tosca"
+    "580elucev.mid",	8,	de puccini
+    "580elucev.mid",	9,	sequenciado por
+    "580elucev.mid",	10,	paulo norberg bbok
+    "580elucev.mid",	11,	norberg@rio.com.br bbok
+"580elucev.mid",11,1 2 4 10 11 ,5,,,
+    "582zimarra.mid",	1,	english lyrics
+    "582zimarra.mid",	2,	italian lyrics
+    "582zimarra.mid",	3,	colline bbok
+    "582zimarra.mid",	4,	piano
+    "582zimarra.mid",	5,	music by g. puccini
+    "582zimarra.mid",	6,	arr.©1997 by
+    "582zimarra.mid",	7,	marco milano
+    "582zimarra.mid",	8,	lyrics entered by v.palleschi
+    "582zimarra.mid",	9,	with easykar95
+"582zimarra.mid",9,3 ,,,,
+    "67.mid",	1,	f.f.chopin  nocturne no.18 in e
+    "67.mid",	2,	right hand--bbok
+    "67.mid",	3,	left hand
+    "67.mid",	4,	pedal
+"67.mid",4,2 ,,4,3,
+    "727hmmtop95.mid",	1,	
+    "727hmmtop95.mid",	2,	
+    "727hmmtop95.mid",	3,	
+    "727hmmtop95.mid",	4,	
+    "727hmmtop95.mid",	5,	
+    "727hmmtop95.mid",	6,	
+    "727hmmtop95.mid",	7,	
+    "727hmmtop95.mid",	8,	
+    "727hmmtop95.mid",	9,	
+    "727hmmtop95.mid",	10,	
+    "727hmmtop95.mid",	11,	
+    "727hmmtop95.mid",	12,	
+    "727hmmtop95.mid",	13,	
+    "727hmmtop95.mid",	14,	
+    "727hmmtop95.mid",	15,	
+    "727hmmtop95.mid",	16,	
+"727hmmtop95.mid",16,,7,,,
+    "760fiveroma.mid",	1,	guitar i--bbok
+    "760fiveroma.mid",	2,	guitar ii
+"760fiveroma.mid",2,1 ,,,,
+    "813czerny1reg.mid",	1,	action of fingers opus.740 book 1, composed by carl czerny
+    "813czerny1reg.mid",	2,	sequenced by reginald steven ritchie copyright july 1999
+    "813czerny1reg.mid",	3,	email earthlink@iname.com
+    "813czerny1reg.mid",	4,	www.ndirect.co.uk/~regr/page7.htm  (classical site)
+"813czerny1reg.mid",4,,,1,2,
+    "831czerny2eg.mid",	1,	passing under the thumb composed by karl czerny
+    "831czerny2eg.mid",	2,	sequenced by reginald steven ritchie copyright july 1999
+    "831czerny2eg.mid",	3,	email deathstar@writeme.com
+    "831czerny2eg.mid",	4,	www.ndirect.co.uk/~regr/page7.htm  (classical site)
+"831czerny2eg.mid",4,,,1,2,
+    "843guitar.mid",	1,	843guitar
+    "843guitar.mid",	2,	siciliana by carulli--bbok
+    "843guitar.mid",	3,	siciliana by carulli-2
+    "843guitar.mid",	4,	r.fennimore--bbok
+    "843guitar.mid",	5,	r.fennimore-2
+    "843guitar.mid",	6,	tempo track
+"843guitar.mid",6,2 4 ,5,,,
+    "863czerny6reg.mid",	1,	staff
+    "863czerny6reg.mid",	2,	staff-1
+"863czerny6reg.mid",2,,,1,2,
+    "870czerny7reg.mid",	1,	staff
+    "870czerny7reg.mid",	2,	staff-1
+"870czerny7reg.mid",2,,,1,2,
+    "889czerny8reg.mid",	1,	staff
+    "889czerny8reg.mid",	2,	staff-1
+"889czerny8reg.mid",2,,,1,2,
+    "952czerny9reg.mid",	1,	staff
+    "952czerny9reg.mid",	2,	staff-1
+"952czerny9reg.mid",2,,,1,2,
+    "982czerny11reg.mid",	1,	staff
+    "982czerny11reg.mid",	2,	staff-1
+"982czerny11reg.mid",2,,,1,2,
+    "983czerny12reg.mid",	1,	staff
+    "983czerny12reg.mid",	2,	staff-1
+"983czerny12reg.mid",2,,,1,2,
+    "ADAGOP26.mid",	1,	2.adagio in gm
+    "ADAGOP26.mid",	2,	by max bruch bbok bbok
+"ADAGOP26.mid",2,2 ,,2,1,
+    "ALKANCHM.mid",	1,	pasaje midi
+    "ALKANCHM.mid",	2,	rh--bbok
+    "ALKANCHM.mid",	3,	lh
+"ALKANCHM.mid",3,2 ,,2,3,
+    "ALKN61N3.mid",	1,	m: d:--bbok
+    "ALKN61N3.mid",	2,	m: s:
+    "ALKN61N3.mid",	3,	pedals
+"ALKN61N3.mid",3,1 ,,1,2,
+    "ALKN61N4.mid",	1,	m: d:--bbok
+    "ALKN61N4.mid",	2,	m: s:
+    "ALKN61N4.mid",	3,	ped:
+"ALKN61N4.mid",3,1 ,,1,2,
+    "A_bach1.mid",	1,	piano   (bb)
+    "A_bach1.mid",	2,	melody  (bb)--bbok
+"A_bach1.mid",2,2 ,,2,1,
+    "A_mozrt3.mid",	1,	piano   (bb)
+    "A_mozrt3.mid",	2,	melody  (bb)--bbok
+"A_mozrt3.mid",2,2 ,,2,1,
+    "Air_On_The_G_String.mid",	1,	melody--bbok
+    "Air_On_The_G_String.mid",	2,	accompaniment
+    "Air_On_The_G_String.mid",	3,	accompaniment
+    "Air_On_The_G_String.mid",	4,	pizzicato bass
+"Air_On_The_G_String.mid",4,1 ,4,,,
+    "Arcadelt_SapetAmanti.mid",	1,	sapet'amanti
+    "Arcadelt_SapetAmanti.mid",	2,	s bbok
+    "Arcadelt_SapetAmanti.mid",	3,	a
+    "Arcadelt_SapetAmanti.mid",	4,	t
+    "Arcadelt_SapetAmanti.mid",	5,	b
+"Arcadelt_SapetAmanti.mid",5,2 ,5,,,
+    "Artists_Life_Waltz_Stra.MID",	1,	bass ( bb ) 
+    "Artists_Life_Waltz_Stra.MID",	2,	piano ( bb )
+    "Artists_Life_Waltz_Stra.MID",	3,	guitar ( bb ) 
+    "Artists_Life_Waltz_Stra.MID",	4,	strings ( bb ) 
+    "Artists_Life_Waltz_Stra.MID",	5,	melody ( bb )--bbok
+"Artists_Life_Waltz_Stra.MID",5,5 ,1,,,
+    "Ascendens_Christus_In_Altum_2_Gloria_1s.mid",	1,	1s bbok
+    "Ascendens_Christus_In_Altum_2_Gloria_1s.mid",	2,	2s
+    "Ascendens_Christus_In_Altum_2_Gloria_1s.mid",	3,	c
+    "Ascendens_Christus_In_Altum_2_Gloria_1s.mid",	4,	t
+    "Ascendens_Christus_In_Altum_2_Gloria_1s.mid",	5,	b
+"Ascendens_Christus_In_Altum_2_Gloria_1s.mid",5,1 ,5,,,
+    "Ascendens_Christus_In_Altum_6_Agnus_Dei_1s.mid",	1,	1s bbok
+    "Ascendens_Christus_In_Altum_6_Agnus_Dei_1s.mid",	2,	2s
+    "Ascendens_Christus_In_Altum_6_Agnus_Dei_1s.mid",	3,	c
+    "Ascendens_Christus_In_Altum_6_Agnus_Dei_1s.mid",	4,	1t
+    "Ascendens_Christus_In_Altum_6_Agnus_Dei_1s.mid",	5,	2t
+    "Ascendens_Christus_In_Altum_6_Agnus_Dei_1s.mid",	6,	b
+"Ascendens_Christus_In_Altum_6_Agnus_Dei_1s.mid",6,1 ,6,,,
+    "Asperges_Me_b.mid",	1,	s
+    "Asperges_Me_b.mid",	2,	c
+    "Asperges_Me_b.mid",	3,	t
+    "Asperges_Me_b.mid",	4,	b bbok
+"Asperges_Me_b.mid",4,4 ,,,,
+    "AveMariaVictoria.mid",	1,	s bbok
+    "AveMariaVictoria.mid",	2,	a
+    "AveMariaVictoria.mid",	3,	t
+    "AveMariaVictoria.mid",	4,	b
+"AveMariaVictoria.mid",4,1 ,4,,,
+    "Ave_Maria.mid",	1,	ave maria
+    "Ave_Maria.mid",	2,	myriad karaoke
+    "Ave_Maria.mid",	3,	words
+    "Ave_Maria.mid",	4,	voix--bbok
+    "Ave_Maria.mid",	5,	violons
+    "Ave_Maria.mid",	6,	péd.orgue
+    "Ave_Maria.mid",	7,	cordes
+"Ave_Maria.mid",7,4 ,6,,,
+    "Ave_Maria_Palestrina.mid",	1,	ave maria bbok
+    "Ave_Maria_Palestrina.mid",	2,	words
+    "Ave_Maria_Palestrina.mid",	3,	
+    "Ave_Maria_Palestrina.mid",	4,	
+    "Ave_Maria_Palestrina.mid",	5,	
+"Ave_Maria_Palestrina.mid",5,1 ,5,,,
+    "Ave_Maria_a_8_1b.mid",	1,	1s bbok
+    "Ave_Maria_a_8_1b.mid",	2,	1c
+    "Ave_Maria_a_8_1b.mid",	3,	1t
+    "Ave_Maria_a_8_1b.mid",	4,	1b
+    "Ave_Maria_a_8_1b.mid",	5,	2s bbok
+    "Ave_Maria_a_8_1b.mid",	6,	2c
+    "Ave_Maria_a_8_1b.mid",	7,	2t
+    "Ave_Maria_a_8_1b.mid",	8,	2b
+"Ave_Maria_a_8_1b.mid",8,1 5 ,4 8,,,
+    "Ave_Regina_1_Kyrie_1b.mid",	1,	1s bbok
+    "Ave_Regina_1_Kyrie_1b.mid",	2,	1c
+    "Ave_Regina_1_Kyrie_1b.mid",	3,	1t bbok
+    "Ave_Regina_1_Kyrie_1b.mid",	4,	1b
+    "Ave_Regina_1_Kyrie_1b.mid",	5,	2s
+    "Ave_Regina_1_Kyrie_1b.mid",	6,	2c
+    "Ave_Regina_1_Kyrie_1b.mid",	7,	2t bbok
+    "Ave_Regina_1_Kyrie_1b.mid",	8,	2b
+"Ave_Regina_1_Kyrie_1b.mid",8,1 3 7 ,4 8,,,
+    "Ave_Regina_Caelorum_a_5_1c.mid",	1,	s
+    "Ave_Regina_Caelorum_a_5_1c.mid",	2,	1c bbok
+    "Ave_Regina_Caelorum_a_5_1c.mid",	3,	2c
+    "Ave_Regina_Caelorum_a_5_1c.mid",	4,	t
+    "Ave_Regina_Caelorum_a_5_1c.mid",	5,	b
+"Ave_Regina_Caelorum_a_5_1c.mid",5,2 ,5,,,
+    "BRAHMS_M.mid",	1,	johannes brahms:
+    "BRAHMS_M.mid",	2,	  piano primo  {1}--bbok
+    "BRAHMS_M.mid",	3,	  piano secondo  {1}
+    "BRAHMS_M.mid",	4,	  wow!
+"BRAHMS_M.mid",4,2 ,3,,,
+    "BR_120A1.mid",	1,	sonata in f, op.120--bbok
+    "BR_120A1.mid",	2,	for clarinet and piano by johan
+    "BR_120A1.mid",	3,	midi by marty weimer  1/5/98
+"BR_120A1.mid",3,1 ,,2,3,
+    "BR_120A2.mid",	1,	sonata in f, op.120--bbok
+    "BR_120A2.mid",	2,	for clarinet and piano by johan
+    "BR_120A2.mid",	3,	midi by marty weimer 1/5/98
+"BR_120A2.mid",3,1 ,,2,3,
+    "BR_120A3.mid",	1,	sonata in f, op.120--bbok
+    "BR_120A3.mid",	2,	for clarinet and piano by johan
+    "BR_120A3.mid",	3,	midi by marty weimer 1/8/98
+"BR_120A3.mid",3,1 ,,2,3,
+    "BR_120A4.mid",	1,	sonata in f, op.120--bbok
+    "BR_120A4.mid",	2,	for clarinet and piano by johan
+    "BR_120A4.mid",	3,	midi by marty weimer 1/5/98
+"BR_120A4.mid",3,1 ,,2,3,
+    "BR_120B1.mid",	1,	sonata in e flat--bbok
+    "BR_120B1.mid",	2,	by johannes brahms op.120 no.2
+    "BR_120B1.mid",	3,	1st movement - allegro amabile
+"BR_120B1.mid",3,1 ,,2,3,
+    "BR_120B2.mid",	1,	sonata--bbok
+    "BR_120B2.mid",	2,	in e flat, op.120 no.2  by j. b
+    "BR_120B2.mid",	3,	2nd mvmt.  allegro appassionato
+"BR_120B2.mid",3,1 ,,2,3,
+    "BR_120B3.mid",	1,	sonata in e flat--bbok
+    "BR_120B3.mid",	2,	op.120, no.2 by johannes brahms
+    "BR_120B3.mid",	3,	midi by marty weimer 4/3/97
+"BR_120B3.mid",3,1 ,,2,3,
+    "Beethoven_Symphony_#5.MID",	1,	piano ( bb )
+    "Beethoven_Symphony_#5.MID",	2,	guitar ( bb ) 
+    "Beethoven_Symphony_#5.MID",	3,	strings ( bb ) 
+    "Beethoven_Symphony_#5.MID",	4,	melody ( bb )--bbok
+"Beethoven_Symphony_#5.MID",4,4 ,,,,
+    "Berlioz_Hector_Absence.mid",	1,	absence (no. 4)
+    "Berlioz_Hector_Absence.mid",	2,	soft karaoke
+    "Berlioz_Hector_Absence.mid",	3,	words
+    "Berlioz_Hector_Absence.mid",	4,	english (open lyrics window)
+    "Berlioz_Hector_Absence.mid",	5,	french (open lyrics)--bbok
+    "Berlioz_Hector_Absence.mid",	6,	vocal line (open staff)--bbok
+    "Berlioz_Hector_Absence.mid",	7,	piano (treble)
+    "Berlioz_Hector_Absence.mid",	8,	piano (bass)
+    "Berlioz_Hector_Absence.mid",	9,	piano (bass)
+    "Berlioz_Hector_Absence.mid",	10,	piano (treble)
+"Berlioz_Hector_Absence.mid",10,5 6 ,8 9,,,
+    "Berlioz_Hector_AuCimeti.mid",	1,	au cimetière (no. 5)
+    "Berlioz_Hector_AuCimeti.mid",	2,	soft karaoke
+    "Berlioz_Hector_AuCimeti.mid",	3,	words
+    "Berlioz_Hector_AuCimeti.mid",	4,	english (open lyrics window)
+    "Berlioz_Hector_AuCimeti.mid",	5,	french (open lyrics)--bbok
+    "Berlioz_Hector_AuCimeti.mid",	6,	vocal line (open staff)--bbok
+    "Berlioz_Hector_AuCimeti.mid",	7,	piano (treble)
+    "Berlioz_Hector_AuCimeti.mid",	8,	piano (bass)
+    "Berlioz_Hector_AuCimeti.mid",	9,	piano (bass)
+    "Berlioz_Hector_AuCimeti.mid",	10,	piano (treble)
+"Berlioz_Hector_AuCimeti.mid",10,5 6 ,8,,,
+    "Berlioz_Hector_LeSpectre.mid",	1,	le spectre de la rose (no. 2)
+    "Berlioz_Hector_LeSpectre.mid",	2,	soft karaoke
+    "Berlioz_Hector_LeSpectre.mid",	3,	words
+    "Berlioz_Hector_LeSpectre.mid",	4,	english (open lyrics window)
+    "Berlioz_Hector_LeSpectre.mid",	5,	french (open lyrics)--bbok
+    "Berlioz_Hector_LeSpectre.mid",	6,	vocal line (open staff)--bbok
+    "Berlioz_Hector_LeSpectre.mid",	7,	piano (treble)--bbok
+    "Berlioz_Hector_LeSpectre.mid",	8,	piano (bass)
+    "Berlioz_Hector_LeSpectre.mid",	9,	piano (bass)
+    "Berlioz_Hector_LeSpectre.mid",	10,	piano (treble)
+"Berlioz_Hector_LeSpectre.mid",10,5 6 7 ,8 9,,,
+    "Berlioz_Hector_LesNuits.mid",	1,	l'ile inconnue (no. 6)
+    "Berlioz_Hector_LesNuits.mid",	2,	soft karaoke
+    "Berlioz_Hector_LesNuits.mid",	3,	words
+    "Berlioz_Hector_LesNuits.mid",	4,	english (open lyrics window)
+    "Berlioz_Hector_LesNuits.mid",	5,	french (open lyrics)--bbok
+    "Berlioz_Hector_LesNuits.mid",	6,	vocal line (open staff)--bbok
+    "Berlioz_Hector_LesNuits.mid",	7,	piano (treble)
+    "Berlioz_Hector_LesNuits.mid",	8,	piano (bass)
+    "Berlioz_Hector_LesNuits.mid",	9,	piano (bass)
+    "Berlioz_Hector_LesNuits.mid",	10,	piano (treble)
+    "Berlioz_Hector_LesNuits.mid",	11,	piano (treble)
+"Berlioz_Hector_LesNuits.mid",11,5 6 ,8 9,,,
+    "Berlioz_Hector_SurLes.mid",	1,	sur les lagunes-(no 3)
+    "Berlioz_Hector_SurLes.mid",	2,	soft karaoke
+    "Berlioz_Hector_SurLes.mid",	3,	words
+    "Berlioz_Hector_SurLes.mid",	4,	english
+    "Berlioz_Hector_SurLes.mid",	5,	french--bbok
+    "Berlioz_Hector_SurLes.mid",	6,	vocal staff--bbok
+    "Berlioz_Hector_SurLes.mid",	7,	treble
+    "Berlioz_Hector_SurLes.mid",	8,	bass
+    "Berlioz_Hector_SurLes.mid",	9,	 bass
+    "Berlioz_Hector_SurLes.mid",	10,	treble
+"Berlioz_Hector_SurLes.mid",10,5 6 ,8 9,,,
+    "Berlioz_Hector_Villanelle.mid",	1,	villanelle (no. 1)
+    "Berlioz_Hector_Villanelle.mid",	2,	soft karaoke
+    "Berlioz_Hector_Villanelle.mid",	3,	words
+    "Berlioz_Hector_Villanelle.mid",	4,	english (open lyrics window)
+    "Berlioz_Hector_Villanelle.mid",	5,	french (open lyrics)--bbok
+    "Berlioz_Hector_Villanelle.mid",	6,	vocal line (open staff)--bbok
+    "Berlioz_Hector_Villanelle.mid",	7,	piano (treble)
+    "Berlioz_Hector_Villanelle.mid",	8,	piano (bass)
+    "Berlioz_Hector_Villanelle.mid",	9,	piano (treble)
+    "Berlioz_Hector_Villanelle.mid",	10,	piano (bass)
+"Berlioz_Hector_Villanelle.mid",10,5 6 ,8 10,,,
+    "Binchois11.mid",	1,	staff bbok
+    "Binchois11.mid",	2,	staff-1
+    "Binchois11.mid",	3,	staff-2
+"Binchois11.mid",3,1 ,2,,,
+    "Binchois12.mid",	1,	staff bbok
+    "Binchois12.mid",	2,	staff-1
+    "Binchois12.mid",	3,	staff-2
+"Binchois12.mid",3,1 ,2,,,
+    "Binchois14.mid",	1,	staff bbok
+    "Binchois14.mid",	2,	staff-1
+    "Binchois14.mid",	3,	staff-2
+"Binchois14.mid",3,1 ,3,,,
+    "Binchois5.mid",	1,	staff bbok
+    "Binchois5.mid",	2,	staff-1
+    "Binchois5.mid",	3,	staff-2
+    "Binchois5.mid",	4,	staff-3
+    "Binchois5.mid",	5,	tempo track
+"Binchois5.mid",5,1 ,4,,,
+    "Binchois6.mid",	1,	staff-3
+    "Binchois6.mid",	2,	staff-4 bbok
+    "Binchois6.mid",	3,	staff-1
+    "Binchois6.mid",	4,	staff-2
+"Binchois6.mid",4,2 ,,,,
+    "Bizet_Habanera.kar",	1,	soft karaoke
+    "Bizet_Habanera.kar",	2,	words
+    "Bizet_Habanera.kar",	3,	melody--bbok
+    "Bizet_Habanera.kar",	4,	drum
+    "Bizet_Habanera.kar",	5,	bass
+    "Bizet_Habanera.kar",	6,	keyboard
+    "Bizet_Habanera.kar",	7,	guitar 
+    "Bizet_Habanera.kar",	8,	string
+    "Bizet_Habanera.kar",	9,	harp                
+    "Bizet_Habanera.kar",	10,	bell                
+"Bizet_Habanera.kar",10,3 ,5 6,,,
+    "CANBRES.mid",	1,	veu 1--bbok
+    "CANBRES.mid",	2,	veu 2
+    "CANBRES.mid",	3,	veu 3
+"CANBRES.mid",3,1 ,2,,,
+    "Capriccio_h_moll_op.76_Nr.2.mid",	1,	rechte hand--bbok
+    "Capriccio_h_moll_op.76_Nr.2.mid",	2,	linke hand
+"Capriccio_h_moll_op.76_Nr.2.mid",2,1 ,,1,2,
+    "CaprichoArabe.mid",	1,	melody--bbok
+    "CaprichoArabe.mid",	2,	harmony
+    "CaprichoArabe.mid",	3,	7th fret harmonic
+    "CaprichoArabe.mid",	4,	12th fret harmonic
+    "CaprichoArabe.mid",	5,	fret noise
+    "CaprichoArabe.mid",	6,	sequenced by: c.d.r. tchiang
+    "CaprichoArabe.mid",	7,	webmaster@carlos.com.hk
+    "CaprichoArabe.mid",	8,	http://carlos.com.hk
+"CaprichoArabe.mid",8,1 ,,,,
+    "Cavmdfy.mid",	1,	 english 
+    "Cavmdfy.mid",	2,	 italian
+    "Cavmdfy.mid",	3,	strensmbl 2 bbok
+    "Cavmdfy.mid",	4,	strensmbl 1
+    "Cavmdfy.mid",	5,	tremlostrings
+    "Cavmdfy.mid",	6,	
+    "Cavmdfy.mid",	7,	prelude to: bbok
+    "Cavmdfy.mid",	8,	cavalleria rusticana
+    "Cavmdfy.mid",	9,	pietro mascagni (1863-1945)
+    "Cavmdfy.mid",	10,	©1997 midiopera co.
+    "Cavmdfy.mid",	11,	
+    "Cavmdfy.mid",	12,	vocal bbok
+    "Cavmdfy.mid",	13,	french horn
+    "Cavmdfy.mid",	14,	percussion
+    "Cavmdfy.mid",	15,	brasssection
+    "Cavmdfy.mid",	16,	orchst harp
+"Cavmdfy.mid",16,3 7 12 ,4 6,,,
+    "Ce_Moys_De_May_SATB_Janequin_Clement.mid",	1,	 bbok
+    "Ce_Moys_De_May_SATB_Janequin_Clement.mid",	2,	
+    "Ce_Moys_De_May_SATB_Janequin_Clement.mid",	3,	
+    "Ce_Moys_De_May_SATB_Janequin_Clement.mid",	4,	
+"Ce_Moys_De_May_SATB_Janequin_Clement.mid",4,1 ,4,,,
+    "Congratulamini_Mihi_1s.mid",	1,	1s bbok
+    "Congratulamini_Mihi_1s.mid",	2,	2s
+    "Congratulamini_Mihi_1s.mid",	3,	c
+    "Congratulamini_Mihi_1s.mid",	4,	1t
+    "Congratulamini_Mihi_1s.mid",	5,	2t
+    "Congratulamini_Mihi_1s.mid",	6,	b
+"Congratulamini_Mihi_1s.mid",6,1 ,6,,,
+    "Cum_Beatus_Ignatius_1s.mid",	1,	1s bbok
+    "Cum_Beatus_Ignatius_1s.mid",	2,	2s
+    "Cum_Beatus_Ignatius_1s.mid",	3,	c
+    "Cum_Beatus_Ignatius_1s.mid",	4,	t
+    "Cum_Beatus_Ignatius_1s.mid",	5,	b
+"Cum_Beatus_Ignatius_1s.mid",5,1 ,5,,,
+    "DANHON6.mid",	1,	veu 1--bbok
+    "DANHON6.mid",	2,	veu 2
+    "DANHON6.mid",	3,	veu 3
+"DANHON6.mid",3,1 ,,1,2,
+    "DUETK487.mid",	1,	bbok
+    "DUETK487.mid",	2,	veu 2
+    "DUETK487.mid",	3,	veu 3
+"DUETK487.mid",3,1 ,,1,2,
+    "De_Beata_Maria_1_Kyrie_1t.mid",	1,	s
+    "De_Beata_Maria_1_Kyrie_1t.mid",	2,	c
+    "De_Beata_Maria_1_Kyrie_1t.mid",	3,	1t bbok
+    "De_Beata_Maria_1_Kyrie_1t.mid",	4,	2t
+    "De_Beata_Maria_1_Kyrie_1t.mid",	5,	b
+"De_Beata_Maria_1_Kyrie_1t.mid",5,3 ,5,,,
+    "Divertimento_No.17_in_D_Major.mid",	0,	divertimento no.17 in d major
+"Divertimento_No.17_in_D_Major.mid",1,,,,,0
+    "Dixit_Dominus_bis_bis_b.mid",	1,	s bbok
+    "Dixit_Dominus_bis_bis_b.mid",	2,	c
+    "Dixit_Dominus_bis_bis_b.mid",	3,	t
+    "Dixit_Dominus_bis_bis_b.mid",	4,	b
+"Dixit_Dominus_bis_bis_b.mid",4,1 ,4,,,
+    "Don_Giovanni1.mid",	1,	flutes
+    "Don_Giovanni1.mid",	2,	oboes
+    "Don_Giovanni1.mid",	3,	clarinets in b
+    "Don_Giovanni1.mid",	4,	bassoons
+    "Don_Giovanni1.mid",	5,	horns in b
+    "Don_Giovanni1.mid",	6,	1st violins
+    "Don_Giovanni1.mid",	7,	2nd violins
+    "Don_Giovanni1.mid",	8,	violas
+    "Don_Giovanni1.mid",	9,	cello/basses
+    "Don_Giovanni1.mid",	10,	**don giovanni**
+    "Don_Giovanni1.mid",	11,	**don giovanni**
+    "Don_Giovanni1.mid",	12,	**don giovanni**
+"Don_Giovanni1.mid",12,,4 9,,,
+    "Don_Giovanni_By_W.A.Mozart_Deh_Vieni_Alla_Finestra.mid",	1,	soft karaoke
+    "Don_Giovanni_By_W.A.Mozart_Deh_Vieni_Alla_Finestra.mid",	2,	words
+    "Don_Giovanni_By_W.A.Mozart_Deh_Vieni_Alla_Finestra.mid",	3,	engl;ish - opern lyrics view
+    "Don_Giovanni_By_W.A.Mozart_Deh_Vieni_Alla_Finestra.mid",	4,	 italian - open lyrics view
+    "Don_Giovanni_By_W.A.Mozart_Deh_Vieni_Alla_Finestra.mid",	5,	bbok
+    "Don_Giovanni_By_W.A.Mozart_Deh_Vieni_Alla_Finestra.mid",	6,	violin
+    "Don_Giovanni_By_W.A.Mozart_Deh_Vieni_Alla_Finestra.mid",	7,	viola
+    "Don_Giovanni_By_W.A.Mozart_Deh_Vieni_Alla_Finestra.mid",	8,	cello
+    "Don_Giovanni_By_W.A.Mozart_Deh_Vieni_Alla_Finestra.mid",	9,	contrabass
+    "Don_Giovanni_By_W.A.Mozart_Deh_Vieni_Alla_Finestra.mid",	10,	maindolin
+"Don_Giovanni_By_W.A.Mozart_Deh_Vieni_Alla_Finestra.mid",10,5 ,8 9,,,
+    "Don_Giovanni_By_W.A.Mozart_La_Ci_Darem_La_Mano.mid",	1,	soft karaoke
+    "Don_Giovanni_By_W.A.Mozart_La_Ci_Darem_La_Mano.mid",	2,	words
+    "Don_Giovanni_By_W.A.Mozart_La_Ci_Darem_La_Mano.mid",	3,	zerlina--bbok
+    "Don_Giovanni_By_W.A.Mozart_La_Ci_Darem_La_Mano.mid",	4,	don giovanni--bbok
+    "Don_Giovanni_By_W.A.Mozart_La_Ci_Darem_La_Mano.mid",	5,	piano
+    "Don_Giovanni_By_W.A.Mozart_La_Ci_Darem_La_Mano.mid",	6,	music by w.a. mozart
+    "Don_Giovanni_By_W.A.Mozart_La_Ci_Darem_La_Mano.mid",	7,	arr.©1996 by
+    "Don_Giovanni_By_W.A.Mozart_La_Ci_Darem_La_Mano.mid",	8,	marco milano
+    "Don_Giovanni_By_W.A.Mozart_La_Ci_Darem_La_Mano.mid",	9,	melody--bbok
+"Don_Giovanni_By_W.A.Mozart_La_Ci_Darem_La_Mano.mid",9,3 4 9 ,,,,
+    "Don_Giovanni_By_W.A.Mozart_La_Ci_Darem_La_Mano_b.mid",	1,	soft karaoke
+    "Don_Giovanni_By_W.A.Mozart_La_Ci_Darem_La_Mano_b.mid",	2,	words
+    "Don_Giovanni_By_W.A.Mozart_La_Ci_Darem_La_Mano_b.mid",	3,	zerlina
+    "Don_Giovanni_By_W.A.Mozart_La_Ci_Darem_La_Mano_b.mid",	4,	bbok
+    "Don_Giovanni_By_W.A.Mozart_La_Ci_Darem_La_Mano_b.mid",	5,	piano
+    "Don_Giovanni_By_W.A.Mozart_La_Ci_Darem_La_Mano_b.mid",	6,	music by w.a. mozart
+    "Don_Giovanni_By_W.A.Mozart_La_Ci_Darem_La_Mano_b.mid",	7,	arr.©1996 by
+    "Don_Giovanni_By_W.A.Mozart_La_Ci_Darem_La_Mano_b.mid",	8,	marco milano
+    "Don_Giovanni_By_W.A.Mozart_La_Ci_Darem_La_Mano_b.mid",	9,	bbok
+"Don_Giovanni_By_W.A.Mozart_La_Ci_Darem_La_Mano_b.mid",9,4 9 ,,,,
+    "Dufay_Lamentio_Sanctae_Matris_Ecclesiae.mid",	1,	
+    "Dufay_Lamentio_Sanctae_Matris_Ecclesiae.mid",	2,	
+    "Dufay_Lamentio_Sanctae_Matris_Ecclesiae.mid",	3,	
+    "Dufay_Lamentio_Sanctae_Matris_Ecclesiae.mid",	4,	 bbok
+"Dufay_Lamentio_Sanctae_Matris_Ecclesiae.mid",4,4 ,1,,,
+    "EINE_KLI.mid",	0,	eine kleine nachtmusik
+"EINE_KLI.mid",1,,,,,0
+    "FW008.mid",	1,	track 1 bbok
+    "FW008.mid",	2,	midi
+"FW008.mid",2,1 ,,,,2
+    "FW024.mid",	1,	track 1 bbok
+    "FW024.mid",	2,	midi
+"FW024.mid",2,1 ,,,,2
+    "FW061.mid",	1,	track 1 bbok
+    "FW061.mid",	2,	midi
+"FW061.mid",2,1 ,,,,2
+    "FW156.mid",	1,	track 1 bbok
+    "FW156.mid",	2,	track 2
+"FW156.mid",2,1 ,,,,2
+    "FW164.mid",	1,	track 1 bbok
+    "FW164.mid",	2,	track 2
+"FW164.mid",2,1 ,,,,2
+    "FW173.mid",	1,	track 1 bbok
+    "FW173.mid",	2,	midi
+"FW173.mid",2,1 ,,,,2
+    "FW191.mid",	1,	track 1 bbok
+    "FW191.mid",	2,	track 2
+"FW191.mid",2,1 ,,,,2
+    "FW252.mid",	1,	track 1 bbok
+    "FW252.mid",	2,	track 2
+"FW252.mid",2,1 ,,,,2
+    "Falsobordon_4_1t.mid",	1,	s
+    "Falsobordon_4_1t.mid",	2,	c
+    "Falsobordon_4_1t.mid",	3,	1t bbok
+    "Falsobordon_4_1t.mid",	4,	2t
+    "Falsobordon_4_1t.mid",	5,	b
+"Falsobordon_4_1t.mid",5,3 ,5,,,
+    "GMMOZ550.mid",	1,	bbok
+    "GMMOZ550.mid",	2,	cello
+    "GMMOZ550.mid",	3,	strings1
+    "GMMOZ550.mid",	4,	bbok
+    "GMMOZ550.mid",	5,	bassoon
+    "GMMOZ550.mid",	6,	flute
+    "GMMOZ550.mid",	7,	oboe
+    "GMMOZ550.mid",	8,	horn
+    "GMMOZ550.mid",	9,	mozart
+    "GMMOZ550.mid",	10,	symphony in g minor
+    "GMMOZ550.mid",	11,	k550
+    "GMMOZ550.mid",	12,	(c) 1994
+    "GMMOZ550.mid",	13,	creative labs inc.
+    "GMMOZ550.mid",	14,	recorded by dr. chew
+"GMMOZ550.mid",14,1 4 ,8,,,
+    "Gaudeamus_5_Benedictus_1c.mid",	1,	1s bbok
+    "Gaudeamus_5_Benedictus_1c.mid",	2,	2s
+    "Gaudeamus_5_Benedictus_1c.mid",	3,	1c
+    "Gaudeamus_5_Benedictus_1c.mid",	4,	2c
+    "Gaudeamus_5_Benedictus_1c.mid",	5,	t
+    "Gaudeamus_5_Benedictus_1c.mid",	6,	b
+"Gaudeamus_5_Benedictus_1c.mid",6,1 ,6,,,
+    "Gaudeamus_6_Agnus_Dei_1c.mid",	1,	1s bbok
+    "Gaudeamus_6_Agnus_Dei_1c.mid",	2,	2s
+    "Gaudeamus_6_Agnus_Dei_1c.mid",	3,	1c
+    "Gaudeamus_6_Agnus_Dei_1c.mid",	4,	2c
+    "Gaudeamus_6_Agnus_Dei_1c.mid",	5,	1t
+    "Gaudeamus_6_Agnus_Dei_1c.mid",	6,	2t
+    "Gaudeamus_6_Agnus_Dei_1c.mid",	7,	b
+"Gaudeamus_6_Agnus_Dei_1c.mid",7,1 ,7,,,
+    "Gaudent_In_Caelis_b.mid",	1,	s bbok
+    "Gaudent_In_Caelis_b.mid",	2,	c
+    "Gaudent_In_Caelis_b.mid",	3,	t
+    "Gaudent_In_Caelis_b.mid",	4,	b
+"Gaudent_In_Caelis_b.mid",4,1 ,4,,,
+    "Giuseppe_Giordani_Caro_Mio_Ben.mid",	1,	soft karaoke
+    "Giuseppe_Giordani_Caro_Mio_Ben.mid",	2,	words
+    "Giuseppe_Giordani_Caro_Mio_Ben.mid",	3,	caro mio ben
+    "Giuseppe_Giordani_Caro_Mio_Ben.mid",	4,	by giuseppe giordani
+    "Giuseppe_Giordani_Caro_Mio_Ben.mid",	5,	vocal--bbok
+    "Giuseppe_Giordani_Caro_Mio_Ben.mid",	6,	piano right
+    "Giuseppe_Giordani_Caro_Mio_Ben.mid",	7,	piano left
+    "Giuseppe_Giordani_Caro_Mio_Ben.mid",	8,	sequenced by kelson vibber
+"Giuseppe_Giordani_Caro_Mio_Ben.mid",8,5 ,,6,7,
+    "Giuseppe_Giordani_Caro_Mio_Ben_b.mid",	1,	soft karaoke
+    "Giuseppe_Giordani_Caro_Mio_Ben_b.mid",	2,	words
+    "Giuseppe_Giordani_Caro_Mio_Ben_b.mid",	3,	caro mio ben
+    "Giuseppe_Giordani_Caro_Mio_Ben_b.mid",	4,	by giuseppe giordani
+    "Giuseppe_Giordani_Caro_Mio_Ben_b.mid",	5,	bbok
+    "Giuseppe_Giordani_Caro_Mio_Ben_b.mid",	6,	piano right
+    "Giuseppe_Giordani_Caro_Mio_Ben_b.mid",	7,	piano left
+    "Giuseppe_Giordani_Caro_Mio_Ben_b.mid",	8,	sequenced by kelson vibber
+"Giuseppe_Giordani_Caro_Mio_Ben_b.mid",8,5 ,,6,7,
+    "Gloria_Palestrina_S.mid",	1,	staff bbok
+    "Gloria_Palestrina_S.mid",	2,	staff-1
+    "Gloria_Palestrina_S.mid",	3,	staff-2
+    "Gloria_Palestrina_S.mid",	4,	staff-3
+"Gloria_Palestrina_S.mid",4,1 ,4,,,
+    "Goldberg_Variation_#1_Alle.MID",	1,	piano ( bb )
+    "Goldberg_Variation_#1_Alle.MID",	2,	melody ( bb )--bbok
+"Goldberg_Variation_#1_Alle.MID",2,2 ,,2,1,
+    "Goldberg_Variations_Aria.MID",	1,	piano ( bb )
+    "Goldberg_Variations_Aria.MID",	2,	melody ( bb )--bbok
+"Goldberg_Variations_Aria.MID",2,2 ,,2,1,
+    "Grande_Valse_Brilliante_Cho.MID",	1,	bass ( bb ) 
+    "Grande_Valse_Brilliante_Cho.MID",	2,	piano ( bb )
+    "Grande_Valse_Brilliante_Cho.MID",	3,	melody ( bb )--bbok
+"Grande_Valse_Brilliante_Cho.MID",3,3 ,1,3,2,
+    "HASSLER_Galliard.mid",	1,	 bbok
+    "HASSLER_Galliard.mid",	2,	
+    "HASSLER_Galliard.mid",	3,	
+    "HASSLER_Galliard.mid",	4,	
+    "HASSLER_Galliard.mid",	5,	
+    "HASSLER_Galliard.mid",	6,	title: galliarda
+    "HASSLER_Galliard.mid",	7,	hans l. hassler
+    "HASSLER_Galliard.mid",	8,	by julio feliz
+"HASSLER_Galliard.mid",8,1 ,4,,,
+    "Hungarian_Dance#5_Brahms.MID",	1,	piano ( bb )
+    "Hungarian_Dance#5_Brahms.MID",	2,	melody ( bb )--bbok
+"Hungarian_Dance#5_Brahms.MID",2,2 ,,,,
+    "In_Manus_Tuas_1t.mid",	1,	s bbok
+    "In_Manus_Tuas_1t.mid",	2,	c
+    "In_Manus_Tuas_1t.mid",	3,	1t
+    "In_Manus_Tuas_1t.mid",	4,	2t
+    "In_Manus_Tuas_1t.mid",	5,	b
+"In_Manus_Tuas_1t.mid",5,1 ,5,,,
+    "Iste_Confessor_b.mid",	1,	s
+    "Iste_Confessor_b.mid",	2,	c
+    "Iste_Confessor_b.mid",	3,	t
+    "Iste_Confessor_b.mid",	4,	b bbok
+"Iste_Confessor_b.mid",4,4 ,,,,
+    "Jesu_Joy_of_Mans_Desiring_Bach.mid",	1,	bass ( bb ) 
+    "Jesu_Joy_of_Mans_Desiring_Bach.mid",	2,	piano ( bb )
+    "Jesu_Joy_of_Mans_Desiring_Bach.mid",	3,	guitar ( bb ) 
+    "Jesu_Joy_of_Mans_Desiring_Bach.mid",	4,	strings ( bb ) 
+    "Jesu_Joy_of_Mans_Desiring_Bach.mid",	5,	melody ( bb )--bbok
+"Jesu_Joy_of_Mans_Desiring_Bach.mid",5,5 ,1,,,
+    "KNOX1915.MID",	1,	flute & piccolo
+    "KNOX1915.MID",	2,	oboe & eng. horn bbok
+    "KNOX1915.MID",	3,	clarinet in a
+    "KNOX1915.MID",	4,	bassoon
+    "KNOX1915.MID",	5,	horn i
+    "KNOX1915.MID",	6,	horn ii
+    "KNOX1915.MID",	7,	trumpet in c
+    "KNOX1915.MID",	8,	harp
+    "KNOX1915.MID",	9,	triangle
+    "KNOX1915.MID",	10,	voice--bbok
+    "KNOX1915.MID",	11,	violin i
+    "KNOX1915.MID",	12,	violin ii
+    "KNOX1915.MID",	13,	viola
+    "KNOX1915.MID",	14,	cello
+    "KNOX1915.MID",	15,	double bass
+    "KNOX1915.MID",	16,	seq by davidsiu dss@po.cwru.edu
+"KNOX1915.MID",16,2 10 ,15,,,
+    "LJ5_Lamed_Matribus_Suis_Dixerunt_1s.mid",	1,	1s bbok
+    "LJ5_Lamed_Matribus_Suis_Dixerunt_1s.mid",	2,	2s
+    "LJ5_Lamed_Matribus_Suis_Dixerunt_1s.mid",	3,	c
+    "LJ5_Lamed_Matribus_Suis_Dixerunt_1s.mid",	4,	t
+    "LJ5_Lamed_Matribus_Suis_Dixerunt_1s.mid",	5,	b
+"LJ5_Lamed_Matribus_Suis_Dixerunt_1s.mid",5,1 ,5,,,
+    "LJ6_Aleph_Ego_Vir_1c.mid",	1,	1s
+    "LJ6_Aleph_Ego_Vir_1c.mid",	2,	2s
+    "LJ6_Aleph_Ego_Vir_1c.mid",	3,	1c bbok
+    "LJ6_Aleph_Ego_Vir_1c.mid",	4,	2c
+    "LJ6_Aleph_Ego_Vir_1c.mid",	5,	t
+    "LJ6_Aleph_Ego_Vir_1c.mid",	6,	b
+"LJ6_Aleph_Ego_Vir_1c.mid",6,3 ,6,,,
+    "LJ8_Aleph_Quomodo_Obscuratum_1s.mid",	1,	1s bbok
+    "LJ8_Aleph_Quomodo_Obscuratum_1s.mid",	2,	2s
+    "LJ8_Aleph_Quomodo_Obscuratum_1s.mid",	3,	c
+    "LJ8_Aleph_Quomodo_Obscuratum_1s.mid",	4,	t
+    "LJ8_Aleph_Quomodo_Obscuratum_1s.mid",	5,	b
+"LJ8_Aleph_Quomodo_Obscuratum_1s.mid",5,1 ,5,,,
+    "LJbis8_Aleph_Quomodo_Obscuratum_1s.mid",	1,	1s bbok
+    "LJbis8_Aleph_Quomodo_Obscuratum_1s.mid",	2,	2s
+    "LJbis8_Aleph_Quomodo_Obscuratum_1s.mid",	3,	c
+    "LJbis8_Aleph_Quomodo_Obscuratum_1s.mid",	4,	t
+    "LJbis8_Aleph_Quomodo_Obscuratum_1s.mid",	5,	b
+"LJbis8_Aleph_Quomodo_Obscuratum_1s.mid",5,1 ,5,,,
+    "LJbis9_Incipit_Oratio_Jeremiae_1b.mid",	1,	1s
+    "LJbis9_Incipit_Oratio_Jeremiae_1b.mid",	2,	2s
+    "LJbis9_Incipit_Oratio_Jeremiae_1b.mid",	3,	1c
+    "LJbis9_Incipit_Oratio_Jeremiae_1b.mid",	4,	2c
+    "LJbis9_Incipit_Oratio_Jeremiae_1b.mid",	5,	1t
+    "LJbis9_Incipit_Oratio_Jeremiae_1b.mid",	6,	2t
+    "LJbis9_Incipit_Oratio_Jeremiae_1b.mid",	7,	1b bbok
+    "LJbis9_Incipit_Oratio_Jeremiae_1b.mid",	8,	2b bbok
+"LJbis9_Incipit_Oratio_Jeremiae_1b.mid",8,7 8 ,,,,
+    "La_Boheme_Di_G.Puccini_Che_Gelida_Manina.mid",	1,	soft karaoke
+    "La_Boheme_Di_G.Puccini_Che_Gelida_Manina.mid",	2,	words
+    "La_Boheme_Di_G.Puccini_Che_Gelida_Manina.mid",	3,	words
+    "La_Boheme_Di_G.Puccini_Che_Gelida_Manina.mid",	4,	piano bbok
+    "La_Boheme_Di_G.Puccini_Che_Gelida_Manina.mid",	5,	rodolfo
+    "La_Boheme_Di_G.Puccini_Che_Gelida_Manina.mid",	6,	seq. by m.salvi
+"La_Boheme_Di_G.Puccini_Che_Gelida_Manina.mid",6,4 ,,3,4,
+    "La_Boheme_Di_G.Puccini_Vecchia_Zimarra_Senti.mid",	1,	soft karaoke
+    "La_Boheme_Di_G.Puccini_Vecchia_Zimarra_Senti.mid",	2,	words
+    "La_Boheme_Di_G.Puccini_Vecchia_Zimarra_Senti.mid",	3,	colline bbok
+    "La_Boheme_Di_G.Puccini_Vecchia_Zimarra_Senti.mid",	4,	piano
+    "La_Boheme_Di_G.Puccini_Vecchia_Zimarra_Senti.mid",	5,	music by g. puccini
+    "La_Boheme_Di_G.Puccini_Vecchia_Zimarra_Senti.mid",	6,	arr.©1997 by
+    "La_Boheme_Di_G.Puccini_Vecchia_Zimarra_Senti.mid",	7,	marco milano
+"La_Boheme_Di_G.Puccini_Vecchia_Zimarra_Senti.mid",7,3 ,,,,
+    "La_Boheme_Di_G._Puccini_Si_Mi_Chiamano_Mimi.mid",	1,	
+    "La_Boheme_Di_G._Puccini_Si_Mi_Chiamano_Mimi.mid",	2,	soft karaoke
+    "La_Boheme_Di_G._Puccini_Si_Mi_Chiamano_Mimi.mid",	3,	words
+    "La_Boheme_Di_G._Puccini_Si_Mi_Chiamano_Mimi.mid",	4,	piano
+    "La_Boheme_Di_G._Puccini_Si_Mi_Chiamano_Mimi.mid",	5,	mimi' bbok
+"La_Boheme_Di_G._Puccini_Si_Mi_Chiamano_Mimi.mid",5,5 ,,,,
+    "Laetatus_Sum_2_Gloria_1b.mid",	1,	1s
+    "Laetatus_Sum_2_Gloria_1b.mid",	2,	2s
+    "Laetatus_Sum_2_Gloria_1b.mid",	3,	1c
+    "Laetatus_Sum_2_Gloria_1b.mid",	4,	1b bbok
+    "Laetatus_Sum_2_Gloria_1b.mid",	5,	3s
+    "Laetatus_Sum_2_Gloria_1b.mid",	6,	2c
+    "Laetatus_Sum_2_Gloria_1b.mid",	7,	1t
+    "Laetatus_Sum_2_Gloria_1b.mid",	8,	2b
+    "Laetatus_Sum_2_Gloria_1b.mid",	9,	4s
+    "Laetatus_Sum_2_Gloria_1b.mid",	10,	3c
+    "Laetatus_Sum_2_Gloria_1b.mid",	11,	2t
+    "Laetatus_Sum_2_Gloria_1b.mid",	12,	3b
+"Laetatus_Sum_2_Gloria_1b.mid",12,4 ,8 12,,,
+    "Laetatus_Sum_4_Sanctus_y_Benedictus_1b.mid",	1,	track 0
+    "Laetatus_Sum_4_Sanctus_y_Benedictus_1b.mid",	2,	1s
+    "Laetatus_Sum_4_Sanctus_y_Benedictus_1b.mid",	3,	2s
+    "Laetatus_Sum_4_Sanctus_y_Benedictus_1b.mid",	4,	1c
+    "Laetatus_Sum_4_Sanctus_y_Benedictus_1b.mid",	5,	1b bbok
+    "Laetatus_Sum_4_Sanctus_y_Benedictus_1b.mid",	6,	3s
+    "Laetatus_Sum_4_Sanctus_y_Benedictus_1b.mid",	7,	2c
+    "Laetatus_Sum_4_Sanctus_y_Benedictus_1b.mid",	8,	1t
+    "Laetatus_Sum_4_Sanctus_y_Benedictus_1b.mid",	9,	2b
+    "Laetatus_Sum_4_Sanctus_y_Benedictus_1b.mid",	10,	4s bbok
+    "Laetatus_Sum_4_Sanctus_y_Benedictus_1b.mid",	11,	3c
+    "Laetatus_Sum_4_Sanctus_y_Benedictus_1b.mid",	12,	2t
+    "Laetatus_Sum_4_Sanctus_y_Benedictus_1b.mid",	13,	3b
+"Laetatus_Sum_4_Sanctus_y_Benedictus_1b.mid",13,5 10 ,9 13,,,
+    "Laetatus_Sum_5_Agnus_Dei_1b.mid",	1,	1s
+    "Laetatus_Sum_5_Agnus_Dei_1b.mid",	2,	2s
+    "Laetatus_Sum_5_Agnus_Dei_1b.mid",	3,	1c
+    "Laetatus_Sum_5_Agnus_Dei_1b.mid",	4,	1b bbok
+    "Laetatus_Sum_5_Agnus_Dei_1b.mid",	5,	3s
+    "Laetatus_Sum_5_Agnus_Dei_1b.mid",	6,	2c
+    "Laetatus_Sum_5_Agnus_Dei_1b.mid",	7,	1t
+    "Laetatus_Sum_5_Agnus_Dei_1b.mid",	8,	2b
+    "Laetatus_Sum_5_Agnus_Dei_1b.mid",	9,	4s
+    "Laetatus_Sum_5_Agnus_Dei_1b.mid",	10,	3c
+    "Laetatus_Sum_5_Agnus_Dei_1b.mid",	11,	2t
+    "Laetatus_Sum_5_Agnus_Dei_1b.mid",	12,	3b
+"Laetatus_Sum_5_Agnus_Dei_1b.mid",12,4 ,8 12,,,
+    "Le_Nozze_Di_Figaro_Di_W.A.Mozart_Porgi_Amor.mid",	1,	soft kara
+    "Le_Nozze_Di_Figaro_Di_W.A.Mozart_Porgi_Amor.mid",	2,	words
+    "Le_Nozze_Di_Figaro_Di_W.A.Mozart_Porgi_Amor.mid",	3,	english
+    "Le_Nozze_Di_Figaro_Di_W.A.Mozart_Porgi_Amor.mid",	4,	italian
+    "Le_Nozze_Di_Figaro_Di_W.A.Mozart_Porgi_Amor.mid",	5,	2 carinet
+    "Le_Nozze_Di_Figaro_Di_W.A.Mozart_Porgi_Amor.mid",	6,	2 fagotti
+    "Le_Nozze_Di_Figaro_Di_W.A.Mozart_Porgi_Amor.mid",	7,	2 corni i
+    "Le_Nozze_Di_Figaro_Di_W.A.Mozart_Porgi_Amor.mid",	8,	violino i
+    "Le_Nozze_Di_Figaro_Di_W.A.Mozart_Porgi_Amor.mid",	9,	violino 2
+    "Le_Nozze_Di_Figaro_Di_W.A.Mozart_Porgi_Amor.mid",	10,	viola
+    "Le_Nozze_Di_Figaro_Di_W.A.Mozart_Porgi_Amor.mid",	11,	bbok
+    "Le_Nozze_Di_Figaro_Di_W.A.Mozart_Porgi_Amor.mid",	12,	violoncel
+    "Le_Nozze_Di_Figaro_Di_W.A.Mozart_Porgi_Amor.mid",	13,	contrabas
+    "Le_Nozze_Di_Figaro_Di_W.A.Mozart_Porgi_Amor.mid",	14,	bbok
+"Le_Nozze_Di_Figaro_Di_W.A.Mozart_Porgi_Amor.mid",14,11 14 ,13,,,
+    "Le_Nozze_Di_Figaro_Di_W.A.Mozart_Voi_Che_Sapete.mid",	1,	soft karaoke
+    "Le_Nozze_Di_Figaro_Di_W.A.Mozart_Voi_Che_Sapete.mid",	2,	words
+    "Le_Nozze_Di_Figaro_Di_W.A.Mozart_Voi_Che_Sapete.mid",	3,	flute
+    "Le_Nozze_Di_Figaro_Di_W.A.Mozart_Voi_Che_Sapete.mid",	4,	oboe
+    "Le_Nozze_Di_Figaro_Di_W.A.Mozart_Voi_Che_Sapete.mid",	5,	clarinets in b
+    "Le_Nozze_Di_Figaro_Di_W.A.Mozart_Voi_Che_Sapete.mid",	6,	bassoons
+    "Le_Nozze_Di_Figaro_Di_W.A.Mozart_Voi_Che_Sapete.mid",	7,	horns in eb
+    "Le_Nozze_Di_Figaro_Di_W.A.Mozart_Voi_Che_Sapete.mid",	8,	1st violins
+    "Le_Nozze_Di_Figaro_Di_W.A.Mozart_Voi_Che_Sapete.mid",	9,	2nd violins
+    "Le_Nozze_Di_Figaro_Di_W.A.Mozart_Voi_Che_Sapete.mid",	10,	viola
+    "Le_Nozze_Di_Figaro_Di_W.A.Mozart_Voi_Che_Sapete.mid",	11,	bbok
+    "Le_Nozze_Di_Figaro_Di_W.A.Mozart_Voi_Che_Sapete.mid",	12,	cello
+"Le_Nozze_Di_Figaro_Di_W.A.Mozart_Voi_Che_Sapete.mid",12,11 ,12,,,
+    "Leroy_Anderson_Blue_tango.mid",	1,	"blue tango"
+    "Leroy_Anderson_Blue_tango.mid",	2,	  leroy anderson 1951
+    "Leroy_Anderson_Blue_tango.mid",	3,	sequenced by walter june
+    "Leroy_Anderson_Blue_tango.mid",	4,	 waltjune@winternet.com
+    "Leroy_Anderson_Blue_tango.mid",	5,	melody - treble--bbok
+    "Leroy_Anderson_Blue_tango.mid",	6,	melody - contrabase
+    "Leroy_Anderson_Blue_tango.mid",	7,	melody - base
+    "Leroy_Anderson_Blue_tango.mid",	8,	voice--bbok
+    "Leroy_Anderson_Blue_tango.mid",	9,	chords
+    "Leroy_Anderson_Blue_tango.mid",	10,	rhythm
+    "Leroy_Anderson_Blue_tango.mid",	11,	voice--bbok
+    "Leroy_Anderson_Blue_tango.mid",	12,	chords--bbok
+    "Leroy_Anderson_Blue_tango.mid",	13,	melody - combined
+    "Leroy_Anderson_Blue_tango.mid",	14,	sc-155 sysex
+"Leroy_Anderson_Blue_tango.mid",14,5 6 7 8 11 12 13 ,7,,,
+    "Letaniae_De_Beata_Virgine_1b.mid",	1,	1s bbok
+    "Letaniae_De_Beata_Virgine_1b.mid",	2,	1c
+    "Letaniae_De_Beata_Virgine_1b.mid",	3,	1t
+    "Letaniae_De_Beata_Virgine_1b.mid",	4,	1b
+    "Letaniae_De_Beata_Virgine_1b.mid",	5,	2s bbok
+    "Letaniae_De_Beata_Virgine_1b.mid",	6,	2c
+    "Letaniae_De_Beata_Virgine_1b.mid",	7,	2t
+    "Letaniae_De_Beata_Virgine_1b.mid",	8,	2b
+"Letaniae_De_Beata_Virgine_1b.mid",8,1 5 ,4 8,,,
+    "Light_Character_polka_Stra.MID",	1,	bass ( bb ) 
+    "Light_Character_polka_Stra.MID",	2,	piano ( bb )
+    "Light_Character_polka_Stra.MID",	3,	strings ( bb ) 
+    "Light_Character_polka_Stra.MID",	4,	melody ( bb )--bbok
+"Light_Character_polka_Stra.MID",4,4 ,1,,,
+    "Lucis_Creator_Optime_b.mid",	1,	s bbok
+    "Lucis_Creator_Optime_b.mid",	2,	c
+    "Lucis_Creator_Optime_b.mid",	3,	t bbok
+    "Lucis_Creator_Optime_b.mid",	4,	b bbok
+"Lucis_Creator_Optime_b.mid",4,1 3 4 ,,,,
+    "MOZ478_3.mid",	0,	violin
+"MOZ478_3.mid",1,,,,,0
+    "MOZART3.mid",	0,	untitled
+"MOZART3.mid",1,,,,,0
+    "MOZ_620.mid",	0,	accomp. queen of the night's aria from
+"MOZ_620.mid",1,,,,,0
+    "MOZ_PC_A_R1.mid",	0,	untitled
+"MOZ_PC_A_R1.mid",1,,,,,0
+    "Madama_Butterfly_Di_G.Puccini_Un_Bel_Di_Vedremo.mid",	1,	soft karaoke
+    "Madama_Butterfly_Di_G.Puccini_Un_Bel_Di_Vedremo.mid",	2,	words
+    "Madama_Butterfly_Di_G.Puccini_Un_Bel_Di_Vedremo.mid",	3,	butterfly bbok
+    "Madama_Butterfly_Di_G.Puccini_Un_Bel_Di_Vedremo.mid",	4,	piano
+    "Madama_Butterfly_Di_G.Puccini_Un_Bel_Di_Vedremo.mid",	5,	music by g. puccini
+    "Madama_Butterfly_Di_G.Puccini_Un_Bel_Di_Vedremo.mid",	6,	arr.©1997 by
+    "Madama_Butterfly_Di_G.Puccini_Un_Bel_Di_Vedremo.mid",	7,	marco milano
+"Madama_Butterfly_Di_G.Puccini_Un_Bel_Di_Vedremo.mid",7,3 ,,,,
+    "Magnificat_Primi_Toni_pares_1c.mid",	1,	s bbok
+    "Magnificat_Primi_Toni_pares_1c.mid",	2,	1c bbok
+    "Magnificat_Primi_Toni_pares_1c.mid",	3,	2c bbok
+    "Magnificat_Primi_Toni_pares_1c.mid",	4,	1t
+    "Magnificat_Primi_Toni_pares_1c.mid",	5,	2t
+    "Magnificat_Primi_Toni_pares_1c.mid",	6,	b
+"Magnificat_Primi_Toni_pares_1c.mid",6,1 2 3 ,6,,,
+    "Magnificat_Quinti_Toni_impares_1t.mid",	1,	s
+    "Magnificat_Quinti_Toni_impares_1t.mid",	2,	c
+    "Magnificat_Quinti_Toni_impares_1t.mid",	3,	1t bbok
+    "Magnificat_Quinti_Toni_impares_1t.mid",	4,	2t
+    "Magnificat_Quinti_Toni_impares_1t.mid",	5,	b
+"Magnificat_Quinti_Toni_impares_1t.mid",5,3 ,5,,,
+    "Magnificat_Tertii_Toni_impares_1t.mid",	1,	s
+    "Magnificat_Tertii_Toni_impares_1t.mid",	2,	c
+    "Magnificat_Tertii_Toni_impares_1t.mid",	3,	1t bbok
+    "Magnificat_Tertii_Toni_impares_1t.mid",	4,	2t
+    "Magnificat_Tertii_Toni_impares_1t.mid",	5,	b
+"Magnificat_Tertii_Toni_impares_1t.mid",5,3 ,5,,,
+    "March_In_D.mid",	1,	melody--bbok
+    "March_In_D.mid",	2,	harmony             
+"March_In_D.mid",2,1 ,,1,2,
+    "Merry_Widow_Waltz_F._Leha.MID",	1,	bass ( bb ) 
+    "Merry_Widow_Waltz_F._Leha.MID",	2,	piano ( bb )
+    "Merry_Widow_Waltz_F._Leha.MID",	3,	guitar ( bb ) 
+    "Merry_Widow_Waltz_F._Leha.MID",	4,	strings ( bb ) 
+    "Merry_Widow_Waltz_F._Leha.MID",	5,	melody ( bb )--bbok
+"Merry_Widow_Waltz_F._Leha.MID",5,5 ,1,,,
+    "Misa_Quarti_Toni_1_Kyrie.mid",	1,	s bbok
+    "Misa_Quarti_Toni_1_Kyrie.mid",	2,	c
+    "Misa_Quarti_Toni_1_Kyrie.mid",	3,	t
+    "Misa_Quarti_Toni_1_Kyrie.mid",	4,	b
+"Misa_Quarti_Toni_1_Kyrie.mid",4,1 ,4,,,
+    "Miserere_b.mid",	1,	s
+    "Miserere_b.mid",	2,	c
+    "Miserere_b.mid",	3,	t
+    "Miserere_b.mid",	4,	b bbok
+"Miserere_b.mid",4,4 ,,,,
+    "Monostatos.mid",	1,	track01
+    "Monostatos.mid",	2,	track02
+    "Monostatos.mid",	3,	track03
+    "Monostatos.mid",	4,	track04
+    "Monostatos.mid",	5,	track05
+    "Monostatos.mid",	6,	track06
+    "Monostatos.mid",	7,	track07
+    "Monostatos.mid",	8,	bbok
+    "Monostatos.mid",	9,	track09
+    "Monostatos.mid",	10,	sequenced 1995 by guenter nagler (austria)
+"Monostatos.mid",10,8 ,7,,,
+    "MozartNo01.mid",	1,	bbok
+    "MozartNo01.mid",	2,	pista 2
+    "MozartNo01.mid",	3,	pista 3
+    "MozartNo01.mid",	4,	pista 4
+"MozartNo01.mid",4,1 ,4,,,
+    "MozartNo05.mid",	1,	bbok
+    "MozartNo05.mid",	2,	pista 2
+    "MozartNo05.mid",	3,	pista 3
+    "MozartNo05.mid",	4,	pista 4
+"MozartNo05.mid",4,1 ,4,,,
+    "MozartNo10.mid",	1,	bbok
+    "MozartNo10.mid",	2,	pista 2
+    "MozartNo10.mid",	3,	pista 3
+    "MozartNo10.mid",	4,	pista 4
+"MozartNo10.mid",4,1 ,4,,,
+    "Mozart_Sonata14Movement1.mid",	1,	bbok
+    "Mozart_Sonata14Movement1.mid",	2,	bass clef
+"Mozart_Sonata14Movement1.mid",2,1 ,,1,2,
+    "Mozart_TwinkleLittleStar.mid",	1,	piano               
+    "Mozart_TwinkleLittleStar.mid",	2,	piano               
+"Mozart_TwinkleLittleStar.mid",2,,,,,
+    "Mozart_W.a._Dans_Un_Bois_Solitaire.mid",	1,	soft karaoke
+    "Mozart_W.a._Dans_Un_Bois_Solitaire.mid",	2,	words
+    "Mozart_W.a._Dans_Un_Bois_Solitaire.mid",	3,	english (open lyrics window)
+    "Mozart_W.a._Dans_Un_Bois_Solitaire.mid",	4,	bbok
+    "Mozart_W.a._Dans_Un_Bois_Solitaire.mid",	5,	bbok
+    "Mozart_W.a._Dans_Un_Bois_Solitaire.mid",	6,	piano part (treble)
+    "Mozart_W.a._Dans_Un_Bois_Solitaire.mid",	7,	piano part (bass)
+"Mozart_W.a._Dans_Un_Bois_Solitaire.mid",7,4 5 ,,6,7,
+    "Ne_Timeas_Maria_b.mid",	1,	s
+    "Ne_Timeas_Maria_b.mid",	2,	c
+    "Ne_Timeas_Maria_b.mid",	3,	t
+    "Ne_Timeas_Maria_b.mid",	4,	b bbok
+"Ne_Timeas_Maria_b.mid",4,4 ,,,,
+    "Nunc_Dimittis_b.mid",	1,	s
+    "Nunc_Dimittis_b.mid",	2,	c
+    "Nunc_Dimittis_b.mid",	3,	t bbok
+    "Nunc_Dimittis_b.mid",	4,	b bbok
+"Nunc_Dimittis_b.mid",4,3 4 ,,,,
+    "OD_08_Communio_1s.mid",	1,	1s bbok
+    "OD_08_Communio_1s.mid",	2,	2s
+    "OD_08_Communio_1s.mid",	3,	c
+    "OD_08_Communio_1s.mid",	4,	1t
+    "OD_08_Communio_1s.mid",	5,	2t
+    "OD_08_Communio_1s.mid",	6,	b
+"OD_08_Communio_1s.mid",6,1 ,6,,,
+    "O_Domine_Jesu_Christe_1c.mid",	1,	s
+    "O_Domine_Jesu_Christe_1c.mid",	2,	1c bbok
+    "O_Domine_Jesu_Christe_1c.mid",	3,	2c
+    "O_Domine_Jesu_Christe_1c.mid",	4,	1t
+    "O_Domine_Jesu_Christe_1c.mid",	5,	2t
+    "O_Domine_Jesu_Christe_1c.mid",	6,	b
+"O_Domine_Jesu_Christe_1c.mid",6,2 ,6,,,
+    "O_Magnum_Mysterium_1_Kyrie_b.mid",	1,	s
+    "O_Magnum_Mysterium_1_Kyrie_b.mid",	2,	c
+    "O_Magnum_Mysterium_1_Kyrie_b.mid",	3,	t
+    "O_Magnum_Mysterium_1_Kyrie_b.mid",	4,	b bbok
+"O_Magnum_Mysterium_1_Kyrie_b.mid",4,4 ,,,,
+    "O_Magnum_Mysterium_3_Credo_b.mid",	1,	s
+    "O_Magnum_Mysterium_3_Credo_b.mid",	2,	c
+    "O_Magnum_Mysterium_3_Credo_b.mid",	3,	t
+    "O_Magnum_Mysterium_3_Credo_b.mid",	4,	b bbok
+"O_Magnum_Mysterium_3_Credo_b.mid",4,4 ,,,,
+    "O_Quam_Gloriosum_2_Gloria_b.mid",	1,	s
+    "O_Quam_Gloriosum_2_Gloria_b.mid",	2,	c
+    "O_Quam_Gloriosum_2_Gloria_b.mid",	3,	t
+    "O_Quam_Gloriosum_2_Gloria_b.mid",	4,	b bbok
+"O_Quam_Gloriosum_2_Gloria_b.mid",4,4 ,,,,
+    "O_Regem_Caeli_1s.mid",	1,	1s bbok
+    "O_Regem_Caeli_1s.mid",	2,	2s
+    "O_Regem_Caeli_1s.mid",	3,	c
+    "O_Regem_Caeli_1s.mid",	4,	t
+"O_Regem_Caeli_1s.mid",4,1 ,,,,
+    "PA6.mid",	1,	track 1 bbok
+    "PA6.mid",	2,	track 2
+"PA6.mid",2,1 ,,,2,
+    "PALESTRINA_Adoramus_te_Christe.mid",	1,	adoramus te christe bbok
+    "PALESTRINA_Adoramus_te_Christe.mid",	2,	by g.p. da palestrina
+    "PALESTRINA_Adoramus_te_Christe.mid",	3,	midi by marty weimer
+    "PALESTRINA_Adoramus_te_Christe.mid",	4,	weimermt@libby.org  11/6/95
+    "PALESTRINA_Adoramus_te_Christe.mid",	5,	all  volumes set to 80
+"PALESTRINA_Adoramus_te_Christe.mid",5,1 ,4,,,
+    "Palestrina_Kyrie_Papae_Marcelli.mid",	1,	palestrina: kyrie
+    "Palestrina_Kyrie_Papae_Marcelli.mid",	2,	missa papae marcelli
+    "Palestrina_Kyrie_Papae_Marcelli.mid",	3,	arranger: robert a. austin
+    "Palestrina_Kyrie_Papae_Marcelli.mid",	4,	raaustin@aol.com
+    "Palestrina_Kyrie_Papae_Marcelli.mid",	5,	soprano i. (cantus) bbok
+    "Palestrina_Kyrie_Papae_Marcelli.mid",	6,	soprano ii. (altus)
+    "Palestrina_Kyrie_Papae_Marcelli.mid",	7,	contralto i. (tenor i.)
+    "Palestrina_Kyrie_Papae_Marcelli.mid",	8,	contralto ii. (tenor. ii)
+    "Palestrina_Kyrie_Papae_Marcelli.mid",	9,	bass i.
+    "Palestrina_Kyrie_Papae_Marcelli.mid",	10,	bass ii.
+"Palestrina_Kyrie_Papae_Marcelli.mid",10,5 ,9 10,,,
+    "Palestrina_Super_flumina_Babilonis.mid",	1,	super flumina babilonis bbok
+    "Palestrina_Super_flumina_Babilonis.mid",	2,	 bbok
+    "Palestrina_Super_flumina_Babilonis.mid",	3,	g.pl. da palestrina
+    "Palestrina_Super_flumina_Babilonis.mid",	4,	=====================
+    "Palestrina_Super_flumina_Babilonis.mid",	5,	www.musica-sacra.it
+"Palestrina_Super_flumina_Babilonis.mid",5,1 2 ,5,,,
+    "Palestrina_Surge_Propera_Amica_Mea_s.mid",	1,	s bbok
+    "Palestrina_Surge_Propera_Amica_Mea_s.mid",	2,	c
+    "Palestrina_Surge_Propera_Amica_Mea_s.mid",	3,	1t
+    "Palestrina_Surge_Propera_Amica_Mea_s.mid",	4,	2t
+    "Palestrina_Surge_Propera_Amica_Mea_s.mid",	5,	b
+"Palestrina_Surge_Propera_Amica_Mea_s.mid",5,1 ,5,,,
+    "Pietro_Mascagni_Cavalleria_Rusticana_Preludio_In_Dialetto_Siciliano.mid",	1,	pietro mascagni (1864-1945)
+    "Pietro_Mascagni_Cavalleria_Rusticana_Preludio_In_Dialetto_Siciliano.mid",	2,	words
+    "Pietro_Mascagni_Cavalleria_Rusticana_Preludio_In_Dialetto_Siciliano.mid",	3,	 english 
+    "Pietro_Mascagni_Cavalleria_Rusticana_Preludio_In_Dialetto_Siciliano.mid",	4,	 italian--bbok
+    "Pietro_Mascagni_Cavalleria_Rusticana_Preludio_In_Dialetto_Siciliano.mid",	5,	strensmbl 2
+    "Pietro_Mascagni_Cavalleria_Rusticana_Preludio_In_Dialetto_Siciliano.mid",	6,	strensmbl 1
+    "Pietro_Mascagni_Cavalleria_Rusticana_Preludio_In_Dialetto_Siciliano.mid",	7,	tremlostrings
+    "Pietro_Mascagni_Cavalleria_Rusticana_Preludio_In_Dialetto_Siciliano.mid",	8,	pasaje midi
+    "Pietro_Mascagni_Cavalleria_Rusticana_Preludio_In_Dialetto_Siciliano.mid",	9,	prelude to:--bbok
+    "Pietro_Mascagni_Cavalleria_Rusticana_Preludio_In_Dialetto_Siciliano.mid",	10,	cavalleria rusticana
+    "Pietro_Mascagni_Cavalleria_Rusticana_Preludio_In_Dialetto_Siciliano.mid",	11,	pietro mascagni (1863-1945)
+    "Pietro_Mascagni_Cavalleria_Rusticana_Preludio_In_Dialetto_Siciliano.mid",	12,	midiopera --bbok
+    "Pietro_Mascagni_Cavalleria_Rusticana_Preludio_In_Dialetto_Siciliano.mid",	13,	pasaje midi
+    "Pietro_Mascagni_Cavalleria_Rusticana_Preludio_In_Dialetto_Siciliano.mid",	14,	vocal--bbok
+    "Pietro_Mascagni_Cavalleria_Rusticana_Preludio_In_Dialetto_Siciliano.mid",	15,	french horn
+    "Pietro_Mascagni_Cavalleria_Rusticana_Preludio_In_Dialetto_Siciliano.mid",	16,	percussion
+    "Pietro_Mascagni_Cavalleria_Rusticana_Preludio_In_Dialetto_Siciliano.mid",	17,	brasssection
+    "Pietro_Mascagni_Cavalleria_Rusticana_Preludio_In_Dialetto_Siciliano.mid",	18,	orchst harp
+"Pietro_Mascagni_Cavalleria_Rusticana_Preludio_In_Dialetto_Siciliano.mid",18,4 9 12 14 ,6,,,
+    "Praeludium#1_in_C_BWV846.MID",	1,	bass ( bb ) 
+    "Praeludium#1_in_C_BWV846.MID",	2,	piano ( bb )
+    "Praeludium#1_in_C_BWV846.MID",	3,	guitar ( bb ) 
+    "Praeludium#1_in_C_BWV846.MID",	4,	strings ( bb ) 
+    "Praeludium#1_in_C_BWV846.MID",	5,	melody ( bb )--bbok
+"Praeludium#1_in_C_BWV846.MID",5,5 ,1,,,
+    "PragueSymphony38_K504_1st_mvt_Mozart.mid",	1,	bass    (bb)
+    "PragueSymphony38_K504_1st_mvt_Mozart.mid",	2,	piano   (bb)
+    "PragueSymphony38_K504_1st_mvt_Mozart.mid",	3,	guitar  (bb)
+    "PragueSymphony38_K504_1st_mvt_Mozart.mid",	4,	strings (bb)
+    "PragueSymphony38_K504_1st_mvt_Mozart.mid",	5,	melody  (bb)--bbok
+"PragueSymphony38_K504_1st_mvt_Mozart.mid",5,5 ,1,,,
+    "PragueSymphony38_K504_1st_mvt_Mozart_b.mid",	1,	bass    (bb)
+    "PragueSymphony38_K504_1st_mvt_Mozart_b.mid",	2,	drums   (bb)
+    "PragueSymphony38_K504_1st_mvt_Mozart_b.mid",	3,	piano   (bb)
+    "PragueSymphony38_K504_1st_mvt_Mozart_b.mid",	4,	guitar  (bb)
+    "PragueSymphony38_K504_1st_mvt_Mozart_b.mid",	5,	strings (bb)
+    "PragueSymphony38_K504_1st_mvt_Mozart_b.mid",	6,	bbok
+    "PragueSymphony38_K504_1st_mvt_Mozart_b.mid",	7,	soloist (bb) (none)
+"PragueSymphony38_K504_1st_mvt_Mozart_b.mid",7,6 ,1,,,
+    "Presto_in_G_Mozart_sona.MID",	1,	piano ( bb )
+    "Presto_in_G_Mozart_sona.MID",	2,	melody ( bb )--bbok
+"Presto_in_G_Mozart_sona.MID",2,2 ,,2,1,
+    "Puccini_Tosca_3.mid",	1,	flauto 1
+    "Puccini_Tosca_3.mid",	2,	flauto 2
+    "Puccini_Tosca_3.mid",	3,	ottavino
+    "Puccini_Tosca_3.mid",	4,	oboe 1
+    "Puccini_Tosca_3.mid",	5,	oboe 2
+    "Puccini_Tosca_3.mid",	6,	corno inglese
+    "Puccini_Tosca_3.mid",	7,	clarinetto in la 1
+    "Puccini_Tosca_3.mid",	8,	clarinetto in la 2
+    "Puccini_Tosca_3.mid",	9,	clarinetto in sib 1
+    "Puccini_Tosca_3.mid",	10,	clarinetto in sib 2
+    "Puccini_Tosca_3.mid",	11,	fagotto 1
+    "Puccini_Tosca_3.mid",	12,	fagotto 2
+    "Puccini_Tosca_3.mid",	13,	corni in mi
+    "Puccini_Tosca_3.mid",	14,	corni in fa
+    "Puccini_Tosca_3.mid",	15,	2 trombe in fa
+    "Puccini_Tosca_3.mid",	16,	tromboni 1 e 2
+    "Puccini_Tosca_3.mid",	17,	trombone 3
+    "Puccini_Tosca_3.mid",	18,	trombone basso
+    "Puccini_Tosca_3.mid",	19,	timpani
+    "Puccini_Tosca_3.mid",	20,	triangolo
+    "Puccini_Tosca_3.mid",	21,	gran cassa
+    "Puccini_Tosca_3.mid",	22,	piatti
+    "Puccini_Tosca_3.mid",	23,	campane 1
+    "Puccini_Tosca_3.mid",	24,	campane 2
+    "Puccini_Tosca_3.mid",	25,	arpa 1
+    "Puccini_Tosca_3.mid",	26,	arpa 2
+    "Puccini_Tosca_3.mid",	27,	tempo
+    "Puccini_Tosca_3.mid",	28,	violons i bbok
+    "Puccini_Tosca_3.mid",	29,	violons ii
+    "Puccini_Tosca_3.mid",	30,	altos
+    "Puccini_Tosca_3.mid",	31,	violoncelles
+    "Puccini_Tosca_3.mid",	32,	contrebasses
+    "Puccini_Tosca_3.mid",	33,	tosca, opera, act 3, orchestral selection (1900)
+    "Puccini_Tosca_3.mid",	34,	by giacomo puccini (1858-1924)
+    "Puccini_Tosca_3.mid",	35,	seq in 2002 by ramon pajares box
+    "Puccini_Tosca_3.mid",	36,	rpajares@rpajares.net
+    "Puccini_Tosca_3.mid",	37,	tosca, act 3 by giacomo puccini
+"Puccini_Tosca_3.mid",37,28 ,12 24,,,
+    "Purcell_StrikeTheViol.mid",	1,	recorder 1
+    "Purcell_StrikeTheViol.mid",	2,	recorder 2
+    "Purcell_StrikeTheViol.mid",	3,	voice--bbok
+    "Purcell_StrikeTheViol.mid",	4,	harpsichord rt.
+    "Purcell_StrikeTheViol.mid",	5,	harpsichord lt
+    "Purcell_StrikeTheViol.mid",	6,	cello
+    "Purcell_StrikeTheViol.mid",	7,	"strike the viol" by h. purcell
+    "Purcell_StrikeTheViol.mid",	8,	seq. by mj starke ©1996mjstarke
+"Purcell_StrikeTheViol.mid",8,3 ,5,,,
+    "Quam_Pulchri_Sunt_2_Gloria_b.mid",	1,	s
+    "Quam_Pulchri_Sunt_2_Gloria_b.mid",	2,	c
+    "Quam_Pulchri_Sunt_2_Gloria_b.mid",	3,	t
+    "Quam_Pulchri_Sunt_2_Gloria_b.mid",	4,	b bbok
+"Quam_Pulchri_Sunt_2_Gloria_b.mid",4,4 ,,,,
+    "Quam_Pulchri_Sunt_3_Credo_b.mid",	1,	s
+    "Quam_Pulchri_Sunt_3_Credo_b.mid",	2,	c
+    "Quam_Pulchri_Sunt_3_Credo_b.mid",	3,	t
+    "Quam_Pulchri_Sunt_3_Credo_b.mid",	4,	b bbok
+"Quam_Pulchri_Sunt_3_Credo_b.mid",4,4 ,,,,
+    "Quem_Vidistis_Pastores_1s.mid",	1,	1s bbok
+    "Quem_Vidistis_Pastores_1s.mid",	2,	2s
+    "Quem_Vidistis_Pastores_1s.mid",	3,	c
+    "Quem_Vidistis_Pastores_1s.mid",	4,	1t
+    "Quem_Vidistis_Pastores_1s.mid",	5,	2t
+    "Quem_Vidistis_Pastores_1s.mid",	6,	b
+"Quem_Vidistis_Pastores_1s.mid",6,1 ,6,,,
+    "Quicumque_Christum_Quaeritis_b.mid",	1,	s
+    "Quicumque_Christum_Quaeritis_b.mid",	2,	c
+    "Quicumque_Christum_Quaeritis_b.mid",	3,	t
+    "Quicumque_Christum_Quaeritis_b.mid",	4,	b bbok
+"Quicumque_Christum_Quaeritis_b.mid",4,4 ,,,,
+    "ROSSETER_Whether_Men_to_Laugh_or_Weep.mid",	1,	Òwhether men do laugh or cryÓphilip rosseter (1601) bbok
+    "ROSSETER_Whether_Men_to_Laugh_or_Weep.mid",	2,	
+"ROSSETER_Whether_Men_to_Laugh_or_Weep.mid",2,1 ,,,,
+    "Requiem_a_4_voces_05_Sanctus_y_Benedictus_b.mid",	1,	s
+    "Requiem_a_4_voces_05_Sanctus_y_Benedictus_b.mid",	2,	c
+    "Requiem_a_4_voces_05_Sanctus_y_Benedictus_b.mid",	3,	t
+    "Requiem_a_4_voces_05_Sanctus_y_Benedictus_b.mid",	4,	b bbok
+"Requiem_a_4_voces_05_Sanctus_y_Benedictus_b.mid",4,4 ,,,,
+    "Rossini_TheBarberOfSevilleLargoAlFactotumAria.mid",	1,	piano 1 - right
+    "Rossini_TheBarberOfSevilleLargoAlFactotumAria.mid",	2,	piano 1 - left
+    "Rossini_TheBarberOfSevilleLargoAlFactotumAria.mid",	3,	vocal--bbok
+"Rossini_TheBarberOfSevilleLargoAlFactotumAria.mid",3,3 ,,,,
+    "SONATINA.mid",	1,	veu 1
+    "SONATINA.mid",	2,	veu 2
+    "SONATINA.mid",	3,	veu 3
+"SONATINA.mid",3,,2,1,2 3,
+    "SUS_ALL2.mid",	1,	 bbok
+    "SUS_ALL2.mid",	2,	
+    "SUS_ALL2.mid",	3,	
+    "SUS_ALL2.mid",	4,	
+"SUS_ALL2.mid",4,1 ,,,,
+    "SV06_Lauda_Jerusalem_b.mid",	1,	s bbok
+    "SV06_Lauda_Jerusalem_b.mid",	2,	c
+    "SV06_Lauda_Jerusalem_b.mid",	3,	t
+    "SV06_Lauda_Jerusalem_b.mid",	4,	b bbok
+"SV06_Lauda_Jerusalem_b.mid",4,1 4 ,,,,
+    "SV07_Confitebor_Tibi_Domine_1s.mid",	1,	1s bbok
+    "SV07_Confitebor_Tibi_Domine_1s.mid",	2,	2s
+    "SV07_Confitebor_Tibi_Domine_1s.mid",	3,	c
+    "SV07_Confitebor_Tibi_Domine_1s.mid",	4,	t
+"SV07_Confitebor_Tibi_Domine_1s.mid",4,1 ,,,,
+    "SV09_Nisi_Dominus_1s.mid",	1,	1s bbok
+    "SV09_Nisi_Dominus_1s.mid",	2,	2s
+    "SV09_Nisi_Dominus_1s.mid",	3,	c
+    "SV09_Nisi_Dominus_1s.mid",	4,	t
+"SV09_Nisi_Dominus_1s.mid",4,1 ,4,,,
+    "Se_Vuol_Ballare_Signor_Contino.mid",	1,	soft karaoke
+    "Se_Vuol_Ballare_Signor_Contino.mid",	2,	words
+    "Se_Vuol_Ballare_Signor_Contino.mid",	3,	english lyrics
+    "Se_Vuol_Ballare_Signor_Contino.mid",	4,	italian lyrics
+    "Se_Vuol_Ballare_Signor_Contino.mid",	5,	oboes
+    "Se_Vuol_Ballare_Signor_Contino.mid",	6,	bassons
+    "Se_Vuol_Ballare_Signor_Contino.mid",	7,	horns in f
+    "Se_Vuol_Ballare_Signor_Contino.mid",	8,	1st violins
+    "Se_Vuol_Ballare_Signor_Contino.mid",	9,	2nd violins
+    "Se_Vuol_Ballare_Signor_Contino.mid",	10,	viola
+    "Se_Vuol_Ballare_Signor_Contino.mid",	11,	bbok
+    "Se_Vuol_Ballare_Signor_Contino.mid",	12,	cello
+    "Se_Vuol_Ballare_Signor_Contino.mid",	13,	contrabass
+    "Se_Vuol_Ballare_Signor_Contino.mid",	14,	------------------------------
+    "Se_Vuol_Ballare_Signor_Contino.mid",	15,	cavatina no. 3
+    "Se_Vuol_Ballare_Signor_Contino.mid",	16,	le nozze di figaro
+    "Se_Vuol_Ballare_Signor_Contino.mid",	17,	lyrics entered with easykar95
+    "Se_Vuol_Ballare_Signor_Contino.mid",	18,	by vincenzo palleschi
+"Se_Vuol_Ballare_Signor_Contino.mid",18,11 ,13,,,
+    "Simile_Est_Regnum_Coelorum_6_Agnus_Dei_1b.mid",	1,	1s
+    "Simile_Est_Regnum_Coelorum_6_Agnus_Dei_1b.mid",	2,	1c
+    "Simile_Est_Regnum_Coelorum_6_Agnus_Dei_1b.mid",	3,	1t
+    "Simile_Est_Regnum_Coelorum_6_Agnus_Dei_1b.mid",	4,	1b bbok
+    "Simile_Est_Regnum_Coelorum_6_Agnus_Dei_1b.mid",	5,	2s
+    "Simile_Est_Regnum_Coelorum_6_Agnus_Dei_1b.mid",	6,	2c
+    "Simile_Est_Regnum_Coelorum_6_Agnus_Dei_1b.mid",	7,	2t
+    "Simile_Est_Regnum_Coelorum_6_Agnus_Dei_1b.mid",	8,	2b bbok
+"Simile_Est_Regnum_Coelorum_6_Agnus_Dei_1b.mid",8,4 8 ,,,,
+    "Sonata_3_Mozart_K545.MID",	1,	piano ( bb )
+    "Sonata_3_Mozart_K545.MID",	2,	melody ( bb )--bbok
+"Sonata_3_Mozart_K545.MID",2,2 ,,2,1,
+    "Sonata_3_Mozart_K545.mid",	1,	bass ( bb ) 
+    "Sonata_3_Mozart_K545.mid",	2,	drums ( bb )
+    "Sonata_3_Mozart_K545.mid",	3,	piano ( bb )
+    "Sonata_3_Mozart_K545.mid",	4,	guitar ( bb )  (none)
+    "Sonata_3_Mozart_K545.mid",	5,	strings ( bb )  (none)
+    "Sonata_3_Mozart_K545.mid",	6,	bbok
+    "Sonata_3_Mozart_K545.mid",	7,	soloist ( bb ) (none)
+"Sonata_3_Mozart_K545.mid",7,6 ,,,,
+    "Sonata_c.Mid",	1,	bbok
+    "Sonata_c.Mid",	2,	flute
+    "Sonata_c.Mid",	3,	flute
+    "Sonata_c.Mid",	4,	trumpet
+    "Sonata_c.Mid",	5,	harpsicord
+    "Sonata_c.Mid",	6,	harpsicord
+    "Sonata_c.Mid",	7,	harpsicord
+    "Sonata_c.Mid",	8,	trumpet
+"Sonata_c.Mid",8,1 ,,,,
+    "Super_Flumina_Babylonis_1b.mid",	1,	s
+    "Super_Flumina_Babylonis_1b.mid",	2,	1c
+    "Super_Flumina_Babylonis_1b.mid",	3,	1t
+    "Super_Flumina_Babylonis_1b.mid",	4,	1b bbok
+    "Super_Flumina_Babylonis_1b.mid",	5,	2c
+    "Super_Flumina_Babylonis_1b.mid",	6,	2t
+    "Super_Flumina_Babylonis_1b.mid",	7,	3t
+    "Super_Flumina_Babylonis_1b.mid",	8,	2b bbok
+"Super_Flumina_Babylonis_1b.mid",8,4 8 ,,,,
+    "Surge_Propera_2_Gloria_1t.mid",	1,	s
+    "Surge_Propera_2_Gloria_1t.mid",	2,	c
+    "Surge_Propera_2_Gloria_1t.mid",	3,	1t bbok
+    "Surge_Propera_2_Gloria_1t.mid",	4,	2t
+    "Surge_Propera_2_Gloria_1t.mid",	5,	b
+"Surge_Propera_2_Gloria_1t.mid",5,3 ,5,,,
+    "TR08_Tenebrae_Factae_Sunt_1b.mid",	1,	1t
+    "TR08_Tenebrae_Factae_Sunt_1b.mid",	2,	2t
+    "TR08_Tenebrae_Factae_Sunt_1b.mid",	3,	1b bbok
+    "TR08_Tenebrae_Factae_Sunt_1b.mid",	4,	2b
+"TR08_Tenebrae_Factae_Sunt_1b.mid",4,3 ,4,,,
+    "TR09_Animam_Meam_Dilectam_b.mid",	1,	s
+    "TR09_Animam_Meam_Dilectam_b.mid",	2,	c
+    "TR09_Animam_Meam_Dilectam_b.mid",	3,	t
+    "TR09_Animam_Meam_Dilectam_b.mid",	4,	b bbok
+"TR09_Animam_Meam_Dilectam_b.mid",4,4 ,,,,
+    "TR17_Aestimatus_Sum_1b.mid",	1,	1t
+    "TR17_Aestimatus_Sum_1b.mid",	2,	2t
+    "TR17_Aestimatus_Sum_1b.mid",	3,	1b bbok
+    "TR17_Aestimatus_Sum_1b.mid",	4,	2b
+"TR17_Aestimatus_Sum_1b.mid",4,3 ,4,,,
+    "Tannhauser_March_Wag.MID",	1,	piano ( bb )
+    "Tannhauser_March_Wag.MID",	2,	melody ( bb )--bbok
+"Tannhauser_March_Wag.MID",2,2 ,,2,1,
+    "Tibi_Christe_b.mid",	1,	s
+    "Tibi_Christe_b.mid",	2,	c
+    "Tibi_Christe_b.mid",	3,	t bbok
+    "Tibi_Christe_b.mid",	4,	b bbok
+"Tibi_Christe_b.mid",4,3 4 ,,,,
+    "Tosca_Di_G.Puccini_E_Lucean_Le_Stelle.mid",	1,	soft karaoke
+    "Tosca_Di_G.Puccini_E_Lucean_Le_Stelle.mid",	2,	words
+    "Tosca_Di_G.Puccini_E_Lucean_Le_Stelle.mid",	3,	cavaradossi bbok
+    "Tosca_Di_G.Puccini_E_Lucean_Le_Stelle.mid",	4,	piano
+    "Tosca_Di_G.Puccini_E_Lucean_Le_Stelle.mid",	5,	music by g.puccini
+    "Tosca_Di_G.Puccini_E_Lucean_Le_Stelle.mid",	6,	arr.©1996 by
+    "Tosca_Di_G.Puccini_E_Lucean_Le_Stelle.mid",	7,	marco milano
+"Tosca_Di_G.Puccini_E_Lucean_Le_Stelle.mid",7,3 ,,,,
+    "Tosca_Di_G.Puccini_Recondita_Armonia.mid",	1,	soft karaoke
+    "Tosca_Di_G.Puccini_Recondita_Armonia.mid",	2,	words
+    "Tosca_Di_G.Puccini_Recondita_Armonia.mid",	3,	cavaradossi bbok
+    "Tosca_Di_G.Puccini_Recondita_Armonia.mid",	4,	piano
+"Tosca_Di_G.Puccini_Recondita_Armonia.mid",4,3 ,,,,
+    "Tosca_Di_G._Puccini_Vissi_Darte_Vissi_DAmore.mid",	1,	soft karaoke
+    "Tosca_Di_G._Puccini_Vissi_Darte_Vissi_DAmore.mid",	2,	words
+    "Tosca_Di_G._Puccini_Vissi_Darte_Vissi_DAmore.mid",	3,	tosca bbok
+    "Tosca_Di_G._Puccini_Vissi_Darte_Vissi_DAmore.mid",	4,	piano
+    "Tosca_Di_G._Puccini_Vissi_Darte_Vissi_DAmore.mid",	5,	music by g.puccini
+    "Tosca_Di_G._Puccini_Vissi_Darte_Vissi_DAmore.mid",	6,	arr.©1996 by
+    "Tosca_Di_G._Puccini_Vissi_Darte_Vissi_DAmore.mid",	7,	marco milano
+"Tosca_Di_G._Puccini_Vissi_Darte_Vissi_DAmore.mid",7,3 ,,,,
+    "VIOLIN_C.MID",	1,	soloist--bbok
+    "VIOLIN_C.MID",	2,	pianotreble
+    "VIOLIN_C.MID",	3,	pianobass
+    "VIOLIN_C.MID",	4,	l.v. beethoven
+    "VIOLIN_C.MID",	5,	violin concerto
+    "VIOLIN_C.MID",	6,	d major opus61
+    "VIOLIN_C.MID",	7,	sequenced by
+    "VIOLIN_C.MID",	8,	hermes camacho
+"VIOLIN_C.MID",8,1 ,3,,,
+    "Vadam_Et_Circuibo_Civitatem_1s.mid",	1,	1s bbok
+    "Vadam_Et_Circuibo_Civitatem_1s.mid",	2,	2s
+    "Vadam_Et_Circuibo_Civitatem_1s.mid",	3,	c
+    "Vadam_Et_Circuibo_Civitatem_1s.mid",	4,	1t
+    "Vadam_Et_Circuibo_Civitatem_1s.mid",	5,	2t
+    "Vadam_Et_Circuibo_Civitatem_1s.mid",	6,	b
+"Vadam_Et_Circuibo_Civitatem_1s.mid",6,1 ,6,,,
+    "Verdi.G_La_Traviata_Addio_Del_Passato.mid",	1,	soft karaoke
+    "Verdi.G_La_Traviata_Addio_Del_Passato.mid",	2,	words
+    "Verdi.G_La_Traviata_Addio_Del_Passato.mid",	3,	voice--bbok
+    "Verdi.G_La_Traviata_Addio_Del_Passato.mid",	4,	piano
+"Verdi.G_La_Traviata_Addio_Del_Passato.mid",4,3 ,,,,
+    "Vexilla_Regis_b.mid",	1,	s
+    "Vexilla_Regis_b.mid",	2,	c
+    "Vexilla_Regis_b.mid",	3,	t bbok
+    "Vexilla_Regis_b.mid",	4,	b bbok
+"Vexilla_Regis_b.mid",4,3 4 ,,,,
+    "Victoria_Apocrifo_Date_Ei_De_Fructu_b.mid",	1,	s bbok
+    "Victoria_Apocrifo_Date_Ei_De_Fructu_b.mid",	2,	c
+    "Victoria_Apocrifo_Date_Ei_De_Fructu_b.mid",	3,	t
+    "Victoria_Apocrifo_Date_Ei_De_Fructu_b.mid",	4,	b bbok
+"Victoria_Apocrifo_Date_Ei_De_Fructu_b.mid",4,1 4 ,4,,,
+    "Vidi_Speciosam_1_Kyrie_1s.mid",	1,	1s bbok
+    "Vidi_Speciosam_1_Kyrie_1s.mid",	2,	2s
+    "Vidi_Speciosam_1_Kyrie_1s.mid",	3,	c
+    "Vidi_Speciosam_1_Kyrie_1s.mid",	4,	1t
+    "Vidi_Speciosam_1_Kyrie_1s.mid",	5,	2t
+    "Vidi_Speciosam_1_Kyrie_1s.mid",	6,	b
+"Vidi_Speciosam_1_Kyrie_1s.mid",6,1 ,6,,,
+    "WAMJOKE3.mid",	1,	pista 1
+    "WAMJOKE3.mid",	2,	pista 2
+    "WAMJOKE3.mid",	3,	bbok
+    "WAMJOKE3.mid",	4,	pista 4
+    "WAMJOKE3.mid",	5,	pista 5
+    "WAMJOKE3.mid",	6,	pista 6
+"WAMJOKE3.mid",6,3 ,6,,,
+    "adieu_corage_adieu.mid",	1,	alto bbok bbok
+    "adieu_corage_adieu.mid",	2,	tenor bbok
+    "adieu_corage_adieu.mid",	3,	bass
+    "adieu_corage_adieu.mid",	4,	38. adieu, corage, adieu
+    "adieu_corage_adieu.mid",	5,	william cornysh
+    "adieu_corage_adieu.mid",	6,	© 1996 by curtis clark. free fo
+    "adieu_corage_adieu.mid",	7,	http://www.csupomona.edu/~jccla
+    "adieu_corage_adieu.mid",	8,	jcclark@csupomona.edu
+"adieu_corage_adieu.mid",8,1 2 ,3,,,
+    "allemande_otra.mid",	1,	recorder bbok
+    "allemande_otra.mid",	2,	recorder-2
+    "allemande_otra.mid",	3,	recorder-3
+    "allemande_otra.mid",	4,	serpent
+    "allemande_otra.mid",	5,	tielman susato
+    "allemande_otra.mid",	6,	allemande
+    "allemande_otra.mid",	7,	http://www.csupomona.edu/~jccla
+    "allemande_otra.mid",	8,	jcclark@csupomona.edu
+    "allemande_otra.mid",	9,	© 1999 by curtis clark. free fo
+"allemande_otra.mid",9,1 ,4,,,
+    "arias_004_mozartk1.mid",	1,	bbok
+    "arias_004_mozartk1.mid",	2,	pista 2
+    "arias_004_mozartk1.mid",	3,	pista 3
+    "arias_004_mozartk1.mid",	4,	oboe and piano   <composer>  
+"arias_004_mozartk1.mid",4,1 ,,,,
+    "arias_011_doppel.mid",	1,	bbok
+    "arias_011_doppel.mid",	2,	pista 2
+    "arias_011_doppel.mid",	3,	pista 3
+    "arias_011_doppel.mid",	4,	pista 4
+"arias_011_doppel.mid",4,1 ,4,,,
+    "arias_1_voiavete.mid",	1,	oboe
+    "arias_1_voiavete.mid",	2,	horns in g
+    "arias_1_voiavete.mid",	3,	violin i
+    "arias_1_voiavete.mid",	4,	violin ii
+    "arias_1_voiavete.mid",	5,	viola
+    "arias_1_voiavete.mid",	6,	bbok
+    "arias_1_voiavete.mid",	7,	bass
+"arias_1_voiavete.mid",7,6 ,7,,,
+    "arias_kv125.mid",	1,	bbok
+    "arias_kv125.mid",	2,	pianoforte
+    "arias_kv125.mid",	3,	pianoforte
+    "arias_kv125.mid",	4,	pianoforte
+"arias_kv125.mid",4,1 ,4,,,
+    "arias_kv152.mid",	1,	bbok
+    "arias_kv152.mid",	2,	pianoforte
+    "arias_kv152.mid",	3,	pianoforte
+    "arias_kv152.mid",	4,	pianoforte
+"arias_kv152.mid",4,1 ,3,,,
+    "arias_kv308.mid",	1,	bbok
+    "arias_kv308.mid",	2,	pista 2
+    "arias_kv308.mid",	3,	pista 3
+"arias_kv308.mid",3,1 ,3,,,
+    "arias_kv340a.mid",	1,	bbok
+    "arias_kv340a.mid",	2,	pianoforte
+    "arias_kv340a.mid",	3,	pianoforte
+    "arias_kv340a.mid",	4,	pianoforte
+    "arias_kv340a.mid",	5,	pianoforte
+"arias_kv340a.mid",5,1 ,4 5,,,
+    "arias_kv349.mid",	1,	bbok
+    "arias_kv349.mid",	2,	pianoforte
+    "arias_kv349.mid",	3,	pianoforte
+"arias_kv349.mid",3,1 ,3,,,
+    "arias_kv367.mid",	1,	bbok
+    "arias_kv367.mid",	2,	pianoforte
+    "arias_kv367.mid",	3,	pianoforte
+    "arias_kv367.mid",	4,	pianoforte
+"arias_kv367.mid",4,1 ,3 4,,,
+    "arias_kv390.mid",	1,	bbok
+    "arias_kv390.mid",	2,	pianoforte
+    "arias_kv390.mid",	3,	pianoforte
+    "arias_kv390.mid",	4,	pianoforte
+    "arias_kv390.mid",	5,	pianoforte
+"arias_kv390.mid",5,1 ,4 5,,,
+    "arias_kv391.mid",	1,	bbok
+    "arias_kv391.mid",	2,	pianoforte
+    "arias_kv391.mid",	3,	pianoforte
+"arias_kv391.mid",3,1 ,,,,
+    "arias_kv433.mid",	1,	bbok
+    "arias_kv433.mid",	2,	pianoforte
+    "arias_kv433.mid",	3,	pianoforte
+"arias_kv433.mid",3,1 ,3,,,
+    "arias_kv468.mid",	1,	bbok
+    "arias_kv468.mid",	2,	pianoforte (or organ) 
+    "arias_kv468.mid",	3,	pianoforte (or organ) 
+    "arias_kv468.mid",	4,	pianoforte (or organ) 
+    "arias_kv468.mid",	5,	pianoforte (or organ) 
+"arias_kv468.mid",5,1 ,5,,,
+    "arias_kv472.mid",	1,	bbok
+    "arias_kv472.mid",	2,	pianoforte
+    "arias_kv472.mid",	3,	pianoforte
+    "arias_kv472.mid",	4,	pianoforte
+"arias_kv472.mid",4,1 ,4,,,
+    "arias_kv473.mid",	1,	bbok
+    "arias_kv473.mid",	2,	pianoforte
+    "arias_kv473.mid",	3,	pianoforte
+    "arias_kv473.mid",	4,	pianoforte
+    "arias_kv473.mid",	5,	pianoforte
+"arias_kv473.mid",5,1 ,4,,,
+    "arias_kv476.mid",	1,	bbok
+    "arias_kv476.mid",	2,	pianoforte
+    "arias_kv476.mid",	3,	pianoforte
+    "arias_kv476.mid",	4,	pianoforte
+    "arias_kv476.mid",	5,	pianoforte
+"arias_kv476.mid",5,1 ,5,,,
+    "arias_kv517.mid",	1,	bbok
+    "arias_kv517.mid",	2,	pianoforte
+    "arias_kv517.mid",	3,	pianoforte
+    "arias_kv517.mid",	4,	pianoforte
+"arias_kv517.mid",4,1 ,4,,,
+    "arias_kv518.mid",	1,	bbok
+    "arias_kv518.mid",	2,	pianoforte
+    "arias_kv518.mid",	3,	pianoforte
+    "arias_kv518.mid",	4,	pianoforte
+    "arias_kv518.mid",	5,	pianoforte
+"arias_kv518.mid",5,1 ,4,,,
+    "arias_kv519.mid",	1,	bbok
+    "arias_kv519.mid",	2,	pianoforte
+    "arias_kv519.mid",	3,	pianoforte
+    "arias_kv519.mid",	4,	pianoforte
+    "arias_kv519.mid",	5,	pianoforte
+"arias_kv519.mid",5,1 ,4 5,,,
+    "arias_kv520.mid",	1,	bbok
+    "arias_kv520.mid",	2,	pianoforte
+    "arias_kv520.mid",	3,	pianoforte
+    "arias_kv520.mid",	4,	pianoforte
+"arias_kv520.mid",4,1 ,4,,,
+    "arias_kv523.mid",	1,	bbok
+    "arias_kv523.mid",	2,	pianoforte
+    "arias_kv523.mid",	3,	pista 3
+"arias_kv523.mid",3,1 ,3,,,
+    "arias_kv524.mid",	1,	bbok
+    "arias_kv524.mid",	2,	pianoforte
+    "arias_kv524.mid",	3,	pianoforte
+"arias_kv524.mid",3,1 ,3,,,
+    "arias_kv530.mid",	1,	bbok
+    "arias_kv530.mid",	2,	pianoforte
+    "arias_kv530.mid",	3,	pianoforte
+    "arias_kv530.mid",	4,	pianoforte
+    "arias_kv530.mid",	5,	pianoforte
+"arias_kv530.mid",5,1 ,4 5,,,
+    "arias_kv531.mid",	1,	bbok
+    "arias_kv531.mid",	2,	pianoforte
+    "arias_kv531.mid",	3,	pianoforte
+    "arias_kv531.mid",	4,	pianoforte
+"arias_kv531.mid",4,1 ,4,,,
+    "arias_kv552.mid",	1,	bbok
+    "arias_kv552.mid",	2,	pianoforte
+    "arias_kv552.mid",	3,	pianoforte
+    "arias_kv552.mid",	4,	pianoforte
+"arias_kv552.mid",4,1 ,,,,
+    "arias_kv596.mid",	1,	bbok
+    "arias_kv596.mid",	2,	pianoforte
+    "arias_kv596.mid",	3,	pianoforte
+"arias_kv596.mid",3,1 ,3,,,
+    "arias_kv597.mid",	1,	bbok
+    "arias_kv597.mid",	2,	pianoforte
+    "arias_kv597.mid",	3,	pianoforte
+    "arias_kv597.mid",	4,	pianoforte
+    "arias_kv597.mid",	5,	pianoforte
+"arias_kv597.mid",5,1 ,4 5,,,
+    "arias_kv598.mid",	1,	bbok
+    "arias_kv598.mid",	2,	pianoforte
+    "arias_kv598.mid",	3,	pianoforte
+"arias_kv598.mid",3,1 ,3,,,
+    "ave_maria_arcadelt.mid",	1,	instrument 1 bbok
+    "ave_maria_arcadelt.mid",	2,	instrument2
+    "ave_maria_arcadelt.mid",	3,	instrument3
+    "ave_maria_arcadelt.mid",	4,	instrument4
+    "ave_maria_arcadelt.mid",	5,	instrument5
+    "ave_maria_arcadelt.mid",	6,	instrument6
+"ave_maria_arcadelt.mid",6,1 ,4,,,
+    "bach02.mid",	1,	bass    (bb)
+    "bach02.mid",	2,	piano   (bb)
+    "bach02.mid",	3,	strings (bb)
+    "bach02.mid",	4,	melody  (bb)--bbok
+"bach02.mid",4,4 ,1,,,
+    "bach03.mid",	1,	bass    (bb)
+    "bach03.mid",	2,	piano   (bb)
+    "bach03.mid",	3,	strings (bb)
+    "bach03.mid",	4,	melody  (bb)--bbok
+"bach03.mid",4,4 ,1,,,
+    "bach05.mid",	1,	bass    (bb)
+    "bach05.mid",	2,	piano   (bb)
+    "bach05.mid",	3,	guitar  (bb)
+    "bach05.mid",	4,	strings (bb)
+    "bach05.mid",	5,	melody  (bb)--bbok
+"bach05.mid",5,5 ,1,,,
+    "bach07.mid",	1,	piano   (bb)
+    "bach07.mid",	2,	guitar  (bb)
+    "bach07.mid",	3,	strings (bb)
+    "bach07.mid",	4,	melody  (bb)--bbok
+"bach07.mid",4,4 ,3,,,
+    "baile_hungaro_1_joha#29F64A.mid",	1,	piano righthand--bbok
+    "baile_hungaro_1_joha#29F64A.mid",	2,	piano left hand
+    "baile_hungaro_1_joha#29F64A.mid",	3,	pedal
+    "baile_hungaro_1_joha#29F64A.mid",	4,	***************
+    "baile_hungaro_1_joha#29F64A.mid",	5,	"hungarian     
+    "baile_hungaro_1_joha#29F64A.mid",	6,	  dance no.1"  
+    "baile_hungaro_1_joha#29F64A.mid",	7,	 by j. brahms  
+    "baile_hungaro_1_joha#29F64A.mid",	8,	---------------
+    "baile_hungaro_1_joha#29F64A.mid",	9,	midi'ized by:  
+    "baile_hungaro_1_joha#29F64A.mid",	10,	  doug fetter  
+    "baile_hungaro_1_joha#29F64A.mid",	11,	 nov. 26, 1989 
+    "baile_hungaro_1_joha#29F64A.mid",	12,	***************
+"baile_hungaro_1_joha#29F64A.mid",12,1 ,,1,2,
+    "baile_hungaro_3_joha#29F64C.mid",	1,	upper g.s.--bbok
+    "baile_hungaro_3_joha#29F64C.mid",	2,	lowe g.s.
+"baile_hungaro_3_joha#29F64C.mid",2,1 ,,1,2,
+    "baile_hungaro_6_joha#29F64E.mid",	1,	piano righthand--bbok
+    "baile_hungaro_6_joha#29F64E.mid",	2,	piano left hand
+    "baile_hungaro_6_joha#29F64E.mid",	3,	pedal
+    "baile_hungaro_6_joha#29F64E.mid",	4,	***************
+    "baile_hungaro_6_joha#29F64E.mid",	5,	"hungarian     
+    "baile_hungaro_6_joha#29F64E.mid",	6,	  dance no.6"  
+    "baile_hungaro_6_joha#29F64E.mid",	7,	 by j. brahms  
+    "baile_hungaro_6_joha#29F64E.mid",	8,	---------------
+    "baile_hungaro_6_joha#29F64E.mid",	9,	midi'ized by:  
+    "baile_hungaro_6_joha#29F64E.mid",	10,	  doug fetter  
+    "baile_hungaro_6_joha#29F64E.mid",	11,	 nov. 27, 1989 
+    "baile_hungaro_6_joha#29F64E.mid",	12,	***************
+"baile_hungaro_6_joha#29F64E.mid",12,1 ,,1,2,
+    "baile_hungaro_7_joha#29F64F.mid",	1,	brahms hungarian dance no.7
+    "baile_hungaro_7_joha#29F64F.mid",	2,	upper g.s.--bbok
+    "baile_hungaro_7_joha#29F64F.mid",	3,	lower g.s.
+"baile_hungaro_7_joha#29F64F.mid",3,2 ,,2,3,
+    "bdanube.mid",	1,	melody--bbok
+    "bdanube.mid",	2,	acc.
+"bdanube.mid",2,1 ,2,,,
+    "bellini_la_farfalletta.mid",	1,	pasaje midi--bbok
+    "bellini_la_farfalletta.mid",	2,	pasaje midi
+"bellini_la_farfalletta.mid",2,1 ,,,,
+    "bepeace_ye_make_me_spill_my_ale.mid",	1,	be peace! ye make me spill my ale!
+    "bepeace_ye_make_me_spill_my_ale.mid",	2,	alto bbok
+    "bepeace_ye_make_me_spill_my_ale.mid",	3,	tenor 1
+    "bepeace_ye_make_me_spill_my_ale.mid",	4,	tenor 2
+    "bepeace_ye_make_me_spill_my_ale.mid",	5,	be peace! ye make me spill my ale!
+    "bepeace_ye_make_me_spill_my_ale.mid",	6,	anon., ritson ms.
+    "bepeace_ye_make_me_spill_my_ale.mid",	7,	© 1997 by curtis clark. free for personal use
+    "bepeace_ye_make_me_spill_my_ale.mid",	8,	jcclark@csupomona.edu
+    "bepeace_ye_make_me_spill_my_ale.mid",	9,	http://www.csupomona.edu/~jcclark/emusic/
+"bepeace_ye_make_me_spill_my_ale.mid",9,2 ,,,,
+    "bjwaltze.mid",	1,	johannes brahms, waltz in e maj
+    "bjwaltze.mid",	2,	right hand--bbok
+    "bjwaltze.mid",	3,	left hand
+"bjwaltze.mid",3,2 ,,2,3,
+    "blow_thy_horne_hunter.mid",	1,	blow thy horne hunter
+    "blow_thy_horne_hunter.mid",	2,	alto bbok
+    "blow_thy_horne_hunter.mid",	3,	tenor
+    "blow_thy_horne_hunter.mid",	4,	bass
+    "blow_thy_horne_hunter.mid",	5,	blow thy horne hunter
+    "blow_thy_horne_hunter.mid",	6,	william cornysh
+    "blow_thy_horne_hunter.mid",	7,	© 1996 by curtis clark. free for personal use
+    "blow_thy_horne_hunter.mid",	8,	jcclark@csupomona.edu
+    "blow_thy_horne_hunter.mid",	9,	http://www.csupomona.edu/~jcclark/emusic/
+"blow_thy_horne_hunter.mid",9,2 ,4,,,
+    "boh2_2.mid",	1,	piano
+    "boh2_2.mid",	2,	marcello
+    "boh2_2.mid",	3,	rodolfo
+    "boh2_2.mid",	4,	colline
+    "boh2_2.mid",	5,	schaunard
+    "boh2_2.mid",	6,	mimi
+    "boh2_2.mid",	7,	musetta
+    "boh2_2.mid",	8,	alcindoro
+    "boh2_2.mid",	9,	coro d
+    "boh2_2.mid",	10,	coro u
+    "boh2_2.mid",	11,	coro m
+    "boh2_2.mid",	12,	tamb
+    "boh2_2.mid",	13,	maurizio
+    "boh2_2.mid",	14,	salvi
+    "boh2_2.mid",	15,	cso.dogali
+    "boh2_2.mid",	16,	9/1 16136
+    "boh2_2.mid",	17,	genoa
+    "boh2_2.mid",	18,	masalv@
+    "boh2_2.mid",	19,	mbox.
+    "boh2_2.mid",	20,	vol.it
+    "boh2_2.mid",	21,	sysexgm
+"boh2_2.mid",21,,4,,,
+    "br_hung5.mid",	1,	winjammer demo--bbok
+    "br_hung5.mid",	2,	winjammer demo
+    "br_hung5.mid",	3,	winjammer demo--bbok
+    "br_hung5.mid",	4,	winjammer demo
+    "br_hung5.mid",	5,	winjammer demo
+    "br_hung5.mid",	6,	winjammer demo
+    "br_hung5.mid",	7,	winjammer demo--bbok
+    "br_hung5.mid",	8,	winjammer demo
+"br_hung5.mid",8,1 3 7 ,2,,,
+    "brahms03.mid",	1,	bass    (bb)
+    "brahms03.mid",	2,	piano   (bb)
+    "brahms03.mid",	3,	guitar  (bb)
+    "brahms03.mid",	4,	strings (bb)
+    "brahms03.mid",	5,	melody  (bb)--bbok
+"brahms03.mid",5,5 ,1,,,
+    "brahms04.mid",	1,	bass    (bb)
+    "brahms04.mid",	2,	piano   (bb)
+    "brahms04.mid",	3,	guitar  (bb)
+    "brahms04.mid",	4,	strings (bb)
+    "brahms04.mid",	5,	melody  (bb)--bbok
+"brahms04.mid",5,5 ,1,,,
+    "brahms06.mid",	1,	bass    (bb)
+    "brahms06.mid",	2,	piano   (bb)
+    "brahms06.mid",	3,	guitar  (bb)
+    "brahms06.mid",	4,	strings (bb)
+    "brahms06.mid",	5,	melody  (bb)--bbok
+"brahms06.mid",5,5 ,1,,,
+    "brahms09.mid",	1,	bass    (bb)
+    "brahms09.mid",	2,	piano   (bb)
+    "brahms09.mid",	3,	guitar  (bb)
+    "brahms09.mid",	4,	strings (bb)
+    "brahms09.mid",	5,	melody  (bb)--bbok
+"brahms09.mid",5,5 ,1,,,
+    "brahms105_1.mid",	1,	german--bbok
+    "brahms105_1.mid",	2,	voice--bbok
+    "brahms105_1.mid",	3,	piano (treble)
+    "brahms105_1.mid",	4,	piano (bass)
+"brahms105_1.mid",4,1 2 ,,3,4,
+    "brahms_waltz_15_1.mid",	1,	piano rh--bbok
+    "brahms_waltz_15_1.mid",	2,	piano lh
+"brahms_waltz_15_1.mid",2,1 ,,1,2,
+    "branle_lofficiale.mid",	1,	branle l’officiale
+    "branle_lofficiale.mid",	2,	alto bbok
+    "branle_lofficiale.mid",	3,	tenor
+    "branle_lofficiale.mid",	4,	bass
+    "branle_lofficiale.mid",	5,	branle l'official
+    "branle_lofficiale.mid",	6,	thoinot arbeau/arr. jim stehn & c. clark
+    "branle_lofficiale.mid",	7,	http://www.csupomona.edu/~jcclark/emusic/
+    "branle_lofficiale.mid",	8,	© 1999 by c. clark & j. stehn. free for personal 
+    "branle_lofficiale.mid",	9,	jcclark@csupomona.edu
+"branle_lofficiale.mid",9,2 ,4,,,
+    "bransle_gay_I.mid",	1,	bransle gay i
+    "bransle_gay_I.mid",	2,	1 bbok
+    "bransle_gay_I.mid",	3,	2
+    "bransle_gay_I.mid",	4,	3
+    "bransle_gay_I.mid",	5,	bass
+    "bransle_gay_I.mid",	6,	claude gervaise
+    "bransle_gay_I.mid",	7,	bransle gay i
+    "bransle_gay_I.mid",	8,	© 1996 by curtis clark. free for personal use
+    "bransle_gay_I.mid",	9,	jcclark@csupomona.edu
+    "bransle_gay_I.mid",	10,	http://www.csupomona.edu/~jcclark/emusic/
+"bransle_gay_I.mid",10,2 ,5,,,
+    "bransle_gay_II.mid",	1,	bransle gay ii
+    "bransle_gay_II.mid",	2,	s bbok
+    "bransle_gay_II.mid",	3,	a
+    "bransle_gay_II.mid",	4,	t
+    "bransle_gay_II.mid",	5,	b
+    "bransle_gay_II.mid",	6,	bransle gay ii
+    "bransle_gay_II.mid",	7,	claude gervaise
+    "bransle_gay_II.mid",	8,	© 1996 by curtis clark. free for personal use
+    "bransle_gay_II.mid",	9,	jcclark@csupomona.edu
+    "bransle_gay_II.mid",	10,	http://www.csupomona.edu/~jcclark/emusic/
+"bransle_gay_II.mid",10,2 ,5,,,
+    "bransle_gay_VI.mid",	1,	bransle gay vi
+    "bransle_gay_VI.mid",	2,	s bbok
+    "bransle_gay_VI.mid",	3,	a
+    "bransle_gay_VI.mid",	4,	t
+    "bransle_gay_VI.mid",	5,	b
+    "bransle_gay_VI.mid",	6,	claude gervaise
+    "bransle_gay_VI.mid",	7,	bransle gay vi
+    "bransle_gay_VI.mid",	8,	© 1996 by curtis clark. free for personal use
+    "bransle_gay_VI.mid",	9,	jcclark@csupomona.edu
+    "bransle_gay_VI.mid",	10,	http://www.csupomona.edu/~jcclark/emusic/
+"bransle_gay_VI.mid",10,2 ,5,,,
+    "bruop26a.mid",	1,	pasaje midi--bbok bbok
+    "bruop26a.mid",	2,	pasaje midi
+    "bruop26a.mid",	3,	pasaje midi
+"bruop26a.mid",3,1 ,3,,,
+    "bruop26b.mid",	1,	pasaje midi--bbok bbok
+    "bruop26b.mid",	2,	pasaje midi
+    "bruop26b.mid",	3,	pasaje midi
+"bruop26b.mid",3,1 ,,,,
+    "bruop46b.mid",	1,	bruch bbok
+    "bruop46b.mid",	2,	scottish
+    "bruop46b.mid",	3,	fantasy
+    "bruop46b.mid",	4,	op46-b
+    "bruop46b.mid",	5,	midi by:
+    "bruop46b.mid",	6,	b.fisher
+    "bruop46b.mid",	7,	
+    "bruop46b.mid",	8,	
+    "bruop46b.mid",	9,	
+    "bruop46b.mid",	10,	 bbok
+    "bruop46b.mid",	11,	 bbok
+    "bruop46b.mid",	12,	 bbok
+    "bruop46b.mid",	13,	 bbok
+    "bruop46b.mid",	14,	 bbok
+    "bruop46b.mid",	15,	 bbok
+    "bruop46b.mid",	16,	 bbok
+"bruop46b.mid",16,1 10 11 12 13 14 15 16 ,,1 2,3,
+    "bruop46c.mid",	1,	bruch bbok
+    "bruop46c.mid",	2,	scottish
+    "bruop46c.mid",	3,	fantasy
+    "bruop46c.mid",	4,	op46-c
+    "bruop46c.mid",	5,	midi by:
+    "bruop46c.mid",	6,	b.fisher
+    "bruop46c.mid",	7,	
+    "bruop46c.mid",	8,	
+    "bruop46c.mid",	9,	
+    "bruop46c.mid",	10,	 bbok
+    "bruop46c.mid",	11,	 bbok
+    "bruop46c.mid",	12,	 bbok
+    "bruop46c.mid",	13,	 bbok
+    "bruop46c.mid",	14,	 bbok
+    "bruop46c.mid",	15,	 bbok
+    "bruop46c.mid",	16,	 bbok
+"bruop46c.mid",16,1 10 11 12 13 14 15 16 ,,1 2,3,
+    "brwlz_03.mid",	1,	piano--bbok
+    "brwlz_03.mid",	2,	piano
+"brwlz_03.mid",2,1 ,,1,2,
+    "brwlz_09.mid",	1,	piano--bbok
+    "brwlz_09.mid",	2,	piano
+"brwlz_09.mid",2,1 ,,1,2,
+    "brwlz_12.mid",	1,	piano--bbok
+    "brwlz_12.mid",	2,	piano
+"brwlz_12.mid",2,1 ,,1,2,
+    "bthn06.mid",	1,	strings (bb)
+    "bthn06.mid",	2,	melody  (bb)--bbok
+"bthn06.mid",2,2 ,,,,
+    "bthn08.mid",	1,	bass    (bb)
+    "bthn08.mid",	2,	piano   (bb)
+    "bthn08.mid",	3,	guitar  (bb)
+    "bthn08.mid",	4,	strings (bb)
+    "bthn08.mid",	5,	melody  (bb)--bbok
+"bthn08.mid",5,5 ,1,,,
+    "bthn10.mid",	1,	bass    (bb)
+    "bthn10.mid",	2,	piano   (bb)
+    "bthn10.mid",	3,	guitar  (bb)
+    "bthn10.mid",	4,	strings (bb)
+    "bthn10.mid",	5,	melody  (bb)--bbok
+"bthn10.mid",5,5 ,1 4,,,
+    "bthn11.mid",	1,	bass    (bb)
+    "bthn11.mid",	2,	piano   (bb)
+    "bthn11.mid",	3,	guitar  (bb)
+    "bthn11.mid",	4,	strings (bb)
+    "bthn11.mid",	5,	melody  (bb)--bbok
+"bthn11.mid",5,5 ,1 4,,,
+    "bthn17.mid",	1,	bass    (bb)
+    "bthn17.mid",	2,	piano   (bb)
+    "bthn17.mid",	3,	guitar  (bb)
+    "bthn17.mid",	4,	strings (bb)
+    "bthn17.mid",	5,	melody  (bb)--bbok
+"bthn17.mid",5,5 ,1,,,
+    "bthn20.mid",	1,	bass    (bb)
+    "bthn20.mid",	2,	piano   (bb)
+    "bthn20.mid",	3,	guitar  (bb)
+    "bthn20.mid",	4,	strings (bb)
+    "bthn20.mid",	5,	melody  (bb)--bbok
+"bthn20.mid",5,5 ,1,,,
+    "burgundian.mid",	1,	burgundian–champagne
+    "burgundian.mid",	2,	1 bbok
+    "burgundian.mid",	3,	2
+    "burgundian.mid",	4,	3
+    "burgundian.mid",	5,	4
+    "burgundian.mid",	6,	burgundian/champagne
+    "burgundian.mid",	7,	claude gervaise
+    "burgundian.mid",	8,	© 1999 by curtis clark. free for personal use.
+    "burgundian.mid",	9,	http://www.csupomona.edu/~jcclark/emusic/
+    "burgundian.mid",	10,	jcclark@csupomona.edu
+"burgundian.mid",10,2 ,5,,,
+    "burns_corn_rigs.mid",	1,	words by robert burns
+    "burns_corn_rigs.mid",	2,	lyrics --bbok
+    "burns_corn_rigs.mid",	3,	vocal --bbok
+    "burns_corn_rigs.mid",	4,	treble
+    "burns_corn_rigs.mid",	5,	bass
+"burns_corn_rigs.mid",5,2 3 ,,4,5,
+    "burns_last_may_braw_wooer.mid",	1,	air, "the queen o' the lothians
+    "burns_last_may_braw_wooer.mid",	2,	glossary (open lyrics window)
+    "burns_last_may_braw_wooer.mid",	3,	voice 2--bbok
+    "burns_last_may_braw_wooer.mid",	4,	voice--bbok
+    "burns_last_may_braw_wooer.mid",	5,	treble
+    "burns_last_may_braw_wooer.mid",	6,	bass
+"burns_last_may_braw_wooer.mid",6,3 4 ,,5,6,
+    "burns_ye_banks_and_braes.mid",	1,	ye banks and braes
+    "burns_ye_banks_and_braes.mid",	2,	lyrics--bbok
+    "burns_ye_banks_and_braes.mid",	3,	voice--bbok
+    "burns_ye_banks_and_braes.mid",	4,	piano (treble)
+    "burns_ye_banks_and_braes.mid",	5,	piano (bass)
+"burns_ye_banks_and_braes.mid",5,2 3 ,,4,5,
+    "cannon_d_2.mid",	1,	copyright (c) 1990 by voyetra t
+    "cannon_d_2.mid",	2,	bass                
+    "cannon_d_2.mid",	3,	melody--bbok
+    "cannon_d_2.mid",	4,	tenor --bbok
+    "cannon_d_2.mid",	5,	counter melody --bbok
+"cannon_d_2.mid",5,3 4 5 ,2,,,
+    "carulli_andante.mid",	1,	--bbok
+    "carulli_andante.mid",	2,	
+"carulli_andante.mid",2,1 ,,,,
+    "chopin10.mid",	1,	piano   (bb)
+    "chopin10.mid",	2,	melody  (bb)--bbok
+"chopin10.mid",2,2 ,,2,1,
+    "chopin16.mid",	1,	piano   (bb)
+    "chopin16.mid",	2,	melody  (bb)--bbok
+"chopin16.mid",2,2 ,,2,1,
+    "chopin24.mid",	1,	piano   (bb)
+    "chopin24.mid",	2,	melody  (bb)--bbok
+"chopin24.mid",2,2 ,,2,1,
+    "clementi_sonatina_gradus_1.mid",	1,	r.h.
+    "clementi_sonatina_gradus_1.mid",	2,	r.h.
+    "clementi_sonatina_gradus_1.mid",	3,	l.h.ù
+    "clementi_sonatina_gradus_1.mid",	4,	l.h.
+    "clementi_sonatina_gradus_1.mid",	5,	gradus ad parnassum no.1
+    "clementi_sonatina_gradus_1.mid",	6,	by clementi
+    "clementi_sonatina_gradus_1.mid",	7,	sequence by
+    "clementi_sonatina_gradus_1.mid",	8,	gabriele giulimondi
+    "clementi_sonatina_gradus_1.mid",	9,	august, 1996
+    "clementi_sonatina_gradus_1.mid",	10,	giulim@mclink.it
+"clementi_sonatina_gradus_1.mid",10,,,1 2,3 4,
+    "clementi_sonatina_gradus_16.mid",	1,	 r.h.
+    "clementi_sonatina_gradus_16.mid",	2,	 l.h.
+    "clementi_sonatina_gradus_16.mid",	3,	gradus ad parnassum no.16
+    "clementi_sonatina_gradus_16.mid",	4,	by clementi
+    "clementi_sonatina_gradus_16.mid",	5,	sequence by
+    "clementi_sonatina_gradus_16.mid",	6,	gabriele giulimondi
+    "clementi_sonatina_gradus_16.mid",	7,	july, 1996
+    "clementi_sonatina_gradus_16.mid",	8,	giulim@mclink.it
+"clementi_sonatina_gradus_16.mid",8,,,1,2,
+    "clementi_sonatina_gradus_17.mid",	1,	
+    "clementi_sonatina_gradus_17.mid",	2,	
+    "clementi_sonatina_gradus_17.mid",	3,	 gradus ad parnassum no.17
+    "clementi_sonatina_gradus_17.mid",	4,	 by clementi, m.
+"clementi_sonatina_gradus_17.mid",4,,,1,2,
+    "clementi_sonatina_gradus_2.mid",	1,	 r.h.
+    "clementi_sonatina_gradus_2.mid",	2,	 l.h.
+    "clementi_sonatina_gradus_2.mid",	3,	 gradus ad parnassum no.2
+    "clementi_sonatina_gradus_2.mid",	4,	 by clementi m.
+    "clementi_sonatina_gradus_2.mid",	5,	sequence by
+    "clementi_sonatina_gradus_2.mid",	6,	gabriele giulimondi
+    "clementi_sonatina_gradus_2.mid",	7,	july, 1996
+    "clementi_sonatina_gradus_2.mid",	8,	giulim@mclink.it
+"clementi_sonatina_gradus_2.mid",8,,,1,2,
+    "clementi_sonatina_gradus_21.mid",	1,	
+    "clementi_sonatina_gradus_21.mid",	2,	
+    "clementi_sonatina_gradus_21.mid",	3,	gradus ad parnassum no.21
+    "clementi_sonatina_gradus_21.mid",	4,	by clementi, m.
+    "clementi_sonatina_gradus_21.mid",	5,	sequence by
+    "clementi_sonatina_gradus_21.mid",	6,	gabriele giulimondi
+    "clementi_sonatina_gradus_21.mid",	7,	july, 1996
+    "clementi_sonatina_gradus_21.mid",	8,	giulim@mclink.it
+"clementi_sonatina_gradus_21.mid",8,,,1,2,
+    "clementi_sonatina_gradus_65.mid",	1,	 r.h.
+    "clementi_sonatina_gradus_65.mid",	2,	 l.h.
+    "clementi_sonatina_gradus_65.mid",	3,	gradus ad parnassum no.65
+    "clementi_sonatina_gradus_65.mid",	4,	by clementi m.
+    "clementi_sonatina_gradus_65.mid",	5,	sequence by
+    "clementi_sonatina_gradus_65.mid",	6,	gabriele giulimondi
+    "clementi_sonatina_gradus_65.mid",	7,	july, 1996
+    "clementi_sonatina_gradus_65.mid",	8,	giulim@mclink.it
+"clementi_sonatina_gradus_65.mid",8,,,1,2,
+    "clementi_sonatina_no4parta.mid",	1,	piano rh
+    "clementi_sonatina_no4parta.mid",	2,	piano lh
+"clementi_sonatina_no4parta.mid",2,,,1,2,
+    "clementi_sonatina_no5parta.mid",	1,	piano rh
+    "clementi_sonatina_no5parta.mid",	2,	piano lh
+"clementi_sonatina_no5parta.mid",2,,,1,2,
+    "clementi_sonatina_no6parta_3.mid",	1,	piano rh
+    "clementi_sonatina_no6parta_3.mid",	2,	piano lh
+"clementi_sonatina_no6parta_3.mid",2,,,1,2,
+    "come_again.mid",	1,	come again: seet love doth now invite
+    "come_again.mid",	2,	voice bbok
+    "come_again.mid",	3,	virginal 1
+    "come_again.mid",	4,	virginal 2
+    "come_again.mid",	5,	come again: sweet love doth now invite
+    "come_again.mid",	6,	john dowland
+    "come_again.mid",	7,	© 1996 by curtis clark. free for personal use
+    "come_again.mid",	8,	jcclark@csupomona.edu
+    "come_again.mid",	9,	http://www.csupomona.edu/~jcclark/
+"come_again.mid",9,2 ,4,,,
+    "concierto_para_clarinete_en_Bb_Rondo_Allegro_mozart.mid",	1,	bbok
+    "concierto_para_clarinete_en_Bb_Rondo_Allegro_mozart.mid",	2,	concerto
+    "concierto_para_clarinete_en_Bb_Rondo_Allegro_mozart.mid",	3,	k622-c-rondo-allegro
+    "concierto_para_clarinete_en_Bb_Rondo_Allegro_mozart.mid",	4,	midi by:
+    "concierto_para_clarinete_en_Bb_Rondo_Allegro_mozart.mid",	5,	b.fisher
+"concierto_para_clarinete_en_Bb_Rondo_Allegro_mozart.mid",5,1 ,,,,
+    "croce_o_vos_omnes.mid",	1,	 bbok
+    "croce_o_vos_omnes.mid",	2,	
+    "croce_o_vos_omnes.mid",	3,	
+    "croce_o_vos_omnes.mid",	4,	
+"croce_o_vos_omnes.mid",4,1 ,4,,,
+    "csonatam.mid",	1,	harp1no57           
+    "csonatam.mid",	2,	piano               
+"csonatam.mid",2,,,,,
+    "dadme_albricias_hijos_de_eva.mid",	1,	e la don don, verges maría
+    "dadme_albricias_hijos_de_eva.mid",	2,	1 bbok
+    "dadme_albricias_hijos_de_eva.mid",	3,	2
+    "dadme_albricias_hijos_de_eva.mid",	4,	3
+    "dadme_albricias_hijos_de_eva.mid",	5,	4
+    "dadme_albricias_hijos_de_eva.mid",	6,	dadme albricias, híjos d'eva
+    "dadme_albricias_hijos_de_eva.mid",	7,	anon.
+    "dadme_albricias_hijos_de_eva.mid",	8,	© 1996 by curtis clark. free for personal use
+    "dadme_albricias_hijos_de_eva.mid",	9,	jcclark@csupomona.edu
+    "dadme_albricias_hijos_de_eva.mid",	10,	http://www.csupomona.edu/~jcclark/emusic/
+"dadme_albricias_hijos_de_eva.mid",10,2 ,,,,
+    "danube.mid",	1,	melody--bbok
+    "danube.mid",	2,	acc.
+    "danube.mid",	3,	melody--bbok
+    "danube.mid",	4,	acc.
+"danube.mid",4,1 3 ,,3,4,
+    "dePerusio_ballade_greygnour.mid",	1,	le greygnour bien bbok
+    "dePerusio_ballade_greygnour.mid",	2,	matheus de perusio
+    "dePerusio_ballade_greygnour.mid",	3,	seq by gary rich
+"dePerusio_ballade_greygnour.mid",3,1 ,,,,
+    "dePerusio_puisque_je_sui_pour.mid",	1,	unnamed-000 bbok
+    "dePerusio_puisque_je_sui_pour.mid",	2,	unnamed-001
+    "dePerusio_puisque_je_sui_pour.mid",	3,	unnamed-002
+"dePerusio_puisque_je_sui_pour.mid",3,1 ,3,,,
+    "dowland_farwell.mid",	1,	@channel 1 bbok
+    "dowland_farwell.mid",	2,	@channel 2
+    "dowland_farwell.mid",	3,	@channel 3
+    "dowland_farwell.mid",	4,	@channel 4
+"dowland_farwell.mid",4,1 ,4,,,
+    "dowland_lachrimae.mid",	1,	@channel 1 bbok
+    "dowland_lachrimae.mid",	2,	@channel 2
+    "dowland_lachrimae.mid",	3,	@channel 3
+    "dowland_lachrimae.mid",	4,	@channel 4
+"dowland_lachrimae.mid",4,1 ,4,,,
+    "dowland_my_thoughts.mid",	1,	dowland my thoughts are winged with hope  bbok
+    "dowland_my_thoughts.mid",	2,	sequenced by mike hohn
+    "dowland_my_thoughts.mid",	3,	e-mail mikehohn@ns.computer.net
+    "dowland_my_thoughts.mid",	4,	
+    "dowland_my_thoughts.mid",	5,	
+    "dowland_my_thoughts.mid",	6,	
+"dowland_my_thoughts.mid",6,1 ,4,,,
+    "dowland_now_i_needs_must_part.mid",	1,	now i needs must part by dowland bbok
+    "dowland_now_i_needs_must_part.mid",	2,	arr and seq by mike starke
+    "dowland_now_i_needs_must_part.mid",	3,	mjstarke@ix.netcom.com bbok
+    "dowland_now_i_needs_must_part.mid",	4,	
+    "dowland_now_i_needs_must_part.mid",	5,	
+    "dowland_now_i_needs_must_part.mid",	6,	
+    "dowland_now_i_needs_must_part.mid",	7,	
+    "dowland_now_i_needs_must_part.mid",	8,	
+    "dowland_now_i_needs_must_part.mid",	9,	
+    "dowland_now_i_needs_must_part.mid",	10,	 bbok
+    "dowland_now_i_needs_must_part.mid",	11,	 bbok
+    "dowland_now_i_needs_must_part.mid",	12,	 bbok
+"dowland_now_i_needs_must_part.mid",12,1 3 10 11 12 ,7,,,
+    "dowland_say_love_if_ever.mid",	1,	say, love, if ever bbok
+    "dowland_say_love_if_ever.mid",	2,	thou didst find
+    "dowland_say_love_if_ever.mid",	3,	by john dowland
+    "dowland_say_love_if_ever.mid",	4,	sequenced by tony keane
+"dowland_say_love_if_ever.mid",4,1 ,3,,,
+    "dufay0.mid",	1,	@channel 1
+    "dufay0.mid",	2,	@channel 2
+    "dufay0.mid",	3,	@channel 3
+    "dufay0.mid",	4,	@channel 4 bbok
+    "dufay0.mid",	5,	@channel 5
+    "dufay0.mid",	6,	@channel 6
+    "dufay0.mid",	7,	
+    "dufay0.mid",	8,	
+    "dufay0.mid",	9,	
+    "dufay0.mid",	10,	@channel 10
+"dufay0.mid",10,4 ,10,,,
+    "dunstable_sancta_maria.mid",	1,	sancta maria by john sunstable bbok
+    "dunstable_sancta_maria.mid",	2,	arr by mj starke e-mail mjstarke@ix.netcom.com
+    "dunstable_sancta_maria.mid",	3,	©1996mjstarke
+    "dunstable_sancta_maria.mid",	4,	 bbok
+    "dunstable_sancta_maria.mid",	5,	
+    "dunstable_sancta_maria.mid",	6,	
+"dunstable_sancta_maria.mid",6,1 4 ,3,,,
+    "ekn6.mid",	1,	bbok
+    "ekn6.mid",	2,	second violins
+    "ekn6.mid",	3,	violas
+    "ekn6.mid",	4,	cellos
+    "ekn6.mid",	5,	basses
+    "ekn6.mid",	6,	(c)2000
+    "ekn6.mid",	7,	www.nesys.com
+"ekn6.mid",7,1 ,5,,,
+    "encina_mas_vale_trocar.mid",	1,	mas vale trocar
+    "encina_mas_vale_trocar.mid",	2,	jual del enzina (1567-1643)
+    "encina_mas_vale_trocar.mid",	3,	secuenciado por jorge --bbok bbok
+    "encina_mas_vale_trocar.mid",	4,	jorge.ba@teleline.es
+"encina_mas_vale_trocar.mid",4,3 ,4,,,
+    "english_the_shepherds_hey.mid",	1,	the shepherds hey
+    "english_the_shepherds_hey.mid",	2,	1 bbok
+    "english_the_shepherds_hey.mid",	3,	2 bbok
+    "english_the_shepherds_hey.mid",	4,	3 bbok
+    "english_the_shepherds_hey.mid",	5,	4 bbok
+    "english_the_shepherds_hey.mid",	6,	drum
+    "english_the_shepherds_hey.mid",	7,	the shepherds hey
+    "english_the_shepherds_hey.mid",	8,	traditional morris dance tune
+    "english_the_shepherds_hey.mid",	9,	© 1995 by curtis clark, free for personal use
+    "english_the_shepherds_hey.mid",	10,	jcclark@csupomona.edu
+    "english_the_shepherds_hey.mid",	11,	http://www.csupomona.edu/~jcclark/emusic/
+"english_the_shepherds_hey.mid",11,2 3 4 5 ,,,,
+    "erlking.mid",	1,	english (lyrics wind)--bbok
+    "erlking.mid",	2,	 german (lyrics wind)--bbok
+    "erlking.mid",	3,	 pinao
+    "erlking.mid",	4,	voice--bbok
+"erlking.mid",4,1 2 4 ,,,,
+    "farnaby_psalm122.mid",	1,	soprano bbok
+    "farnaby_psalm122.mid",	2,	alto
+    "farnaby_psalm122.mid",	3,	tenor
+    "farnaby_psalm122.mid",	4,	bass
+"farnaby_psalm122.mid",4,1 ,4,,,
+    "fmendel8.3.mid",	1,	english words
+    "fmendel8.3.mid",	2,	german words--bbok
+    "fmendel8.3.mid",	3,	voice--bbok
+    "fmendel8.3.mid",	4,	piano (treble)
+    "fmendel8.3.mid",	5,	piano (bass)
+"fmendel8.3.mid",5,2 3 ,,4,5,
+    "gabrieli_in_ecclesiis.mid",	1,	voce (in concertato) bbok
+    "gabrieli_in_ecclesiis.mid",	2,	voce (in concertato) bbok
+    "gabrieli_in_ecclesiis.mid",	3,	voce (in concertato) bbok
+    "gabrieli_in_ecclesiis.mid",	4,	voce (in concertato) bbok
+    "gabrieli_in_ecclesiis.mid",	5,	capella
+    "gabrieli_in_ecclesiis.mid",	6,	capella
+    "gabrieli_in_ecclesiis.mid",	7,	capella
+    "gabrieli_in_ecclesiis.mid",	8,	capella
+    "gabrieli_in_ecclesiis.mid",	9,	cornetto
+    "gabrieli_in_ecclesiis.mid",	10,	cornetto
+    "gabrieli_in_ecclesiis.mid",	11,	cornetto
+    "gabrieli_in_ecclesiis.mid",	12,	violino
+    "gabrieli_in_ecclesiis.mid",	13,	trombon
+    "gabrieli_in_ecclesiis.mid",	14,	trombon
+    "gabrieli_in_ecclesiis.mid",	15,	basso per l'organo
+"gabrieli_in_ecclesiis.mid",15,1 2 3 4 ,8,,,
+    "gabrieli_pian_e_forte.mid",	1,	cornetto bbok
+    "gabrieli_pian_e_forte.mid",	2,	trombon
+    "gabrieli_pian_e_forte.mid",	3,	trombon
+    "gabrieli_pian_e_forte.mid",	4,	trombon
+    "gabrieli_pian_e_forte.mid",	5,	violino bbok
+    "gabrieli_pian_e_forte.mid",	6,	trombon
+    "gabrieli_pian_e_forte.mid",	7,	trombon
+    "gabrieli_pian_e_forte.mid",	8,	trombon
+"gabrieli_pian_e_forte.mid",8,1 5 ,8,,,
+    "gabrieli_surrexit_christus.mid",	1,	sequence
+    "gabrieli_surrexit_christus.mid",	2,	cornetto (canto)
+    "gabrieli_surrexit_christus.mid",	3,	cornetto (settimo)
+    "gabrieli_surrexit_christus.mid",	4,	violino (nono)
+    "gabrieli_surrexit_christus.mid",	5,	violino (decimo)
+    "gabrieli_surrexit_christus.mid",	6,	trombon (undecimo)
+    "gabrieli_surrexit_christus.mid",	7,	trombon (quinto)
+    "gabrieli_surrexit_christus.mid",	8,	trombon (ottavo)
+    "gabrieli_surrexit_christus.mid",	9,	trombon (basso)
+    "gabrieli_surrexit_christus.mid",	10,	alto bbok
+    "gabrieli_surrexit_christus.mid",	11,	tenore bbok
+    "gabrieli_surrexit_christus.mid",	12,	basso (sesto) bbok
+    "gabrieli_surrexit_christus.mid",	13,	basso per l'organo
+"gabrieli_surrexit_christus.mid",13,10 11 12 ,9,,,
+    "gastoldi_amor_v.mid",	1,	soprano bbok
+    "gastoldi_amor_v.mid",	2,	alto 1
+    "gastoldi_amor_v.mid",	3,	alto 2
+    "gastoldi_amor_v.mid",	4,	tenor
+    "gastoldi_amor_v.mid",	5,	bass
+    "gastoldi_amor_v.mid",	6,	amor vittorioso
+    "gastoldi_amor_v.mid",	7,	giovanni gastoldi
+    "gastoldi_amor_v.mid",	8,	sequenced by kelson vibber
+"gastoldi_amor_v.mid",8,1 ,5,,,
+    "greenslv.mid",	1,	greensleeves        
+    "greenslv.mid",	2,	copyright (c) 1991  
+    "greenslv.mid",	3,	voyetra technologies
+    "greenslv.mid",	4,	piano               
+    "greenslv.mid",	5,	bass                
+    "greenslv.mid",	6,	melody--bbok
+    "greenslv.mid",	7,	harmony bridge      
+    "greenslv.mid",	8,	harmony verse       
+"greenslv.mid",8,6 ,5,,,
+    "handel04.mid",	1,	bass    (bb)
+    "handel04.mid",	2,	piano   (bb)
+    "handel04.mid",	3,	guitar  (bb)
+    "handel04.mid",	4,	strings (bb)
+    "handel04.mid",	5,	melody  (bb)--bbok
+"handel04.mid",5,5 ,1,,,
+    "handel05.mid",	1,	bass    (bb)
+    "handel05.mid",	2,	piano   (bb)
+    "handel05.mid",	3,	guitar  (bb)
+    "handel05.mid",	4,	strings (bb)
+    "handel05.mid",	5,	melody  (bb)--bbok
+"handel05.mid",5,5 ,1,,,
+    "handel06.mid",	1,	piano   (bb)
+    "handel06.mid",	2,	guitar  (bb)
+    "handel06.mid",	3,	strings (bb)
+    "handel06.mid",	4,	melody  (bb)--bbok
+"handel06.mid",4,4 ,3,,,
+    "handel07.mid",	1,	bass    (bb)
+    "handel07.mid",	2,	piano   (bb)
+    "handel07.mid",	3,	guitar  (bb)
+    "handel07.mid",	4,	strings (bb)
+    "handel07.mid",	5,	melody  (bb)--bbok
+"handel07.mid",5,5 ,1,,,
+    "handel09.mid",	1,	bass    (bb)
+    "handel09.mid",	2,	piano   (bb)
+    "handel09.mid",	3,	guitar  (bb)
+    "handel09.mid",	4,	strings (bb)
+    "handel09.mid",	5,	melody  (bb)--bbok
+"handel09.mid",5,5 ,1,,,
+    "hassler_sanctus_benedictus.mid",	1,	 bbok
+    "hassler_sanctus_benedictus.mid",	2,	
+    "hassler_sanctus_benedictus.mid",	3,	
+    "hassler_sanctus_benedictus.mid",	4,	
+"hassler_sanctus_benedictus.mid",4,1 ,4,,,
+    "haycelc3.mid",	1,	bbok
+    "haycelc3.mid",	2,	piano
+    "haycelc3.mid",	3,	piano2
+"haycelc3.mid",3,1 ,,2,3,
+    "haydnhrn.mid",	1,	bbok
+    "haydnhrn.mid",	2,	staff-1
+    "haydnhrn.mid",	3,	staff-2
+    "haydnhrn.mid",	4,	staff-3
+    "haydnhrn.mid",	5,	staff-4
+    "haydnhrn.mid",	6,	staff-5
+"haydnhrn.mid",6,1 ,,,,
+    "haydnob1.mid",	1,	bbok
+    "haydnob1.mid",	2,	violin i
+    "haydnob1.mid",	3,	violin ii
+    "haydnob1.mid",	4,	viola
+    "haydnob1.mid",	5,	'cello
+    "haydnob1.mid",	6,	bass
+"haydnob1.mid",6,1 ,6,,,
+    "haydntc.mid",	1,	bbok
+    "haydntc.mid",	2,	staff-1
+    "haydntc.mid",	3,	staff-3
+    "haydntc.mid",	4,	staff-2
+    "haydntc.mid",	5,	staff-4
+    "haydntc.mid",	6,	staff-5
+"haydntc.mid",6,1 ,,,,
+    "hilton_what_shall_he_have_that_killd_the_deer.mid",	1,	what shall he have that kill'd the deer?
+    "hilton_what_shall_he_have_that_killd_the_deer.mid",	2,	1 bbok
+    "hilton_what_shall_he_have_that_killd_the_deer.mid",	3,	2 bbok
+    "hilton_what_shall_he_have_that_killd_the_deer.mid",	4,	3 bbok
+    "hilton_what_shall_he_have_that_killd_the_deer.mid",	5,	4 bbok
+    "hilton_what_shall_he_have_that_killd_the_deer.mid",	6,	drums
+    "hilton_what_shall_he_have_that_killd_the_deer.mid",	7,	what shall he have that kill'd the deer?
+    "hilton_what_shall_he_have_that_killd_the_deer.mid",	8,	john hilton
+    "hilton_what_shall_he_have_that_killd_the_deer.mid",	9,	© 1995 by curtis clark, free for personal use
+    "hilton_what_shall_he_have_that_killd_the_deer.mid",	10,	http://www.csupomona.edu/~jcclark/emusic/
+    "hilton_what_shall_he_have_that_killd_the_deer.mid",	11,	jcclark@csupomona.edu
+"hilton_what_shall_he_have_that_killd_the_deer.mid",11,2 3 4 5 ,,,,
+    "hoboeckentanz.mid",	1,	hoboeckentanz
+    "hoboeckentanz.mid",	2,	s bbok
+    "hoboeckentanz.mid",	3,	a
+    "hoboeckentanz.mid",	4,	t
+    "hoboeckentanz.mid",	5,	b
+    "hoboeckentanz.mid",	6,	hoboeckentanz
+    "hoboeckentanz.mid",	7,	tielman susato
+    "hoboeckentanz.mid",	8,	© 1996 by curtis clark. free for personal use
+    "hoboeckentanz.mid",	9,	jcclark@csupomona.edu
+    "hoboeckentanz.mid",	10,	http://www.csupomona.edu/~jcclark/emusic/
+"hoboeckentanz.mid",10,2 ,5,,,
+    "holborne_my_lord_of_oxenford.mid",	1,	english horn bbok
+    "holborne_my_lord_of_oxenford.mid",	2,	english horn
+    "holborne_my_lord_of_oxenford.mid",	3,	harpsichord
+    "holborne_my_lord_of_oxenford.mid",	4,	harpsichord
+    "holborne_my_lord_of_oxenford.mid",	5,	cello
+    "holborne_my_lord_of_oxenford.mid",	6,	drums & perc.
+    "holborne_my_lord_of_oxenford.mid",	7,	drums & perc.
+    "holborne_my_lord_of_oxenford.mid",	8,	"my lord of
+    "holborne_my_lord_of_oxenford.mid",	9,	oxenford's march"
+    "holborne_my_lord_of_oxenford.mid",	10,	by anthony holborne bbok
+    "holborne_my_lord_of_oxenford.mid",	11,	entered & sequenced bbok
+    "holborne_my_lord_of_oxenford.mid",	12,	for gen. midi by bbok
+    "holborne_my_lord_of_oxenford.mid",	13,	robert schiele bbok
+    "holborne_my_lord_of_oxenford.mid",	14,	<schiele@inetdirect.net> bbok
+    "holborne_my_lord_of_oxenford.mid",	15,	11/29/94 bbok
+"holborne_my_lord_of_oxenford.mid",15,1 10 11 12 13 14 15 ,5,,,
+    "hopkinson_beneath_a_weeping.mid",	1,	francis hopkinson
+    "hopkinson_beneath_a_weeping.mid",	2,	1737-1791
+    "hopkinson_beneath_a_weeping.mid",	3,	beneath a weeping willows shade
+    "hopkinson_beneath_a_weeping.mid",	4,	bbok
+    "hopkinson_beneath_a_weeping.mid",	5,	accompaniment rh
+    "hopkinson_beneath_a_weeping.mid",	6,	accompanyment lh
+    "hopkinson_beneath_a_weeping.mid",	7,	sequenced: m.l. taylor, 1997
+    "hopkinson_beneath_a_weeping.mid",	8,	getaylor@scifac.indstate.edu
+"hopkinson_beneath_a_weeping.mid",8,4 ,6,,,
+    "hun3.mid",	1,	pasaje midi--bbok
+    "hun3.mid",	2,	pasaje midi
+"hun3.mid",2,1 ,,1,2,
+    "hun6.mid",	1,	pasaje midi--bbok
+    "hun6.mid",	2,	pasaje midi
+"hun6.mid",2,1 ,,1,2,
+    "hun7.mid",	1,	pasaje midi--bbok
+    "hun7.mid",	2,	pasaje midi
+"hun7.mid",2,1 ,,1,2,
+    "hungary1.mid",	1,	melody              --bbok
+    "hungary1.mid",	2,	rythm               
+    "hungary1.mid",	3,	drums               
+    "hungary1.mid",	4,	melody              --bbok
+    "hungary1.mid",	5,	rythm               
+    "hungary1.mid",	6,	drums               
+"hungary1.mid",6,1 4 ,,,,
+    "hydnlark.mid",	1,	pista 1
+    "hydnlark.mid",	2,	pista 2
+    "hydnlark.mid",	3,	bbok
+    "hydnlark.mid",	4,	pista 4
+    "hydnlark.mid",	5,	pista 5
+    "hydnlark.mid",	6,	pista 6
+    "hydnlark.mid",	7,	pista 7
+    "hydnlark.mid",	8,	pista 8
+    "hydnlark.mid",	9,	pista 9
+    "hydnlark.mid",	10,	pista 10
+"hydnlark.mid",10,3 ,,,,
+    "innsbruck_ich_muss_dich_lassen.mid",	1,	inssbruck, ich muß dich lassen
+    "innsbruck_ich_muss_dich_lassen.mid",	2,	1 bbok
+    "innsbruck_ich_muss_dich_lassen.mid",	3,	2
+    "innsbruck_ich_muss_dich_lassen.mid",	4,	3
+    "innsbruck_ich_muss_dich_lassen.mid",	5,	4
+    "innsbruck_ich_muss_dich_lassen.mid",	6,	innsbruck, ich muß dich lassen
+    "innsbruck_ich_muss_dich_lassen.mid",	7,	heinrich isaac
+    "innsbruck_ich_muss_dich_lassen.mid",	8,	© 1997 by curtis clark. free for personal use.
+    "innsbruck_ich_muss_dich_lassen.mid",	9,	jcclark@csupomona.edu
+    "innsbruck_ich_muss_dich_lassen.mid",	10,	http://www.csupomona.edu/~jcclark/emusic/
+"innsbruck_ich_muss_dich_lassen.mid",10,2 ,5,,,
+    "io_non_compro_pi_speranza.mid",	1,	io non compro più speranza
+    "io_non_compro_pi_speranza.mid",	2,	1 bbok
+    "io_non_compro_pi_speranza.mid",	3,	3
+    "io_non_compro_pi_speranza.mid",	4,	4
+    "io_non_compro_pi_speranza.mid",	5,	staff-1
+    "io_non_compro_pi_speranza.mid",	6,	io non compro più speranza
+    "io_non_compro_pi_speranza.mid",	7,	marco cara (after 1525)
+    "io_non_compro_pi_speranza.mid",	8,	© 1997 by curtis clark. free for personal use.
+    "io_non_compro_pi_speranza.mid",	9,	http://www.csupomona.edu/~jcclark/emusic/
+    "io_non_compro_pi_speranza.mid",	10,	jcclark@csupomona.edu
+"io_non_compro_pi_speranza.mid",10,2 ,4,,,
+    "janequin_reconfortez.mid",	1,	soprano
+    "janequin_reconfortez.mid",	2,	alto bbok
+    "janequin_reconfortez.mid",	3,	tŽnor
+    "janequin_reconfortez.mid",	4,	basse
+    "janequin_reconfortez.mid",	5,	"reconfortez le petit cueur de moy" par clement janequin  le 4 avril 1528
+    "janequin_reconfortez.mid",	6,	sequenced by brian fisher,  lepage-fisher@atreide.net
+    "janequin_reconfortez.mid",	7,	<http://www.latourdulac.com/cantabile/>
+"janequin_reconfortez.mid",7,2 ,4,,,
+    "kodaly32.mid",	1,	english translation
+    "kodaly32.mid",	2,	hungarian--bbok
+    "kodaly32.mid",	3,	voice--bbok
+    "kodaly32.mid",	4,	piano (treble)
+    "kodaly32.mid",	5,	piano (bass)
+"kodaly32.mid",5,2 3 ,,,,
+    "kodaly33.mid",	1,	english translation
+    "kodaly33.mid",	2,	hungarian --bbok
+    "kodaly33.mid",	3,	voice--bbok
+    "kodaly33.mid",	4,	piano (treble)
+    "kodaly33.mid",	5,	piano (bass)
+"kodaly33.mid",5,2 3 ,,4,5,
+    "kodaly37.mid",	1,	english translation
+    "kodaly37.mid",	2,	hungarian--bbok
+    "kodaly37.mid",	3,	voice--bbok
+    "kodaly37.mid",	4,	piano (treble)
+    "kodaly37.mid",	5,	piano ()bass)
+"kodaly37.mid",5,2 3 ,,4,5,
+    "la_canarie.mid",	1,	la canarie (xxxi)
+    "la_canarie.mid",	2,	soprano bbok
+    "la_canarie.mid",	3,	alto
+    "la_canarie.mid",	4,	tenor
+    "la_canarie.mid",	5,	bass
+    "la_canarie.mid",	6,	la canarie
+    "la_canarie.mid",	7,	michael praetorius
+    "la_canarie.mid",	8,	© 1999 by curtis clark. free for personal use.
+    "la_canarie.mid",	9,	http://www.csupomona.edu/~jcclark/emusic/
+    "la_canarie.mid",	10,	jcclark@csupomona.edu
+"la_canarie.mid",10,2 ,5,,,
+    "lasso_gallans.mid",	1,	soprano bbok
+    "lasso_gallans.mid",	2,	alto
+    "lasso_gallans.mid",	3,	tenor
+    "lasso_gallans.mid",	4,	bass
+    "lasso_gallans.mid",	5,	
+    "lasso_gallans.mid",	6,	title: gallans qui par terre et par mer
+    "lasso_gallans.mid",	7,	composer: orlando di lasso
+    "lasso_gallans.mid",	8,	sequence: faren raborn, copyright 1996
+    "lasso_gallans.mid",	9,	email: raborn@dtx.net (faren raborn)
+"lasso_gallans.mid",9,1 ,4,,,
+    "lasso_kyrie_eleison.mid",	1,	tenor 1                 kyrie eleison bbok
+    "lasso_kyrie_eleison.mid",	2,	tenor 2   by orlando di lassus (1532-1597)
+    "lasso_kyrie_eleison.mid",	3,	baritone    midi by marty weimer 5/22/96
+    "lasso_kyrie_eleison.mid",	4,	bass     weimemt@libby.org  eureka, mt  usa
+    "lasso_kyrie_eleison.mid",	5,	from "missa ad imitationem moduli lager", c. 1560
+"lasso_kyrie_eleison.mid",5,1 ,4,,,
+    "lasso_matona_mia_cara.mid",	1,	soprano bbok
+    "lasso_matona_mia_cara.mid",	2,	alto
+    "lasso_matona_mia_cara.mid",	3,	tŽnor
+    "lasso_matona_mia_cara.mid",	4,	basse
+    "lasso_matona_mia_cara.mid",	5,	matona mia cara par orlande de lassus
+    "lasso_matona_mia_cara.mid",	6,	sequenced by brian fisher <lepage-fisher@atreide.net
+    "lasso_matona_mia_cara.mid",	7,	<http://www.latourdulac.com/cantabile/>
+"lasso_matona_mia_cara.mid",7,1 ,4,,,
+    "loopz3.mid",	1,	electric bass       
+    "loopz3.mid",	2,	electric bass       
+"loopz3.mid",2,,,,,
+    "lust_mag_mein_herz.mid",	1,	lust mag mein herz
+    "lust_mag_mein_herz.mid",	2,	1 bbok
+    "lust_mag_mein_herz.mid",	3,	2
+    "lust_mag_mein_herz.mid",	4,	3
+    "lust_mag_mein_herz.mid",	5,	4
+    "lust_mag_mein_herz.mid",	6,	lust mag mein herz
+    "lust_mag_mein_herz.mid",	7,	ludwig senfl
+    "lust_mag_mein_herz.mid",	8,	© 1997 by curtis clark. free for personal use.
+    "lust_mag_mein_herz.mid",	9,	jcclark@csupomona.edu
+    "lust_mag_mein_herz.mid",	10,	http://www.csupomona.edu/~jcclark/emusic/
+"lust_mag_mein_herz.mid",10,2 ,5,,,
+    "mainerio_schiarazzula.mid",	1,	cello
+    "mainerio_schiarazzula.mid",	2,	harp
+    "mainerio_schiarazzula.mid",	3,	violino bbok
+    "mainerio_schiarazzula.mid",	4,	mandola bbok
+    "mainerio_schiarazzula.mid",	5,	recorder bbok
+    "mainerio_schiarazzula.mid",	6,	harpsichr bbok
+    "mainerio_schiarazzula.mid",	7,	harpsil
+    "mainerio_schiarazzula.mid",	8,	percuss
+    "mainerio_schiarazzula.mid",	9,	flute bbok
+    "mainerio_schiarazzula.mid",	10,	oboe
+    "mainerio_schiarazzula.mid",	11,	effects
+"mainerio_schiarazzula.mid",11,3 4 5 6 9 ,1,,,
+    "mendel05.mid",	1,	piano   (bb)
+    "mendel05.mid",	2,	melody  (bb)--bbok
+"mendel05.mid",2,2 ,,,,
+    "mendel86_6.mid",	1,	altdeutsches frühlingslied
+    "mendel86_6.mid",	2,	 english:  open lyrics window
+    "mendel86_6.mid",	3,	german--bbok
+    "mendel86_6.mid",	4,	voice--bbok
+    "mendel86_6.mid",	5,	piano (treble)
+    "mendel86_6.mid",	6,	piano (bass)
+"mendel86_6.mid",6,3 4 ,,5,6,
+    "mfaria04.mid",	1,	oboes
+    "mfaria04.mid",	2,	bassoons
+    "mfaria04.mid",	3,	horns in b
+    "mfaria04.mid",	4,	violin 1
+    "mfaria04.mid",	5,	violin 2
+    "mfaria04.mid",	6,	viola
+    "mfaria04.mid",	7,	bbok
+    "mfaria04.mid",	8,	cello
+    "mfaria04.mid",	9,	double basses
+"mfaria04.mid",9,7 ,9,,,
+    "mfaria14.mid",	1,	flutes
+    "mfaria14.mid",	2,	oboes
+    "mfaria14.mid",	3,	bassoons
+    "mfaria14.mid",	4,	horns in f
+    "mfaria14.mid",	5,	trumpets in f
+    "mfaria14.mid",	6,	timpani in d a
+    "mfaria14.mid",	7,	1st violins
+    "mfaria14.mid",	8,	2nd violins
+    "mfaria14.mid",	9,	violas
+    "mfaria14.mid",	10,	bbok
+    "mfaria14.mid",	11,	cello/basses
+"mfaria14.mid",11,10 ,11,,,
+    "minuetg.mid",	1,	melody --bbok
+    "minuetg.mid",	2,	chords              
+    "minuetg.mid",	3,	bass                
+"minuetg.mid",3,1 ,3,,,
+    "monteverdi_chi_vuol_veder.mid",	1,	claudio monteverdi-chi vuol veder
+    "monteverdi_chi_vuol_veder.mid",	2,	sequenced and arranged by mj starke bbok
+    "monteverdi_chi_vuol_veder.mid",	3,	e-mail mjstarke@ix.netcom.com
+    "monteverdi_chi_vuol_veder.mid",	4,	©1995mjstarke (non-profit use ok)
+    "monteverdi_chi_vuol_veder.mid",	5,	 bbok
+    "monteverdi_chi_vuol_veder.mid",	6,	
+    "monteverdi_chi_vuol_veder.mid",	7,	
+    "monteverdi_chi_vuol_veder.mid",	8,	
+"monteverdi_chi_vuol_veder.mid",8,2 5 ,3,,,
+    "monteverdi_lamento_a2.mid",	1,	arianna bbok
+    "monteverdi_lamento_a2.mid",	2,	1
+    "monteverdi_lamento_a2.mid",	3,	2
+"monteverdi_lamento_a2.mid",3,1 ,3,,,
+    "monteverdi_lamento_c3.mid",	1,	s1 bbok
+    "monteverdi_lamento_c3.mid",	2,	s2
+    "monteverdi_lamento_c3.mid",	3,	a
+    "monteverdi_lamento_c3.mid",	4,	t
+    "monteverdi_lamento_c3.mid",	5,	b
+    "monteverdi_lamento_c3.mid",	6,	-
+    "monteverdi_lamento_c3.mid",	7,	_
+"monteverdi_lamento_c3.mid",7,1 ,5 7,,,
+    "monteverdi_morfeo_ecco_pur.mid",	1,	orfeo - ecco pur bbok
+    "monteverdi_morfeo_ecco_pur.mid",	2,	continuo i - monteverdi
+    "monteverdi_morfeo_ecco_pur.mid",	3,	continuo ii - set by
+    "monteverdi_morfeo_ecco_pur.mid",	4,	viola - alexa bender
+    "monteverdi_morfeo_ecco_pur.mid",	5,	bass - feb. 1997
+"monteverdi_morfeo_ecco_pur.mid",5,1 ,5,,,
+    "morley_april.mid",	1,	soprano bbok
+    "morley_april.mid",	2,	alto
+    "morley_april.mid",	3,	tenor
+    "morley_april.mid",	4,	bass
+"morley_april.mid",4,1 ,4,,,
+    "morley_clorinda.mid",	1,	 bbok
+    "morley_clorinda.mid",	2,	 bbok
+    "morley_clorinda.mid",	3,	
+    "morley_clorinda.mid",	4,	
+"morley_clorinda.mid",4,1 2 ,4,,,
+    "motet.mid",	1,	cantus bbok
+    "motet.mid",	2,	altus
+    "motet.mid",	3,	tenor i
+    "motet.mid",	4,	tenor ii
+    "motet.mid",	5,	bassus
+    "motet.mid",	6,	ascendo ad patrem
+    "motet.mid",	7,	motet
+    "motet.mid",	8,	g.p. palestrina
+    "motet.mid",	9,	sequence copyright 1998 brian m. ames
+    "motet.mid",	10,	bmames@apk.net bbok
+"motet.mid",10,1 10 ,5,,,
+    "moz24cm2.mid",	1,	soloist
+    "moz24cm2.mid",	2,	orchestra
+    "moz24cm2.mid",	3,	w.a. mozart:
+    "moz24cm2.mid",	4,	piano concerto 24 c minor
+    "moz24cm2.mid",	5,	ii: larghetto
+    "moz24cm2.mid",	6,	sequenced in 1992 by
+    "moz24cm2.mid",	7,	veikko viljanen
+    "moz24cm2.mid",	8,	veikko.viljanen@viljane.pp.fi
+    "moz24cm2.mid",	9,	yamaha clavinova
+    "moz24cm2.mid",	10,	macintosh ii cx
+    "moz24cm2.mid",	11,	master tracks pro
+"moz24cm2.mid",11,,,,,
+    "moz304_1.mid",	1,	bbok
+    "moz304_1.mid",	2,	piano
+"moz304_1.mid",2,1 ,,3,2,
+    "moz_co.mid",	1,	bbok
+    "moz_co.mid",	2,	staff-1
+    "moz_co.mid",	3,	staff-2
+"moz_co.mid",3,1 ,,,,
+    "moz_con.mid",	1,	bbok
+    "moz_con.mid",	2,	staff-1
+    "moz_con.mid",	3,	staff-2
+"moz_con.mid",3,1 ,,1 2,3,
+    "moz_fm3.mid",	1,	bbok
+    "moz_fm3.mid",	2,	the magic flute
+    "moz_fm3.mid",	3,	papageno 2nd aria
+    "moz_fm3.mid",	4,	 
+    "moz_fm3.mid",	5,	sequenced for
+    "moz_fm3.mid",	6,	gus ver 3.53
+    "moz_fm3.mid",	7,	by mauricio fabbri
+    "moz_fm3.mid",	8,	fabbri@las.inpe.br
+    "moz_fm3.mid",	9,	fabbri@dpi.inpe.br
+    "moz_fm3.mid",	10,	dez 94/jan 95
+    "moz_fm3.mid",	11,	 
+    "moz_fm3.mid",	12,	bbok
+    "moz_fm3.mid",	13,	inpe/las
+    "moz_fm3.mid",	14,	c.p. 515
+    "moz_fm3.mid",	15,	12201-970 sjcampos sp
+    "moz_fm3.mid",	16,	brazil
+"moz_fm3.mid",16,1 12 ,10,,,
+    "moz_pc_a.mid",	1,	bbok
+    "moz_pc_a.mid",	2,	pista 2
+    "moz_pc_a.mid",	3,	pista 3
+    "moz_pc_a.mid",	4,	pista 4
+    "moz_pc_a.mid",	5,	pista 5
+    "moz_pc_a.mid",	6,	pista 6
+    "moz_pc_a.mid",	7,	pista 7
+    "moz_pc_a.mid",	8,	pista 8
+    "moz_pc_a.mid",	9,	pista 9
+    "moz_pc_a.mid",	10,	pista 10
+    "moz_pc_a.mid",	11,	pista 11
+"moz_pc_a.mid",11,1 ,11,,,
+    "moz_req.mid",	1,	acoustic grand piano
+    "moz_req.mid",	2,	instrument2
+"moz_req.mid",2,,,,,
+    "moza_k467a.mid",	1,	mozart piano concerto
+    "moza_k467a.mid",	2,	k467a - #21
+    "moza_k467a.mid",	3,	midi by:
+    "moza_k467a.mid",	4,	b.fisher
+    "moza_k467a.mid",	5,	
+    "moza_k467a.mid",	6,	
+    "moza_k467a.mid",	7,	
+"moza_k467a.mid",7,,,,,
+    "moza_k525_4.mid",	1,	bbok
+    "moza_k525_4.mid",	2,	pista 2
+    "moza_k525_4.mid",	3,	pista 3
+    "moza_k525_4.mid",	4,	pista 4
+    "moza_k525_4.mid",	5,	pista 5
+"moza_k525_4.mid",5,1 ,5,,,
+    "mozart00.mid",	1,	bass    (bb)
+    "mozart00.mid",	2,	piano   (bb)
+    "mozart00.mid",	3,	guitar  (bb)
+    "mozart00.mid",	4,	strings (bb)
+    "mozart00.mid",	5,	melody  (bb)--bbok
+"mozart00.mid",5,5 ,1,,,
+    "mozart11.mid",	1,	piano   (bb)
+    "mozart11.mid",	2,	melody  (bb)--bbok
+"mozart11.mid",2,2 ,,2,1,
+    "mozart15.mid",	1,	bass    (bb)
+    "mozart15.mid",	2,	piano   (bb)
+    "mozart15.mid",	3,	guitar  (bb)
+    "mozart15.mid",	4,	strings (bb)
+    "mozart15.mid",	5,	melody  (bb)--bbok
+"mozart15.mid",5,5 ,1,,,
+    "mozart18.mid",	1,	bass    (bb)
+    "mozart18.mid",	2,	piano   (bb)
+    "mozart18.mid",	3,	guitar  (bb)
+    "mozart18.mid",	4,	strings (bb)
+    "mozart18.mid",	5,	melody  (bb)--bbok
+"mozart18.mid",5,5 ,1,,,
+    "mozart20.mid",	1,	bass    (bb)
+    "mozart20.mid",	2,	piano   (bb)
+    "mozart20.mid",	3,	guitar  (bb)
+    "mozart20.mid",	4,	strings (bb)
+    "mozart20.mid",	5,	melody  (bb)--bbok
+"mozart20.mid",5,5 ,1,,,
+    "mozart_b.mid",	1,	bbok
+    "mozart_b.mid",	2,	pista 2
+"mozart_b.mid",2,1 ,,,,
+    "mozart_e.mid",	1,	bbok
+    "mozart_e.mid",	2,	bbok
+    "mozart_e.mid",	3,	violin i
+    "mozart_e.mid",	4,	violin ii
+    "mozart_e.mid",	5,	viola
+    "mozart_e.mid",	6,	double bass
+"mozart_e.mid",6,1 2 ,6,,,
+    "mozart_k.mid",	1,	bbok
+    "mozart_k.mid",	2,	pista 2
+"mozart_k.mid",2,1 ,,,,
+    "mozart_lieder_als_luise_die_briefe.mid",	1,	bbok
+    "mozart_lieder_als_luise_die_briefe.mid",	2,	staff-1
+    "mozart_lieder_als_luise_die_briefe.mid",	3,	-
+    "mozart_lieder_als_luise_die_briefe.mid",	4,	--
+"mozart_lieder_als_luise_die_briefe.mid",4,1 ,,2 3,4,
+    "mozart_lieder_dans_un_bois_solitaire.mid",	1,	bbok
+    "mozart_lieder_dans_un_bois_solitaire.mid",	2,	-
+    "mozart_lieder_dans_un_bois_solitaire.mid",	3,	--
+"mozart_lieder_dans_un_bois_solitaire.mid",3,1 ,,2,3,
+    "mozart_lieder_gesellenreise.mid",	1,	bbok
+    "mozart_lieder_gesellenreise.mid",	2,	-
+    "mozart_lieder_gesellenreise.mid",	3,	--
+"mozart_lieder_gesellenreise.mid",3,1 ,,,,
+    "mozart_lieder_warnung.mid",	1,	bbok
+    "mozart_lieder_warnung.mid",	2,	-
+    "mozart_lieder_warnung.mid",	3,	--
+"mozart_lieder_warnung.mid",3,1 ,,2,3,
+    "mozart_m.mid",	1,	bbok
+    "mozart_m.mid",	2,	piano
+"mozart_m.mid",2,1 ,,,,
+    "mozart_o.mid",	1,	bbok
+    "mozart_o.mid",	2,	pista 2
+"mozart_o.mid",2,1 ,,,,
+    "mozart_p.mid",	1,	bbok
+    "mozart_p.mid",	2,	pista 2
+"mozart_p.mid",2,1 ,,,,
+    "mozart_requiem_01_introitus.mid",	1,	bbok
+    "mozart_requiem_01_introitus.mid",	2,	bbok
+    "mozart_requiem_01_introitus.mid",	3,	bbok
+    "mozart_requiem_01_introitus.mid",	4,	bbok
+    "mozart_requiem_01_introitus.mid",	5,	1
+    "mozart_requiem_01_introitus.mid",	6,	2
+    "mozart_requiem_01_introitus.mid",	7,	3
+    "mozart_requiem_01_introitus.mid",	8,	tempo track
+"mozart_requiem_01_introitus.mid",8,1 2 3 4 ,,,,
+    "mozart_requiem_02_dies_irae.mid",	1,	bbok
+    "mozart_requiem_02_dies_irae.mid",	2,	bbok
+    "mozart_requiem_02_dies_irae.mid",	3,	bbok
+    "mozart_requiem_02_dies_irae.mid",	4,	bbok
+    "mozart_requiem_02_dies_irae.mid",	5,	1
+    "mozart_requiem_02_dies_irae.mid",	6,	2
+    "mozart_requiem_02_dies_irae.mid",	7,	tempo track
+"mozart_requiem_02_dies_irae.mid",7,1 2 3 4 ,,5,6,
+    "mozart_requiem_04_rex_tremendae.mid",	1,	bbok
+    "mozart_requiem_04_rex_tremendae.mid",	2,	bbok
+    "mozart_requiem_04_rex_tremendae.mid",	3,	bbok
+    "mozart_requiem_04_rex_tremendae.mid",	4,	bbok
+    "mozart_requiem_04_rex_tremendae.mid",	5,	1
+    "mozart_requiem_04_rex_tremendae.mid",	6,	2
+    "mozart_requiem_04_rex_tremendae.mid",	7,	tempo track
+"mozart_requiem_04_rex_tremendae.mid",7,1 2 3 4 ,,5,6,
+    "mozart_requiem_05_recordare.mid",	1,	bbok
+    "mozart_requiem_05_recordare.mid",	2,	bbok
+    "mozart_requiem_05_recordare.mid",	3,	bbok
+    "mozart_requiem_05_recordare.mid",	4,	bbok
+    "mozart_requiem_05_recordare.mid",	5,	1
+    "mozart_requiem_05_recordare.mid",	6,	2
+    "mozart_requiem_05_recordare.mid",	7,	3
+    "mozart_requiem_05_recordare.mid",	8,	tempo track
+"mozart_requiem_05_recordare.mid",8,1 2 3 4 ,,5 6,7,
+    "mozart_requiem_06_confutatis.mid",	1,	bbok
+    "mozart_requiem_06_confutatis.mid",	2,	bbok
+    "mozart_requiem_06_confutatis.mid",	3,	bbok
+    "mozart_requiem_06_confutatis.mid",	4,	bbok
+    "mozart_requiem_06_confutatis.mid",	5,	1
+    "mozart_requiem_06_confutatis.mid",	6,	2
+    "mozart_requiem_06_confutatis.mid",	7,	tempo track
+"mozart_requiem_06_confutatis.mid",7,1 2 3 4 ,,5,6,
+    "mozart_requiem_07_lacrymosa.mid",	1,	bbok
+    "mozart_requiem_07_lacrymosa.mid",	2,	bbok
+    "mozart_requiem_07_lacrymosa.mid",	3,	bbok
+    "mozart_requiem_07_lacrymosa.mid",	4,	bbok
+    "mozart_requiem_07_lacrymosa.mid",	5,	1
+    "mozart_requiem_07_lacrymosa.mid",	6,	2
+    "mozart_requiem_07_lacrymosa.mid",	7,	tempo track
+"mozart_requiem_07_lacrymosa.mid",7,1 2 3 4 ,,5,6,
+    "mozart_requiem_08_domine_jesu.mid",	1,	bbok
+    "mozart_requiem_08_domine_jesu.mid",	2,	bbok
+    "mozart_requiem_08_domine_jesu.mid",	3,	bbok
+    "mozart_requiem_08_domine_jesu.mid",	4,	bbok
+    "mozart_requiem_08_domine_jesu.mid",	5,	1
+    "mozart_requiem_08_domine_jesu.mid",	6,	2
+    "mozart_requiem_08_domine_jesu.mid",	7,	staff-5
+    "mozart_requiem_08_domine_jesu.mid",	8,	tempo track
+"mozart_requiem_08_domine_jesu.mid",8,1 2 3 4 ,,5,6 7,
+    "mozart_requiem_09_hostias.mid",	1,	bbok
+    "mozart_requiem_09_hostias.mid",	2,	bbok
+    "mozart_requiem_09_hostias.mid",	3,	bbok
+    "mozart_requiem_09_hostias.mid",	4,	bbok
+    "mozart_requiem_09_hostias.mid",	5,	1
+    "mozart_requiem_09_hostias.mid",	6,	2
+    "mozart_requiem_09_hostias.mid",	7,	3
+    "mozart_requiem_09_hostias.mid",	8,	tempo track
+"mozart_requiem_09_hostias.mid",8,1 2 3 4 ,,5,6 7,
+    "mozart_requiem_10_sanctus.mid",	1,	bbok
+    "mozart_requiem_10_sanctus.mid",	2,	bbok
+    "mozart_requiem_10_sanctus.mid",	3,	bbok
+    "mozart_requiem_10_sanctus.mid",	4,	bbok
+    "mozart_requiem_10_sanctus.mid",	5,	1
+    "mozart_requiem_10_sanctus.mid",	6,	2
+    "mozart_requiem_10_sanctus.mid",	7,	3
+    "mozart_requiem_10_sanctus.mid",	8,	tempo track
+"mozart_requiem_10_sanctus.mid",8,1 2 3 4 ,,5,6 7,
+    "mozart_requiem_11_benedictus.mid",	1,	bbok
+    "mozart_requiem_11_benedictus.mid",	2,	bbok
+    "mozart_requiem_11_benedictus.mid",	3,	bbok
+    "mozart_requiem_11_benedictus.mid",	4,	bbok
+    "mozart_requiem_11_benedictus.mid",	5,	1
+    "mozart_requiem_11_benedictus.mid",	6,	2
+    "mozart_requiem_11_benedictus.mid",	7,	tempo track
+"mozart_requiem_11_benedictus.mid",7,1 2 3 4 ,,5,6,
+    "mozart_s.mid",	1,	bbok
+    "mozart_s.mid",	2,	pista 2
+"mozart_s.mid",2,1 ,,,,
+    "mozart_v.mid",	1,	bbok
+    "mozart_v.mid",	2,	pista 2
+"mozart_v.mid",2,1 ,,,,
+    "mozart_w.mid",	1,	bbok
+    "mozart_w.mid",	2,	pista 2
+"mozart_w.mid",2,1 ,,,,
+    "mozartk1.mid",	1,	track 1
+    "mozartk1.mid",	2,	track 2
+    "mozartk1.mid",	3,	track 3
+    "mozartk1.mid",	4,	bbok
+"mozartk1.mid",4,4 ,,1,2,
+    "mozhrn2.mid",	1,	bbok
+    "mozhrn2.mid",	2,	piano
+    "mozhrn2.mid",	3,	piano
+"mozhrn2.mid",3,1 ,,2,3,
+    "mozhrn3.mid",	1,	bbok
+    "mozhrn3.mid",	2,	piano
+    "mozhrn3.mid",	3,	piano
+"mozhrn3.mid",3,1 ,,2,3,
+    "mozk211b.mid",	1,	bbok
+    "mozk211b.mid",	2,	concerto  #2
+    "mozk211b.mid",	3,	k211 -b -andante
+    "mozk211b.mid",	4,	midi by:
+    "mozk211b.mid",	5,	b.fisher
+"mozk211b.mid",5,1 ,,2,3,
+    "mozk211c.mid",	1,	bbok
+    "mozk211c.mid",	2,	concerto  #2
+    "mozk211c.mid",	3,	k211 -c -rondo allegro vivo
+    "mozk211c.mid",	4,	midi by:
+    "mozk211c.mid",	5,	b.fisher
+"mozk211c.mid",5,1 ,,2,3,
+    "mozk218a.mid",	1,	bbok
+    "mozk218a.mid",	2,	 #4  k218a    midi by:
+    "mozk218a.mid",	3,	bob fisher
+"mozk218a.mid",3,1 ,3,,,
+    "mozk218b.mid",	1,	bbok
+    "mozk218b.mid",	2,	 #4 - k218b  midi by:
+    "mozk218b.mid",	3,	bob fisher
+"mozk218b.mid",3,1 ,3,,,
+    "mozk218c.mid",	1,	bbok
+    "mozk218c.mid",	2,	  #4 - k218c  midi by:
+    "mozk218c.mid",	3,	bob fisher
+    "mozk218c.mid",	4,	midi by
+    "mozk218c.mid",	5,	b fisher
+"mozk218c.mid",5,1 ,3,,,
+    "mozk219a.mid",	1,	bbok
+    "mozk219a.mid",	2,	#5 -k219a  midi by:
+    "mozk219a.mid",	3,	bob fisher
+"mozk219a.mid",3,1 ,,,,
+    "mozk219c.mid",	1,	bbok
+    "mozk219c.mid",	2,	pista 2
+    "mozk219c.mid",	3,	pista 3
+"mozk219c.mid",3,1 ,,2,3,
+    "mozk219c1.mid",	1,	bbok
+    "mozk219c1.mid",	2,	pista 2
+    "mozk219c1.mid",	3,	pista 3
+    "mozk219c1.mid",	4,	pista 4
+    "mozk219c1.mid",	5,	pista 5
+    "mozk219c1.mid",	6,	pista 6
+"mozk219c1.mid",6,1 ,6,,,
+    "mozk309a.mid",	1,	mozart
+    "mozk309a.mid",	2,	k309-a -allegro con spirito
+    "mozk309a.mid",	3,	sonata # 10
+    "mozk309a.mid",	4,	by bob
+    "mozk309a.mid",	5,	fisher
+    "mozk309a.mid",	6,	
+    "mozk309a.mid",	7,	
+    "mozk309a.mid",	8,	
+    "mozk309a.mid",	9,	
+    "mozk309a.mid",	10,	
+    "mozk309a.mid",	11,	
+    "mozk309a.mid",	12,	
+    "mozk309a.mid",	13,	
+    "mozk309a.mid",	14,	
+    "mozk309a.mid",	15,	
+    "mozk309a.mid",	16,	
+"mozk309a.mid",16,,,1,2,
+    "mozk309c.mid",	1,	mozart
+    "mozk309c.mid",	2,	k309-c -allegretto grazioso
+    "mozk309c.mid",	3,	sonata # 10
+    "mozk309c.mid",	4,	by bob
+    "mozk309c.mid",	5,	fisher
+    "mozk309c.mid",	6,	
+    "mozk309c.mid",	7,	
+    "mozk309c.mid",	8,	
+    "mozk309c.mid",	9,	
+    "mozk309c.mid",	10,	
+    "mozk309c.mid",	11,	
+    "mozk309c.mid",	12,	
+    "mozk309c.mid",	13,	
+    "mozk309c.mid",	14,	
+    "mozk309c.mid",	15,	
+    "mozk309c.mid",	16,	
+"mozk309c.mid",16,,,,,
+    "mozk313.mid",	1,	bbok
+    "mozk313.mid",	2,	2 oboi
+    "mozk313.mid",	3,	2 corni in sol
+    "mozk313.mid",	4,	2 corni in re
+    "mozk313.mid",	5,	violini i
+    "mozk313.mid",	6,	violini ii
+    "mozk313.mid",	7,	viole
+    "mozk313.mid",	8,	violoncelli
+    "mozk313.mid",	9,	contrabbassi
+    "mozk313.mid",	10,	violini ii pizz.
+    "mozk313.mid",	11,	viole pizz.
+    "mozk313.mid",	12,	violoncelli pizz.
+    "mozk313.mid",	13,	contrabbassi pizz.
+    "mozk313.mid",	14,	w.a.mozart
+    "mozk313.mid",	15,	flute concert n°1 g major k 313
+    "mozk313.mid",	16,	sequenced by fabio barnaba
+    "mozk313.mid",	17,	http://members.xoom.it/fbb
+    "mozk313.mid",	18,	e-mail: fbb@gnd.it
+"mozk313.mid",18,1 ,13,,,
+    "mozk466b.mid",	1,	mozart piano concerto
+    "mozk466b.mid",	2,	k466b - #20
+    "mozk466b.mid",	3,	midi by:
+    "mozk466b.mid",	4,	b.fisher
+    "mozk466b.mid",	5,	
+    "mozk466b.mid",	6,	
+    "mozk466b.mid",	7,	
+"mozk466b.mid",7,,,1,2,
+    "mozk466c.mid",	1,	mozart piano concerto
+    "mozk466c.mid",	2,	k466c - #20
+    "mozk466c.mid",	3,	midi by:
+    "mozk466c.mid",	4,	b.fisher
+    "mozk466c.mid",	5,	
+    "mozk466c.mid",	6,	
+    "mozk466c.mid",	7,	
+"mozk466c.mid",7,,4,,,
+    "mozk74a1.mid",	1,	w. a. mozart
+    "mozk74a1.mid",	2,	mitridate, re di ponto (k 74)
+    "mozk74a1.mid",	3,	aria: al destin che la minaccia
+    "mozk74a1.mid",	4,	hjheldstab@bluewin.ch
+    "mozk74a1.mid",	5,	bbok
+    "mozk74a1.mid",	6,	pianoforte
+    "mozk74a1.mid",	7,	pista 7
+"mozk74a1.mid",7,5 ,,6,7,
+    "mozk74a2.mid",	1,	w. a. mozart
+    "mozk74a2.mid",	2,	mitridate, re di ponto (k 74)
+    "mozk74a2.mid",	3,	aria: se di regnar sei vago
+    "mozk74a2.mid",	4,	hjheldstab@bluewin.ch
+    "mozk74a2.mid",	5,	bbok
+    "mozk74a2.mid",	6,	pianoforte
+    "mozk74a2.mid",	7,	pista 7
+"mozk74a2.mid",7,5 ,,6,7,
+    "mozk74a3.mid",	1,	w. a. mozart
+    "mozk74a3.mid",	2,	mitridate, re di ponto (k 74)
+    "mozk74a3.mid",	3,	duetto: se viver non degg'io
+    "mozk74a3.mid",	4,	hjheldstab@bluewin.ch
+    "mozk74a3.mid",	5,	bbok
+    "mozk74a3.mid",	6,	bbok
+    "mozk74a3.mid",	7,	pianoforte
+    "mozk74a3.mid",	8,	pista 8
+"mozk74a3.mid",8,5 6 ,,7,8,
+    "mozk74a4.mid",	1,	w. a. mozart
+    "mozk74a4.mid",	2,	mitridate, re di ponto (k 74)
+    "mozk74a4.mid",	3,	aria: se di lauri il crine ador
+    "mozk74a4.mid",	4,	hjheldstab@bluewin.ch
+    "mozk74a4.mid",	5,	bbok
+    "mozk74a4.mid",	6,	pianoforte
+    "mozk74a4.mid",	7,	pista 7
+"mozk74a4.mid",7,5 ,,6,7,
+    "mozk74a5.mid",	1,	w. a. mozart
+    "mozk74a5.mid",	2,	mitridate, re di ponto (k 74)
+    "mozk74a5.mid",	3,	rezitativo ed aria: lunga da te
+    "mozk74a5.mid",	4,	hjheldstab@bluewin.ch
+    "mozk74a5.mid",	5,	bbok
+    "mozk74a5.mid",	6,	pianoforte
+    "mozk74a5.mid",	7,	pianoforte
+    "mozk74a5.mid",	8,	corno solo
+"mozk74a5.mid",8,5 ,,,,
+    "mozmar.mid",	1,	rh
+    "mozmar.mid",	2,	rh
+    "mozmar.mid",	3,	lh
+    "mozmar.mid",	4,	lh
+    "mozmar.mid",	5,	marcia (arranged for piano
+    "mozmar.mid",	6,	by w. a. mozart)
+    "mozmar.mid",	7,	sequenzed by h. heldstab
+    "mozmar.mid",	8,	haheldst@studi.unizh.ch
+"mozmar.mid",8,,,1 2,3 4,
+    "mozmf14.mid",	1,	acte ii, aria n°14
+    "mozmf14.mid",	2,	english trans.
+    "mozmf14.mid",	3,	reine--bbok
+    "mozmf14.mid",	4,	 voice--bbok
+    "mozmf14.mid",	5,	flute
+    "mozmf14.mid",	6,	hautbois
+    "mozmf14.mid",	7,	basson
+    "mozmf14.mid",	8,	contre basson
+    "mozmf14.mid",	9,	cor en fa
+    "mozmf14.mid",	10,	trombone en ré
+    "mozmf14.mid",	11,	timbale en ré
+    "mozmf14.mid",	12,	violons
+    "mozmf14.mid",	13,	violons
+    "mozmf14.mid",	14,	viole
+    "mozmf14.mid",	15,	violoncelle
+    "mozmf14.mid",	16,	contrebasse
+    "mozmf14.mid",	17,	sfx : tonnerre
+"mozmf14.mid",17,3 4 ,16,,,
+    "mozsonata.mid",	1,	piano rh
+    "mozsonata.mid",	2,	piano lh
+"mozsonata.mid",2,,,1,2,
+    "nachtmusik3.mid",	1,	(c) & (p) 1991
+    "nachtmusik3.mid",	2,	romeo music intl.
+    "nachtmusik3.mid",	3,	bbok
+    "nachtmusik3.mid",	4,	violin 2
+    "nachtmusik3.mid",	5,	viola
+    "nachtmusik3.mid",	6,	cello
+    "nachtmusik3.mid",	7,	bass
+"nachtmusik3.mid",7,3 ,7,,,
+    "o_mistris_mine.mid",	1,	o mistresse mine
+    "o_mistris_mine.mid",	2,	1 bbok
+    "o_mistris_mine.mid",	3,	2
+    "o_mistris_mine.mid",	4,	3
+    "o_mistris_mine.mid",	5,	4
+    "o_mistris_mine.mid",	6,	o mistris mine
+    "o_mistris_mine.mid",	7,	thomas morely, arr. c. clark
+    "o_mistris_mine.mid",	8,	© 1999 by curtis clark. free for personal use.
+    "o_mistris_mine.mid",	9,	http://www.csupomona.edu/~jcclark/emusic/
+    "o_mistris_mine.mid",	10,	jcclark@csupomona.edu
+"o_mistris_mine.mid",10,2 ,5,,,
+    "pagni01.mid",	1,	piano   (bb)
+    "pagni01.mid",	2,	guitar  (bb)
+    "pagni01.mid",	3,	strings (bb)
+    "pagni01.mid",	4,	melody  (bb)--bbok
+"pagni01.mid",4,4 ,,,,
+    "pagni03.mid",	1,	bass    (bb)
+    "pagni03.mid",	2,	piano   (bb)
+    "pagni03.mid",	3,	guitar  (bb)
+    "pagni03.mid",	4,	strings (bb)
+    "pagni03.mid",	5,	melody  (bb)--bbok
+"pagni03.mid",5,5 ,1,,,
+    "palestrina_canticum_canticorum_04.mid",	1,	s bbok
+    "palestrina_canticum_canticorum_04.mid",	2,	a
+    "palestrina_canticum_canticorum_04.mid",	3,	t
+    "palestrina_canticum_canticorum_04.mid",	4,	b
+    "palestrina_canticum_canticorum_04.mid",	5,	staff-1
+"palestrina_canticum_canticorum_04.mid",5,1 ,5,,,
+    "palestrina_canticum_canticorum_06.mid",	1,	s bbok
+    "palestrina_canticum_canticorum_06.mid",	2,	a
+    "palestrina_canticum_canticorum_06.mid",	3,	t
+    "palestrina_canticum_canticorum_06.mid",	4,	b
+    "palestrina_canticum_canticorum_06.mid",	5,	staff-1
+"palestrina_canticum_canticorum_06.mid",5,1 ,5,,,
+    "palestrina_canticum_canticorum_10.mid",	1,	s bbok
+    "palestrina_canticum_canticorum_10.mid",	2,	a
+    "palestrina_canticum_canticorum_10.mid",	3,	t
+    "palestrina_canticum_canticorum_10.mid",	4,	b
+    "palestrina_canticum_canticorum_10.mid",	5,	staff-1
+"palestrina_canticum_canticorum_10.mid",5,1 ,5,,,
+    "pasame_por_dios_varquero.mid",	1,	pásame por dios, varquero
+    "pasame_por_dios_varquero.mid",	2,	s bbok
+    "pasame_por_dios_varquero.mid",	3,	a
+    "pasame_por_dios_varquero.mid",	4,	t
+    "pasame_por_dios_varquero.mid",	5,	pásame por dios, varquero
+    "pasame_por_dios_varquero.mid",	6,	© 1997 by curtis clark. free for personal use.
+    "pasame_por_dios_varquero.mid",	7,	http://www.csupomona.edu/~jcclark/emusic/
+    "pasame_por_dios_varquero.mid",	8,	jcclark@csupomona.edu
+    "pasame_por_dios_varquero.mid",	9,	pedro de escobar
+"pasame_por_dios_varquero.mid",9,2 ,4,,,
+    "passereau_bel_et_bon.mid",	1,	il est bel et bon bbok
+    "passereau_bel_et_bon.mid",	2,	arr and seq by mike starke
+    "passereau_bel_et_bon.mid",	3,	mjstarke@ix.netcom.com bbok
+    "passereau_bel_et_bon.mid",	4,	
+    "passereau_bel_et_bon.mid",	5,	
+    "passereau_bel_et_bon.mid",	6,	
+    "passereau_bel_et_bon.mid",	7,	
+    "passereau_bel_et_bon.mid",	8,	
+"passereau_bel_et_bon.mid",8,1 3 ,7 8,,,
+    "pavane_for_shawm_band.mid",	1,	pavane for shawm band bbok
+    "pavane_for_shawm_band.mid",	2,	1 bbok
+    "pavane_for_shawm_band.mid",	3,	2
+    "pavane_for_shawm_band.mid",	4,	3
+    "pavane_for_shawm_band.mid",	5,	5
+    "pavane_for_shawm_band.mid",	6,	4
+    "pavane_for_shawm_band.mid",	7,	6
+    "pavane_for_shawm_band.mid",	8,	pavane for shawm band
+    "pavane_for_shawm_band.mid",	9,	philidor ms 1610
+    "pavane_for_shawm_band.mid",	10,	© 1997 by curtis clark. free for personal use. bbok
+    "pavane_for_shawm_band.mid",	11,	http://www.csupomona.edu/~jcclark/emusic/ bbok
+    "pavane_for_shawm_band.mid",	12,	jcclark@csupomona.edu bbok
+"pavane_for_shawm_band.mid",12,1 2 10 11 12 ,6,,,
+    "pavanne_est_il_conclud.mid",	1,	pavanne, est il conclud
+    "pavanne_est_il_conclud.mid",	2,	1 bbok
+    "pavanne_est_il_conclud.mid",	3,	2
+    "pavanne_est_il_conclud.mid",	4,	3
+    "pavanne_est_il_conclud.mid",	5,	bass
+    "pavanne_est_il_conclud.mid",	6,	pavanne, est il conclud
+    "pavanne_est_il_conclud.mid",	7,	claude gervaise
+    "pavanne_est_il_conclud.mid",	8,	© 1996 by curtis clark. free for personal use
+    "pavanne_est_il_conclud.mid",	9,	jcclark@csupomona.edu
+    "pavanne_est_il_conclud.mid",	10,	http://www.csupomona.edu/~jcclark/emusic/
+"pavanne_est_il_conclud.mid",10,2 ,5,,,
+    "perpetualmotion.mid",	1,	(c) & (p) 1993
+    "perpetualmotion.mid",	2,	romeo music intl.
+    "perpetualmotion.mid",	3,	bbok
+    "perpetualmotion.mid",	4,	piano right hand
+    "perpetualmotion.mid",	5,	piano left hand
+"perpetualmotion.mid",5,3 ,,4,5,
+    "pragav4.mid",	1,	gavotte 4
+    "pragav4.mid",	2,	s1 bbok
+    "pragav4.mid",	3,	s2
+    "pragav4.mid",	4,	a
+    "pragav4.mid",	5,	t
+    "pragav4.mid",	6,	b
+    "pragav4.mid",	7,	4. gavotte
+    "pragav4.mid",	8,	michael praetorius
+    "pragav4.mid",	9,	© 1996 by curtis clark. free for personal use
+    "pragav4.mid",	10,	jcclark@csupomona.edu
+    "pragav4.mid",	11,	http://www.csupomona.edu/~jcclark/emusic/
+"pragav4.mid",11,2 ,6,,,
+    "pragavx.mid",	1,	gavottes
+    "pragavx.mid",	2,	s bbok
+    "pragavx.mid",	3,	a
+    "pragavx.mid",	4,	t1
+    "pragavx.mid",	5,	t2
+    "pragavx.mid",	6,	b
+    "pragavx.mid",	7,	gavottes (3-6)
+    "pragavx.mid",	8,	michael praetorius
+    "pragavx.mid",	9,	© 1995 by curtis clark, free for personal use
+    "pragavx.mid",	10,	jcclark@csupomona.edu
+    "pragavx.mid",	11,	http://www.csupomona.edu/~jcclark/emusic/
+"pragavx.mid",11,2 ,6,,,
+    "pravol12.mid",	1,	12. volte
+    "pravol12.mid",	2,	s bbok
+    "pravol12.mid",	3,	a
+    "pravol12.mid",	4,	t1
+    "pravol12.mid",	5,	t2
+    "pravol12.mid",	6,	b
+    "pravol12.mid",	7,	12. volte
+    "pravol12.mid",	8,	michael praetorius
+    "pravol12.mid",	9,	© 1995 by curtis clark, free for personal use
+    "pravol12.mid",	10,	jcclark@csupomona.edu
+    "pravol12.mid",	11,	http://www.csupomona.edu/~jcclark/emusic/
+"pravol12.mid",11,2 ,6,,,
+    "queenofthenight.mid",	1,	(c) & (p) 1992
+    "queenofthenight.mid",	2,	romeo music intl.
+    "queenofthenight.mid",	3,	voice--bbok
+    "queenofthenight.mid",	4,	strings
+"queenofthenight.mid",4,3 ,,,,
+    "rampolini_bacco.mid",	1,	bacco, bacco
+    "rampolini_bacco.mid",	2,	1 bbok
+    "rampolini_bacco.mid",	3,	2
+    "rampolini_bacco.mid",	4,	3
+    "rampolini_bacco.mid",	5,	4
+    "rampolini_bacco.mid",	6,	bacco, bacco
+    "rampolini_bacco.mid",	7,	mateo rampolini
+    "rampolini_bacco.mid",	8,	© 1995 by curtis clark, free for personal use
+"rampolini_bacco.mid",8,2 ,5,,,
+    "requiem.mid",	1,	   string section   
+    "requiem.mid",	2,	     pizzicato      
+    "requiem.mid",	3,	      violin        
+    "requiem.mid",	4,	       cello        
+    "requiem.mid",	5,	                    
+    "requiem.mid",	6,	                    
+    "requiem.mid",	7,	                    
+    "requiem.mid",	8,	--------------------
+    "requiem.mid",	9,	  mozart's requiem  
+    "requiem.mid",	10,	--------------------
+    "requiem.mid",	11,	                    
+    "requiem.mid",	12,	                    
+    "requiem.mid",	13,	                    
+    "requiem.mid",	14,	    jim barringer   
+"requiem.mid",14,,4,,,
+    "romantic_gianni_schicchi.mid",	1,	babbino bbok
+    "romantic_gianni_schicchi.mid",	2,	tempo track
+"romantic_gianni_schicchi.mid",2,1 ,,,,
+    "romantic_madama_butterfly.mid",	1,	staff bbok
+"romantic_madama_butterfly.mid",1,1 ,,,,
+    "round_roundel.mid",	1,	roundel, 1453 ce
+    "round_roundel.mid",	2,	voice one bbok
+    "round_roundel.mid",	3,	voice two bbok
+    "round_roundel.mid",	4,	voice 3 bbok
+    "round_roundel.mid",	5,	roundel
+    "round_roundel.mid",	6,	anon. 1453
+    "round_roundel.mid",	7,	© 1995 by curtis clark, free for personal use
+    "round_roundel.mid",	8,	jcclark@csupomona.edu
+    "round_roundel.mid",	9,	http://www.csupomona.edu/~jcclark/emusic/
+"round_roundel.mid",9,2 3 4 ,,,,
+    "rusong18.mid",	1,	melody--bbok
+    "rusong18.mid",	2,	bass
+    "rusong18.mid",	3,	piano
+    "rusong18.mid",	4,	bass
+    "rusong18.mid",	5,	strings
+    "rusong18.mid",	6,	chorus
+    "rusong18.mid",	7,	percussion
+"rusong18.mid",7,1 ,4,,,
+    "s18.mid",	1,	die vier branlen bbok
+    "s18.mid",	2,	
+    "s18.mid",	3,	
+    "s18.mid",	4,	
+"s18.mid",4,1 ,4,,,
+    "schman01.mid",	1,	bass    (bb)
+    "schman01.mid",	2,	piano   (bb)
+    "schman01.mid",	3,	guitar  (bb)
+    "schman01.mid",	4,	strings (bb)
+    "schman01.mid",	5,	melody  (bb)--bbok
+"schman01.mid",5,5 ,1,,,
+    "schub01.mid",	1,	bass    (bb)
+    "schub01.mid",	2,	piano   (bb)
+    "schub01.mid",	3,	guitar  (bb)
+    "schub01.mid",	4,	strings (bb)
+    "schub01.mid",	5,	melody  (bb)--bbok
+"schub01.mid",5,5 ,1,,,
+    "schub02.mid",	1,	bass    (bb)
+    "schub02.mid",	2,	piano   (bb)
+    "schub02.mid",	3,	guitar  (bb)
+    "schub02.mid",	4,	strings (bb)
+    "schub02.mid",	5,	melody  (bb)--bbok
+"schub02.mid",5,5 ,1,,,
+    "schub04.mid",	1,	bass    (bb)
+    "schub04.mid",	2,	piano   (bb)
+    "schub04.mid",	3,	guitar  (bb)
+    "schub04.mid",	4,	strings (bb)
+    "schub04.mid",	5,	melody  (bb)--bbok
+"schub04.mid",5,5 ,1,,,
+    "schub06.mid",	1,	bass    (bb)
+    "schub06.mid",	2,	piano   (bb)
+    "schub06.mid",	3,	guitar  (bb)
+    "schub06.mid",	4,	strings (bb)
+    "schub06.mid",	5,	melody  (bb)--bbok
+"schub06.mid",5,5 ,1,,,
+    "schutz_sinfonia.mid",	1,	cornetto i.  bbok
+    "schutz_sinfonia.mid",	2,	cornetto ii.
+    "schutz_sinfonia.mid",	3,	cornetto iii.
+    "schutz_sinfonia.mid",	4,	cornetto iv.
+"schutz_sinfonia.mid",4,1 ,4,,,
+    "senfl_ach_elslein_liebes_elselein_mein.mid",	1,	ach elslein, liebes elselein mein
+    "senfl_ach_elslein_liebes_elselein_mein.mid",	2,	1 bbok
+    "senfl_ach_elslein_liebes_elselein_mein.mid",	3,	2
+    "senfl_ach_elslein_liebes_elselein_mein.mid",	4,	3
+    "senfl_ach_elslein_liebes_elselein_mein.mid",	5,	4
+    "senfl_ach_elslein_liebes_elselein_mein.mid",	6,	ach elslein, liebes elselein mein
+    "senfl_ach_elslein_liebes_elselein_mein.mid",	7,	ludwig senfl
+    "senfl_ach_elslein_liebes_elselein_mein.mid",	8,	© 1995 by curtis clark, free for personal use
+    "senfl_ach_elslein_liebes_elselein_mein.mid",	9,	jcclark@csupomona.edu
+    "senfl_ach_elslein_liebes_elselein_mein.mid",	10,	http://www.csupomona.edu/~jcclark/emusic/
+"senfl_ach_elslein_liebes_elselein_mein.mid",10,2 ,5,,,
+    "senfl_tandernaken.mid",	1,	tandernaken bbok
+    "senfl_tandernaken.mid",	2,	
+    "senfl_tandernaken.mid",	3,	
+    "senfl_tandernaken.mid",	4,	
+    "senfl_tandernaken.mid",	5,	
+    "senfl_tandernaken.mid",	6,	
+"senfl_tandernaken.mid",6,1 ,4,,,
+    "silver_swanne.mid",	1,	the silver swan
+    "silver_swanne.mid",	2,	s bbok
+    "silver_swanne.mid",	3,	a1
+    "silver_swanne.mid",	4,	a2
+    "silver_swanne.mid",	5,	t
+    "silver_swanne.mid",	6,	b
+    "silver_swanne.mid",	7,	the silver swanne
+    "silver_swanne.mid",	8,	orlando gibbons
+    "silver_swanne.mid",	9,	© 1996 by curtis clark. free for personal use
+    "silver_swanne.mid",	10,	jcclark@csupomona.edu
+    "silver_swanne.mid",	11,	http://www.csupomona.edu/~jcclark/emusic/
+"silver_swanne.mid",11,2 ,6,,,
+    "sonata_in_c_1_2.mid",	1,	bbok
+    "sonata_in_c_1_2.mid",	2,	pista 2
+"sonata_in_c_1_2.mid",2,1 ,,1,2,
+    "sonata_in_c_1_3.mid",	1,	bbok
+    "sonata_in_c_1_3.mid",	2,	pista 2
+"sonata_in_c_1_3.mid",2,1 ,,1,2,
+    "sonata_in_c_1_5.mid",	1,	sonata #3           
+    "sonata_in_c_1_5.mid",	2,	mozart              
+    "sonata_in_c_1_5.mid",	3,	copyright (c) 1992  
+    "sonata_in_c_1_5.mid",	4,	voyetra technologies
+    "sonata_in_c_1_5.mid",	5,	b piano             
+    "sonata_in_c_1_5.mid",	6,	bbok
+    "sonata_in_c_1_5.mid",	7,	x bass clef         
+"sonata_in_c_1_5.mid",7,6 ,,6,7,
+    "soy_contento_y_vos_servido.mid",	1,	soy contento y vos servido
+    "soy_contento_y_vos_servido.mid",	2,	1 bbok
+    "soy_contento_y_vos_servido.mid",	3,	2
+    "soy_contento_y_vos_servido.mid",	4,	3
+    "soy_contento_y_vos_servido.mid",	5,	soy contento y vos servido
+    "soy_contento_y_vos_servido.mid",	6,	juan del encina
+    "soy_contento_y_vos_servido.mid",	7,	© 1997 by curtis clark. free for personal use.
+    "soy_contento_y_vos_servido.mid",	8,	jcclark@csupomona.edu
+    "soy_contento_y_vos_servido.mid",	9,	http://www.csupomona.edu/~jcclark/emusic/
+"soy_contento_y_vos_servido.mid",9,2 ,4,,,
+    "spagnoletta_xxvii.mid",	1,	7. spagnoletta
+    "spagnoletta_xxvii.mid",	2,	s1 bbok
+    "spagnoletta_xxvii.mid",	3,	s2
+    "spagnoletta_xxvii.mid",	4,	a
+    "spagnoletta_xxvii.mid",	5,	b
+    "spagnoletta_xxvii.mid",	6,	spagnoletta (xxviii)
+    "spagnoletta_xxvii.mid",	7,	michael praetorius
+    "spagnoletta_xxvii.mid",	8,	© 1996 by curtis clark. free for personal use
+    "spagnoletta_xxvii.mid",	9,	jcclark@csupomona.edu
+    "spagnoletta_xxvii.mid",	10,	http://www.csupomona.edu/~jcclark/emusic/
+"spagnoletta_xxvii.mid",10,2 ,5,,,
+    "susato_pour_quoy.mid",	1,	ronde i pour qouy by t. susato bbok
+    "susato_pour_quoy.mid",	2,	arr and seq by mj starke bbok
+    "susato_pour_quoy.mid",	3,	e-mail mjstarke@ix.netcom.com
+    "susato_pour_quoy.mid",	4,	©1995mjstarke
+    "susato_pour_quoy.mid",	5,	                                                 ©1995mjstarke
+    "susato_pour_quoy.mid",	6,	
+    "susato_pour_quoy.mid",	7,	
+    "susato_pour_quoy.mid",	8,	
+"susato_pour_quoy.mid",8,1 2 ,5,,,
+    "susato_rondeix.mid",	1,	ronde ix by t. susato bbok
+    "susato_rondeix.mid",	2,	arr and seq by mj starke
+    "susato_rondeix.mid",	3,	©1995mjstarke
+    "susato_rondeix.mid",	4,	e mail mjstarke@ix.netcom.com
+    "susato_rondeix.mid",	5,	
+    "susato_rondeix.mid",	6,	
+"susato_rondeix.mid",6,1 ,4,,,
+    "tallis_pour_forth_thy_spirit.mid",	1,	s quartet       "pour forth thy spirit" bbok
+    "tallis_pour_forth_thy_spirit.mid",	2,	a           by thomas tallis (c.1505-1585)
+    "tallis_pour_forth_thy_spirit.mid",	3,	t             midi by marty weimer 3/2/96
+    "tallis_pour_forth_thy_spirit.mid",	4,	b     weimermt@libby.org  eureka, mt usa
+    "tallis_pour_forth_thy_spirit.mid",	5,	s choir bbok
+    "tallis_pour_forth_thy_spirit.mid",	6,	a
+    "tallis_pour_forth_thy_spirit.mid",	7,	t
+    "tallis_pour_forth_thy_spirit.mid",	8,	b
+    "tallis_pour_forth_thy_spirit.mid",	9,	
+"tallis_pour_forth_thy_spirit.mid",9,1 5 ,4 8,,,
+    "the_choice.mid",	1,	the choice
+    "the_choice.mid",	2,	1 bbok
+    "the_choice.mid",	3,	2
+    "the_choice.mid",	4,	3
+    "the_choice.mid",	5,	4
+    "the_choice.mid",	6,	5
+    "the_choice.mid",	7,	the choice
+    "the_choice.mid",	8,	anthony holborne
+    "the_choice.mid",	9,	© 1995 by curtis clark, free for personal use
+    "the_choice.mid",	10,	jcclark@csupomona.edu
+    "the_choice.mid",	11,	http://www.csupomona.edu/~jcclark/emusic/
+"the_choice.mid",11,2 ,6,,,
+    "triste_espana_sin_ventura.mid",	1,	triste españa sin ventura
+    "triste_espana_sin_ventura.mid",	2,	1 bbok
+    "triste_espana_sin_ventura.mid",	3,	2
+    "triste_espana_sin_ventura.mid",	4,	3
+    "triste_espana_sin_ventura.mid",	5,	4
+    "triste_espana_sin_ventura.mid",	6,	triste españa sin ventura
+    "triste_espana_sin_ventura.mid",	7,	juan del encina
+    "triste_espana_sin_ventura.mid",	8,	© 1997 by curtis clark. free for personal use.
+    "triste_espana_sin_ventura.mid",	9,	jcclark@csupomona.edu
+    "triste_espana_sin_ventura.mid",	10,	http://www.csupomona.edu/~jcclark/emusic/
+"triste_espana_sin_ventura.mid",10,2 ,5,,,
+    "trolly_lolly.mid",	1,	39. trolly lolly
+    "trolly_lolly.mid",	2,	alto bbok
+    "trolly_lolly.mid",	3,	tenor
+    "trolly_lolly.mid",	4,	bass
+    "trolly_lolly.mid",	5,	39. trolly lolly
+    "trolly_lolly.mid",	6,	william cornysh
+    "trolly_lolly.mid",	7,	© 1996 by curtis clark. free for personal use
+    "trolly_lolly.mid",	8,	http://www.csupomona.edu/~jcclark/emusic/
+    "trolly_lolly.mid",	9,	jcclark@csupomona.edu
+"trolly_lolly.mid",9,2 ,4,,,
+    "trumpets.mid",	1,	lead
+    "trumpets.mid",	2,	harmony to lead
+    "trumpets.mid",	3,	grand pianoline
+    "trumpets.mid",	4,	upper basline
+    "trumpets.mid",	5,	meas30+mixbass
+    "trumpets.mid",	6,	basslineharmony
+    "trumpets.mid",	7,	vocal line--bbok
+"trumpets.mid",7,7 ,6,,,
+    "valkry.mid",	1,	melody--bbok
+    "valkry.mid",	2,	acc.
+    "valkry.mid",	3,	bass
+    "valkry.mid",	4,	melody--bbok
+    "valkry.mid",	5,	acc.
+    "valkry.mid",	6,	bass
+    "valkry.mid",	7,	ride of the
+    "valkry.mid",	8,	valkyries-wagner
+    "valkry.mid",	9,	copyright llerrah inc.
+"valkry.mid",9,1 4 ,3 6,,,
+    "vdg5_rvn.mid",	1,	ÉÍÍÍÍÍÍÍÍÍÍÍ[ 3
+    "vdg5_rvn.mid",	2,	º
+    "vdg5_rvn.mid",	3,	º         video
+    "vdg5_rvn.mid",	4,	º       (do you
+    "vdg5_rvn.mid",	5,	º
+    "vdg5_rvn.mid",	6,	º      copied &
+    "vdg5_rvn.mid",	7,	º
+    "vdg5_rvn.mid",	8,	º     the rovin
+    "vdg5_rvn.mid",	9,	º         * id
+    "vdg5_rvn.mid",	10,	º
+    "vdg5_rvn.mid",	11,	º
+    "vdg5_rvn.mid",	12,	º  [3s] member-
+    "vdg5_rvn.mid",	13,	º
+    "vdg5_rvn.mid",	14,	º         1993.
+    "vdg5_rvn.mid",	15,	º
+    "vdg5_rvn.mid",	16,	ÈÍÍÍÍÍÍÍÍÍÍÍ[ 3
+    "vdg5_rvn.mid",	17,	modern harp ii
+    "vdg5_rvn.mid",	18,	glockenspiel 2
+    "vdg5_rvn.mid",	19,	pizzicato bass
+    "vdg5_rvn.mid",	20,	strings
+    "vdg5_rvn.mid",	21,	strings ii
+    "vdg5_rvn.mid",	22,	french horn
+    "vdg5_rvn.mid",	23,	french horn ii
+    "vdg5_rvn.mid",	24,	melody--bbok
+    "vdg5_rvn.mid",	25,	piccolo/kinds
+    "vdg5_rvn.mid",	26,	oboe/kinds
+    "vdg5_rvn.mid",	27,	ochestra drums
+    "vdg5_rvn.mid",	28,	strings iii
+    "vdg5_rvn.mid",	29,	modern harp
+    "vdg5_rvn.mid",	30,	glockenspiel
+    "vdg5_rvn.mid",	31,	guitar 1
+    "vdg5_rvn.mid",	32,	guitar 2
+    "vdg5_rvn.mid",	33,	guitar 3
+"vdg5_rvn.mid",33,24 ,19,,,
+    "vecchi_so_ben_mi_cha_bon_tempo.mid",	1,	so ben, mi, c'ha bon tempo
+    "vecchi_so_ben_mi_cha_bon_tempo.mid",	2,	1 bbok
+    "vecchi_so_ben_mi_cha_bon_tempo.mid",	3,	2
+    "vecchi_so_ben_mi_cha_bon_tempo.mid",	4,	3
+    "vecchi_so_ben_mi_cha_bon_tempo.mid",	5,	4
+    "vecchi_so_ben_mi_cha_bon_tempo.mid",	6,	so ben, mi, c'ha bon tempo
+    "vecchi_so_ben_mi_cha_bon_tempo.mid",	7,	orazio vecchi
+    "vecchi_so_ben_mi_cha_bon_tempo.mid",	8,	© 1996 by curtis clark. free for personal use
+    "vecchi_so_ben_mi_cha_bon_tempo.mid",	9,	jcclark@csupomona.edu
+    "vecchi_so_ben_mi_cha_bon_tempo.mid",	10,	http://www.csupomona.edu/~jcclark/emusic/
+"vecchi_so_ben_mi_cha_bon_tempo.mid",10,2 ,5,,,
+    "victoria_benedictus.mid",	1,	@channel 1 bbok
+    "victoria_benedictus.mid",	2,	@channel 2 bbok
+    "victoria_benedictus.mid",	3,	@channel 3 bbok
+    "victoria_benedictus.mid",	4,	@channel 4 bbok
+    "victoria_benedictus.mid",	5,	@channel 5
+    "victoria_benedictus.mid",	6,	@channel 6
+"victoria_benedictus.mid",6,1 2 3 4 ,,,,
+    "victoria_gloria.mid",	1,	 bbok
+    "victoria_gloria.mid",	2,	
+    "victoria_gloria.mid",	3,	
+    "victoria_gloria.mid",	4,	
+"victoria_gloria.mid",4,1 ,4,,,
+    "victoria_salve_regina.mid",	1,	s bbok
+    "victoria_salve_regina.mid",	2,	a
+    "victoria_salve_regina.mid",	3,	t
+    "victoria_salve_regina.mid",	4,	b
+    "victoria_salve_regina.mid",	5,	staff-1 bbok
+    "victoria_salve_regina.mid",	6,	staff-2
+    "victoria_salve_regina.mid",	7,	staff-3
+    "victoria_salve_regina.mid",	8,	staff-4
+"victoria_salve_regina.mid",8,1 5 ,4 8,,,
+    "viv_el_gran_re_don_fernando.mid",	1,	viv’ el gran re don fernando
+    "viv_el_gran_re_don_fernando.mid",	2,	1 bbok
+    "viv_el_gran_re_don_fernando.mid",	3,	2
+    "viv_el_gran_re_don_fernando.mid",	4,	3
+    "viv_el_gran_re_don_fernando.mid",	5,	4
+    "viv_el_gran_re_don_fernando.mid",	6,	viv’ el gran re don fernando
+    "viv_el_gran_re_don_fernando.mid",	7,	anonymous
+    "viv_el_gran_re_don_fernando.mid",	8,	© 1996 by curtis clark. free for personal use
+    "viv_el_gran_re_don_fernando.mid",	9,	jcclark@csupomona.edu
+    "viv_el_gran_re_don_fernando.mid",	10,	http://www.csupomona.edu/~jcclark/emusic/
+"viv_el_gran_re_don_fernando.mid",10,2 ,,,,
+    "vive_le_roy.mid",	1,	1 bbok
+    "vive_le_roy.mid",	2,	2
+    "vive_le_roy.mid",	3,	3
+    "vive_le_roy.mid",	4,	4
+    "vive_le_roy.mid",	5,	vive le roy!
+    "vive_le_roy.mid",	6,	josquin des prez
+    "vive_le_roy.mid",	7,	© 1996 by curtis clark. free fo
+    "vive_le_roy.mid",	8,	jcclark@csupomona.edu
+    "vive_le_roy.mid",	9,	http://www.csupomona.edu/~jccla
+"vive_le_roy.mid",9,1 ,4,,,
+    "vivldi05.mid",	1,	bass    (bb)
+    "vivldi05.mid",	2,	piano   (bb)
+    "vivldi05.mid",	3,	strings (bb)
+    "vivldi05.mid",	4,	melody  (bb)--bbok
+"vivldi05.mid",4,4 ,1,,,
+    "vivldi06.mid",	1,	bass    (bb)
+    "vivldi06.mid",	2,	piano   (bb)
+    "vivldi06.mid",	3,	guitar  (bb)
+    "vivldi06.mid",	4,	strings (bb)
+    "vivldi06.mid",	5,	melody  (bb)--bbok
+"vivldi06.mid",5,5 ,1,,,
+    "vom_gimmel_och_da_komm_ich_her.mid",	1,	vom himmel hoch, da komm’ ich her
+    "vom_gimmel_och_da_komm_ich_her.mid",	2,	1 bbok
+    "vom_gimmel_och_da_komm_ich_her.mid",	3,	2
+    "vom_gimmel_och_da_komm_ich_her.mid",	4,	3
+    "vom_gimmel_och_da_komm_ich_her.mid",	5,	4
+    "vom_gimmel_och_da_komm_ich_her.mid",	6,	vom himmel hoch, da komm’ ich her
+    "vom_gimmel_och_da_komm_ich_her.mid",	7,	martin luther, arr. michael praetorius
+    "vom_gimmel_och_da_komm_ich_her.mid",	8,	© 1996 by curtis clark. free for personal use
+    "vom_gimmel_och_da_komm_ich_her.mid",	9,	jcclark@csupomona.edu
+    "vom_gimmel_och_da_komm_ich_her.mid",	10,	http://www.csupomona.edu/~jcclark/
+"vom_gimmel_och_da_komm_ich_her.mid",10,2 ,5,,,
+    "wassail.mid",	1,	descant
+    "wassail.mid",	2,	melody--bbok
+"wassail.mid",2,2 ,1,,,
+    "watermk.mid",	1,	piano --bbok
+    "watermk.mid",	2,	strings             
+    "watermk.mid",	3,	voice               
+"watermk.mid",3,1 ,2,,,
+    "x.cgi_mid_mozart_wamk357.mid",	1,	primo
+    "x.cgi_mid_mozart_wamk357.mid",	2,	secondo
+    "x.cgi_mid_mozart_wamk357.mid",	3,	
+    "x.cgi_mid_mozart_wamk357.mid",	4,	title: sonate in gmaj (k. 357, 1786)
+    "x.cgi_mid_mozart_wamk357.mid",	5,	composer: w. a. mozart
+    "x.cgi_mid_mozart_wamk357.mid",	6,	sequence: faren raborn, copyright 1996
+    "x.cgi_mid_mozart_wamk357.mid",	7,	email: raborn@dtx.net
+"x.cgi_mid_mozart_wamk357.mid",7,,,,,
+    "x.cgi_mid_mozart_wamk358.mid",	1,	primo
+    "x.cgi_mid_mozart_wamk358.mid",	2,	secondo
+    "x.cgi_mid_mozart_wamk358.mid",	3,	
+    "x.cgi_mid_mozart_wamk358.mid",	4,	title: sonate in bbmaj (k. 358, 1774)
+    "x.cgi_mid_mozart_wamk358.mid",	5,	composer: w. a. mozart
+    "x.cgi_mid_mozart_wamk358.mid",	6,	sequence: faren raborn, copyright 1996
+    "x.cgi_mid_mozart_wamk358.mid",	7,	email: raborn@dtx.net
+"x.cgi_mid_mozart_wamk358.mid",7,,,,,
+    "x.cgi_mid_mozart_wamk497.mid",	1,	primo
+    "x.cgi_mid_mozart_wamk497.mid",	2,	secondo
+    "x.cgi_mid_mozart_wamk497.mid",	3,	
+    "x.cgi_mid_mozart_wamk497.mid",	4,	title: sonate in fmaj (k. 497, 1786)
+    "x.cgi_mid_mozart_wamk497.mid",	5,	composer: w. a. mozart
+    "x.cgi_mid_mozart_wamk497.mid",	6,	sequence: faren raborn, copyright 1996
+    "x.cgi_mid_mozart_wamk497.mid",	7,	email: raborn@dtx.net
+"x.cgi_mid_mozart_wamk497.mid",7,,,,,
+    "x.cgi_mid_mozart_wamk501.mid",	1,	primo
+    "x.cgi_mid_mozart_wamk501.mid",	2,	secondo
+    "x.cgi_mid_mozart_wamk501.mid",	3,	
+    "x.cgi_mid_mozart_wamk501.mid",	4,	title: andante mit variationen in gmaj, k. 501
+    "x.cgi_mid_mozart_wamk501.mid",	5,	comoser: w. a. mozart
+    "x.cgi_mid_mozart_wamk501.mid",	6,	sequence: faren raborn, copyright 1996
+    "x.cgi_mid_mozart_wamk501.mid",	7,	email: raborn@dtx.net
+"x.cgi_mid_mozart_wamk501.mid",7,,,,,
+    "x.cgi_mid_mozart_wamk521.mid",	1,	primo
+    "x.cgi_mid_mozart_wamk521.mid",	2,	secondo
+    "x.cgi_mid_mozart_wamk521.mid",	3,	
+    "x.cgi_mid_mozart_wamk521.mid",	4,	title: sonate in cmaj (k. 521, 1787)
+    "x.cgi_mid_mozart_wamk521.mid",	5,	composer: w. a. mozart
+    "x.cgi_mid_mozart_wamk521.mid",	6,	sequence faren raborn, copyright 1996
+    "x.cgi_mid_mozart_wamk521.mid",	7,	email: raborn@dtx.net
+"x.cgi_mid_mozart_wamk521.mid",7,,,,,
+    "x.cgi_mid_mozart_wamk594.mid",	1,	primo
+    "x.cgi_mid_mozart_wamk594.mid",	2,	secondo
+    "x.cgi_mid_mozart_wamk594.mid",	3,	
+    "x.cgi_mid_mozart_wamk594.mid",	4,	title: ein stück für orgelwerk in einer uhr (k. 594, 1790)
+    "x.cgi_mid_mozart_wamk594.mid",	5,	composer: w. a. mozart
+    "x.cgi_mid_mozart_wamk594.mid",	6,	sequence: faren raborn, copyright 1996
+    "x.cgi_mid_mozart_wamk594.mid",	7,	email: raborn@dtx.net
+"x.cgi_mid_mozart_wamk594.mid",7,,,,,

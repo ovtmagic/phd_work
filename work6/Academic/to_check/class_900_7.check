@@ -1,0 +1,775 @@
+#################################################################################################################
+ Columnas:
+ <numero pista>	<prediccion>	<prob melodia>	<prob bajo>	<ocupacion>	<etiquetado>	<nombre de pista>
+
+prediccion: tipo de pista que el algoritmo predice que es: +m para melodia, +b para bajo
+
+#################################################################################################################
+
+* Baroque_Baroque-Late_Bach_997-5DOU.mid
+    1   +m   0.8   0.0  0.95            Solo Lute or Keyboard
+    2   +b   0.0   0.5  0.62            --------------------------------------
+    3                                   Johann Sebastian Bach  (1685-1750)
+    4                                   Partita in C minor - BWV 997
+    5                                   for Lute or Keyboard
+    6                                   --------------------------------------
+    7                                   5th Movement: Double
+    8                                   --------------------------------------
+    9                                   Sequenced with Cakewalk Pro Audio by
+   10                                   David J. Grossman - dave@unpronounceable.com
+   11                                   This and other Bach MIDI files can be found at:
+   12                                   Dave's J.S. Bach Page
+   13                                   http://www.unpronounceable.com/bach
+   14                                   --------------------------------------
+   15                                   Original Filename: 997-5dou.mid
+   16                                   Last Modified: March 29, 1997
+
+
+%----------------------------------
+
+* Baroque_Baroque-Late_Bach_bjs99014.mid
+    1                                   >> J.S.Bach: Sarabanda con partite BWV990: 14 Courante - Sequenced by Leonardo Collinelli V1.0 - 1999
+    2                                   >> Public domain
+    3   +m   1.0   0.0  0.99            MD
+    4   +b   0.0   0.6  0.99            MS
+    5                                   >> J.S.Bach: Sarabanda con partite BWV990: 14 Courante - Sequenced by Leonardo Collinelli V1.0 - 1999
+    6                                   >> Public domain
+
+
+%----------------------------------
+
+* Baroque_Baroque-Late_Bach_jsbos12.mid
+    1                                   2nd Movement - Courante
+    2                                   Sequenced by D. L. Viens 30 Dec 1999
+    3                                   dlviens@empire.net
+    4                                   
+    5   +m   0.9   0.0  0.93            Oboe I
+    6   +m   0.9   0.0  0.93            Oboe II
+    7   +b   0.0   0.6  0.91            Bassoon
+    8   +m   0.9   0.0  0.93            Violin I
+    9   +m   0.9   0.0  0.93            Violin II
+   10   +m   0.5   0.0  0.93            Viola
+   11   +b   0.0   0.6  0.91            Cello
+   12        0.0   0.0  0.98            Harpsichord 
+   13                                   Johann Sebastian Bach - Orchestral Suite No. 1 in C Major, BWV1066 - No. 2 Courante
+
+
+%----------------------------------
+
+* Baroque_Baroque-Late_Bach_K003.mid
+    1   +m   0.5   0.0  0.96            Italian
+    2                                   Track 2
+
+
+%----------------------------------
+
+* Baroque_Baroque-Late_Pachelbel_pachelbel_magnificat_part_I_20.mid
+    1        0.4   0.0  0.94            Pachelbel's Magnificat
+    2                                   [...]
+    3                                   Live by © A.G. Simonetto
+    4                                   © www.KunstderFuge.com
+    5                                   
+    6                                   
+    7                                   
+    8                                   
+    9                                   
+   10                                   
+   11                                   
+   12                                   
+   13                                   
+   14                                   
+   15                                   
+   16                                   
+
+
+%----------------------------------
+
+* Baroque_Baroque-Late_Pachelbel_trumpet_quartet_canon.mid
+    1   +m   0.8   0.0  0.96            Trumpet 1
+    2   +m   0.7   0.0  0.76            Trumpet 2
+    3   +m   0.8   0.0  0.87            Trumpet 3
+    4   +b   0.7   0.6  0.94            Trumpet 4
+    5                                   Canon in D by Pachabal
+    6                                   Arranged and Sequenced
+    7                                   by Andrew Politi
+    8                                   For Trumpet Quartet
+    9                                   NYankee98@hotmail.com
+
+
+%----------------------------------
+
+* Baroque_Baroque-Middle_Sanz_1298gs3hach.mid
+    1                                   Guitar
+    2                                   Tempo
+    3   +m   0.6   0.0  0.13            E' string
+    4        0.2   0.0  0.16            B string
+    5        0.1   0.0  0.25            G string
+    6        0.1   0.1  0.27            D string
+    7                                   A string
+    8   +b   0.0   0.6  0.21            E string
+    9                                   Spanish Suite (1674)
+   10                                   3. Danza de las Hachas
+   11                                   by Gaspar Sanz (1640-1710), Spanish
+   12                                   seq (c) 1999 by Ramon Pajares Box
+   13                                   rpajares@nilsl.net
+   14                                   Danza de las Hachas by Gaspar Sanz (1640-1710)
+
+
+%----------------------------------
+
+* Classicism_Classicism_Haydn_hay-p38b.mid
+    1   +m   0.9   0.0  0.84            Piano Sonata No.38 in E Flat
+    2        0.1   0.4  0.65            by FJ Haydn (2nd mvmt. - Adagio)
+    3                                   MIDI by Marty Weimer 5/31/97
+    4                                   weimermt@libby.org Eureka, MT  USA
+
+
+%----------------------------------
+
+* Classicism_Classicism_Mozart_2024panos3no1.mid
+    1        0.4   0.0  0.18            Oboi I & II
+    2        0.3   0.0  0.15            Corni in F
+    3   +m   0.5   0.0  0.57            Piano 1 Trebble
+    4        0.0   0.0  0.43            Piano 1 Bass
+    5   +m   0.5   0.0  0.59            Piano 2 Trebble
+    6        0.0   0.0  0.42            Piano 2 Bass
+    7   +m   0.6   0.0  0.29            Piano 3 Trebble
+    8        0.0   0.0  0.24            Piano 3 Bass
+    9   +m   0.5   0.0  0.33            Violin I
+   10   +m   0.7   0.0  0.26            Violin II
+   11        0.2   0.0   0.2            Viola
+   12        0.0   0.0  0.22            Celli
+   13   +b   0.0   0.9  0.22            Bassi
+   14                                   ******************************************
+   15                                   Mozart Concerto for 3 Pianos 
+   16                                      and Orchestra in F, K.242
+   17                                   Input and Sequence by Randy Reid
+   18                                      Troppo@msn.com
+   19                                   
+   20                                   Console Automation Data
+
+
+%----------------------------------
+
+* Classicism_Classicism_Mozart_mozk22.mid
+    1   +m   0.8   0.0  0.59            Oboe I
+    2   +m   0.7   0.0  0.59            Oboe II
+    3   +m   0.5   0.0  0.61            Horn I
+    4        0.1   0.0  0.61            Horn II
+    5   +m   0.5   0.0  0.81            Violin I
+    6        0.3   0.0  0.79            Violin II
+    7        0.4   0.0  0.86            Viola
+    8        0.1   0.1   0.8            'Cello/Bassoon
+    9   +b   0.0   1.0  0.77            Bass
+   10                                   Cembalo
+   11        0.1   0.1   0.8            `
+   12        0.1   0.1   0.8            Bassoon
+
+
+%----------------------------------
+
+* Classicism_Classicism_Mozart_wam0330.mid
+    1                                   
+    2                                   
+    3                                   
+    4                                   
+    5                                   
+
+
+%----------------------------------
+
+* Medieval_ArsNova_Machau_machaut-b05.mid
+    1                                                                       
+    2   +m   0.8   0.0   0.9            Riches d'amour                      
+    3        0.1   0.4  0.89            (Guillaume de Machaut)              
+
+
+%----------------------------------
+
+* Medieval_Gregorian_Comunion_33_Domingo.mid
+    1        0.3   0.0  0.92            Cantor
+    2                                   Communion-33nd Sunday
+    3                                   Mode I
+    4                                   Sequence copyright 1998 Brian M. Ames
+    5                                   bmames@apk.net
+
+
+%----------------------------------
+
+* Renaissance_Renaissance-Late_Byrd_byrd-pavan.mid
+    1   +m   0.8   0.0  0.61            recorder
+    2   +m   0.6   0.0  0.55            recorder
+    3   +m   0.6   0.0  0.67            recorder
+    4   +m   0.6   0.0  0.63            recorder
+    5   +m   0.6   0.0  0.56            recorder
+    6        0.4   0.0  0.51            recorder
+    7   +m   0.7   0.0  0.64            Alt
+    8   +m   0.8   0.0  0.57            Alt
+    9        0.4   0.0  0.69            Ten
+   10        0.1   0.0  0.61            Ten
+   11   +b   0.1   0.7  0.58            Bass
+   12   +b   0.0   0.5  0.51            Bass
+   13                                   Pavan by Wm.Byrd 
+   14                                   arr. and seq. by MJ Starke
+   15                                   E-mail mjstarke@ix.netcom.com
+
+
+%----------------------------------
+
+* Renaissance_Renaissance-Late_Byrd_FW163.mid
+    1        0.0   0.0  0.98            Track 1
+    2                                   Track 2
+
+
+%----------------------------------
+
+* Renaissance_Renaissance-Late_Praetorius_pragav3.mid
+    1                                   Gavotte 3
+    2   +m   0.7   0.0  0.87            s1
+    3   +m   0.5   0.0  0.86            s2
+    4   +m   0.5   0.0  0.86            a
+    5   +m   0.5   0.0  0.86            t
+    6        0.0   0.4  0.86            b
+    7                                   3. Gavotte
+    8                                   Michael Praetorius
+    9                                   © 1996 by Curtis Clark. Free for personal use
+   10                                   jcclark@csupomona.edu
+   11                                   http://www.csupomona.edu/~jcclark/emusic/
+
+
+%----------------------------------
+
+* Renaissance_Renaissance-Late_Victoria_Ave_Maria_de_Victoria.mid
+    1   +m   0.5   0.0  0.84            Soprano
+    2   +m   0.7   0.0   0.8            Alto
+    3        0.4   0.0  0.82            Tenor
+    4   +b   0.0   0.6  0.73            Basse
+    5                                   Staff-1
+
+
+%----------------------------------
+
+* Romanticism_Post-romanticism_Mahler_mahl4_4.mid
+    1   +m   0.7   0.0  0.39            
+    2   +m   0.6   0.0   0.2            
+    3   +m   0.9   0.0  0.45            
+    4        0.4   0.0  0.43            
+    5        0.1   0.0  0.21            
+    6        0.0   0.0  0.26            
+    7   +m   0.8   0.0   0.6            
+    8        0.0   0.1  0.52            
+    9        0.0   0.1  0.16            
+   10                                   
+   11   +m   0.8   0.0  0.44            
+   12   +m   0.6   0.0   0.4            
+   13        0.3   0.0  0.37            
+   14        0.0   0.0   0.3            
+   15   +b   0.0   0.7  0.17            
+   16        0.0   0.0  0.35            
+
+
+%----------------------------------
+
+* Romanticism_Romantic-Nationalism_Sousa_973riflerg1.mid
+    1   +m   0.9   0.0  0.61            Trumpet-Solo
+    2        0.1   0.0  0.42            Clarinet
+    3   +b   0.1   0.8  0.35            Tuba
+    4        0.4   0.0   0.6            Trumpet-Second
+    5                                   Drums
+    6                                   The Rifle Regiment
+    7                                   by John Phillip Sousa
+    8                                   Seq.by ASimmsJr@ahoynet.com
+
+
+%----------------------------------
+
+* Romanticism_Romantic-Nationalism_Tchaikovsky_969gp4nut.mid
+    1   +m   0.8   0.0  0.54            4. Trepak from
+    2   +m   0.5   0.0  0.51            Nutcracker Suite
+    3        0.1   0.0  0.37            by Tchaikowski
+    4        0.1   0.0  0.53            Arr : G. Pollen (1999)
+    5        0.4   0.0  0.44            
+    6   +m   0.6   0.0  0.56            
+    7   +m   0.7   0.0  0.55            
+    8        0.0   0.0  0.49            
+    9        0.0   0.0  0.51            
+   10        0.0   0.0  0.51            
+   11        0.2   0.0  0.54            
+   12        0.2   0.0  0.48            
+   13        0.3   0.0  0.51            
+   14        0.1   0.0  0.45            
+   15        0.3   0.0  0.27            
+   16        0.1   0.0  0.24            
+   17        0.0   0.0  0.29            
+   18                                   
+   19        0.2   0.2   0.3            
+   20   +m   0.8   0.0  0.59            
+   21   +m   0.8   0.0  0.55            
+   22        0.2   0.0  0.61            
+   23        0.2   0.0  0.58            
+   24   +b   0.0   0.7  0.45            
+
+
+%----------------------------------
+
+* Romanticism_Romanticism_Beethoven_beet54s.mid
+    1   +m   0.5   0.0  0.32            Piccolo
+    2        0.2   0.0  0.61            Flute 1+2
+    3        0.1   0.0  0.69            Oboe 1+2
+    4        0.1   0.0  0.67            Clarinet 1+2
+    5        0.1   0.0  0.72            Bassoon 1+2
+    6        0.0   0.0   0.6            Contra Bassoon
+    7        0.3   0.0  0.66            Horn 1+2
+    8        0.1   0.0  0.52            Trumpet 1+2
+    9        0.2   0.0  0.32            Alt+Ten Bone
+   10                                   Bass Bone
+   11        0.0   0.1  0.38            Timpani
+   12        0.4   0.0  0.74            Violins 1
+   13   +m   0.7   0.0  0.76            Violins 2
+   14        0.4   0.0  0.83            Violas
+   15        0.0   0.0  0.75            Cellos
+   16   +b   0.0   0.7  0.64            
+
+
+%----------------------------------
+
+* Romanticism_Romanticism_Brahms_BR-120B2.mid
+    1   +m   1.0   0.0  0.63            Sonata For Clarinet and Piano 
+    2        0.2   0.0  0.77            in E flat, Op.120 No.2  by J. Brahms
+    3   +b   0.0   0.6  0.78            2nd mvmt.  Allegro appassionato
+    4                                   MIDI by Marty Weimer 4/3/97
+    5                                   weimermt@libby.org  Eureka, MT  USA
+
+
+%----------------------------------
+
+* Romanticism_Romanticism_Chopin_CHOPROND.mid
+    1                                   
+    2        0.3   0.0  0.76            Piano 1 
+    3   +b   0.0   0.6  0.83            Piano 2 
+    4                                   
+    5                                   Frederic Chopin:             
+    6                                   Rondo in C Major for    
+    7                                   2 Pianos, Op. Posth.          
+    8                                                       
+    9                                   (c) Copyright 1997  
+   10                                   Sequenced by Carl Bertram
+   11                                   (revision by Ron Lubetsky)
+
+
+%----------------------------------
+
+* Romanticism_Romanticism_Gounod_GP_FA_MS.mid
+    1        0.3   0.0  0.21            Mephistopheles'
+    2   +m   0.6   0.0   0.2            Serenade
+    3   +m   0.5   0.0  0.18            from the opera FAUST
+    4        0.0   0.0   0.4            by Charles Gounod
+    5        0.0   0.0   0.2            
+    6                                   arr : G. Pollen (2000)
+    7        0.1   0.1  0.05            
+    8   +m   0.6   0.0  0.65            
+    9   +m   0.6   0.0  0.39            
+   10   +m   0.5   0.0  0.67            
+   11        0.2   0.0  0.73            
+   12   +b   0.0   0.8  0.37            
+   13        0.2   0.0  0.65            
+
+
+%----------------------------------
+
+* Romanticism_Romanticism_Liszt_Christmas_Tree_9.Evening_Bells.mid
+    1        0.4   0.0  0.67            Track 1
+    2        0.3   0.0  0.51            Track 2
+    3        0.0   0.0  0.24            Track 3
+    4        0.0   0.3  0.19            Track 4
+    5                                   
+    6                                   
+    7                                   Liszt - circa 1874-1876
+    8                                   Evening Bells from
+    9                                   Christmas Tree
+   10                                   Arr.W.Pepperdine 1999
+   11                                   Console Automation Data
+   12                                   
+   13                                   
+   14                                   
+   15                                   
+   16                                   
+
+
+%----------------------------------
+
+* Romanticism_Romanticism_Mendelssohn_mendel05.mid
+    1                                   Bass    (BB)
+    2                                   Drums   (BB)
+    3        0.1   0.3  0.34            Piano   (BB)
+    4                                   Guitar  (BB) (none)
+    5                                   Strings (BB) (none)
+    6   +m   0.8   0.0  0.78            Melody  (BB)
+    7                                   Soloist (BB) (none)
+
+
+%----------------------------------
+
+* Romanticism_Romanticism_Rossini_barber-overture.mid
+    1                                   
+    2                                   
+    3                                   
+    4                                   
+    5   +m   0.7   0.0  0.12            
+    6   +m   0.7   0.0  0.19            
+    7   +m   0.5   0.0  0.39            
+    8   +m   0.5   0.0  0.27            
+    9        0.1   0.0  0.81            
+   10   +m   0.5   0.0  0.81            
+   11   +m   0.6   0.0  0.55            
+   12        0.2   0.0  0.55            
+   13        0.2   0.0  0.36            
+   14        0.3   0.0  0.54            
+   15   +b   0.0   0.9  0.45            
+
+
+%----------------------------------
+
+* Romanticism_Romanticism_Rossini_WTELLCEN.mid
+    1        0.2   0.0   0.9            horn                
+    2        0.1   0.0  0.82            timpani             
+    3   +m   0.6   0.0   1.0            hi strings          
+    4        0.1   0.0  0.76            lo strings          
+    5   +m   0.7   0.0  0.84            woodwinds           
+    6        0.1   0.0   0.6            trombone            
+    7   +b   0.1   0.8  0.75            lo pizz             
+    8   +m   0.6   0.0   1.0            hi strings          
+    9        0.1   0.0  0.76            lo strings          
+   10        0.2   0.0   0.9            horn                
+   11                                   (C) 1994            
+   12                                   Berkeley Systems Inc
+   13                                   IT IS ILLEGAL       
+   14                                   TO ALTER THIS FILE  
+   15                                   WITHOUT THE         
+   16                                   PERMISSION OF BSI   
+
+
+%----------------------------------
+
+* Romanticism_Romanticism_Schubert_1266d960m3.mid
+    1   +m   1.0   0.0  0.67            Right
+    2   +b   0.1   0.6  0.64            Left
+    3                                   Left
+    4                                   Franz Schubert (1797-1828)
+    5                                   Piano sonata in B flat, D 960
+    6                                   III: Scherzo: Allegro vivace con
+    7                                   Sequence: M C Bucknall
+    8                                   ferret@netcomuk.co.uk
+
+
+%----------------------------------
+
+* Romanticism_Romanticism_Schubert_Var_on_Anselm_Huttenbrenner_in_Am_D.576.13.mid
+    1                                   
+    2                                   
+
+
+%----------------------------------
+
+* Romanticism_Romanticism_Wagner_VALKYRIE.mid
+    1   +m   0.7   0.0   1.0            flute               
+    2   +m   0.6   0.0   1.0            clarinet            
+    3   +m   0.9   0.0  0.88            oboe                
+    4   +m   0.6   0.0  0.83            trumpet             
+    5        0.0   0.1  0.75            FHV                 
+    6   +m   0.5   0.0  0.96            string1             
+    7   +m   0.5   0.0  0.64            string2             
+    8   +b   0.0   0.5  0.83            trumpet 2           
+    9                                   Ext setup           
+   10                                   Ext setup         2 
+   11                                   Ext setup         3 
+   12                                   Ext setup         4 
+   13                                   Ext setup         5 
+   14                                   Ext setup         6 
+   15                                   Ext setup         7 
+   16                                   Ext setup         8 
+   17        0.4   0.0   1.0            woodwinds           
+   18        0.0   0.0  0.83            trumpet             
+   19        0.3   0.0  0.91            strings             
+   20        0.0   0.1  0.75            FHV                 
+   21                                   Basic setup         
+   22                                   Basic setup       2 
+   23                                   Basic setup       3 
+   24                                   (C) 1994            
+   25                                   Berkeley Systems Inc
+   26                                   IT IS ILLEGAL       
+   27                                   TO ALTER THIS FILE  
+   28                                   WITHOUT THE         
+   29                                   PERMISSION OF BSI   
+
+
+%----------------------------------
+
+* XXCentury_Impressionism_Debussy_012_debima04.mid
+    1        0.4   0.0  0.93            No. 01 Treble
+    2   +m   0.8   0.0  0.74            No. 02 Treble
+    3        0.0   0.3  0.09            No. 02 Bass
+    4   +m   0.7   0.0  0.53            No. 03 Treble
+    5        0.0   0.4  0.72            No. 03 Bass
+    6                                   Pedal
+    7                                   Jeruen E. Dery jawjaw@hotmail.com
+    8                                   Images 2eme Livre No. 01 Cloches a travers les feuilles
+
+
+%----------------------------------
+
+* XXCentury_Impressionism_Debussy_013_jimbo.mid
+    1        0.1   0.0  0.79            Pianoforte
+    2                                   by Claude Debussy (1862-1918)
+    3                                   Copyright © 2003 by Dario Galimberti
+    4                                   http://dariogalimberti.interfree.it
+    5                                   All Rights Reserved
+
+
+%----------------------------------
+
+* XXCentury_Neoclassicism_Prokofiev_piano_conc_no3_op26_mov1.mid
+    1   +m   0.6   0.0  0.33            Piccolo
+    2   +m   0.5   0.0  0.24            Flute
+    3   +m   0.8   0.0  0.22            Oboe
+    4   +m   0.6   0.0   0.4            Clarinet
+    5        0.0   0.0  0.36            Bassoon
+    6        0.3   0.0  0.11            Trumpet
+    7        0.0   0.0  0.13            Horn
+    8        0.0   0.0  0.13            Trombone
+    9        0.0   0.1  0.09            Timpani
+   10                                   Percussion
+   11        0.0   0.0  0.75            Piano
+   12   +m   0.6   0.0  0.42            Violin I
+   13   +m   0.7   0.0  0.47            Violin II
+   14        0.3   0.0  0.56            Viola
+   15        0.0   0.0   0.6            Cello
+   16   +b   0.0   0.9  0.47            Bass
+
+
+%----------------------------------
+
+* XXCentury_XX-Nationalism_Albeniz_albesp5.mid
+    1   +m   1.0   0.0  0.93            Piano right
+    2   +b   0.0   0.6  0.79            Piano left
+    3                                   Albeniz :Espana Op. 165 Capricho Catalan
+    4                                   Copyright © 2001 by Bernd Krüger
+    5                                   email: bernd.krueger@piano-midi.de
+    6                                   http://piano-midi.de
+    7                                   Edition: 17.2.01
+    8                                   
+
+
+%----------------------------------
+
+* XXCentury_XX-Nationalism_Gershwin_2131prgybess.mid
+    1                                   MT-32   
+    2                                   PSS-680 
+    3   +m   0.9   0.0  0.74            Ch  2   
+    4        0.3   0.0  0.56            Ch  3   
+    5   +m   0.5   0.0  0.56            Ch  4   
+    6        0.0   0.3   0.7            Ch  5   
+    7        0.4   0.0  0.23            Ch  6   
+    8                                   MT_drums
+    9        0.2   0.0  0.15            Ch 11   
+   10        0.0   0.1  0.04            Ch 12   
+
+
+%----------------------------------
+
+* XXCentury_XX-Nationalism_Holst_first_suite_op28_march.mid
+    1   +m   0.7   0.0  0.28            No. 3 March
+    2   +m   0.7   0.1  0.29            Suite in E flat
+    3   +m   1.0   0.0  0.46            by G. Holst
+    4   +m   0.5   0.0  0.64            arr : Pollen (2002)
+    5        0.1   0.1  0.66            
+    6        0.3   0.0  0.56            
+    7        0.4   0.0  0.47            
+    8        0.1   0.0  0.43            
+    9   +b   0.0   0.5  0.32            
+   10                                   
+   11                                   
+   12        0.0   0.1  0.27            
+   13   +m   0.8   0.0  0.44            
+   14   +m   0.7   0.0  0.41            
+   15        0.4   0.0  0.55            
+   16        0.3   0.0  0.67            
+   17   +b   0.0   1.0  0.59            
+
+
+%----------------------------------
+
+* XXCentury_XX-Nationalism_Holst_Jupiter.mid
+    1   +m   0.5   0.0  0.36            Piccolos
+    2   +m   0.9   0.0  0.46            Flutes
+    3   +m   0.6   0.0  0.47            Oboe
+    4        0.4   0.0  0.31            English Horn
+    5   +m   0.6   0.0  0.54            Clarinets in Bb
+    6        0.3   0.0   0.3            BassClarinets in Bb
+    7        0.0   0.0  0.34            Bassoons
+    8        0.0   0.0  0.25            DoubleBassoon
+    9        0.0   0.0  0.39            Horns in F  I  II
+   10        0.0   0.0  0.37            Horns in F III IV
+   11        0.1   0.0  0.36            Horns in F  V  VI
+   12        0.3   0.0  0.38            Trumpets I II
+   13        0.3   0.0  0.23            Trumpets III IV
+   14        0.2   0.0  0.25            Tenor Trombone
+   15        0.0   0.1  0.17            Bass Trombone
+   16   +m   0.5   0.0  0.18            Tenor Tuba in Bb
+   17   +b   0.0   0.8   0.2            Bass Tuba
+   18                                   Timpani I
+   19                                   Timpani II
+   20                                   Percussion (General MIDI Map)
+   21        0.4   0.0  0.13            Glockenspiel
+   22        0.1   0.0   0.2            Harp 1
+   23        0.0   0.0   0.2            Harp 2
+   24   +m   0.6   0.0  0.66            1st Violins
+   25   +m   0.7   0.0  0.66            2nd Violins
+   26   +m   0.7   0.0  0.66            Violas
+   27        0.3   0.0  0.59            Cellos
+   28        0.0   0.0   0.4            Doublebasses
+
+
+%----------------------------------
+
+* XXCentury_XX-Nationalism_Janacek_JANSINF5.mid
+    1   +m   0.8   0.0   0.5            Flutes
+    2   +m   0.7   0.0  0.35            Piccolo
+    3   +m   0.9   0.0  0.35            Oboe
+    4   +m   0.7   0.0  0.69            English horn
+    5   +m   0.6   0.0  0.65            Clarinet picc. in E fla
+    6   +m   0.9   0.0  0.36            Clarinet in B flat
+    7        0.0   0.1   0.3            Bass clarinet
+    8        0.2   0.0  0.39            Horn 1,2
+    9        0.0   0.1  0.18            Horn 3,4(nothing to playing until last 7 bars)
+   10   +m   0.5   0.0  0.18            Trumpet in F
+   11        0.0   0.0  0.36            Trombone 1,2
+   12        0.0   0.0  0.35            Trombone 3
+   13        0.0   0.3  0.35            Tuba
+   14   +m   0.8   0.0  0.61            Trumpet 1,2,3 (C)
+   15   +m   0.5   0.0  0.62            Trumpet 4,5,6 (C)
+   16   +m   0.7   0.0  0.54            Trumpet 7,8,9 (C)
+   17        0.1   0.0  0.89            Tenor tuba in B flat
+   18        0.2   0.0  0.43            Bass trumpet in B flat
+   19        0.1   0.0   0.5            Timpani
+   20                                   Cymbals
+   21   +m   0.8   0.0  0.56            Violin I
+   22   +m   0.9   0.0  0.56            Violin II
+   23        0.4   0.0  0.58            Viola
+   24        0.0   0.1  0.51            Cello
+   25   +b   0.0   1.0  0.41            Double bass
+   26                                   seq by David Siu dss@po.cwru.edu
+
+
+%----------------------------------
+
+* XXCentury_XX-Nationalism_Janacek_TarasBulba3.mid
+    1        0.4   0.0   0.2            K Piccolo
+    2   +m   0.8   0.0  0.57            Flutes
+    3   +m   0.9   0.0   0.6            Oboes
+    4        0.3   0.0  0.16            English Horn
+    5   +m   0.8   0.0  0.52            Clarinets
+    6        0.0   0.0  0.05            Clarinets-2
+    7        0.2   0.0  0.55            Bassoons
+    8        0.0   0.0  0.08            Bassoons-2
+    9   +b   0.0   0.5  0.22            Contrabassoon
+   10        0.4   0.0  0.63            Horns
+   11        0.0   0.0  0.23            Horns-2
+   12   +m   0.5   0.0  0.99            Mute F Trumpet
+   13        0.4   0.0  0.33            F Trumpets
+   14        0.0   0.0  0.39            Trombones
+   15        0.0   0.2  0.25            Trombones-2
+   16        0.0   0.1  0.24            K Tuba
+   17        0.0   0.0  0.25            Timpani
+   18        0.4   0.0  0.19            Bells
+   19        0.4   0.0  0.19            K Bells
+   20                                   Triangle
+   21                                   Snare Drum
+   22                                   Cymbals
+   23        0.1   0.0  0.36            K Organ
+   24        0.0   0.0  0.41            K Organ-2
+   25        0.3   0.0  0.17            K Harp
+   26        0.0   0.0  0.14            K Harp-2
+   27        0.1   0.0  0.39            Pizz Violins
+   28        0.1   0.0  0.03            Pizz Violins-2
+   29        0.3   0.0   0.6            Tremolo Strings
+   30        0.0   0.1  0.08            Tremolo Strings-2
+   31   +m   1.0   0.0  0.33            Violins
+   32        0.4   0.0   0.1            Violins-2
+   33        0.1   0.0  0.31            Pizz Violas
+   34        0.3   0.0   0.5            Violas
+   35        0.0   0.0  0.22            K Pizz Cellos
+   36        0.1   0.1  0.45            Cellos
+   37   +b   0.0   0.6  0.12            K Pizz Basses
+   38        0.0   0.2  0.44            Basses
+   39                                   Tempo Track
+
+
+%----------------------------------
+
+* XXCentury_XX-Nationalism_Nielsen_symp_no2_finale.mid
+    1   +m   0.9   0.0  0.48            Flutes
+    2   +m   0.8   0.0  0.42            Oboes
+    3   +m   0.9   0.0  0.54            A Clarinets
+    4        0.2   0.0  0.54            Bassoons
+    5        0.0   0.0  0.55            Horns
+    6        0.1   0.0  0.29            Trumpets in F
+    7        0.3   0.0  0.29            Tenor Trombones
+    8        0.0   0.1  0.26            Bass Trombones
+    9        0.0   0.1  0.25            Tuba
+   10                                   Timpani
+   11        0.0   0.0  0.37            Tremolo Strings
+   12                                   Pizz Violins
+   13   +m   0.6   0.0  0.67            Violins
+   14                                   Pizz Violas
+   15   +m   0.6   0.0  0.44            Violas
+   16        0.0   0.0  0.01            Pizz Cellos
+   17        0.1   0.0  0.64            Cellos
+   18   +b   0.0   0.8  0.05            Pizz Basses
+   19        0.0   0.3  0.49            Basses
+
+
+%----------------------------------
+
+* XXCentury_XX-Nationalism_Villalobos_prole_do_bebe_no1_no4_mulatinha.mid
+    1   +m   0.7   0.0  0.61            Oboe
+    2        0.2   0.0  0.37            English Horn
+    3        0.0   0.0   0.1            Clarinet
+    4        0.1   0.0  0.15            French Horn
+    5   +m   1.0   0.0  0.31            Trombone
+    6   +m   0.9   0.0  0.29            Violin
+    7        0.4   0.0  0.61            Strings
+    8        0.1   0.4  0.36            Cello
+    9   +m   0.5   0.0   0.5            Piano R.H.
+   10        0.1   0.0  0.67            Piano L.H.
+   11                                   Prole do Bebe No. 1
+   12                                   No. 4, Mulatinha
+   13                                   A Boneca de Borracha
+   14                                   by Heitor Villa-Lobos
+   15                                   Sequence copyright 1997 Brian M. Ames
+   16                                   bmames@apk.net
+   17                                   75507.120@compuserve.com
+
+
+%----------------------------------
+
+* XXCentury_XX-Nationalism_Villalobos_prole_do_bebe_no1_no7_polichinelo_2.mid
+    1   +m   0.7   0.0  0.41            aux Right Hand
+    2        0.3   0.0   0.3            Piano Right Hand
+    3        0.1   0.1  0.32            Piano Left Hand
+    4                                   _
+    5                                   Heitor Villa-Lobos
+    6                                   _
+    7                                   Prole do Bebe nr. 1
+    8                                   O Polichinelo
+    9                                   _
+   10                                   Digitized by
+   11                                   Marcelo A. K. Fontana
+   12                                   (makf@unisys.com.br)
+   13                                   _
+   14                                   from a score of
+   15                                   Fermata do Brasil
+
+
+%----------------------------------
+

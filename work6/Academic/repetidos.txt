@@ -1,0 +1,85 @@
+* Algunos ficheros midi están repetidos:
+
+Renaissance_Renaissance-Late_Victoria_Gaude_Maria_Virgo-b.mid
+Romanticism_Romanticism_Mendelssohn_Eli28.mid
+XXCentury_Impressionism_Debussy_debussy-lafille.mid
+Classicism_Classicism_Mozart_Symphony35-41-8-moz550_3.mid
+Romanticism_Romanticism_Chopin_Prelude_Op28_No24_in_Dm_The_Storm_3.mid
+Romanticism_Romanticism_Beethoven_beet54s.mid
+Romanticism_Romanticism_Chopin_Piano_Sonata_No3_in_Bm_Op.58_mov4.Finale_Presto_non_tanto.mid
+Baroque_Baroque-Late_Bach_Toccata_e_fuga.mid
+Renaissance_Renaissance-Late_Lassus_wohl_kommt_der_mai.mid
+Renaissance_Renaissance-Late_Victoria_Hic_Vir_Despiciens_Mundum-s.mid
+Baroque_Baroque-Late_Bach_348baw101f.mid
+XXCentury_XX-Nationalism_Elgar_cello_conc_op85_mov4.mid
+
+
+* Directorios donde están repetidos:
+
+./class_900_2/class_900_2/Renaissance_Renaissance-Late_Victoria_Gaude_Maria_Virgo-b.mid
+./class_900_3/class_900_3/Renaissance_Renaissance-Late_Victoria_Gaude_Maria_Virgo-b.mid
+./class_900_2/class_900_2/Romanticism_Romanticism_Mendelssohn_Eli28.mid
+./class_900_3/class_900_3/Romanticism_Romanticism_Mendelssohn_Eli28.mid
+./class_900_2/class_900_2/XXCentury_Impressionism_Debussy_debussy-lafille.mid
+./class_900_3/class_900_3/XXCentury_Impressionism_Debussy_debussy-lafille.mid
+./class_900_2/class_900_2/Classicism_Classicism_Mozart_Symphony35-41-8-moz550_3.mid
+./class_900_5/class_900_5/Classicism_Classicism_Mozart_Symphony35-41-8-moz550_3.mid
+./class_900_2/class_900_2/Romanticism_Romanticism_Chopin_Prelude_Op28_No24_in_Dm_The_Storm_3.mid
+./class_900_6/class_900_6/Romanticism_Romanticism_Chopin_Prelude_Op28_No24_in_Dm_The_Storm_3.mid
+./class_900_2/class_900_2/Romanticism_Romanticism_Beethoven_beet54s.mid
+./class_900_7/class_900_7/Romanticism_Romanticism_Beethoven_beet54s.mid
+./class_900_2/class_900_2/Romanticism_Romanticism_Chopin_Piano_Sonata_No3_in_Bm_Op.58_mov4.Finale_Presto_non_tanto.mid
+./class_900_7/class_900_7/Romanticism_Romanticism_Chopin_Piano_Sonata_No3_in_Bm_Op.58_mov4.Finale_Presto_non_tanto.mid
+./class_900_2/class_900_2/Baroque_Baroque-Late_Bach_Toccata_e_fuga.mid
+./class_900_8/class_900_8/Baroque_Baroque-Late_Bach_Toccata_e_fuga.mid
+./class_900_2/class_900_2/Renaissance_Renaissance-Late_Lassus_wohl_kommt_der_mai.mid
+./class_900_8/class_900_8/Renaissance_Renaissance-Late_Lassus_wohl_kommt_der_mai.mid
+./class_900_2/class_900_2/Renaissance_Renaissance-Late_Victoria_Hic_Vir_Despiciens_Mundum-s.mid
+./class_900_8/class_900_8/Renaissance_Renaissance-Late_Victoria_Hic_Vir_Despiciens_Mundum-s.mid
+./class_900_2/class_900_2/Baroque_Baroque-Late_Bach_348baw101f.mid
+./class_900_9/class_900_9/Baroque_Baroque-Late_Bach_348baw101f.mid
+./class_900_2/class_900_2/XXCentury_XX-Nationalism_Elgar_cello_conc_op85_mov4.mid
+./class_900_9/class_900_9/XXCentury_XX-Nationalism_Elgar_cello_conc_op85_mov4.mid
+
+
+
+* Diferencias en el etiquetado de los ficheros repetidos
+
+"Renaissance_Renaissance-Late_Victoria_Gaude_Maria_Virgo-b.mid,"5,1 2,5,,,
+"Renaissance_Renaissance-Late_Victoria_Gaude_Maria_Virgo-b.mid",5,1 2,5,,,
+"Romanticism_Romanticism_Mendelssohn_Eli28.mid,"4,1,,,,
+"Romanticism_Romanticism_Mendelssohn_Eli28.mid",4,1,3,,,
+"XXCentury_Impressionism_Debussy_debussy-lafille.mid,"3,1,,,,3
+"XXCentury_Impressionism_Debussy_debussy-lafille.mid",3,1,,,,
+"Classicism_Classicism_Mozart_Symphony35-41-8-moz550_3.mid,"10,1 6,9,,,
+"Classicism_Classicism_Mozart_Symphony35-41-8-moz550_3.mid",10,1 2 3,4 9,,,
+"Romanticism_Romanticism_Chopin_Prelude_Op28_No24_in_Dm_The_Storm_3.mid,"2,,,1,2,
+"Romanticism_Romanticism_Chopin_Prelude_Op28_No24_in_Dm_The_Storm_3.mid",2,,,1,2,
+"Romanticism_Romanticism_Beethoven_beet54s.mid,"16,1 12,10 16,,,
+"Romanticism_Romanticism_Beethoven_beet54s.mid",16,,,,,,
+"Romanticism_Romanticism_Chopin_Piano_Sonata_No3_in_Bm_Op.58_mov4.Finale_Presto_non_tanto.mid,"2,,,1,2,
+"Romanticism_Romanticism_Chopin_Piano_Sonata_No3_in_Bm_Op.58_mov4.Finale_Presto_non_tanto.mid",2,,,,,,
+"Baroque_Baroque-Late_Bach_Toccata_e_fuga.mid,"5,,,1,2,
+"Baroque_Baroque-Late_Bach_Toccata_e_fuga.mid",5,,,1,2,
+"Renaissance_Renaissance-Late_Lassus_wohl_kommt_der_mai.mid,"10,2,5,,,
+"Renaissance_Renaissance-Late_Lassus_wohl_kommt_der_mai.mid",10,2,5,,,
+"Renaissance_Renaissance-Late_Victoria_Hic_Vir_Despiciens_Mundum-s.mid,"4,1,4,,,
+"Renaissance_Renaissance-Late_Victoria_Hic_Vir_Despiciens_Mundum-s.mid",4,1,4,,,
+"Baroque_Baroque-Late_Bach_348baw101f.mid,"6,3 4 5 6,,,,
+"Baroque_Baroque-Late_Bach_348baw101f.mid",6,3 4 5,6,,,
+"XXCentury_XX-Nationalism_Elgar_cello_conc_op85_mov4.mid,"18,11,16,,,
+"XXCentury_XX-Nationalism_Elgar_cello_conc_op85_mov4.mid",18,11,16,,,
+
+
+
+
+
+"Baroque_Baroque-Late_Bach_348baw101f.mid",6,3 4 5 6,,,,
+"Baroque_Baroque-Late_Bach_348baw101f.mid",6,3 4 5,6,,,
+"Classicism_Classicism_Mozart_Symphony35-41-8-moz550_3.mid",10,1 2 3,4 9,,,
+"Classicism_Classicism_Mozart_Symphony35-41-8-moz550_3.mid",10,1 6,9,,,
+"Romanticism_Romanticism_Mendelssohn_Eli28.mid",4,1,,,,
+"Romanticism_Romanticism_Mendelssohn_Eli28.mid",4,1,3,,,
+"XXCentury_Impressionism_Debussy_debussy-lafille.mid",3,1,,,,
+"XXCentury_Impressionism_Debussy_debussy-lafille.mid",3,1,,,,3
+

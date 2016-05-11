@@ -1,0 +1,4112 @@
+1008czerny13reg.mid
+@track 1 Staff
+@track 2 Staff-1
+
+1009czerny14reg.mid
+@track 1 Staff
+@track 2 Staff-1
+
+1052czerny34.mid
+@track 1 right hand
+@track 2 Right hand2
+@track 3 Left hand
+@track 4 lefthand2
+
+1095czerny16reg.mid
+@track 1 Staff
+@track 2 Staff-1
+
+1096czerny15reg.mid
+@track 1 Staff
+@track 2 Staff-1
+
+1173nuitdete.mid
+@track 1 RH --BBOK
+@track 2 LH
+@track 3 pedal
+
+1174saltarel.mid
+@track 1 Right Hand 1--BBOK
+@track 2 Left Hand 1
+
+1215czerny18reg.mid
+@track 1 Staff
+@track 2 Staff-1
+
+1216czerny19reg.mid
+@track 1 Staff
+@track 2 Staff-1
+
+1364brawaltz10.mid
+@track 1 Piano--BBOK
+@track 2 Piano
+
+1365brawaltz15.mid
+@track 1 Piano--BBOK
+@track 2 Piano
+
+1406humming.mid
+@track 1 
+@track 2 Humming chorus from Madama Butterfly(G.PUCCINI)
+@track 3 Humming chorus from Madama Butterfly(G.PUCCINI)_1
+@track 4 seq by Chiaki IKENOUE
+@track 5          ike_chan@d1.dion.ne.jp
+@track 6 Track 4C0
+@track 7 Track 5C0
+@track 8 Track 6C0
+@track 9 Track 7C0
+@track 10 Track 8C0
+@track 11 Track 9C0
+@track 12 Track 10C0
+@track 13 Track 11C0
+@track 14 Track 12C0
+
+1407manina.mid
+@track 1 
+@track 2 Flutes
+@track 3 Oboes
+@track 4 Cor  Anglais
+@track 5 Clarinets in Bb
+@track 6 Bassoons
+@track 7 Horns in F
+@track 8 Trombones
+@track 9 Timpani
+@track 10 Harp
+@track 11 RODOLFO
+@track 12 1st Violins
+@track 13 2nd Violins
+@track 14 Violas
+@track 15 Cellos
+
+1408nessun.mid
+@track 1 
+@track 2 Track 1C0
+@track 3 Voices
+@track 4 Flutes
+@track 5 Oboes
+@track 6 Clarinets
+@track 7 Bassoons
+@track 8 Horns
+@track 9 Trumpets
+@track 10 Trombones
+@track 11 Timpani
+@track 12 Tubular Bells
+@track 13 Celesta
+@track 14 Harp
+@track 15 Violins
+@track 16 Violas
+@track 17 Violincellos
+
+1409qmenvo.mid
+@track 1 Flutes
+@track 2 Oboes
+@track 3 Cor Anglais
+@track 4 Clarinets in A
+@track 5 Bass Clarinets
+@track 6 Bassoons
+@track 7 Horns in F
+@track 8 Harp
+@track 9 Mussetta
+@track 10 1st Violins
+@track 11 2nd Violins
+@track 12 Violas
+@track 13 Cellos
+@track 14 Basses
+@track 15 Marcello / Mimi
+@track 16 Alcindoro
+@track 17 Sequenced by
+@track 18 Bill King 1997
+@track 19 wk@mecheng.strath.ac.uk
+
+1410tinyhand.mid
+@track 1 Flutes
+@track 2 Oboes
+@track 3 Cor  Anglais
+@track 4 Clarinets in Bb
+@track 5 Bassoons
+@track 6 Horns in F
+@track 7 Trombones
+@track 8 Timpani
+@track 9 Harp
+@track 10 RODOLFO
+@track 11 Solo Violins
+@track 12 1st Violins
+@track 13 2nd Violins
+@track 14 Violas
+@track 15 Cellos
+@track 16 Sequenced by
+@track 17 Bill King 1997
+@track 18 wk@mecheng.strath.ac.uk
+
+1411turan1.mid
+@track 1 Piano
+@track 2 Mandarino
+@track 3 Calaf
+@track 4 Timur
+@track 5 Liu'
+@track 6 Ping
+@track 7 Pong
+@track 8 Pang
+@track 9 coro m
+@track 10 sax int
+@track 11 xyl
+@track 12 gong
+@track 13 coro d
+@track 14 coro u
+
+1412turan2.mid
+@track 1 Piano
+@track 2 Mandarino
+@track 3 Calaf
+@track 4 Timur
+@track 5 Liu'
+@track 6 Ping
+@track 7 Pong
+@track 8 Pang
+@track 9 coro m
+@track 10 sax int
+@track 11 xyl
+@track 12 gong
+@track 13 coro d
+@track 14 coro u
+
+1429gpsenza.mid
+@track 1 Senza Mamma
+@track 2 from the opera
+@track 3 Sister Angelica
+@track 4 by G. Puccini
+@track 5 
+@track 6 arr : G. Pollen (2000)
+@track 7 
+@track 8 
+@track 9 
+@track 10 
+@track 11 
+@track 12 
+@track 13 
+
+14arenskiy.mid
+@track 1 fairy tale by A.Arenskiy
+@track 2 Piano1 --BBOK
+@track 3 Piano2              
+
+155.mid
+@track 1 PIANO
+@track 2 MARCELLO
+@track 3 RODOLFO
+@track 4 COLLINE
+@track 5 SCHAUNARD
+@track 6 BENOIT
+@track 7 MIMI'
+@track 8 sysex
+@track 9 M.Salvi
+@track 10 Mtrack
+@track 11 on
+@track 12 +039(010)
+@track 13 2722510
+@track 14 Genoa
+@track 15 this 2par
+@track 16 of 1¡act
+
+1727clementi.mid
+@track 1 Harpsichord High
+@track 2 Harpsichord Low
+
+172.mid
+@track 1 Pasaje MIDI--BBOK
+@track 2 Pasaje MIDI
+
+1730gradu9.mid
+@track 1 R.H.
+@track 2 L.H.
+@track 3 Gradus ad Parnassum No.9
+@track 4 by Clementi, M
+@track 5 Sequence by
+@track 6 Gabriele Giulimondi
+@track 7 July, 1996
+@track 8 giulim@mclink.it
+
+1731fantasia2.mid
+@track 1 tr viol 1 BBOK
+@track 2 tr viol 2 BBOK
+@track 3 Tenor vil 1
+@track 4 tenor viol 2
+@track 5 bass viol 1
+@track 6 bass viol 1
+@track 7 bass 2/contra
+@track 8 lute
+
+1736no67woodssowild.mid
+@track 1 Instrument 1 BBOK
+@track 2 Instrument2
+
+1830sonatin36reg.mid
+@track 1 Staff
+@track 2 Staff-1
+
+1875palestrina.mid
+@track 1 Esercizio Sopra La Scala
+@track 2 Trumpet 1
+@track 3 Trumpet 2 BBOK
+@track 4 Trumpet 3
+@track 5 Trumpet 4
+
+1886sonatin36n3reg.mid
+@track 1 C\right Reg Ritchie 2000
+@track 2 Reg Ritchie 2000
+
+1912belli1.mid
+@track 1 untitled
+@track 2 Great Organ--BBOK
+@track 3 Swell Organ
+@track 4 Pedal
+
+1913absent.mid
+@track 1 L'Absent, mŽlodie--BBOK
+@track 2 Giunti BELLINI
+@track 3 goninet@neuronnexion.fr
+
+1914norma_ov.mid
+@track 1 primo RH--BBOK
+@track 2 primo LH--BBOK
+@track 3 secondo RH
+@track 4 secondo LH
+
+1915normamarchreg.mid
+@track 1 March from Norma
+@track 2 Reginald Steven Ritchie--BBOK
+@track 3 Copyright 2000 Reg
+
+2070lachassereg.mid
+@track 1 Copyright 2001 Reg
+@track 2 Reginald Steven Ritchie
+
+2150boh2no1.mid
+@track 1 piano
+@track 2 Marcello
+@track 3 Rodolfo
+@track 4 Colline
+@track 5 Schaunard
+@track 6 Mimi
+@track 7 Parpignol
+@track 8 Musetta
+@track 9 Alcindoro
+@track 10 coro d
+@track 11 coro u
+@track 12 coro m
+@track 13 tamb
+@track 14 sysex GM
+@track 15 Maurizio 
+@track 16 Salvi
+@track 17 c.soDogal
+@track 18 9/1Genoa
+@track 19 16136
+@track 20 +39-10
+@track 21 2722510
+@track 22 masalv@
+@track 23 mbox.
+@track 24 vol.it
+@track 25 Rodolfo=
+@track 26 Mimi=
+@track 27 Marcello=
+@track 28 Schaunard
+@track 29 Colline=
+@track 30 Musetta=
+@track 31 Parpignol
+@track 32 Alcindoro
+
+2279laconsolreg.mid
+@track 1 Copyright 2001 Reg
+@track 2 Reginald Steven Ritchie
+
+2336cr29g.mid
+@track 1 Cramer's Studies
+@track 2 [...]
+@track 3 By A. G. Simonetto
+@track 4 alessandrosimonetto@hotmail.com
+@track 5 All rights reserved!
+@track 6 
+@track 7 
+@track 8 
+@track 9 
+@track 10 
+@track 11 
+@track 12 
+
+2425rosacruz1.mid
+@track 1 Sequence 1 BBOK
+@track 2 Sequence 2 BBOK
+@track 3 Sequence 3 BBOK
+@track 4 Sequence 4 BBOK
+@track 5 Sequence
+
+254BOH1.mid
+@track 1 PIANO
+@track 2 MARCELLO BBOK
+@track 3 RODOLFO BBOK
+@track 4 COLLINE BBOK
+@track 5 SCHAUNARD
+@track 6 BENOIT BBOK
+@track 7 MIMI'
+@track 8 sysex
+@track 9 M.Salvi
+@track 10 csoDogali
+@track 11 9/1 16136
+@track 12 Genova
+@track 13 +39(010)
+@track 14 2722510
+@track 15 Mtrack
+@track 16 on
+@track 17 Mar=fg
+@track 18 Rod=cl
+@track 19 Coll=crn
+@track 20 SCH=trbn BBOK
+@track 21 Ben=Tb BBOK
+@track 22 Mimi=ob BBOK
+
+254BOH1_tr2.mid
+@track 1 
+@track 2 MARCELLO BBOK
+
+262car_ante.mid
+@track 1 Pasaje MIDI--BBOK
+@track 2 Pasaje MIDI
+
+33apasnato.mid
+@track 1 cello-BBOK
+@track 2 piano
+@track 3 piano
+
+421hungdan5.mid
+@track 1 Piano RightHand--BBOK
+@track 2 Piano Left Hand
+@track 3 Clarinet--BBOK
+@track 4 "Hungarian     
+@track 5   Dance No.5"  
+@track 6  by J. Brahms  
+@track 7 ---------------
+@track 8 MIDI'ized by:  
+@track 9   Doug Fetter  
+@track 10  Nov. 27, 1989 
+@track 11 ***************
+
+548agnus.mid
+@track 1 Cantus BBOK
+@track 2 Altus
+@track 3 Tenor
+@track 4 Bassus
+
+580elucev.mid
+@track 1 Cavaradossi BBOK
+@track 2 Cavaradossi BBOK
+@track 3 Orquestra
+@track 4 Clarineta BBOK
+@track 5 Cordas
+@track 6 "E Lucevan le Stelle"
+@track 7 da opera "Tosca"
+@track 8 de Puccini
+@track 9 Sequenciado por
+@track 10 Paulo Norberg BBOK
+@track 11 norberg@rio.com.br BBOK
+
+582zimarra.mid
+@track 1 English lyrics
+@track 2 Italian Lyrics
+@track 3 Colline BBOK
+@track 4 Piano
+@track 5 Music by G. Puccini
+@track 6 Arr.©1997 by
+@track 7 Marco Milano
+@track 8 Lyrics entered by V.Palleschi
+@track 9 with EasyKar95
+
+67.mid
+@track 1 F.F.Chopin  Nocturne No.18 in E
+@track 2 RIGHT HAND--BBOK
+@track 3 LEFT HAND
+@track 4 PEDAL
+
+727hmmtop95.mid
+@track 1 
+@track 2 
+@track 3 
+@track 4 
+@track 5 
+@track 6 
+@track 7 
+@track 8 
+@track 9 
+@track 10 
+@track 11 
+@track 12 
+@track 13 
+@track 14 
+@track 15 
+@track 16 
+
+760fiveroma.mid
+@track 1 Guitar I--BBOK
+@track 2 Guitar II
+
+813czerny1reg.mid
+@track 1 Action of Fingers Opus.740 Book 1, composed by Carl Czerny
+@track 2 Sequenced by Reginald Steven Ritchie copyright July 1999
+@track 3 email earthlink@iname.com
+@track 4 www.ndirect.co.uk/~regr/page7.htm  (Classical Site)
+
+831czerny2eg.mid
+@track 1 Passing under the thumb composed by Karl Czerny
+@track 2 Sequenced by Reginald Steven Ritchie copyright July 1999
+@track 3 email deathstar@writeme.com
+@track 4 www.ndirect.co.uk/~regr/page7.htm  (Classical site)
+
+843guitar.mid
+@track 1 843guitar
+@track 2 Siciliana by Carulli--BBOK
+@track 3 Siciliana by Carulli-2
+@track 4 R.Fennimore--BBOK
+@track 5 R.Fennimore-2
+@track 6 Tempo Track
+
+863czerny6reg.mid
+@track 1 Staff
+@track 2 Staff-1
+
+870czerny7reg.mid
+@track 1 Staff
+@track 2 Staff-1
+
+889czerny8reg.mid
+@track 1 Staff
+@track 2 Staff-1
+
+952czerny9reg.mid
+@track 1 Staff
+@track 2 Staff-1
+
+982czerny11reg.mid
+@track 1 Staff
+@track 2 Staff-1
+
+983czerny12reg.mid
+@track 1 Staff
+@track 2 Staff-1
+
+A_bach1.mid
+@track 1 Piano   (BB)
+@track 2 Melody  (BB)--BBOK
+
+ADAGOP26.mid
+@track 1 2.ADAGIO in Gm
+@track 2 by MAX BRUCH BBOK BBOK
+
+adieu_corage_adieu.mid
+@track 1 alto BBOK BBOK
+@track 2 tenor BBOK
+@track 3 bass
+@track 4 38. Adieu, corage, adieu
+@track 5 William Cornysh
+@track 6 © 1996 by Curtis Clark. Free fo
+@track 7 http://www.csupomona.edu/~jccla
+@track 8 jcclark@csupomona.edu
+
+Air_On_The_G_String.mid
+@track 1 Melody--BBOK
+@track 2 Accompaniment
+@track 3 Accompaniment
+@track 4 Pizzicato Bass
+
+ALKANCHM.mid
+@track 1 Pasaje MIDI
+@track 2 RH--BBOK
+@track 3 LH
+
+ALKN61N3.mid
+@track 1 M: D:--BBOK
+@track 2 M: S:
+@track 3 Pedals
+
+ALKN61N4.mid
+@track 1 M: D:--BBOK
+@track 2 M: S:
+@track 3 Ped:
+
+allemande_otra.mid
+@track 1 Recorder BBOK
+@track 2 Recorder-2
+@track 3 Recorder-3
+@track 4 Serpent
+@track 5 Tielman Susato
+@track 6 Allemande
+@track 7 http://www.csupomona.edu/~jccla
+@track 8 jcclark@csupomona.edu
+@track 9 © 1999 by Curtis Clark. Free fo
+
+A_mozrt3.mid
+@track 1 Piano   (BB)
+@track 2 Melody  (BB)--BBOK
+
+Arcadelt_SapetAmanti.mid
+@track 1 Sapet'amanti
+@track 2 s BBOK
+@track 3 a
+@track 4 t
+@track 5 b
+
+arias_004_mozartk1.mid
+@track 1 BBOK
+@track 2 Pista 2
+@track 3 Pista 3
+@track 4 Oboe and Piano   <composer>  
+
+arias_011_doppel.mid
+@track 1 BBOK
+@track 2 Pista 2
+@track 3 Pista 3
+@track 4 Pista 4
+
+arias_1_voiavete.mid
+@track 1 Oboe
+@track 2 Horns in G
+@track 3 Violin I
+@track 4 Violin II
+@track 5 Viola
+@track 6 BBOK
+@track 7 Bass
+
+arias_kv125.mid
+@track 1 BBOK
+@track 2 Pianoforte
+@track 3 Pianoforte
+@track 4 Pianoforte
+
+arias_kv152.mid
+@track 1 BBOK
+@track 2 Pianoforte
+@track 3 Pianoforte
+@track 4 Pianoforte
+
+arias_kv308.mid
+@track 1 BBOK
+@track 2 Pista 2
+@track 3 Pista 3
+
+arias_kv340a.mid
+@track 1 BBOK
+@track 2 Pianoforte
+@track 3 Pianoforte
+@track 4 Pianoforte
+@track 5 Pianoforte
+
+arias_kv349.mid
+@track 1 BBOK
+@track 2 Pianoforte
+@track 3 Pianoforte
+
+arias_kv367.mid
+@track 1 BBOK
+@track 2 Pianoforte
+@track 3 Pianoforte
+@track 4 Pianoforte
+
+arias_kv390.mid
+@track 1 BBOK
+@track 2 Pianoforte
+@track 3 Pianoforte
+@track 4 Pianoforte
+@track 5 Pianoforte
+
+arias_kv391.mid
+@track 1 BBOK
+@track 2 Pianoforte
+@track 3 Pianoforte
+
+arias_kv433.mid
+@track 1 BBOK
+@track 2 Pianoforte
+@track 3 Pianoforte
+
+arias_kv468.mid
+@track 1 BBOK
+@track 2 Pianoforte (or Organ) 
+@track 3 Pianoforte (or Organ) 
+@track 4 Pianoforte (or Organ) 
+@track 5 Pianoforte (or Organ) 
+
+arias_kv472.mid
+@track 1 BBOK
+@track 2 Pianoforte
+@track 3 Pianoforte
+@track 4 Pianoforte
+
+arias_kv473.mid
+@track 1 BBOK
+@track 2 Pianoforte
+@track 3 Pianoforte
+@track 4 Pianoforte
+@track 5 Pianoforte
+
+arias_kv476.mid
+@track 1 BBOK
+@track 2 Pianoforte
+@track 3 Pianoforte
+@track 4 Pianoforte
+@track 5 Pianoforte
+
+arias_kv517.mid
+@track 1 BBOK
+@track 2 Pianoforte
+@track 3 Pianoforte
+@track 4 Pianoforte
+
+arias_kv518.mid
+@track 1 BBOK
+@track 2 Pianoforte
+@track 3 Pianoforte
+@track 4 Pianoforte
+@track 5 Pianoforte
+
+arias_kv519.mid
+@track 1 BBOK
+@track 2 Pianoforte
+@track 3 Pianoforte
+@track 4 Pianoforte
+@track 5 Pianoforte
+
+arias_kv520.mid
+@track 1 BBOK
+@track 2 Pianoforte
+@track 3 Pianoforte
+@track 4 Pianoforte
+
+arias_kv523.mid
+@track 1 BBOK
+@track 2 Pianoforte
+@track 3 Pista 3
+
+arias_kv524.mid
+@track 1 BBOK
+@track 2 Pianoforte
+@track 3 Pianoforte
+
+arias_kv530.mid
+@track 1 BBOK
+@track 2 Pianoforte
+@track 3 Pianoforte
+@track 4 Pianoforte
+@track 5 Pianoforte
+
+arias_kv531.mid
+@track 1 BBOK
+@track 2 Pianoforte
+@track 3 Pianoforte
+@track 4 Pianoforte
+
+arias_kv552.mid
+@track 1 BBOK
+@track 2 Pianoforte
+@track 3 Pianoforte
+@track 4 Pianoforte
+
+arias_kv596.mid
+@track 1 BBOK
+@track 2 Pianoforte
+@track 3 Pianoforte
+
+arias_kv597.mid
+@track 1 BBOK
+@track 2 Pianoforte
+@track 3 Pianoforte
+@track 4 Pianoforte
+@track 5 Pianoforte
+
+arias_kv598.mid
+@track 1 BBOK
+@track 2 Pianoforte
+@track 3 Pianoforte
+
+Artists_Life_Waltz_Stra.MID
+@track 1 Bass ( BB ) 
+@track 2 Piano ( BB )
+@track 3 Guitar ( BB ) 
+@track 4 Strings ( BB ) 
+@track 5 Melody ( BB )--BBOK
+
+Ascendens_Christus_In_Altum_2_Gloria_1s.mid
+@track 1 1s BBOK
+@track 2 2s
+@track 3 c
+@track 4 t
+@track 5 b
+
+Ascendens_Christus_In_Altum_6_Agnus_Dei_1s.mid
+@track 1 1s BBOK
+@track 2 2s
+@track 3 c
+@track 4 1t
+@track 5 2t
+@track 6 b
+
+Asperges_Me_b.mid
+@track 1 s
+@track 2 c
+@track 3 t
+@track 4 b BBOK
+
+Ave_Maria_a_8_1b.mid
+@track 1 1s BBOK
+@track 2 1c
+@track 3 1t
+@track 4 1b
+@track 5 2s BBOK
+@track 6 2c
+@track 7 2t
+@track 8 2b
+
+ave_maria_arcadelt.mid
+@track 1 Instrument 1 BBOK
+@track 2 Instrument2
+@track 3 Instrument3
+@track 4 Instrument4
+@track 5 Instrument5
+@track 6 Instrument6
+
+Ave_Maria.mid
+@track 1 Ave Maria
+@track 2 Myriad Karaoke
+@track 3 Words
+@track 4 Voix--BBOK
+@track 5 Violons
+@track 6 Péd.Orgue
+@track 7 Cordes
+
+Ave_Maria_Palestrina.mid
+@track 1 Ave Maria BBOK
+@track 2 Words
+@track 3 
+@track 4 
+@track 5 
+
+AveMariaVictoria.mid
+@track 1 s BBOK
+@track 2 a
+@track 3 t
+@track 4 b
+
+Ave_Regina_1_Kyrie_1b.mid
+@track 1 1s BBOK
+@track 2 1c
+@track 3 1t BBOK
+@track 4 1b
+@track 5 2s
+@track 6 2c
+@track 7 2t BBOK
+@track 8 2b
+
+Ave_Regina_Caelorum_a_5_1c.mid
+@track 1 s
+@track 2 1c BBOK
+@track 3 2c
+@track 4 t
+@track 5 b
+
+bach02.mid
+@track 1 Bass    (BB)
+@track 2 Piano   (BB)
+@track 3 Strings (BB)
+@track 4 Melody  (BB)--BBOK
+
+bach03.mid
+@track 1 Bass    (BB)
+@track 2 Piano   (BB)
+@track 3 Strings (BB)
+@track 4 Melody  (BB)--BBOK
+
+bach05.mid
+@track 1 Bass    (BB)
+@track 2 Piano   (BB)
+@track 3 Guitar  (BB)
+@track 4 Strings (BB)
+@track 5 Melody  (BB)--BBOK
+
+bach07.mid
+@track 1 Piano   (BB)
+@track 2 Guitar  (BB)
+@track 3 Strings (BB)
+@track 4 Melody  (BB)--BBOK
+
+baile_hungaro_1_joha#29F64A.mid
+@track 1 Piano RightHand--BBOK
+@track 2 Piano Left Hand
+@track 3 Pedal
+@track 4 ***************
+@track 5 "Hungarian     
+@track 6   Dance No.1"  
+@track 7  by J. Brahms  
+@track 8 ---------------
+@track 9 MIDI'ized by:  
+@track 10   Doug Fetter  
+@track 11  Nov. 26, 1989 
+@track 12 ***************
+
+baile_hungaro_3_joha#29F64C.mid
+@track 1 Upper G.S.--BBOK
+@track 2 Lowe G.S.
+
+baile_hungaro_6_joha#29F64E.mid
+@track 1 Piano RightHand--BBOK
+@track 2 Piano Left Hand
+@track 3 Pedal
+@track 4 ***************
+@track 5 "Hungarian     
+@track 6   Dance No.6"  
+@track 7  by J. Brahms  
+@track 8 ---------------
+@track 9 MIDI'ized by:  
+@track 10   Doug Fetter  
+@track 11  Nov. 27, 1989 
+@track 12 ***************
+
+baile_hungaro_7_joha#29F64F.mid
+@track 1 Brahms Hungarian Dance No.7
+@track 2 Upper G.S.--BBOK
+@track 3 Lower G.S.
+
+bdanube.mid
+@track 1 melody--BBOK
+@track 2 acc.
+
+Beethoven_Symphony_#5.MID
+@track 1 Piano ( BB )
+@track 2 Guitar ( BB ) 
+@track 3 Strings ( BB ) 
+@track 4 Melody ( BB )--BBOK
+
+bellini_la_farfalletta.mid
+@track 1 Pasaje MIDI--BBOK
+@track 2 Pasaje MIDI
+
+bepeace_ye_make_me_spill_my_ale.mid
+@track 1 Be peace! Ye make me spill my ale!
+@track 2 alto BBOK
+@track 3 tenor 1
+@track 4 tenor 2
+@track 5 Be peace! Ye make me spill my ale!
+@track 6 Anon., Ritson ms.
+@track 7 © 1997 by Curtis Clark. Free for personal use
+@track 8 jcclark@csupomona.edu
+@track 9 http://www.csupomona.edu/~jcclark/emusic/
+
+Berlioz_Hector_Absence.mid
+@track 1 Absence (no. 4)
+@track 2 Soft Karaoke
+@track 3 Words
+@track 4 English (open lyrics window)
+@track 5 French (open lyrics)--BBOK
+@track 6 Vocal line (open staff)--BBOK
+@track 7 Piano (treble)
+@track 8 Piano (bass)
+@track 9 Piano (bass)
+@track 10 Piano (treble)
+
+Berlioz_Hector_AuCimeti.mid
+@track 1 Au Cimetière (no. 5)
+@track 2 Soft Karaoke
+@track 3 Words
+@track 4 English (open lyrics window)
+@track 5 French (open lyrics)--BBOK
+@track 6 Vocal line (open staff)--BBOK
+@track 7 Piano (treble)
+@track 8 Piano (bass)
+@track 9 Piano (bass)
+@track 10 Piano (treble)
+
+Berlioz_Hector_LesNuits.mid
+@track 1 L'Ile Inconnue (no. 6)
+@track 2 Soft Karaoke
+@track 3 Words
+@track 4 English (open lyrics window)
+@track 5 French (open lyrics)--BBOK
+@track 6 Vocal line (open staff)--BBOK
+@track 7 Piano (treble)
+@track 8 Piano (bass)
+@track 9 Piano (bass)
+@track 10 Piano (treble)
+@track 11 Piano (treble)
+
+Berlioz_Hector_LeSpectre.mid
+@track 1 Le Spectre de la Rose (no. 2)
+@track 2 Soft Karaoke
+@track 3 Words
+@track 4 English (open lyrics window)
+@track 5 French (open lyrics)--BBOK
+@track 6 Vocal line (open staff)--BBOK
+@track 7 Piano (treble)--BBOK
+@track 8 Piano (bass)
+@track 9 Piano (bass)
+@track 10 Piano (treble)
+
+Berlioz_Hector_SurLes.mid
+@track 1 Sur Les Lagunes-(no 3)
+@track 2 Soft Karaoke
+@track 3 Words
+@track 4 English
+@track 5 French--BBOK
+@track 6 Vocal Staff--BBOK
+@track 7 Treble
+@track 8 Bass
+@track 9  Bass
+@track 10 Treble
+
+Berlioz_Hector_Villanelle.mid
+@track 1 Villanelle (no. 1)
+@track 2 Soft Karaoke
+@track 3 Words
+@track 4 English (open lyrics window)
+@track 5 French (open lyrics)--BBOK
+@track 6 Vocal line (open staff)--BBOK
+@track 7 Piano (treble)
+@track 8 Piano (bass)
+@track 9 Piano (treble)
+@track 10 Piano (bass)
+
+Binchois11.mid
+@track 1 Staff BBOK
+@track 2 Staff-1
+@track 3 Staff-2
+
+Binchois12.mid
+@track 1 Staff BBOK
+@track 2 Staff-1
+@track 3 Staff-2
+
+Binchois14.mid
+@track 1 Staff BBOK
+@track 2 Staff-1
+@track 3 Staff-2
+
+Binchois5.mid
+@track 1 Staff BBOK
+@track 2 Staff-1
+@track 3 Staff-2
+@track 4 Staff-3
+@track 5 Tempo Track
+
+Binchois6.mid
+@track 1 Staff-3
+@track 2 Staff-4 BBOK
+@track 3 Staff-1
+@track 4 Staff-2
+
+Bizet_Habanera.kar
+@track 1 Soft Karaoke
+@track 2 Words
+@track 3 Melody--BBOK
+@track 4 Drum
+@track 5 Bass
+@track 6 Keyboard
+@track 7 Guitar 
+@track 8 String
+@track 9 Harp                
+@track 10 Bell                
+
+bjwaltze.mid
+@track 1 Johannes Brahms, waltz in E maj
+@track 2 Right hand--BBOK
+@track 3 Left hand
+
+blow_thy_horne_hunter.mid
+@track 1 Blow thy horne hunter
+@track 2 alto BBOK
+@track 3 tenor
+@track 4 bass
+@track 5 Blow thy horne hunter
+@track 6 William Cornysh
+@track 7 © 1996 by Curtis Clark. Free for personal use
+@track 8 jcclark@csupomona.edu
+@track 9 http://www.csupomona.edu/~jcclark/emusic/
+
+boh2_2.mid
+@track 1 piano
+@track 2 Marcello
+@track 3 Rodolfo
+@track 4 Colline
+@track 5 Schaunard
+@track 6 Mimi
+@track 7 Musetta
+@track 8 Alcindoro
+@track 9 coro d
+@track 10 coro u
+@track 11 coro m
+@track 12 tamb
+@track 13 Maurizio
+@track 14 Salvi
+@track 15 cso.Dogali
+@track 16 9/1 16136
+@track 17 Genoa
+@track 18 masalv@
+@track 19 mbox.
+@track 20 vol.it
+@track 21 sysexGM
+
+BR_120A1.mid
+@track 1 Sonata in f, Op.120--BBOK
+@track 2 for Clarinet and Piano by Johan
+@track 3 MIDI by Marty Weimer  1/5/98
+
+BR_120A2.mid
+@track 1 Sonata in f, Op.120--BBOK
+@track 2 for Clarinet and Piano by Johan
+@track 3 MIDI by Marty Weimer 1/5/98
+
+BR_120A3.mid
+@track 1 Sonata in f, Op.120--BBOK
+@track 2 for Clarinet and Piano by Johan
+@track 3 MIDI by Marty Weimer 1/8/98
+
+BR_120A4.mid
+@track 1 Sonata in f, Op.120--BBOK
+@track 2 for Clarinet and Piano by Johan
+@track 3 MIDI by Marty Weimer 1/5/98
+
+BR_120B1.mid
+@track 1 Sonata in E Flat--BBOK
+@track 2 by Johannes Brahms Op.120 No.2
+@track 3 1st movement - allegro amabile
+
+BR_120B2.mid
+@track 1 Sonata--BBOK
+@track 2 in E flat, Op.120 No.2  by J. B
+@track 3 2nd mvmt.  Allegro appassionato
+
+BR_120B3.mid
+@track 1 Sonata in E Flat--BBOK
+@track 2 Op.120, No.2 by Johannes Brahms
+@track 3 MIDI by Marty Weimer 4/3/97
+
+brahms03.mid
+@track 1 Bass    (BB)
+@track 2 Piano   (BB)
+@track 3 Guitar  (BB)
+@track 4 Strings (BB)
+@track 5 Melody  (BB)--BBOK
+
+brahms04.mid
+@track 1 Bass    (BB)
+@track 2 Piano   (BB)
+@track 3 Guitar  (BB)
+@track 4 Strings (BB)
+@track 5 Melody  (BB)--BBOK
+
+brahms06.mid
+@track 1 Bass    (BB)
+@track 2 Piano   (BB)
+@track 3 Guitar  (BB)
+@track 4 Strings (BB)
+@track 5 Melody  (BB)--BBOK
+
+brahms09.mid
+@track 1 Bass    (BB)
+@track 2 Piano   (BB)
+@track 3 Guitar  (BB)
+@track 4 Strings (BB)
+@track 5 Melody  (BB)--BBOK
+
+brahms105_1.mid
+@track 1 German--BBOK
+@track 2 Voice--BBOK
+@track 3 Piano (treble)
+@track 4 Piano (bass)
+
+BRAHMS_M.mid
+@track 1 Johannes Brahms:
+@track 2   Piano Primo  {1}--BBOK
+@track 3   Piano Secondo  {1}
+@track 4   Wow!
+
+brahms_waltz_15_1.mid
+@track 1 Piano RH--BBOK
+@track 2 Piano LH
+
+branle_lofficiale.mid
+@track 1 Branle l’Officiale
+@track 2 alto BBOK
+@track 3 tenor
+@track 4 bass
+@track 5 Branle l'Official
+@track 6 Thoinot Arbeau/arr. Jim Stehn & C. Clark
+@track 7 http://www.csupomona.edu/~jcclark/emusic/
+@track 8 © 1999 by C. Clark & J. Stehn. Free for personal 
+@track 9 jcclark@csupomona.edu
+
+bransle_gay_II.mid
+@track 1 Bransle Gay II
+@track 2 s BBOK
+@track 3 a
+@track 4 t
+@track 5 b
+@track 6 Bransle Gay II
+@track 7 Claude Gervaise
+@track 8 © 1996 by Curtis Clark. Free for personal use
+@track 9 jcclark@csupomona.edu
+@track 10 http://www.csupomona.edu/~jcclark/emusic/
+
+bransle_gay_I.mid
+@track 1 Bransle Gay I
+@track 2 1 BBOK
+@track 3 2
+@track 4 3
+@track 5 bass
+@track 6 Claude Gervaise
+@track 7 Bransle Gay I
+@track 8 © 1996 by Curtis Clark. Free for personal use
+@track 9 jcclark@csupomona.edu
+@track 10 http://www.csupomona.edu/~jcclark/emusic/
+
+bransle_gay_VI.mid
+@track 1 Bransle Gay VI
+@track 2 s BBOK
+@track 3 a
+@track 4 t
+@track 5 b
+@track 6 Claude Gervaise
+@track 7 Bransle Gay VI
+@track 8 © 1996 by Curtis Clark. Free for personal use
+@track 9 jcclark@csupomona.edu
+@track 10 http://www.csupomona.edu/~jcclark/emusic/
+
+br_hung5.mid
+@track 1 WinJammer Demo--BBOK
+@track 2 WinJammer Demo
+@track 3 WinJammer Demo--BBOK
+@track 4 WinJammer Demo
+@track 5 WinJammer Demo
+@track 6 WinJammer Demo
+@track 7 WinJammer Demo--BBOK
+@track 8 WinJammer Demo
+
+bruop26a.mid
+@track 1 Pasaje MIDI--BBOK BBOK
+@track 2 Pasaje MIDI
+@track 3 Pasaje MIDI
+
+bruop26b.mid
+@track 1 Pasaje MIDI--BBOK BBOK
+@track 2 Pasaje MIDI
+@track 3 Pasaje MIDI
+
+bruop46b.mid
+@track 1 BRUCH BBOK
+@track 2 Scottish
+@track 3 Fantasy
+@track 4 Op46-b
+@track 5 Midi by:
+@track 6 B.Fisher
+@track 7 
+@track 8 
+@track 9 
+@track 10  BBOK
+@track 11  BBOK
+@track 12  BBOK
+@track 13  BBOK
+@track 14  BBOK
+@track 15  BBOK
+@track 16  BBOK
+
+bruop46c.mid
+@track 1 BRUCH BBOK
+@track 2 Scottish
+@track 3 Fantasy
+@track 4 Op46-c
+@track 5 Midi by:
+@track 6 B.Fisher
+@track 7 
+@track 8 
+@track 9 
+@track 10  BBOK
+@track 11  BBOK
+@track 12  BBOK
+@track 13  BBOK
+@track 14  BBOK
+@track 15  BBOK
+@track 16  BBOK
+
+brwlz_03.mid
+@track 1 Piano--BBOK
+@track 2 Piano
+
+brwlz_09.mid
+@track 1 Piano--BBOK
+@track 2 Piano
+
+brwlz_12.mid
+@track 1 Piano--BBOK
+@track 2 Piano
+
+bthn06.mid
+@track 1 Strings (BB)
+@track 2 Melody  (BB)--BBOK
+
+bthn08.mid
+@track 1 Bass    (BB)
+@track 2 Piano   (BB)
+@track 3 Guitar  (BB)
+@track 4 Strings (BB)
+@track 5 Melody  (BB)--BBOK
+
+bthn10.mid
+@track 1 Bass    (BB)
+@track 2 Piano   (BB)
+@track 3 Guitar  (BB)
+@track 4 Strings (BB)
+@track 5 Melody  (BB)--BBOK
+
+bthn11.mid
+@track 1 Bass    (BB)
+@track 2 Piano   (BB)
+@track 3 Guitar  (BB)
+@track 4 Strings (BB)
+@track 5 Melody  (BB)--BBOK
+
+bthn17.mid
+@track 1 Bass    (BB)
+@track 2 Piano   (BB)
+@track 3 Guitar  (BB)
+@track 4 Strings (BB)
+@track 5 Melody  (BB)--BBOK
+
+bthn20.mid
+@track 1 Bass    (BB)
+@track 2 Piano   (BB)
+@track 3 Guitar  (BB)
+@track 4 Strings (BB)
+@track 5 Melody  (BB)--BBOK
+
+burgundian.mid
+@track 1 Burgundian–Champagne
+@track 2 1 BBOK
+@track 3 2
+@track 4 3
+@track 5 4
+@track 6 Burgundian/Champagne
+@track 7 Claude Gervaise
+@track 8 © 1999 by Curtis Clark. Free for personal use.
+@track 9 http://www.csupomona.edu/~jcclark/emusic/
+@track 10 jcclark@csupomona.edu
+
+burns_corn_rigs.mid
+@track 1 Words by Robert Burns
+@track 2 lyrics --BBOK
+@track 3 Vocal --BBOK
+@track 4 Treble
+@track 5 Bass
+
+burns_last_may_braw_wooer.mid
+@track 1 Air, "The Queen o' the Lothians
+@track 2 GLOSSARY (open lyrics window)
+@track 3 VOICE 2--BBOK
+@track 4 Voice--BBOK
+@track 5 Treble
+@track 6 Bass
+
+burns_ye_banks_and_braes.mid
+@track 1 Ye banks and braes
+@track 2 lyrics--BBOK
+@track 3 Voice--BBOK
+@track 4 Piano (treble)
+@track 5 Piano (bass)
+
+CANBRES.mid
+@track 1 VEU 1--BBOK
+@track 2 VEU 2
+@track 3 VEU 3
+
+cannon_d_2.mid
+@track 1 Copyright (C) 1990 by Voyetra T
+@track 2 Bass                
+@track 3 Melody--BBOK
+@track 4 Tenor --BBOK
+@track 5 Counter Melody --BBOK
+
+Capriccio_h_moll_op.76_Nr.2.mid
+@track 1 rechte Hand--BBOK
+@track 2 linke Hand
+
+CaprichoArabe.mid
+@track 1 Melody--BBOK
+@track 2 Harmony
+@track 3 7th fret Harmonic
+@track 4 12th fret Harmonic
+@track 5 Fret Noise
+@track 6 Sequenced by: C.d.R. Tchiang
+@track 7 Webmaster@Carlos.com.hk
+@track 8 http://Carlos.com.hk
+
+carulli_andante.mid
+@track 1 --BBOK
+@track 2 
+
+Cavmdfy.mid
+@track 1  English 
+@track 2  Italian
+@track 3 StrEnsmbl 2 BBOK
+@track 4 StrEnsmbl 1
+@track 5 TremloStrings
+@track 6 
+@track 7 PRELUDE to: BBOK
+@track 8 Cavalleria Rusticana
+@track 9 Pietro Mascagni (1863-1945)
+@track 10 ©1997 MidiOpera Co.
+@track 11 
+@track 12 Vocal BBOK
+@track 13 French Horn
+@track 14 Percussion
+@track 15 BrassSection
+@track 16 Orchst Harp
+
+Ce_Moys_De_May_SATB_Janequin_Clement.mid
+@track 1  BBOK
+@track 2 
+@track 3 
+@track 4 
+
+chopin10.mid
+@track 1 Piano   (BB)
+@track 2 Melody  (BB)--BBOK
+
+chopin16.mid
+@track 1 Piano   (BB)
+@track 2 Melody  (BB)--BBOK
+
+chopin24.mid
+@track 1 Piano   (BB)
+@track 2 Melody  (BB)--BBOK
+
+clementi_sonatina_gradus_16.mid
+@track 1  R.H.
+@track 2  L.H.
+@track 3 Gradus ad Parnassum No.16
+@track 4 by Clementi
+@track 5 Sequence by
+@track 6 Gabriele Giulimondi
+@track 7 July, 1996
+@track 8 giulim@mclink.it
+
+clementi_sonatina_gradus_17.mid
+@track 1 
+@track 2 
+@track 3  Gradus ad Parnassum No.17
+@track 4  by Clementi, M.
+
+clementi_sonatina_gradus_1.mid
+@track 1 R.H.
+@track 2 R.H.
+@track 3 L.H.ù
+@track 4 L.H.
+@track 5 Gradus ad Parnassum No.1
+@track 6 by Clementi
+@track 7 Sequence by
+@track 8 Gabriele Giulimondi
+@track 9 August, 1996
+@track 10 giulim@mclink.it
+
+clementi_sonatina_gradus_21.mid
+@track 1 
+@track 2 
+@track 3 Gradus ad Parnassum No.21
+@track 4 by Clementi, M.
+@track 5 Sequence by
+@track 6 Gabriele Giulimondi
+@track 7 July, 1996
+@track 8 giulim@mclink.it
+
+clementi_sonatina_gradus_2.mid
+@track 1  R.H.
+@track 2  L.H.
+@track 3  Gradus ad Parnassum No.2
+@track 4  by Clementi M.
+@track 5 Sequence by
+@track 6 Gabriele Giulimondi
+@track 7 July, 1996
+@track 8 giulim@mclink.it
+
+clementi_sonatina_gradus_65.mid
+@track 1  R.H.
+@track 2  L.H.
+@track 3 Gradus ad Parnassum No.65
+@track 4 by Clementi M.
+@track 5 Sequence by
+@track 6 Gabriele Giulimondi
+@track 7 July, 1996
+@track 8 giulim@mclink.it
+
+clementi_sonatina_no4parta.mid
+@track 1 Piano RH
+@track 2 Piano LH
+
+clementi_sonatina_no5parta.mid
+@track 1 Piano RH
+@track 2 Piano LH
+
+clementi_sonatina_no6parta_3.mid
+@track 1 Piano RH
+@track 2 Piano LH
+
+come_again.mid
+@track 1 Come again: Seet love doth now invite
+@track 2 voice BBOK
+@track 3 virginal 1
+@track 4 virginal 2
+@track 5 Come again: Sweet love doth now invite
+@track 6 John Dowland
+@track 7 © 1996 by Curtis Clark. Free for personal use
+@track 8 jcclark@csupomona.edu
+@track 9 http://www.csupomona.edu/~jcclark/
+
+concierto_para_clarinete_en_Bb_Rondo_Allegro_mozart.mid
+@track 1 BBOK
+@track 2 Concerto
+@track 3 K622-c-Rondo-Allegro
+@track 4 Midi by:
+@track 5 B.Fisher
+
+Congratulamini_Mihi_1s.mid
+@track 1 1s BBOK
+@track 2 2s
+@track 3 c
+@track 4 1t
+@track 5 2t
+@track 6 b
+
+croce_o_vos_omnes.mid
+@track 1  BBOK
+@track 2 
+@track 3 
+@track 4 
+
+csonatam.mid
+@track 1 Harp1no57           
+@track 2 Piano               
+
+Cum_Beatus_Ignatius_1s.mid
+@track 1 1s BBOK
+@track 2 2s
+@track 3 c
+@track 4 t
+@track 5 b
+
+dadme_albricias_hijos_de_eva.mid
+@track 1 E la don don, Verges María
+@track 2 1 BBOK
+@track 3 2
+@track 4 3
+@track 5 4
+@track 6 Dadme albricias, híjos d'Eva
+@track 7 Anon.
+@track 8 © 1996 by Curtis Clark. Free for personal use
+@track 9 jcclark@csupomona.edu
+@track 10 http://www.csupomona.edu/~jcclark/emusic/
+
+DANHON6.mid
+@track 1 VEU 1--BBOK
+@track 2 VEU 2
+@track 3 VEU 3
+
+danube.mid
+@track 1 melody--BBOK
+@track 2 acc.
+@track 3 melody--BBOK
+@track 4 acc.
+
+De_Beata_Maria_1_Kyrie_1t.mid
+@track 1 s
+@track 2 c
+@track 3 1t BBOK
+@track 4 2t
+@track 5 b
+
+dePerusio_ballade_greygnour.mid
+@track 1 Le greygnour bien BBOK
+@track 2 Matheus de Perusio
+@track 3 seq by Gary Rich
+
+dePerusio_puisque_je_sui_pour.mid
+@track 1 Unnamed-000 BBOK
+@track 2 Unnamed-001
+@track 3 Unnamed-002
+
+Divertimento_No.17_in_D_Major.mid
+@track 0 Divertimento No.17 in D Major
+
+Dixit_Dominus_bis_bis_b.mid
+@track 1 s BBOK
+@track 2 c
+@track 3 t
+@track 4 b
+
+Don_Giovanni1.mid
+@track 1 Flutes
+@track 2 Oboes
+@track 3 Clarinets in B
+@track 4 Bassoons
+@track 5 Horns in B
+@track 6 1st Violins
+@track 7 2nd Violins
+@track 8 Violas
+@track 9 Cello/Basses
+@track 10 **Don Giovanni**
+@track 11 **Don Giovanni**
+@track 12 **Don Giovanni**
+
+Don_Giovanni_By_W.A.Mozart_Deh_Vieni_Alla_Finestra.mid
+@track 1 Soft Karaoke
+@track 2 Words
+@track 3 Engl;ish - Opern Lyrics View
+@track 4  Italian - Open Lyrics View
+@track 5 BBOK
+@track 6 Violin
+@track 7 Viola
+@track 8 Cello
+@track 9 Contrabass
+@track 10 Maindolin
+
+Don_Giovanni_By_W.A.Mozart_La_Ci_Darem_La_Mano_b.mid
+@track 1 Soft Karaoke
+@track 2 Words
+@track 3 Zerlina
+@track 4 BBOK
+@track 5 Piano
+@track 6 Music by W.A. Mozart
+@track 7 Arr.©1996 by
+@track 8 Marco Milano
+@track 9 BBOK
+
+Don_Giovanni_By_W.A.Mozart_La_Ci_Darem_La_Mano.mid
+@track 1 Soft Karaoke
+@track 2 Words
+@track 3 Zerlina--BBOK
+@track 4 Don Giovanni--BBOK
+@track 5 Piano
+@track 6 Music by W.A. Mozart
+@track 7 Arr.©1996 by
+@track 8 Marco Milano
+@track 9 Melody--BBOK
+
+dowland_farwell.mid
+@track 1 @channel 1 BBOK
+@track 2 @channel 2
+@track 3 @channel 3
+@track 4 @channel 4
+
+dowland_lachrimae.mid
+@track 1 @channel 1 BBOK
+@track 2 @channel 2
+@track 3 @channel 3
+@track 4 @channel 4
+
+dowland_my_thoughts.mid
+@track 1 Dowland My Thoughts Are Winged With Hope  BBOK
+@track 2 Sequenced by Mike Hohn
+@track 3 E-mail mikehohn@ns.computer.net
+@track 4 
+@track 5 
+@track 6 
+
+dowland_now_i_needs_must_part.mid
+@track 1 Now I Needs Must Part by Dowland BBOK
+@track 2 Arr and Seq by Mike Starke
+@track 3 mjstarke@ix.netcom.com BBOK
+@track 4 
+@track 5 
+@track 6 
+@track 7 
+@track 8 
+@track 9 
+@track 10  BBOK
+@track 11  BBOK
+@track 12  BBOK
+
+dowland_say_love_if_ever.mid
+@track 1 Say, Love, If Ever BBOK
+@track 2 Thou Didst Find
+@track 3 by John Dowland
+@track 4 Sequenced by Tony Keane
+
+DUETK487.mid
+@track 1 BBOK
+@track 2 VEU 2
+@track 3 VEU 3
+
+dufay0.mid
+@track 1 @channel 1
+@track 2 @channel 2
+@track 3 @channel 3
+@track 4 @channel 4 BBOK
+@track 5 @channel 5
+@track 6 @channel 6
+@track 7 
+@track 8 
+@track 9 
+@track 10 @channel 10
+
+Dufay_Lamentio_Sanctae_Matris_Ecclesiae.mid
+@track 1 
+@track 2 
+@track 3 
+@track 4  BBOK
+
+dunstable_sancta_maria.mid
+@track 1 Sancta Maria by John Sunstable BBOK
+@track 2 Arr by MJ Starke E-mail mjstarke@ix.netcom.com
+@track 3 ©1996mjstarke
+@track 4  BBOK
+@track 5 
+@track 6 
+
+EINE_KLI.mid
+@track 0 Eine Kleine Nachtmusik
+
+ekn6.mid
+@track 1 BBOK
+@track 2 second violins
+@track 3 violas
+@track 4 cellos
+@track 5 basses
+@track 6 (c)2000
+@track 7 www.nesys.com
+
+encina_mas_vale_trocar.mid
+@track 1 Mas vale trocar
+@track 2 Jual del Enzina (1567-1643)
+@track 3 Secuenciado por Jorge --BBOK BBOK
+@track 4 jorge.ba@teleline.es
+
+english_the_shepherds_hey.mid
+@track 1 The shepherds hey
+@track 2 1 BBOK
+@track 3 2 BBOK
+@track 4 3 BBOK
+@track 5 4 BBOK
+@track 6 drum
+@track 7 The shepherds hey
+@track 8 Traditional Morris Dance tune
+@track 9 © 1995 by Curtis Clark, free for personal use
+@track 10 jcclark@csupomona.edu
+@track 11 http://www.csupomona.edu/~jcclark/emusic/
+
+erlking.mid
+@track 1 English (Lyrics Wind)--BBOK
+@track 2  German (Lyrics Wind)--BBOK
+@track 3  Pinao
+@track 4 Voice--BBOK
+
+Falsobordon_4_1t.mid
+@track 1 s
+@track 2 c
+@track 3 1t BBOK
+@track 4 2t
+@track 5 b
+
+farnaby_psalm122.mid
+@track 1 Soprano BBOK
+@track 2 Alto
+@track 3 Tenor
+@track 4 Bass
+
+fmendel8.3.mid
+@track 1 English Words
+@track 2 German Words--BBOK
+@track 3 Voice--BBOK
+@track 4 Piano (treble)
+@track 5 Piano (bass)
+
+FW008.mid
+@track 1 Track 1 BBOK
+@track 2 MIDI
+
+FW024.mid
+@track 1 Track 1 BBOK
+@track 2 MIDI
+
+FW061.mid
+@track 1 Track 1 BBOK
+@track 2 MIDI
+
+FW156.mid
+@track 1 Track 1 BBOK
+@track 2 Track 2
+
+FW164.mid
+@track 1 Track 1 BBOK
+@track 2 Track 2
+
+FW173.mid
+@track 1 Track 1 BBOK
+@track 2 MIDI
+
+FW191.mid
+@track 1 Track 1 BBOK
+@track 2 Track 2
+
+FW252.mid
+@track 1 Track 1 BBOK
+@track 2 Track 2
+
+gabrieli_in_ecclesiis.mid
+@track 1 Voce (in concertato) BBOK
+@track 2 Voce (in concertato) BBOK
+@track 3 Voce (in concertato) BBOK
+@track 4 Voce (in concertato) BBOK
+@track 5 Capella
+@track 6 Capella
+@track 7 Capella
+@track 8 Capella
+@track 9 Cornetto
+@track 10 Cornetto
+@track 11 Cornetto
+@track 12 Violino
+@track 13 Trombon
+@track 14 Trombon
+@track 15 Basso per l'organo
+
+gabrieli_pian_e_forte.mid
+@track 1 Cornetto BBOK
+@track 2 Trombon
+@track 3 Trombon
+@track 4 Trombon
+@track 5 Violino BBOK
+@track 6 Trombon
+@track 7 Trombon
+@track 8 Trombon
+
+gabrieli_surrexit_christus.mid
+@track 1 Sequence
+@track 2 Cornetto (Canto)
+@track 3 Cornetto (Settimo)
+@track 4 Violino (Nono)
+@track 5 Violino (Decimo)
+@track 6 Trombon (Undecimo)
+@track 7 Trombon (Quinto)
+@track 8 Trombon (Ottavo)
+@track 9 Trombon (Basso)
+@track 10 Alto BBOK
+@track 11 Tenore BBOK
+@track 12 Basso (Sesto) BBOK
+@track 13 Basso per l'organo
+
+gastoldi_amor_v.mid
+@track 1 Soprano BBOK
+@track 2 Alto 1
+@track 3 Alto 2
+@track 4 Tenor
+@track 5 Bass
+@track 6 Amor vittorioso
+@track 7 Giovanni Gastoldi
+@track 8 Sequenced by Kelson Vibber
+
+Gaudeamus_5_Benedictus_1c.mid
+@track 1 1s BBOK
+@track 2 2s
+@track 3 1c
+@track 4 2c
+@track 5 t
+@track 6 b
+
+Gaudeamus_6_Agnus_Dei_1c.mid
+@track 1 1s BBOK
+@track 2 2s
+@track 3 1c
+@track 4 2c
+@track 5 1t
+@track 6 2t
+@track 7 b
+
+Gaudent_In_Caelis_b.mid
+@track 1 s BBOK
+@track 2 c
+@track 3 t
+@track 4 b
+
+Giuseppe_Giordani_Caro_Mio_Ben_b.mid
+@track 1 Soft Karaoke
+@track 2 Words
+@track 3 Caro mio ben
+@track 4 by Giuseppe Giordani
+@track 5 BBOK
+@track 6 Piano Right
+@track 7 Piano Left
+@track 8 sequenced by Kelson Vibber
+
+Giuseppe_Giordani_Caro_Mio_Ben.mid
+@track 1 Soft Karaoke
+@track 2 Words
+@track 3 Caro mio ben
+@track 4 by Giuseppe Giordani
+@track 5 Vocal--BBOK
+@track 6 Piano Right
+@track 7 Piano Left
+@track 8 sequenced by Kelson Vibber
+
+Gloria_Palestrina_S.mid
+@track 1 Staff BBOK
+@track 2 Staff-1
+@track 3 Staff-2
+@track 4 Staff-3
+
+GMMOZ550.mid
+@track 1 BBOK
+@track 2 Cello
+@track 3 Strings1
+@track 4 BBOK
+@track 5 Bassoon
+@track 6 Flute
+@track 7 Oboe
+@track 8 Horn
+@track 9 Mozart
+@track 10 Symphony in G minor
+@track 11 K550
+@track 12 (c) 1994
+@track 13 Creative Labs Inc.
+@track 14 Recorded by dr. Chew
+
+Goldberg_Variation_#1_Alle.MID
+@track 1 Piano ( BB )
+@track 2 Melody ( BB )--BBOK
+
+Goldberg_Variations_Aria.MID
+@track 1 Piano ( BB )
+@track 2 Melody ( BB )--BBOK
+
+Grande_Valse_Brilliante_Cho.MID
+@track 1 Bass ( BB ) 
+@track 2 Piano ( BB )
+@track 3 Melody ( BB )--BBOK
+
+greenslv.mid
+@track 1 Greensleeves        
+@track 2 Copyright (C) 1991  
+@track 3 Voyetra Technologies
+@track 4 Piano               
+@track 5 Bass                
+@track 6 Melody--BBOK
+@track 7 Harmony Bridge      
+@track 8 Harmony Verse       
+
+handel04.mid
+@track 1 Bass    (BB)
+@track 2 Piano   (BB)
+@track 3 Guitar  (BB)
+@track 4 Strings (BB)
+@track 5 Melody  (BB)--BBOK
+
+handel05.mid
+@track 1 Bass    (BB)
+@track 2 Piano   (BB)
+@track 3 Guitar  (BB)
+@track 4 Strings (BB)
+@track 5 Melody  (BB)--BBOK
+
+handel06.mid
+@track 1 Piano   (BB)
+@track 2 Guitar  (BB)
+@track 3 Strings (BB)
+@track 4 Melody  (BB)--BBOK
+
+handel07.mid
+@track 1 Bass    (BB)
+@track 2 Piano   (BB)
+@track 3 Guitar  (BB)
+@track 4 Strings (BB)
+@track 5 Melody  (BB)--BBOK
+
+handel09.mid
+@track 1 Bass    (BB)
+@track 2 Piano   (BB)
+@track 3 Guitar  (BB)
+@track 4 Strings (BB)
+@track 5 Melody  (BB)--BBOK
+
+HASSLER_Galliard.mid
+@track 1  BBOK
+@track 2 
+@track 3 
+@track 4 
+@track 5 
+@track 6 title: Galliarda
+@track 7 Hans L. Hassler
+@track 8 By Julio Feliz
+
+hassler_sanctus_benedictus.mid
+@track 1  BBOK
+@track 2 
+@track 3 
+@track 4 
+
+haycelc3.mid
+@track 1 BBOK
+@track 2 Piano
+@track 3 Piano2
+
+haydnhrn.mid
+@track 1 BBOK
+@track 2 Staff-1
+@track 3 Staff-2
+@track 4 Staff-3
+@track 5 Staff-4
+@track 6 Staff-5
+
+haydnob1.mid
+@track 1 BBOK
+@track 2 Violin I
+@track 3 Violin II
+@track 4 Viola
+@track 5 'Cello
+@track 6 Bass
+
+haydntc.mid
+@track 1 BBOK
+@track 2 Staff-1
+@track 3 Staff-3
+@track 4 Staff-2
+@track 5 Staff-4
+@track 6 Staff-5
+
+hilton_what_shall_he_have_that_killd_the_deer.mid
+@track 1 What shall he have that kill'd the deer?
+@track 2 1 BBOK
+@track 3 2 BBOK
+@track 4 3 BBOK
+@track 5 4 BBOK
+@track 6 drums
+@track 7 What shall he have that kill'd the deer?
+@track 8 John Hilton
+@track 9 © 1995 by Curtis Clark, free for personal use
+@track 10 http://www.csupomona.edu/~jcclark/emusic/
+@track 11 jcclark@csupomona.edu
+
+hoboeckentanz.mid
+@track 1 Hoboeckentanz
+@track 2 s BBOK
+@track 3 a
+@track 4 t
+@track 5 b
+@track 6 Hoboeckentanz
+@track 7 Tielman Susato
+@track 8 © 1996 by Curtis Clark. Free for personal use
+@track 9 jcclark@csupomona.edu
+@track 10 http://www.csupomona.edu/~jcclark/emusic/
+
+holborne_my_lord_of_oxenford.mid
+@track 1 English Horn BBOK
+@track 2 English Horn
+@track 3 Harpsichord
+@track 4 Harpsichord
+@track 5 Cello
+@track 6 Drums & Perc.
+@track 7 Drums & Perc.
+@track 8 "My Lord of
+@track 9 Oxenford's March"
+@track 10 by Anthony Holborne BBOK
+@track 11 Entered & Sequenced BBOK
+@track 12 for Gen. MIDI by BBOK
+@track 13 Robert Schiele BBOK
+@track 14 <schiele@inetdirect.net> BBOK
+@track 15 11/29/94 BBOK
+
+hopkinson_beneath_a_weeping.mid
+@track 1 Francis Hopkinson
+@track 2 1737-1791
+@track 3 Beneath a weeping willows shade
+@track 4 BBOK
+@track 5 Accompaniment RH
+@track 6 Accompanyment LH
+@track 7 Sequenced: M.L. Taylor, 1997
+@track 8 getaylor@scifac.indstate.edu
+
+hun3.mid
+@track 1 Pasaje MIDI--BBOK
+@track 2 Pasaje MIDI
+
+hun6.mid
+@track 1 Pasaje MIDI--BBOK
+@track 2 Pasaje MIDI
+
+hun7.mid
+@track 1 Pasaje MIDI--BBOK
+@track 2 Pasaje MIDI
+
+Hungarian_Dance#5_Brahms.MID
+@track 1 Piano ( BB )
+@track 2 Melody ( BB )--BBOK
+
+hungary1.mid
+@track 1 Melody              --BBOK
+@track 2 Rythm               
+@track 3 Drums               
+@track 4 Melody              --BBOK
+@track 5 Rythm               
+@track 6 Drums               
+
+hydnlark.mid
+@track 1 Pista 1
+@track 2 Pista 2
+@track 3 BBOK
+@track 4 Pista 4
+@track 5 Pista 5
+@track 6 Pista 6
+@track 7 Pista 7
+@track 8 Pista 8
+@track 9 Pista 9
+@track 10 Pista 10
+
+In_Manus_Tuas_1t.mid
+@track 1 s BBOK
+@track 2 c
+@track 3 1t
+@track 4 2t
+@track 5 b
+
+innsbruck_ich_muss_dich_lassen.mid
+@track 1 Inssbruck, ich muß dich lassen
+@track 2 1 BBOK
+@track 3 2
+@track 4 3
+@track 5 4
+@track 6 Innsbruck, ich muß dich lassen
+@track 7 Heinrich Isaac
+@track 8 © 1997 by Curtis Clark. Free for personal use.
+@track 9 jcclark@csupomona.edu
+@track 10 http://www.csupomona.edu/~jcclark/emusic/
+
+io_non_compro_pi_speranza.mid
+@track 1 Io non compro più speranza
+@track 2 1 BBOK
+@track 3 3
+@track 4 4
+@track 5 Staff-1
+@track 6 Io non compro più speranza
+@track 7 Marco Cara (after 1525)
+@track 8 © 1997 by Curtis Clark. Free for personal use.
+@track 9 http://www.csupomona.edu/~jcclark/emusic/
+@track 10 jcclark@csupomona.edu
+
+Iste_Confessor_b.mid
+@track 1 s
+@track 2 c
+@track 3 t
+@track 4 b BBOK
+
+janequin_reconfortez.mid
+@track 1 Soprano
+@track 2 Alto BBOK
+@track 3 TŽnor
+@track 4 Basse
+@track 5 "Reconfortez le petit cueur de moy" par Clement Janequin  le 4 avril 1528
+@track 6 Sequenced by Brian Fisher,  lepage-fisher@atreide.net
+@track 7 <http://www.latourdulac.com/cantabile/>
+
+Jesu_Joy_of_Mans_Desiring_Bach.mid
+@track 1 Bass ( BB ) 
+@track 2 Piano ( BB )
+@track 3 Guitar ( BB ) 
+@track 4 Strings ( BB ) 
+@track 5 Melody ( BB )--BBOK
+
+KNOX1915.MID
+@track 1 Flute & Piccolo
+@track 2 Oboe & Eng. horn BBOK
+@track 3 Clarinet in A
+@track 4 Bassoon
+@track 5 Horn I
+@track 6 Horn II
+@track 7 Trumpet in C
+@track 8 Harp
+@track 9 Triangle
+@track 10 Voice--BBOK
+@track 11 Violin I
+@track 12 Violin II
+@track 13 Viola
+@track 14 Cello
+@track 15 Double bass
+@track 16 seq by DavidSiu dss@po.cwru.edu
+
+kodaly32.mid
+@track 1 English Translation
+@track 2 Hungarian--BBOK
+@track 3 Voice--BBOK
+@track 4 Piano (treble)
+@track 5 Piano (bass)
+
+kodaly33.mid
+@track 1 English Translation
+@track 2 Hungarian --BBOK
+@track 3 Voice--BBOK
+@track 4 Piano (treble)
+@track 5 Piano (bass)
+
+kodaly37.mid
+@track 1 English translation
+@track 2 Hungarian--BBOK
+@track 3 Voice--BBOK
+@track 4 Piano (treble)
+@track 5 Piano ()bass)
+
+La_Boheme_Di_G.Puccini_Che_Gelida_Manina.mid
+@track 1 Soft Karaoke
+@track 2 Words
+@track 3 Words
+@track 4 PIANO BBOK
+@track 5 RODOLFO
+@track 6 Seq. by M.Salvi
+
+La_Boheme_Di_G._Puccini_Si_Mi_Chiamano_Mimi.mid
+@track 1 
+@track 2 Soft Karaoke
+@track 3 Words
+@track 4 PIANO
+@track 5 MIMI' BBOK
+
+La_Boheme_Di_G.Puccini_Vecchia_Zimarra_Senti.mid
+@track 1 Soft Karaoke
+@track 2 Words
+@track 3 Colline BBOK
+@track 4 Piano
+@track 5 Music by G. Puccini
+@track 6 Arr.©1997 by
+@track 7 Marco Milano
+
+la_canarie.mid
+@track 1 La Canarie (XXXI)
+@track 2 Soprano BBOK
+@track 3 Alto
+@track 4 Tenor
+@track 5 Bass
+@track 6 La canarie
+@track 7 Michael Praetorius
+@track 8 © 1999 by Curtis Clark. Free for personal use.
+@track 9 http://www.csupomona.edu/~jcclark/emusic/
+@track 10 jcclark@csupomona.edu
+
+Laetatus_Sum_2_Gloria_1b.mid
+@track 1 1s
+@track 2 2s
+@track 3 1c
+@track 4 1b BBOK
+@track 5 3s
+@track 6 2c
+@track 7 1t
+@track 8 2b
+@track 9 4s
+@track 10 3c
+@track 11 2t
+@track 12 3b
+
+Laetatus_Sum_4_Sanctus_y_Benedictus_1b.mid
+@track 1 Track 0
+@track 2 1s
+@track 3 2s
+@track 4 1c
+@track 5 1b BBOK
+@track 6 3s
+@track 7 2c
+@track 8 1t
+@track 9 2b
+@track 10 4s BBOK
+@track 11 3c
+@track 12 2t
+@track 13 3b
+
+Laetatus_Sum_5_Agnus_Dei_1b.mid
+@track 1 1s
+@track 2 2s
+@track 3 1c
+@track 4 1b BBOK
+@track 5 3s
+@track 6 2c
+@track 7 1t
+@track 8 2b
+@track 9 4s
+@track 10 3c
+@track 11 2t
+@track 12 3b
+
+lasso_gallans.mid
+@track 1 Soprano BBOK
+@track 2 Alto
+@track 3 Tenor
+@track 4 Bass
+@track 5 
+@track 6 Title: Gallans qui par terre et par mer
+@track 7 Composer: Orlando di Lasso
+@track 8 Sequence: Faren Raborn, Copyright 1996
+@track 9 Email: raborn@dtx.net (Faren Raborn)
+
+lasso_kyrie_eleison.mid
+@track 1 Tenor 1                 Kyrie Eleison BBOK
+@track 2 Tenor 2   By Orlando Di Lassus (1532-1597)
+@track 3 Baritone    MIDI by Marty Weimer 5/22/96
+@track 4 Bass     weimemt@libby.org  Eureka, MT  USA
+@track 5 from "Missa ad imitationem moduli lager", c. 1560
+
+lasso_matona_mia_cara.mid
+@track 1 Soprano BBOK
+@track 2 Alto
+@track 3 TŽnor
+@track 4 Basse
+@track 5 Matona mia cara par Orlande de Lassus
+@track 6 Sequenced by Brian Fisher <lepage-fisher@atreide.net
+@track 7 <http://www.latourdulac.com/cantabile/>
+
+Le_Nozze_Di_Figaro_Di_W.A.Mozart_Porgi_Amor.mid
+@track 1 Soft Kara
+@track 2 Words
+@track 3 English
+@track 4 Italian
+@track 5 2 Carinet
+@track 6 2 Fagotti
+@track 7 2 Corni i
+@track 8 Violino I
+@track 9 Violino 2
+@track 10 Viola
+@track 11 BBOK
+@track 12 Violoncel
+@track 13 Contrabas
+@track 14 BBOK
+
+Le_Nozze_Di_Figaro_Di_W.A.Mozart_Voi_Che_Sapete.mid
+@track 1 Soft Karaoke
+@track 2 Words
+@track 3 Flute
+@track 4 Oboe
+@track 5 Clarinets in B
+@track 6 Bassoons
+@track 7 Horns in Eb
+@track 8 1st Violins
+@track 9 2nd Violins
+@track 10 Viola
+@track 11 BBOK
+@track 12 Cello
+
+Leroy_Anderson_Blue_tango.mid
+@track 1 "Blue Tango"
+@track 2   Leroy Anderson 1951
+@track 3 Sequenced by Walter June
+@track 4  waltjune@winternet.com
+@track 5 Melody - Treble--BBOK
+@track 6 Melody - ContraBase
+@track 7 Melody - Base
+@track 8 Voice--BBOK
+@track 9 Chords
+@track 10 Rhythm
+@track 11 Voice--BBOK
+@track 12 Chords--BBOK
+@track 13 Melody - Combined
+@track 14 SC-155 SYSEX
+
+Letaniae_De_Beata_Virgine_1b.mid
+@track 1 1s BBOK
+@track 2 1c
+@track 3 1t
+@track 4 1b
+@track 5 2s BBOK
+@track 6 2c
+@track 7 2t
+@track 8 2b
+
+Light_Character_polka_Stra.MID
+@track 1 Bass ( BB ) 
+@track 2 Piano ( BB )
+@track 3 Strings ( BB ) 
+@track 4 Melody ( BB )--BBOK
+
+LJ5_Lamed_Matribus_Suis_Dixerunt_1s.mid
+@track 1 1s BBOK
+@track 2 2s
+@track 3 c
+@track 4 t
+@track 5 b
+
+LJ6_Aleph_Ego_Vir_1c.mid
+@track 1 1s
+@track 2 2s
+@track 3 1c BBOK
+@track 4 2c
+@track 5 t
+@track 6 b
+
+LJ8_Aleph_Quomodo_Obscuratum_1s.mid
+@track 1 1s BBOK
+@track 2 2s
+@track 3 c
+@track 4 t
+@track 5 b
+
+LJbis8_Aleph_Quomodo_Obscuratum_1s.mid
+@track 1 1s BBOK
+@track 2 2s
+@track 3 c
+@track 4 t
+@track 5 b
+
+LJbis9_Incipit_Oratio_Jeremiae_1b.mid
+@track 1 1s
+@track 2 2s
+@track 3 1c
+@track 4 2c
+@track 5 1t
+@track 6 2t
+@track 7 1b BBOK
+@track 8 2b BBOK
+
+loopz3.mid
+@track 1 Electric Bass       
+@track 2 Electric Bass       
+
+Lucis_Creator_Optime_b.mid
+@track 1 s BBOK
+@track 2 c
+@track 3 t BBOK
+@track 4 b BBOK
+
+lust_mag_mein_herz.mid
+@track 1 Lust mag mein Herz
+@track 2 1 BBOK
+@track 3 2
+@track 4 3
+@track 5 4
+@track 6 Lust mag mein Herz
+@track 7 Ludwig Senfl
+@track 8 © 1997 by Curtis Clark. Free for personal use.
+@track 9 jcclark@csupomona.edu
+@track 10 http://www.csupomona.edu/~jcclark/emusic/
+
+Madama_Butterfly_Di_G.Puccini_Un_Bel_Di_Vedremo.mid
+@track 1 Soft Karaoke
+@track 2 Words
+@track 3 Butterfly BBOK
+@track 4 Piano
+@track 5 Music by G. Puccini
+@track 6 Arr.©1997 by
+@track 7 Marco Milano
+
+Magnificat_Primi_Toni_pares_1c.mid
+@track 1 s BBOK
+@track 2 1c BBOK
+@track 3 2c BBOK
+@track 4 1t
+@track 5 2t
+@track 6 b
+
+Magnificat_Quinti_Toni_impares_1t.mid
+@track 1 s
+@track 2 c
+@track 3 1t BBOK
+@track 4 2t
+@track 5 b
+
+Magnificat_Tertii_Toni_impares_1t.mid
+@track 1 s
+@track 2 c
+@track 3 1t BBOK
+@track 4 2t
+@track 5 b
+
+mainerio_schiarazzula.mid
+@track 1 Cello
+@track 2 Harp
+@track 3 violino BBOK
+@track 4 Mandola BBOK
+@track 5 Recorder BBOK
+@track 6 Harpsichr BBOK
+@track 7 HarpsiL
+@track 8 Percuss
+@track 9 Flute BBOK
+@track 10 Oboe
+@track 11 Effects
+
+March_In_D.mid
+@track 1 Melody--BBOK
+@track 2 Harmony             
+
+mendel05.mid
+@track 1 Piano   (BB)
+@track 2 Melody  (BB)--BBOK
+
+mendel86_6.mid
+@track 1 Altdeutsches Frühlingslied
+@track 2  English:  open lyrics window
+@track 3 German--BBOK
+@track 4 Voice--BBOK
+@track 5 Piano (treble)
+@track 6 Piano (bass)
+
+Merry_Widow_Waltz_F._Leha.MID
+@track 1 Bass ( BB ) 
+@track 2 Piano ( BB )
+@track 3 Guitar ( BB ) 
+@track 4 Strings ( BB ) 
+@track 5 Melody ( BB )--BBOK
+
+mfaria04.mid
+@track 1 Oboes
+@track 2 Bassoons
+@track 3 Horns in B
+@track 4 Violin 1
+@track 5 Violin 2
+@track 6 Viola
+@track 7 BBOK
+@track 8 Cello
+@track 9 Double Basses
+
+mfaria14.mid
+@track 1 Flutes
+@track 2 Oboes
+@track 3 Bassoons
+@track 4 Horns in F
+@track 5 Trumpets in F
+@track 6 Timpani in D A
+@track 7 1st Violins
+@track 8 2nd Violins
+@track 9 Violas
+@track 10 BBOK
+@track 11 Cello/Basses
+
+minuetg.mid
+@track 1 Melody --BBOK
+@track 2 Chords              
+@track 3 Bass                
+
+Misa_Quarti_Toni_1_Kyrie.mid
+@track 1 s BBOK
+@track 2 c
+@track 3 t
+@track 4 b
+
+Miserere_b.mid
+@track 1 s
+@track 2 c
+@track 3 t
+@track 4 b BBOK
+
+Monostatos.mid
+@track 1 Track01
+@track 2 Track02
+@track 3 Track03
+@track 4 Track04
+@track 5 Track05
+@track 6 Track06
+@track 7 Track07
+@track 8 BBOK
+@track 9 Track09
+@track 10 sequenced 1995 by Guenter Nagler (Austria)
+
+monteverdi_chi_vuol_veder.mid
+@track 1 Claudio Monteverdi-Chi Vuol Veder
+@track 2 Sequenced and arranged by MJ Starke BBOK
+@track 3 E-mail mjstarke@ix.netcom.com
+@track 4 ©1995mjstarke (Non-profit use Ok)
+@track 5  BBOK
+@track 6 
+@track 7 
+@track 8 
+
+monteverdi_lamento_a2.mid
+@track 1 Arianna BBOK
+@track 2 1
+@track 3 2
+
+monteverdi_lamento_c3.mid
+@track 1 S1 BBOK
+@track 2 S2
+@track 3 A
+@track 4 T
+@track 5 B
+@track 6 -
+@track 7 _
+
+monteverdi_morfeo_ecco_pur.mid
+@track 1 Orfeo - Ecco pur BBOK
+@track 2 Continuo I - Monteverdi
+@track 3 Continuo II - set by
+@track 4 Viola - Alexa Bender
+@track 5 Bass - Feb. 1997
+
+morley_april.mid
+@track 1 Soprano BBOK
+@track 2 Alto
+@track 3 Tenor
+@track 4 Bass
+
+morley_clorinda.mid
+@track 1  BBOK
+@track 2  BBOK
+@track 3 
+@track 4 
+
+motet.mid
+@track 1 Cantus BBOK
+@track 2 Altus
+@track 3 Tenor I
+@track 4 Tenor II
+@track 5 Bassus
+@track 6 Ascendo ad Patrem
+@track 7 Motet
+@track 8 G.P. Palestrina
+@track 9 Sequence copyright 1998 Brian M. Ames
+@track 10 bmames@apk.net BBOK
+
+moz24cm2.mid
+@track 1 Soloist
+@track 2 Orchestra
+@track 3 W.A. Mozart:
+@track 4 Piano Concerto 24 C Minor
+@track 5 II: Larghetto
+@track 6 Sequenced in 1992 by
+@track 7 Veikko Viljanen
+@track 8 Veikko.Viljanen@viljane.pp.fi
+@track 9 Yamaha Clavinova
+@track 10 Macintosh II CX
+@track 11 Master Tracks Pro
+
+moz304_1.mid
+@track 1 BBOK
+@track 2 Piano
+
+MOZ478_3.mid
+@track 0 Violin
+
+MOZ_620.mid
+@track 0 Accomp. Queen of the Night's aria from
+
+moza_k467a.mid
+@track 1 Mozart Piano Concerto
+@track 2 K467a - #21
+@track 3 Midi by:
+@track 4 B.Fisher
+@track 5 
+@track 6 
+@track 7 
+
+moza_k525_4.mid
+@track 1 BBOK
+@track 2 Pista 2
+@track 3 Pista 3
+@track 4 Pista 4
+@track 5 Pista 5
+
+mozart00.mid
+@track 1 Bass    (BB)
+@track 2 Piano   (BB)
+@track 3 Guitar  (BB)
+@track 4 Strings (BB)
+@track 5 Melody  (BB)--BBOK
+
+mozart11.mid
+@track 1 Piano   (BB)
+@track 2 Melody  (BB)--BBOK
+
+mozart15.mid
+@track 1 Bass    (BB)
+@track 2 Piano   (BB)
+@track 3 Guitar  (BB)
+@track 4 Strings (BB)
+@track 5 Melody  (BB)--BBOK
+
+mozart18.mid
+@track 1 Bass    (BB)
+@track 2 Piano   (BB)
+@track 3 Guitar  (BB)
+@track 4 Strings (BB)
+@track 5 Melody  (BB)--BBOK
+
+mozart20.mid
+@track 1 Bass    (BB)
+@track 2 Piano   (BB)
+@track 3 Guitar  (BB)
+@track 4 Strings (BB)
+@track 5 Melody  (BB)--BBOK
+
+MOZART3.mid
+@track 0 untitled
+
+mozart_b.mid
+@track 1 BBOK
+@track 2 Pista 2
+
+mozart_e.mid
+@track 1 BBOK
+@track 2 BBOK
+@track 3 Violin I
+@track 4 Violin II
+@track 5 Viola
+@track 6 Double Bass
+
+mozartk1.mid
+@track 1 Track 1
+@track 2 Track 2
+@track 3 Track 3
+@track 4 BBOK
+
+mozart_k.mid
+@track 1 BBOK
+@track 2 Pista 2
+
+mozart_lieder_als_luise_die_briefe.mid
+@track 1 BBOK
+@track 2 Staff-1
+@track 3 -
+@track 4 --
+
+mozart_lieder_dans_un_bois_solitaire.mid
+@track 1 BBOK
+@track 2 -
+@track 3 --
+
+mozart_lieder_gesellenreise.mid
+@track 1 BBOK
+@track 2 -
+@track 3 --
+
+mozart_lieder_warnung.mid
+@track 1 BBOK
+@track 2 -
+@track 3 --
+
+mozart_m.mid
+@track 1 BBOK
+@track 2 Piano
+
+MozartNo01.mid
+@track 1 BBOK
+@track 2 Pista 2
+@track 3 Pista 3
+@track 4 Pista 4
+
+MozartNo05.mid
+@track 1 BBOK
+@track 2 Pista 2
+@track 3 Pista 3
+@track 4 Pista 4
+
+MozartNo10.mid
+@track 1 BBOK
+@track 2 Pista 2
+@track 3 Pista 3
+@track 4 Pista 4
+
+mozart_o.mid
+@track 1 BBOK
+@track 2 Pista 2
+
+mozart_p.mid
+@track 1 BBOK
+@track 2 Pista 2
+
+mozart_requiem_01_introitus.mid
+@track 1 BBOK
+@track 2 BBOK
+@track 3 BBOK
+@track 4 BBOK
+@track 5 1
+@track 6 2
+@track 7 3
+@track 8 Tempo Track
+
+mozart_requiem_02_dies_irae.mid
+@track 1 BBOK
+@track 2 BBOK
+@track 3 BBOK
+@track 4 BBOK
+@track 5 1
+@track 6 2
+@track 7 Tempo Track
+
+mozart_requiem_04_rex_tremendae.mid
+@track 1 BBOK
+@track 2 BBOK
+@track 3 BBOK
+@track 4 BBOK
+@track 5 1
+@track 6 2
+@track 7 Tempo Track
+
+mozart_requiem_05_recordare.mid
+@track 1 BBOK
+@track 2 BBOK
+@track 3 BBOK
+@track 4 BBOK
+@track 5 1
+@track 6 2
+@track 7 3
+@track 8 Tempo Track
+
+mozart_requiem_06_confutatis.mid
+@track 1 BBOK
+@track 2 BBOK
+@track 3 BBOK
+@track 4 BBOK
+@track 5 1
+@track 6 2
+@track 7 Tempo Track
+
+mozart_requiem_07_lacrymosa.mid
+@track 1 BBOK
+@track 2 BBOK
+@track 3 BBOK
+@track 4 BBOK
+@track 5 1
+@track 6 2
+@track 7 Tempo Track
+
+mozart_requiem_08_domine_jesu.mid
+@track 1 BBOK
+@track 2 BBOK
+@track 3 BBOK
+@track 4 BBOK
+@track 5 1
+@track 6 2
+@track 7 Staff-5
+@track 8 Tempo Track
+
+mozart_requiem_09_hostias.mid
+@track 1 BBOK
+@track 2 BBOK
+@track 3 BBOK
+@track 4 BBOK
+@track 5 1
+@track 6 2
+@track 7 3
+@track 8 Tempo Track
+
+mozart_requiem_10_sanctus.mid
+@track 1 BBOK
+@track 2 BBOK
+@track 3 BBOK
+@track 4 BBOK
+@track 5 1
+@track 6 2
+@track 7 3
+@track 8 Tempo Track
+
+mozart_requiem_11_benedictus.mid
+@track 1 BBOK
+@track 2 BBOK
+@track 3 BBOK
+@track 4 BBOK
+@track 5 1
+@track 6 2
+@track 7 Tempo Track
+
+mozart_s.mid
+@track 1 BBOK
+@track 2 Pista 2
+
+Mozart_Sonata14Movement1.mid
+@track 1 BBOK
+@track 2 Bass Clef
+
+Mozart_TwinkleLittleStar.mid
+@track 1 Piano               
+@track 2 Piano               
+
+mozart_v.mid
+@track 1 BBOK
+@track 2 Pista 2
+
+Mozart_W.a._Dans_Un_Bois_Solitaire.mid
+@track 1 Soft Karaoke
+@track 2 Words
+@track 3 English (open lyrics window)
+@track 4 BBOK
+@track 5 BBOK
+@track 6 Piano part (treble)
+@track 7 Piano part (bass)
+
+mozart_w.mid
+@track 1 BBOK
+@track 2 Pista 2
+
+moz_co.mid
+@track 1 BBOK
+@track 2 Staff-1
+@track 3 Staff-2
+
+moz_con.mid
+@track 1 BBOK
+@track 2 Staff-1
+@track 3 Staff-2
+
+moz_fm3.mid
+@track 1 BBOK
+@track 2 The Magic Flute
+@track 3 Papageno 2nd aria
+@track 4  
+@track 5 Sequenced for
+@track 6 GUS ver 3.53
+@track 7 by Mauricio Fabbri
+@track 8 fabbri@las.inpe.br
+@track 9 fabbri@dpi.inpe.br
+@track 10 Dez 94/Jan 95
+@track 11  
+@track 12 BBOK
+@track 13 INPE/LAS
+@track 14 C.P. 515
+@track 15 12201-970 SJCampos SP
+@track 16 Brazil
+
+mozhrn2.mid
+@track 1 BBOK
+@track 2 Piano
+@track 3 Piano
+
+mozhrn3.mid
+@track 1 BBOK
+@track 2 Piano
+@track 3 Piano
+
+mozk211b.mid
+@track 1 BBOK
+@track 2 Concerto  #2
+@track 3 K211 -b -Andante
+@track 4 Midi by:
+@track 5 B.Fisher
+
+mozk211c.mid
+@track 1 BBOK
+@track 2 Concerto  #2
+@track 3 K211 -c -Rondo Allegro Vivo
+@track 4 Midi by:
+@track 5 B.Fisher
+
+mozk218a.mid
+@track 1 BBOK
+@track 2  #4  K218a    Midi by:
+@track 3 Bob Fisher
+
+mozk218b.mid
+@track 1 BBOK
+@track 2  #4 - K218b  Midi by:
+@track 3 Bob Fisher
+
+mozk218c.mid
+@track 1 BBOK
+@track 2   #4 - K218c  Midi by:
+@track 3 Bob Fisher
+@track 4 Midi by
+@track 5 B Fisher
+
+mozk219a.mid
+@track 1 BBOK
+@track 2 #5 -K219a  Midi by:
+@track 3 Bob Fisher
+
+mozk219c1.mid
+@track 1 BBOK
+@track 2 Pista 2
+@track 3 Pista 3
+@track 4 Pista 4
+@track 5 Pista 5
+@track 6 Pista 6
+
+mozk219c.mid
+@track 1 BBOK
+@track 2 Pista 2
+@track 3 Pista 3
+
+mozk309a.mid
+@track 1 Mozart
+@track 2 K309-a -Allegro Con Spirito
+@track 3 Sonata # 10
+@track 4 by Bob
+@track 5 Fisher
+@track 6 
+@track 7 
+@track 8 
+@track 9 
+@track 10 
+@track 11 
+@track 12 
+@track 13 
+@track 14 
+@track 15 
+@track 16 
+
+mozk309c.mid
+@track 1 Mozart
+@track 2 K309-c -Allegretto Grazioso
+@track 3 Sonata # 10
+@track 4 by Bob
+@track 5 Fisher
+@track 6 
+@track 7 
+@track 8 
+@track 9 
+@track 10 
+@track 11 
+@track 12 
+@track 13 
+@track 14 
+@track 15 
+@track 16 
+
+mozk313.mid
+@track 1 BBOK
+@track 2 2 Oboi
+@track 3 2 Corni in Sol
+@track 4 2 Corni in Re
+@track 5 Violini I
+@track 6 Violini II
+@track 7 Viole
+@track 8 Violoncelli
+@track 9 Contrabbassi
+@track 10 Violini II pizz.
+@track 11 Viole pizz.
+@track 12 Violoncelli pizz.
+@track 13 Contrabbassi pizz.
+@track 14 W.A.Mozart
+@track 15 Flute concert n°1 G Major K 313
+@track 16 Sequenced by Fabio Barnaba
+@track 17 http://members.xoom.it/fbb
+@track 18 E-Mail: fbb@gnd.it
+
+mozk466b.mid
+@track 1 Mozart Piano Concerto
+@track 2 K466b - #20
+@track 3 Midi by:
+@track 4 B.Fisher
+@track 5 
+@track 6 
+@track 7 
+
+mozk466c.mid
+@track 1 Mozart Piano Concerto
+@track 2 K466c - #20
+@track 3 Midi by:
+@track 4 B.Fisher
+@track 5 
+@track 6 
+@track 7 
+
+mozk74a1.mid
+@track 1 W. A. Mozart
+@track 2 Mitridate, Re di Ponto (K 74)
+@track 3 Aria: Al destin che la minaccia
+@track 4 hjheldstab@bluewin.ch
+@track 5 BBOK
+@track 6 Pianoforte
+@track 7 Pista 7
+
+mozk74a2.mid
+@track 1 W. A. Mozart
+@track 2 Mitridate, Re di Ponto (K 74)
+@track 3 Aria: Se di regnar sei vago
+@track 4 hjheldstab@bluewin.ch
+@track 5 BBOK
+@track 6 Pianoforte
+@track 7 Pista 7
+
+mozk74a3.mid
+@track 1 W. A. Mozart
+@track 2 Mitridate, Re di Ponto (K 74)
+@track 3 Duetto: Se viver non degg'io
+@track 4 hjheldstab@bluewin.ch
+@track 5 BBOK
+@track 6 BBOK
+@track 7 Pianoforte
+@track 8 Pista 8
+
+mozk74a4.mid
+@track 1 W. A. Mozart
+@track 2 Mitridate, Re di Ponto (K 74)
+@track 3 Aria: Se di lauri il crine ador
+@track 4 hjheldstab@bluewin.ch
+@track 5 BBOK
+@track 6 Pianoforte
+@track 7 Pista 7
+
+mozk74a5.mid
+@track 1 W. A. Mozart
+@track 2 Mitridate, Re di Ponto (K 74)
+@track 3 Rezitativo ed Aria: Lunga da te
+@track 4 hjheldstab@bluewin.ch
+@track 5 BBOK
+@track 6 Pianoforte
+@track 7 Pianoforte
+@track 8 Corno solo
+
+mozmar.mid
+@track 1 rh
+@track 2 rh
+@track 3 lh
+@track 4 lh
+@track 5 Marcia (arranged for piano
+@track 6 by W. A. Mozart)
+@track 7 sequenzed by H. Heldstab
+@track 8 haheldst@studi.unizh.ch
+
+mozmf14.mid
+@track 1 Acte II, Aria N°14
+@track 2 English Trans.
+@track 3 Reine--BBOK
+@track 4  Voice--BBOK
+@track 5 Flute
+@track 6 Hautbois
+@track 7 Basson
+@track 8 Contre Basson
+@track 9 Cor en Fa
+@track 10 Trombone en Ré
+@track 11 Timbale en Ré
+@track 12 Violons
+@track 13 Violons
+@track 14 Viole
+@track 15 Violoncelle
+@track 16 Contrebasse
+@track 17 SFX : Tonnerre
+
+moz_pc_a.mid
+@track 1 BBOK
+@track 2 Pista 2
+@track 3 Pista 3
+@track 4 Pista 4
+@track 5 Pista 5
+@track 6 Pista 6
+@track 7 Pista 7
+@track 8 Pista 8
+@track 9 Pista 9
+@track 10 Pista 10
+@track 11 Pista 11
+
+MOZ_PC_A_R1.mid
+@track 0 untitled
+
+moz_req.mid
+@track 1 Acoustic Grand Piano
+@track 2 Instrument2
+
+mozsonata.mid
+@track 1 Piano RH
+@track 2 Piano LH
+
+nachtmusik3.mid
+@track 1 (C) & (P) 1991
+@track 2 Romeo Music Intl.
+@track 3 BBOK
+@track 4 Violin 2
+@track 5 Viola
+@track 6 Cello
+@track 7 Bass
+
+Ne_Timeas_Maria_b.mid
+@track 1 s
+@track 2 c
+@track 3 t
+@track 4 b BBOK
+
+Nunc_Dimittis_b.mid
+@track 1 s
+@track 2 c
+@track 3 t BBOK
+@track 4 b BBOK
+
+OD_08_Communio_1s.mid
+@track 1 1s BBOK
+@track 2 2s
+@track 3 c
+@track 4 1t
+@track 5 2t
+@track 6 b
+
+O_Domine_Jesu_Christe_1c.mid
+@track 1 s
+@track 2 1c BBOK
+@track 3 2c
+@track 4 1t
+@track 5 2t
+@track 6 b
+
+O_Magnum_Mysterium_1_Kyrie_b.mid
+@track 1 s
+@track 2 c
+@track 3 t
+@track 4 b BBOK
+
+O_Magnum_Mysterium_3_Credo_b.mid
+@track 1 s
+@track 2 c
+@track 3 t
+@track 4 b BBOK
+
+o_mistris_mine.mid
+@track 1 O Mistresse Mine
+@track 2 1 BBOK
+@track 3 2
+@track 4 3
+@track 5 4
+@track 6 O mistris mine
+@track 7 Thomas Morely, arr. C. Clark
+@track 8 © 1999 by Curtis Clark. Free for personal use.
+@track 9 http://www.csupomona.edu/~jcclark/emusic/
+@track 10 jcclark@csupomona.edu
+
+O_Quam_Gloriosum_2_Gloria_b.mid
+@track 1 s
+@track 2 c
+@track 3 t
+@track 4 b BBOK
+
+O_Regem_Caeli_1s.mid
+@track 1 1s BBOK
+@track 2 2s
+@track 3 c
+@track 4 t
+
+PA6.mid
+@track 1 Track 1 BBOK
+@track 2 Track 2
+
+pagni01.mid
+@track 1 Piano   (BB)
+@track 2 Guitar  (BB)
+@track 3 Strings (BB)
+@track 4 Melody  (BB)--BBOK
+
+pagni03.mid
+@track 1 Bass    (BB)
+@track 2 Piano   (BB)
+@track 3 Guitar  (BB)
+@track 4 Strings (BB)
+@track 5 Melody  (BB)--BBOK
+
+PALESTRINA_Adoramus_te_Christe.mid
+@track 1 Adoramus te Christe BBOK
+@track 2 by G.P. da Palestrina
+@track 3 MIDI by Marty Weimer
+@track 4 weimermt@libby.org  11/6/95
+@track 5 all  volumes set to 80
+
+palestrina_canticum_canticorum_04.mid
+@track 1 S BBOK
+@track 2 A
+@track 3 T
+@track 4 B
+@track 5 Staff-1
+
+palestrina_canticum_canticorum_06.mid
+@track 1 S BBOK
+@track 2 A
+@track 3 T
+@track 4 B
+@track 5 Staff-1
+
+palestrina_canticum_canticorum_10.mid
+@track 1 S BBOK
+@track 2 A
+@track 3 T
+@track 4 B
+@track 5 Staff-1
+
+Palestrina_Kyrie_Papae_Marcelli.mid
+@track 1 PALESTRINA: Kyrie
+@track 2 Missa Papae Marcelli
+@track 3 Arranger: ROBERT A. AUSTIN
+@track 4 RAAUSTIN@AOL.COM
+@track 5 Soprano I. (Cantus) BBOK
+@track 6 Soprano II. (Altus)
+@track 7 Contralto I. (Tenor I.)
+@track 8 Contralto II. (Tenor. II)
+@track 9 Bass I.
+@track 10 Bass II.
+
+Palestrina_Super_flumina_Babilonis.mid
+@track 1 Super flumina Babilonis BBOK
+@track 2  BBOK
+@track 3 G.Pl. da Palestrina
+@track 4 =====================
+@track 5 www.musica-sacra.it
+
+Palestrina_Surge_Propera_Amica_Mea_s.mid
+@track 1 s BBOK
+@track 2 c
+@track 3 1t
+@track 4 2t
+@track 5 b
+
+pasame_por_dios_varquero.mid
+@track 1 Pásame por Dios, varquero
+@track 2 s BBOK
+@track 3 a
+@track 4 t
+@track 5 Pásame por Dios, varquero
+@track 6 © 1997 by Curtis Clark. Free for personal use.
+@track 7 http://www.csupomona.edu/~jcclark/emusic/
+@track 8 jcclark@csupomona.edu
+@track 9 Pedro de Escobar
+
+passereau_bel_et_bon.mid
+@track 1 Il Est Bel Et Bon BBOK
+@track 2 arr and seq by Mike Starke
+@track 3 mjstarke@ix.netcom.com BBOK
+@track 4 
+@track 5 
+@track 6 
+@track 7 
+@track 8 
+
+pavane_for_shawm_band.mid
+@track 1 Pavane for shawm band BBOK
+@track 2 1 BBOK
+@track 3 2
+@track 4 3
+@track 5 5
+@track 6 4
+@track 7 6
+@track 8 Pavane for shawm band
+@track 9 Philidor MS 1610
+@track 10 © 1997 by Curtis Clark. Free for personal use. BBOK
+@track 11 http://www.csupomona.edu/~jcclark/emusic/ BBOK
+@track 12 jcclark@csupomona.edu BBOK
+
+pavanne_est_il_conclud.mid
+@track 1 Pavanne, Est il conclud
+@track 2 1 BBOK
+@track 3 2
+@track 4 3
+@track 5 bass
+@track 6 Pavanne, Est il conclud
+@track 7 Claude Gervaise
+@track 8 © 1996 by Curtis Clark. Free for personal use
+@track 9 jcclark@csupomona.edu
+@track 10 http://www.csupomona.edu/~jcclark/emusic/
+
+perpetualmotion.mid
+@track 1 (C) & (P) 1993
+@track 2 Romeo Music Intl.
+@track 3 BBOK
+@track 4 Piano Right Hand
+@track 5 Piano Left Hand
+
+Pietro_Mascagni_Cavalleria_Rusticana_Preludio_In_Dialetto_Siciliano.mid
+@track 1 Pietro Mascagni (1864-1945)
+@track 2 Words
+@track 3  English 
+@track 4  Italian--BBOK
+@track 5 StrEnsmbl 2
+@track 6 StrEnsmbl 1
+@track 7 TremloStrings
+@track 8 Pasaje MIDI
+@track 9 PRELUDE to:--BBOK
+@track 10 Cavalleria Rusticana
+@track 11 Pietro Mascagni (1863-1945)
+@track 12 MidiOpera --BBOK
+@track 13 Pasaje MIDI
+@track 14 Vocal--BBOK
+@track 15 French Horn
+@track 16 Percussion
+@track 17 BrassSection
+@track 18 Orchst Harp
+
+Praeludium#1_in_C_BWV846.MID
+@track 1 Bass ( BB ) 
+@track 2 Piano ( BB )
+@track 3 Guitar ( BB ) 
+@track 4 Strings ( BB ) 
+@track 5 Melody ( BB )--BBOK
+
+pragav4.mid
+@track 1 Gavotte 4
+@track 2 s1 BBOK
+@track 3 s2
+@track 4 a
+@track 5 t
+@track 6 b
+@track 7 4. Gavotte
+@track 8 Michael Praetorius
+@track 9 © 1996 by Curtis Clark. Free for personal use
+@track 10 jcclark@csupomona.edu
+@track 11 http://www.csupomona.edu/~jcclark/emusic/
+
+pragavx.mid
+@track 1 Gavottes
+@track 2 s BBOK
+@track 3 a
+@track 4 t1
+@track 5 t2
+@track 6 b
+@track 7 Gavottes (3-6)
+@track 8 Michael Praetorius
+@track 9 © 1995 by Curtis Clark, free for personal use
+@track 10 jcclark@csupomona.edu
+@track 11 http://www.csupomona.edu/~jcclark/emusic/
+
+PragueSymphony38_K504_1st_mvt_Mozart_b.mid
+@track 1 Bass    (BB)
+@track 2 Drums   (BB)
+@track 3 Piano   (BB)
+@track 4 Guitar  (BB)
+@track 5 Strings (BB)
+@track 6 BBOK
+@track 7 Soloist (BB) (none)
+
+PragueSymphony38_K504_1st_mvt_Mozart.mid
+@track 1 Bass    (BB)
+@track 2 Piano   (BB)
+@track 3 Guitar  (BB)
+@track 4 Strings (BB)
+@track 5 Melody  (BB)--BBOK
+
+pravol12.mid
+@track 1 12. Volte
+@track 2 s BBOK
+@track 3 a
+@track 4 t1
+@track 5 t2
+@track 6 b
+@track 7 12. Volte
+@track 8 Michael Praetorius
+@track 9 © 1995 by Curtis Clark, free for personal use
+@track 10 jcclark@csupomona.edu
+@track 11 http://www.csupomona.edu/~jcclark/emusic/
+
+Presto_in_G_Mozart_sona.MID
+@track 1 Piano ( BB )
+@track 2 Melody ( BB )--BBOK
+
+Puccini_Tosca_3.mid
+@track 1 Flauto 1
+@track 2 Flauto 2
+@track 3 Ottavino
+@track 4 Oboe 1
+@track 5 Oboe 2
+@track 6 Corno Inglese
+@track 7 Clarinetto in La 1
+@track 8 Clarinetto in La 2
+@track 9 Clarinetto in Sib 1
+@track 10 Clarinetto in Sib 2
+@track 11 Fagotto 1
+@track 12 Fagotto 2
+@track 13 Corni in Mi
+@track 14 Corni in Fa
+@track 15 2 Trombe in Fa
+@track 16 Tromboni 1 e 2
+@track 17 Trombone 3
+@track 18 Trombone Basso
+@track 19 Timpani
+@track 20 Triangolo
+@track 21 Gran Cassa
+@track 22 Piatti
+@track 23 Campane 1
+@track 24 Campane 2
+@track 25 Arpa 1
+@track 26 Arpa 2
+@track 27 Tempo
+@track 28 Violons I BBOK
+@track 29 Violons II
+@track 30 Altos
+@track 31 Violoncelles
+@track 32 Contrebasses
+@track 33 Tosca, opera, act 3, orchestral selection (1900)
+@track 34 by Giacomo Puccini (1858-1924)
+@track 35 seq in 2002 by Ramon Pajares Box
+@track 36 rpajares@rpajares.net
+@track 37 Tosca, act 3 by Giacomo Puccini
+
+Purcell_StrikeTheViol.mid
+@track 1 Recorder 1
+@track 2 Recorder 2
+@track 3 Voice--BBOK
+@track 4 Harpsichord RT.
+@track 5 Harpsichord LT
+@track 6 Cello
+@track 7 "Strike The Viol" by H. Purcell
+@track 8 Seq. by MJ Starke ©1996mjstarke
+
+Quam_Pulchri_Sunt_2_Gloria_b.mid
+@track 1 s
+@track 2 c
+@track 3 t
+@track 4 b BBOK
+
+Quam_Pulchri_Sunt_3_Credo_b.mid
+@track 1 s
+@track 2 c
+@track 3 t
+@track 4 b BBOK
+
+queenofthenight.mid
+@track 1 (C) & (P) 1992
+@track 2 Romeo Music Intl.
+@track 3 Voice--BBOK
+@track 4 Strings
+
+Quem_Vidistis_Pastores_1s.mid
+@track 1 1s BBOK
+@track 2 2s
+@track 3 c
+@track 4 1t
+@track 5 2t
+@track 6 b
+
+Quicumque_Christum_Quaeritis_b.mid
+@track 1 s
+@track 2 c
+@track 3 t
+@track 4 b BBOK
+
+rampolini_bacco.mid
+@track 1 Bacco, bacco
+@track 2 1 BBOK
+@track 3 2
+@track 4 3
+@track 5 4
+@track 6 Bacco, bacco
+@track 7 Mateo Rampolini
+@track 8 © 1995 by Curtis Clark, free for personal use
+
+Requiem_a_4_voces_05_Sanctus_y_Benedictus_b.mid
+@track 1 s
+@track 2 c
+@track 3 t
+@track 4 b BBOK
+
+requiem.mid
+@track 1    STRING SECTION   
+@track 2      PIZZICATO      
+@track 3       VIOLIN        
+@track 4        CELLO        
+@track 5                     
+@track 6                     
+@track 7                     
+@track 8 --------------------
+@track 9   MOZART'S REQUIEM  
+@track 10 --------------------
+@track 11                     
+@track 12                     
+@track 13                     
+@track 14     Jim Barringer   
+
+romantic_gianni_schicchi.mid
+@track 1 babbino BBOK
+@track 2 Tempo Track
+
+romantic_madama_butterfly.mid
+@track 1 Staff BBOK
+
+ROSSETER_Whether_Men_to_Laugh_or_Weep.mid
+@track 1 ÒWhether men do laugh or cryÓPhilip Rosseter (1601) BBOK
+@track 2 
+
+Rossini_TheBarberOfSevilleLargoAlFactotumAria.mid
+@track 1 Piano 1 - Right
+@track 2 Piano 1 - Left
+@track 3 Vocal--BBOK
+
+round_roundel.mid
+@track 1 Roundel, 1453 CE
+@track 2 voice one BBOK
+@track 3 voice two BBOK
+@track 4 Voice 3 BBOK
+@track 5 Roundel
+@track 6 Anon. 1453
+@track 7 © 1995 by Curtis Clark, free for personal use
+@track 8 jcclark@csupomona.edu
+@track 9 http://www.csupomona.edu/~jcclark/emusic/
+
+rusong18.mid
+@track 1 Melody--BBOK
+@track 2 Bass
+@track 3 Piano
+@track 4 bass
+@track 5 Strings
+@track 6 Chorus
+@track 7 Percussion
+
+s18.mid
+@track 1 Die vier Branlen BBOK
+@track 2 
+@track 3 
+@track 4 
+
+schman01.mid
+@track 1 Bass    (BB)
+@track 2 Piano   (BB)
+@track 3 Guitar  (BB)
+@track 4 Strings (BB)
+@track 5 Melody  (BB)--BBOK
+
+schub01.mid
+@track 1 Bass    (BB)
+@track 2 Piano   (BB)
+@track 3 Guitar  (BB)
+@track 4 Strings (BB)
+@track 5 Melody  (BB)--BBOK
+
+schub02.mid
+@track 1 Bass    (BB)
+@track 2 Piano   (BB)
+@track 3 Guitar  (BB)
+@track 4 Strings (BB)
+@track 5 Melody  (BB)--BBOK
+
+schub04.mid
+@track 1 Bass    (BB)
+@track 2 Piano   (BB)
+@track 3 Guitar  (BB)
+@track 4 Strings (BB)
+@track 5 Melody  (BB)--BBOK
+
+schub06.mid
+@track 1 Bass    (BB)
+@track 2 Piano   (BB)
+@track 3 Guitar  (BB)
+@track 4 Strings (BB)
+@track 5 Melody  (BB)--BBOK
+
+schutz_sinfonia.mid
+@track 1 Cornetto I.  BBOK
+@track 2 Cornetto II.
+@track 3 Cornetto III.
+@track 4 Cornetto IV.
+
+senfl_ach_elslein_liebes_elselein_mein.mid
+@track 1 Ach Elslein, liebes Elselein mein
+@track 2 1 BBOK
+@track 3 2
+@track 4 3
+@track 5 4
+@track 6 Ach Elslein, liebes Elselein mein
+@track 7 Ludwig Senfl
+@track 8 © 1995 by Curtis Clark, free for personal use
+@track 9 jcclark@csupomona.edu
+@track 10 http://www.csupomona.edu/~jcclark/emusic/
+
+senfl_tandernaken.mid
+@track 1 Tandernaken BBOK
+@track 2 
+@track 3 
+@track 4 
+@track 5 
+@track 6 
+
+Se_Vuol_Ballare_Signor_Contino.mid
+@track 1 Soft Karaoke
+@track 2 Words
+@track 3 English lyrics
+@track 4 Italian lyrics
+@track 5 Oboes
+@track 6 Bassons
+@track 7 Horns in F
+@track 8 1st Violins
+@track 9 2nd Violins
+@track 10 Viola
+@track 11 BBOK
+@track 12 Cello
+@track 13 Contrabass
+@track 14 ------------------------------
+@track 15 Cavatina no. 3
+@track 16 Le Nozze di Figaro
+@track 17 Lyrics entered with Easykar95
+@track 18 by Vincenzo Palleschi
+
+silver_swanne.mid
+@track 1 The silver swan
+@track 2 s BBOK
+@track 3 a1
+@track 4 a2
+@track 5 t
+@track 6 b
+@track 7 The silver swanne
+@track 8 Orlando Gibbons
+@track 9 © 1996 by Curtis Clark. Free for personal use
+@track 10 jcclark@csupomona.edu
+@track 11 http://www.csupomona.edu/~jcclark/emusic/
+
+Simile_Est_Regnum_Coelorum_6_Agnus_Dei_1b.mid
+@track 1 1s
+@track 2 1c
+@track 3 1t
+@track 4 1b BBOK
+@track 5 2s
+@track 6 2c
+@track 7 2t
+@track 8 2b BBOK
+
+Sonata_3_Mozart_K545.mid
+@track 1 Bass ( BB ) 
+@track 2 Drums ( BB )
+@track 3 Piano ( BB )
+@track 4 Guitar ( BB )  (none)
+@track 5 Strings ( BB )  (none)
+@track 6 BBOK
+@track 7 Soloist ( BB ) (none)
+
+Sonata_3_Mozart_K545.MID
+@track 1 Piano ( BB )
+@track 2 Melody ( BB )--BBOK
+
+Sonata_c.Mid
+@track 1 BBOK
+@track 2 Flute
+@track 3 Flute
+@track 4 Trumpet
+@track 5 Harpsicord
+@track 6 Harpsicord
+@track 7 Harpsicord
+@track 8 Trumpet
+
+sonata_in_c_1_2.mid
+@track 1 BBOK
+@track 2 Pista 2
+
+sonata_in_c_1_3.mid
+@track 1 BBOK
+@track 2 Pista 2
+
+sonata_in_c_1_5.mid
+@track 1 Sonata #3           
+@track 2 Mozart              
+@track 3 Copyright (C) 1992  
+@track 4 Voyetra Technologies
+@track 5 B Piano             
+@track 6 BBOK
+@track 7 X Bass Clef         
+
+SONATINA.mid
+@track 1 VEU 1
+@track 2 VEU 2
+@track 3 VEU 3
+
+soy_contento_y_vos_servido.mid
+@track 1 Soy contento Y vos servido
+@track 2 1 BBOK
+@track 3 2
+@track 4 3
+@track 5 Soy contento y vos servido
+@track 6 Juan del Encina
+@track 7 © 1997 by Curtis Clark. Free for personal use.
+@track 8 jcclark@csupomona.edu
+@track 9 http://www.csupomona.edu/~jcclark/emusic/
+
+spagnoletta_xxvii.mid
+@track 1 7. Spagnoletta
+@track 2 s1 BBOK
+@track 3 s2
+@track 4 a
+@track 5 b
+@track 6 Spagnoletta (XXVIII)
+@track 7 Michael Praetorius
+@track 8 © 1996 by Curtis Clark. Free for personal use
+@track 9 jcclark@csupomona.edu
+@track 10 http://www.csupomona.edu/~jcclark/emusic/
+
+Super_Flumina_Babylonis_1b.mid
+@track 1 s
+@track 2 1c
+@track 3 1t
+@track 4 1b BBOK
+@track 5 2c
+@track 6 2t
+@track 7 3t
+@track 8 2b BBOK
+
+Surge_Propera_2_Gloria_1t.mid
+@track 1 s
+@track 2 c
+@track 3 1t BBOK
+@track 4 2t
+@track 5 b
+
+SUS_ALL2.mid
+@track 1  BBOK
+@track 2 
+@track 3 
+@track 4 
+
+susato_pour_quoy.mid
+@track 1 Ronde I Pour qouy by T. Susato BBOK
+@track 2 Arr and Seq by MJ Starke BBOK
+@track 3 E-mail mjstarke@ix.netcom.com
+@track 4 ©1995mjstarke
+@track 5                                                  ©1995mjstarke
+@track 6 
+@track 7 
+@track 8 
+
+susato_rondeix.mid
+@track 1 Ronde IX by T. Susato BBOK
+@track 2 Arr and Seq by MJ Starke
+@track 3 ©1995mjstarke
+@track 4 E mail mjstarke@ix.netcom.com
+@track 5 
+@track 6 
+
+SV06_Lauda_Jerusalem_b.mid
+@track 1 s BBOK
+@track 2 c
+@track 3 t
+@track 4 b BBOK
+
+SV07_Confitebor_Tibi_Domine_1s.mid
+@track 1 1s BBOK
+@track 2 2s
+@track 3 c
+@track 4 t
+
+SV09_Nisi_Dominus_1s.mid
+@track 1 1s BBOK
+@track 2 2s
+@track 3 c
+@track 4 t
+
+tallis_pour_forth_thy_spirit.mid
+@track 1 S Quartet       "Pour Forth Thy Spirit" BBOK
+@track 2 A           by Thomas Tallis (c.1505-1585)
+@track 3 T             MIDI by Marty Weimer 3/2/96
+@track 4 B     weimermt@libby.org  Eureka, MT USA
+@track 5 S Choir BBOK
+@track 6 A
+@track 7 T
+@track 8 B
+@track 9 
+
+Tannhauser_March_Wag.MID
+@track 1 Piano ( BB )
+@track 2 Melody ( BB )--BBOK
+
+the_choice.mid
+@track 1 The choice
+@track 2 1 BBOK
+@track 3 2
+@track 4 3
+@track 5 4
+@track 6 5
+@track 7 The choice
+@track 8 Anthony Holborne
+@track 9 © 1995 by Curtis Clark, free for personal use
+@track 10 jcclark@csupomona.edu
+@track 11 http://www.csupomona.edu/~jcclark/emusic/
+
+Tibi_Christe_b.mid
+@track 1 s
+@track 2 c
+@track 3 t BBOK
+@track 4 b BBOK
+
+Tosca_Di_G.Puccini_E_Lucean_Le_Stelle.mid
+@track 1 Soft Karaoke
+@track 2 Words
+@track 3 Cavaradossi BBOK
+@track 4 Piano
+@track 5 Music by G.Puccini
+@track 6 Arr.©1996 by
+@track 7 Marco Milano
+
+Tosca_Di_G.Puccini_Recondita_Armonia.mid
+@track 1 Soft Karaoke
+@track 2 Words
+@track 3 Cavaradossi BBOK
+@track 4 Piano
+
+Tosca_Di_G._Puccini_Vissi_Darte_Vissi_DAmore.mid
+@track 1 Soft Karaoke
+@track 2 Words
+@track 3 Tosca BBOK
+@track 4 Piano
+@track 5 Music by G.Puccini
+@track 6 Arr.©1996 by
+@track 7 Marco Milano
+
+TR08_Tenebrae_Factae_Sunt_1b.mid
+@track 1 1t
+@track 2 2t
+@track 3 1b BBOK
+@track 4 2b
+
+TR09_Animam_Meam_Dilectam_b.mid
+@track 1 s
+@track 2 c
+@track 3 t
+@track 4 b BBOK
+
+TR17_Aestimatus_Sum_1b.mid
+@track 1 1t
+@track 2 2t
+@track 3 1b BBOK
+@track 4 2b
+
+triste_espana_sin_ventura.mid
+@track 1 Triste España sin ventura
+@track 2 1 BBOK
+@track 3 2
+@track 4 3
+@track 5 4
+@track 6 Triste España sin ventura
+@track 7 Juan del Encina
+@track 8 © 1997 by Curtis Clark. Free for personal use.
+@track 9 jcclark@csupomona.edu
+@track 10 http://www.csupomona.edu/~jcclark/emusic/
+
+trolly_lolly.mid
+@track 1 39. Trolly lolly
+@track 2 alto BBOK
+@track 3 tenor
+@track 4 bass
+@track 5 39. Trolly lolly
+@track 6 William Cornysh
+@track 7 © 1996 by Curtis Clark. Free for personal use
+@track 8 http://www.csupomona.edu/~jcclark/emusic/
+@track 9 jcclark@csupomona.edu
+
+trumpets.mid
+@track 1 Lead
+@track 2 Harmony to lead
+@track 3 Grand PianoLINE
+@track 4 Upper Basline
+@track 5 meas30+MixBass
+@track 6 BasslineHarmony
+@track 7 VOCAL LINE--BBOK
+
+Vadam_Et_Circuibo_Civitatem_1s.mid
+@track 1 1s BBOK
+@track 2 2s
+@track 3 c
+@track 4 1t
+@track 5 2t
+@track 6 b
+
+valkry.mid
+@track 1 melody--BBOK
+@track 2 acc.
+@track 3 bass
+@track 4 melody--BBOK
+@track 5 acc.
+@track 6 bass
+@track 7 ride of the
+@track 8 valkyries-wagner
+@track 9 Copyright LLERRAH Inc.
+
+vdg5_rvn.mid
+@track 1 ÉÍÍÍÍÍÍÍÍÍÍÍ[ 3
+@track 2 º
+@track 3 º         VIDEO
+@track 4 º       (Do you
+@track 5 º
+@track 6 º      Copied &
+@track 7 º
+@track 8 º     The ROVIN
+@track 9 º         * ID
+@track 10 º
+@track 11 º
+@track 12 º  [3S] Member-
+@track 13 º
+@track 14 º         1993.
+@track 15 º
+@track 16 ÈÍÍÍÍÍÍÍÍÍÍÍ[ 3
+@track 17 Modern Harp II
+@track 18 Glockenspiel 2
+@track 19 Pizzicato Bass
+@track 20 Strings
+@track 21 Strings II
+@track 22 French horn
+@track 23 French horn II
+@track 24 Melody--BBOK
+@track 25 Piccolo/Kinds
+@track 26 Oboe/Kinds
+@track 27 Ochestra Drums
+@track 28 Strings III
+@track 29 Modern Harp
+@track 30 Glockenspiel
+@track 31 Guitar 1
+@track 32 Guitar 2
+@track 33 Guitar 3
+
+vecchi_so_ben_mi_cha_bon_tempo.mid
+@track 1 So ben, mi, c'ha bon tempo
+@track 2 1 BBOK
+@track 3 2
+@track 4 3
+@track 5 4
+@track 6 So ben, mi, c'ha bon tempo
+@track 7 Orazio Vecchi
+@track 8 © 1996 by Curtis Clark. Free for personal use
+@track 9 jcclark@csupomona.edu
+@track 10 http://www.csupomona.edu/~jcclark/emusic/
+
+Verdi.G_La_Traviata_Addio_Del_Passato.mid
+@track 1 Soft Karaoke
+@track 2 Words
+@track 3 Voice--BBOK
+@track 4 Piano
+
+Vexilla_Regis_b.mid
+@track 1 s
+@track 2 c
+@track 3 t BBOK
+@track 4 b BBOK
+
+Victoria_Apocrifo_Date_Ei_De_Fructu_b.mid
+@track 1 s BBOK
+@track 2 c
+@track 3 t
+@track 4 b BBOK
+
+victoria_benedictus.mid
+@track 1 @channel 1 BBOK
+@track 2 @channel 2 BBOK
+@track 3 @channel 3 BBOK
+@track 4 @channel 4 BBOK
+@track 5 @channel 5
+@track 6 @channel 6
+
+victoria_gloria.mid
+@track 1  BBOK
+@track 2 
+@track 3 
+@track 4 
+
+victoria_salve_regina.mid
+@track 1 S BBOK
+@track 2 A
+@track 3 T
+@track 4 B
+@track 5 Staff-1 BBOK
+@track 6 Staff-2
+@track 7 Staff-3
+@track 8 Staff-4
+
+Vidi_Speciosam_1_Kyrie_1s.mid
+@track 1 1s BBOK
+@track 2 2s
+@track 3 c
+@track 4 1t
+@track 5 2t
+@track 6 b
+
+VIOLIN_C.MID
+@track 1 Soloist--BBOK
+@track 2 Pianotreble
+@track 3 Pianobass
+@track 4 L.V. Beethoven
+@track 5 Violin Concerto
+@track 6 D Major Opus61
+@track 7 Sequenced By
+@track 8 Hermes Camacho
+
+vive_le_roy.mid
+@track 1 1 BBOK
+@track 2 2
+@track 3 3
+@track 4 4
+@track 5 Vive le roy!
+@track 6 Josquin Des Prez
+@track 7 © 1996 by Curtis Clark. Free fo
+@track 8 jcclark@csupomona.edu
+@track 9 http://www.csupomona.edu/~jccla
+
+viv_el_gran_re_don_fernando.mid
+@track 1 Viv’ el gran Re Don Fernando
+@track 2 1 BBOK
+@track 3 2
+@track 4 3
+@track 5 4
+@track 6 Viv’ el gran Re Don Fernando
+@track 7 Anonymous
+@track 8 © 1996 by Curtis Clark. Free for personal use
+@track 9 jcclark@csupomona.edu
+@track 10 http://www.csupomona.edu/~jcclark/emusic/
+
+vivldi05.mid
+@track 1 Bass    (BB)
+@track 2 Piano   (BB)
+@track 3 Strings (BB)
+@track 4 Melody  (BB)--BBOK
+
+vivldi06.mid
+@track 1 Bass    (BB)
+@track 2 Piano   (BB)
+@track 3 Guitar  (BB)
+@track 4 Strings (BB)
+@track 5 Melody  (BB)--BBOK
+
+vom_gimmel_och_da_komm_ich_her.mid
+@track 1 Vom Himmel hoch, da komm’ ich her
+@track 2 1 BBOK
+@track 3 2
+@track 4 3
+@track 5 4
+@track 6 Vom Himmel hoch, da komm’ ich her
+@track 7 Martin Luther, arr. Michael Praetorius
+@track 8 © 1996 by Curtis Clark. Free for personal use
+@track 9 jcclark@csupomona.edu
+@track 10 http://www.csupomona.edu/~jcclark/
+
+WAMJOKE3.mid
+@track 1 Pista 1
+@track 2 Pista 2
+@track 3 BBOK
+@track 4 Pista 4
+@track 5 Pista 5
+@track 6 Pista 6
+
+wassail.mid
+@track 1 descant
+@track 2 melody--BBOK
+
+watermk.mid
+@track 1 Piano --BBOK
+@track 2 Strings             
+@track 3 Voice               
+
+x.cgi_mid_mozart_wamk357.mid
+@track 1 Primo
+@track 2 Secondo
+@track 3 
+@track 4 Title: Sonate in Gmaj (K. 357, 1786)
+@track 5 Composer: W. A. Mozart
+@track 6 Sequence: Faren Raborn, Copyright 1996
+@track 7 Email: raborn@dtx.net
+
+x.cgi_mid_mozart_wamk358.mid
+@track 1 Primo
+@track 2 Secondo
+@track 3 
+@track 4 Title: Sonate in Bbmaj (K. 358, 1774)
+@track 5 Composer: W. A. Mozart
+@track 6 Sequence: Faren Raborn, Copyright 1996
+@track 7 Email: raborn@dtx.net
+
+x.cgi_mid_mozart_wamk497.mid
+@track 1 Primo
+@track 2 Secondo
+@track 3 
+@track 4 Title: Sonate in Fmaj (K. 497, 1786)
+@track 5 Composer: W. A. Mozart
+@track 6 Sequence: Faren Raborn, Copyright 1996
+@track 7 Email: raborn@dtx.net
+
+x.cgi_mid_mozart_wamk501.mid
+@track 1 Primo
+@track 2 Secondo
+@track 3 
+@track 4 Title: Andante Mit Variationen in Gmaj, K. 501
+@track 5 Comoser: W. A. Mozart
+@track 6 Sequence: Faren Raborn, Copyright 1996
+@track 7 Email: raborn@dtx.net
+
+x.cgi_mid_mozart_wamk521.mid
+@track 1 Primo
+@track 2 Secondo
+@track 3 
+@track 4 Title: Sonate in Cmaj (K. 521, 1787)
+@track 5 Composer: W. A. Mozart
+@track 6 Sequence Faren Raborn, Copyright 1996
+@track 7 Email: raborn@dtx.net
+
+x.cgi_mid_mozart_wamk594.mid
+@track 1 Primo
+@track 2 Secondo
+@track 3 
+@track 4 Title: Ein Stück Für Orgelwerk In Einer Uhr (K. 594, 1790)
+@track 5 Composer: W. A. Mozart
+@track 6 Sequence: Faren Raborn, Copyright 1996
+@track 7 Email: raborn@dtx.net
+

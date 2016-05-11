@@ -1,0 +1,142 @@
+#################################################################################################################
+ Columnas:
+ <numero pista>	<prediccion>	<prob melodia>	<prob bajo>	<ocupacion>	<etiquetado>	<nombre de pista>
+
+prediccion: tipo de pista que el algoritmo predice que es: +m para melodia, +b para bajo
+
+#################################################################################################################
+
+* Baroque_Baroque-Late_Bach_430bjsbmm15.mid
+    1                                   
+    2        0.4   0.0  0.59            Flute I
+    3   +m   0.5   0.0  0.59 melody     Flute II
+    4   +m   0.9   0.0  0.56 melody     Violin I
+    5   +m   0.9   0.0  0.57            Violin II
+    6        0.3   0.0  0.53 bass       Viola
+    7   +b   0.0   0.5  0.67            Cello
+    8   +m   0.8   0.0  0.76            Soprano I
+    9   +m   0.7   0.0  0.73            Soprano II
+   10        0.4   0.0  0.71            Alto
+   11        0.0   0.0  0.61 bass       Tenor
+   12        0.0   0.3  0.61            Bass
+   13        0.0   0.0  0.83            Continuo
+
+
+%----------------------------------
+
+* Baroque_Baroque-Late_Bach_jesujoyofmansdesiring.mid
+    1                                   (C) & (P) 1992
+    2                                   Romeo Music Intl.
+    3   +m   0.7   0.0  0.56            Soprano
+    4   +m   0.5   0.0  0.57            Alto
+    5        0.1   0.0  0.57 melody     Tenor
+    6        0.1   0.1  0.57            Bass
+    7   +m   0.9   0.0  0.91            Violin I
+    8   +m   0.9   0.0   0.9            Violin II
+    9        0.3   0.0  0.88 bass       Viola
+   10        0.0   0.2  0.97            Cello
+   11   +b   0.0   1.0  0.97 mixdown    Str. Bass
+   12   +m   0.7   0.0  0.56            Trumpet
+   13        0.4   0.0   1.0            Harpsichord
+
+
+%----------------------------------
+
+* Romanticism_Romantic-Nationalism_Breton_Breton_EscenasAndaluzas-2.mid
+    1        0.4   0.0  0.19 melody     Flautin
+    2   +m   0.8   0.0  0.39 melody     Flautas
+    3   +m   0.8   0.0  0.63 melody     Oboes
+    4        0.4   0.0  0.55 melody     Clarinetes en Si b
+    5        0.0   0.1  0.34            Clarinete bajo en Si b
+    6        0.1   0.0  0.46            Fagotes
+    7        0.0   0.0  0.26            Trompas en Fa
+    8                                   Triangulo
+    9        0.3   0.0  0.36            Arpa M.I.
+   10        0.0   0.4  0.52            Arpa M.D.
+   11        0.4   0.0  0.43            Violines I
+   12        0.4   0.0  0.41            Violines II
+   13        0.4   0.0  0.47            Violas
+   14        0.0   0.0  0.65 bass       Violonchelos
+   15   +b   0.0   0.8  0.04            Contrabajos
+   16                                   Escenas Andaluzas (1894) - 2. Polo Gitano
+   17                                   Tomas Breton (1850-1923)
+   18                                   seq by (c) 1988 Ramon Pajares Box 
+   19                                   rpajares@nilsl.net
+
+
+%----------------------------------
+
+* Romanticism_Romantic-Nationalism_Grieg_lyricpiece-littlebirdop43-4.mid
+    1                                   © ROMEO MUSIC INTL.
+    2   +m   0.8   0.0  0.59 bass       Flute
+    3   +b   0.3   0.6  0.68 piano_rh   Flute
+    4   +m   0.8   0.0  0.59 bass       Piano
+    5   +b   0.3   0.6  0.68 piano_rh   Piano
+    6   +m   0.8   0.0  0.59 bass       Fantasia
+    7   +b   0.3   0.6  0.68 piano_rh   Fantasia
+
+
+%----------------------------------
+
+* Romanticism_Romanticism_Beethoven_5thsymp.mid
+    1        0.0   0.0  0.15            
+    2   +b   0.0   0.7  0.58            
+    3        0.4   0.0  0.77 melody     
+    4   +m   0.7   0.0  0.82 melody     
+    5        0.1   0.2  0.73            
+    6        0.0   0.0  0.46            
+    7   +m   0.6   0.0  0.49            
+    8   +m   0.5   0.0  0.47            
+    9   +m   0.7   0.0  0.51 melody     
+   10                                   
+   11        0.1   0.1  0.59 bass       
+   12        0.2   0.0  0.26            
+   13                                   
+
+
+%----------------------------------
+
+* Romanticism_Romanticism_Sarasate_Sarasate_Zapateado.mid
+    1   +m   0.6   0.0  0.34            ZAPATEADO
+    2   +m   0.6   0.0  0.32 melody     by Pablo de Sarasate
+    3   +m   0.7   0.0  0.28 melody     arranged for orchestra by
+    4   +m   0.7   0.0  0.28            G. Pollen (2001)
+    5        0.0   0.0  0.33            
+    6        0.2   0.0  0.26 bass       
+    7   +m   0.8   0.0  0.19            
+    8        0.0   0.0  0.25            
+    9        0.0   0.0  0.25            
+   10        0.0   0.3  0.21            
+   11                                   
+   12                                   
+   13   +m   0.7   0.0  0.53            
+   14   +m   0.6   0.0  0.55 melody     
+   15        0.4   0.0  0.62            
+   16        0.0   0.1  0.61            
+   17   +b   0.0   1.0  0.53            
+
+
+%----------------------------------
+
+* Romanticism_Romanticism_Schumann_Fantasy_for_Clarinet_and_Piano_Op.73_no3.mid
+    1        0.1   0.0  0.96 mixdown    Fantasy Piece No 3
+    2   +m   0.8   0.2  0.88 melody     Clarinet and Piano
+    3                                   R Schumann
+    4                                   C 1998 R Finley
+
+
+%----------------------------------
+
+* Romanticism_Romanticism_Strauss_Johann_straussj_viennalife.mid
+    1                                   
+    2                                   
+    3                                   
+    4                                   
+    5   +m   0.5   0.0  0.19            
+    6   +m   0.8   0.0  0.74            
+    7        0.0   0.4  0.45 melody     
+    8        0.2   0.1  0.26            
+
+
+%----------------------------------
+

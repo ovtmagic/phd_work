@@ -1,0 +1,159 @@
+#################################################################################################################
+ Columnas:
+ <numero pista>	<prediccion>	<prob melodia>	<prob bajo>	<ocupacion>	<etiquetado>	<nombre de pista>
+
+prediccion: tipo de pista que el algoritmo predice que es: +m para melodia, +b para bajo
+
+#################################################################################################################
+
+
+%----------------------------------
+
+* Classicism_Classicism_Haydn_haydn_-4.mid
+    1   +m   0.5   0.0  0.85 piano_rh   
+    2        0.3   0.0  0.08            
+    3        0.1   0.0  0.77 piano_lh   
+    4        0.1   0.3  0.12            
+    5                                   <No Title>
+
+
+%----------------------------------
+
+* Classicism_Classicism_Mozart_Symphony35-41-011-k385_3.mid
+    1        0.4   0.0  0.42            
+    2        0.2   0.0  0.46 bass       
+    3        0.3   0.0  0.37            
+    4        0.2   0.0  0.13            
+    5        0.0   0.1  0.14            
+    6   +m   0.9   0.0  0.71 melody     
+    7   +m   0.8   0.0  0.69            
+    8   +m   0.8   0.0  0.53            
+    9        0.2   0.0  0.53            
+   10   +b   0.0   0.9  0.52 bass       
+   11                                   
+   12                                   
+
+
+%----------------------------------
+
+* Renaissance_Renaissance-Late_Gabrieli_canzone.mid
+    1                                   Canzone
+    2   +m   0.9   0.0  0.76 melody     1
+    3   +m   0.6   0.0  0.81            2
+    4        0.4   0.0  0.73 bass       3
+    5   +b   0.4   0.5  0.71            4
+    6                                   Andrea Gabrieli
+    7                                   Canzone
+    8                                   © 1998 by Curtis Clark. Free for personal use.
+    9                                   jcclark@csupomona.edu
+   10                                   http://www.csupomona.edu/~jcclark/emusic/
+
+
+%----------------------------------
+
+* Romanticism_Post-romanticism_Saint_Saens_893aquar07.mid
+    1                                   Petite Flute
+    2   +m   0.6   0.0  0.62 melody     Flute
+    3                                   Clarinette en UT
+    4                                   Clarinette Sib
+    5   +m   0.6   0.0  0.28            Harmonica
+    6                                   Xylophone
+    7   +m   0.7   0.0  0.66            1er Piano 1
+    8        0.0   0.0   0.4            1er Piano 2
+    9        0.1   0.0  0.67            2d Piano 1
+   10        0.2   0.0  0.66            2d Piano 2
+   11                                   Tempo
+   12   +m   0.7   0.0  0.62            1er Violon
+   13   +m   0.9   0.0  0.76            2d Violon
+   14        0.2   0.0  0.81            Alto
+   15   +b   0.0   0.5  0.43            Violoncelle
+   16                                   Contrebasse
+   17                                   Le Carnaval del Animaux (1886)
+   18                                   7. Aquarium
+   19                                   by Camille Saint-Saens (1835-1921)
+   20                                   seq. (c) 1999 by Ramon Pajares Box
+   21                                   rpajares@nilsl.net
+
+
+%----------------------------------
+
+* Romanticism_Romanticism_Mendelssohn_GMMVIOL_2.mid
+    1   +m   0.6   0.0  0.83 melody     Strings1
+    2   +m   0.8   0.0  0.65            Strings1
+    3   +m   0.5   0.0  0.68            Strings1
+    4        0.3   0.0  0.68 bass       Strings
+    5   +b   0.1   0.5   0.6            Cello
+    6        0.0   0.2  0.16            Pizz
+    7        0.0   0.0  0.31            Clarinet
+    8        0.0   0.3  0.06            Timpani
+    9        0.3   0.0  0.34            Flute
+   10                                   Creative Labs Inc.
+   11                                   (c) 1994 recorded by Dr. Chew
+   12                                   Mendelsohn
+   13                                   Violin Concerto
+   14                                   No1 E minor
+
+
+%----------------------------------
+
+* Romanticism_Romanticism_Schubert_Four_Impromptus_D.935_Op.posth.142_No.2_in_Ab_2.mid
+    1        0.2   0.0  0.93 mixdown    Piano
+    2                                   Schubert Impromtu Op142
+    3                                   Number 2 ©Larry Ellis 10-1-2002
+
+
+%----------------------------------
+
+* XXCentury_XX-Nationalism_Janacek_1210jansinf3.mid
+    1   +m   0.7   0.0  0.26 melody     Flutes
+    2   +m   1.0   0.0   0.2 melody     Flute 3&4 & Piccolo
+    3   +m   0.6   0.0  0.11 melody     Oboe
+    4        0.4   0.0  0.05            English horn
+    5   +m   0.7   0.0  0.41 melody     Clarinet in B flat
+    6        0.0   0.0  0.26            Bass clarinet
+    7   +m   0.8   0.0   0.6            Horn 1&2
+    8        0.2   0.0  0.34            Horn 3&4
+    9        0.1   0.0  0.66            Trumpet in F
+   10        0.1   0.0  0.27            Trombone 1&2
+   11        0.0   0.0  0.24            Trombone 3
+   12   +b   0.0   0.6  0.25            Tuba
+   13        0.4   0.0  0.55            Bells
+   14   +m   0.5   0.0  0.38            Harp
+   15   +m   0.6   0.0  0.39 melody     Violin I
+   16   +m   0.5   0.0  0.37 melody     Violin II
+   17   +m   0.8   0.0  0.49            Viola
+   18        0.0   0.0  0.29            Cello
+   19   +b   0.0   0.9  0.12 bass       Double bass
+   20                                   seq by David Siu dss@po.cwru.edu
+
+
+%----------------------------------
+
+* XXCentury_XX-Nationalism_Sibelius_alla_marcia.mid
+    1   +m   0.6   0.0   0.7 melody     Piccolo
+    2   +m   0.6   0.0  0.68 melody     Flutes
+    3   +m   0.5   0.0  0.74 melody     Oboes
+    4   +m   0.6   0.0  0.81 melody     Clarinets in A
+    5        0.0   0.1  0.82            Bassoons
+    6        0.0   0.0  0.53            Horns in E
+    7        0.1   0.0  0.67            Trumpets in F
+    8        0.0   0.0  0.29            Trumpets in E
+    9        0.0   0.0  0.63            Trombones & Tuba
+   10                                   Triangle
+   11                                   Cymbals
+   12                                   Bass Drum
+   13        0.1   0.2  0.56            Timpani
+   14        0.0   0.0  0.13            Tremolo Strings
+   15                                   Pizz Violins
+   16   +m   0.7   0.0  0.75            Violins 1
+   17   +m   0.6   0.0  0.61            Violins 2
+   18        0.0   0.0  0.22            Pizz Violas
+   19   +m   0.8   0.0  0.78            Violas
+   20        0.0   0.2  0.18            Pizz Cellos
+   21   +b   0.0   0.5  0.81            Cellos
+   22        0.0   0.1  0.25            Pizz Basses
+   23   +b   0.0   0.6  0.79            Basses
+
+
+%----------------------------------
+

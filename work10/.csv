@@ -1,0 +1,73 @@
+Train Filename;Test Filename;track type;Acc.%;Error 0;Error 1;Error 2;Error 3;TP;FP;FN;TN;Precision;Recall;F-measure
+ ./track_selection.py <bass|melody> <threshold> <train_file.arff> <csv_file> <path_to_files>
+        <bass|melody>
+        <threshold>
+        <train_file.arff>: fichero de weka de entrenamiento
+        <csv_file>: fichero con las etiquetas
+        <path_to_files>: directorio con los ficheros MIDI
+ ./track_selection.py <bass|melody> <threshold> <train_file.arff> <csv_file> <path_to_files>
+        <bass|melody>
+        <threshold>
+        <train_file.arff>: fichero de weka de entrenamiento
+        <csv_file>: fichero con las etiquetas
+        <path_to_files>: directorio con los ficheros MIDI
+ ./track_selection.py <bass|melody> <threshold> <train_file.arff> <csv_file> <path_to_files>
+        <bass|melody>
+        <threshold>
+        <train_file.arff>: fichero de weka de entrenamiento
+        <csv_file>: fichero con las etiquetas
+        <path_to_files>: directorio con los ficheros MIDI
+ ./track_selection.py <bass|melody> <threshold> <train_file.arff> <csv_file> <path_to_files>
+        <bass|melody>
+        <threshold>
+        <train_file.arff>: fichero de weka de entrenamiento
+        <csv_file>: fichero con las etiquetas
+        <path_to_files>: directorio con los ficheros MIDI
+ ./track_selection.py <bass|melody> <threshold> <train_file.arff> <csv_file> <path_to_files>
+        <bass|melody>
+        <threshold>
+        <train_file.arff>: fichero de weka de entrenamiento
+        <csv_file>: fichero con las etiquetas
+        <path_to_files>: directorio con los ficheros MIDI
+ ./track_selection.py <bass|melody> <threshold> <train_file.arff> <csv_file> <path_to_files>
+        <bass|melody>
+        <threshold>
+        <train_file.arff>: fichero de weka de entrenamiento
+        <csv_file>: fichero con las etiquetas
+        <path_to_files>: directorio con los ficheros MIDI
+ ./track_selection.py <bass|melody> <threshold> <train_file.arff> <csv_file> <path_to_files>
+        <bass|melody>
+        <threshold>
+        <train_file.arff>: fichero de weka de entrenamiento
+        <csv_file>: fichero con las etiquetas
+        <path_to_files>: directorio con los ficheros MIDI
+ ./track_selection.py <bass|melody> <threshold> <train_file.arff> <csv_file> <path_to_files>
+        <bass|melody>
+        <threshold>
+        <train_file.arff>: fichero de weka de entrenamiento
+        <csv_file>: fichero con las etiquetas
+        <path_to_files>: directorio con los ficheros MIDI
+ ./track_selection.py <bass|melody> <threshold> <train_file.arff> <csv_file> <path_to_files>
+        <bass|melody>
+        <threshold>
+        <train_file.arff>: fichero de weka de entrenamiento
+        <csv_file>: fichero con las etiquetas
+        <path_to_files>: directorio con los ficheros MIDI
+ ./track_selection.py <bass|melody> <threshold> <train_file.arff> <csv_file> <path_to_files>
+        <bass|melody>
+        <threshold>
+        <train_file.arff>: fichero de weka de entrenamiento
+        <csv_file>: fichero con las etiquetas
+        <path_to_files>: directorio con los ficheros MIDI
+ ./track_selection.py <bass|melody> <threshold> <train_file.arff> <csv_file> <path_to_files>
+        <bass|melody>
+        <threshold>
+        <train_file.arff>: fichero de weka de entrenamiento
+        <csv_file>: fichero con las etiquetas
+        <path_to_files>: directorio con los ficheros MIDI
+ ./track_selection.py <bass|melody> <threshold> <train_file.arff> <csv_file> <path_to_files>
+        <bass|melody>
+        <threshold>
+        <train_file.arff>: fichero de weka de entrenamiento
+        <csv_file>: fichero con las etiquetas
+        <path_to_files>: directorio con los ficheros MIDI

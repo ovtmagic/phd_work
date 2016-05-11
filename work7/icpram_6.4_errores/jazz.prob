@@ -1,0 +1,35 @@
+#################################################################################################################
+ Columnas:
+ <numero pista>	<prediccion>	<prob melodia>	<prob bajo>	<ocupacion>	<etiquetado>	<nombre de pista>
+
+prediccion: tipo de pista que el algoritmo predice que es: +m para melodia, +b para bajo
+
+#################################################################################################################
+
+*  11pmtheme.mid
+    1                                   common sysx
+    2   +m   0.9   0.0  0.31 melody     Femail vo
+    3   +m   0.9   0.0  0.31 melody     Femail vo
+    4   +m   0.9   0.0  0.28 melody     Male vo
+    5   +m   0.9   0.0  0.28 melody     Male vo
+    6        0.0   0.0  0.29            Full Acoustic Electric Guitar
+    7   +b   0.0   1.0  0.79 bass       Acoustic Bass
+    8                                   Drums brush set
+    9        0.0   0.0  0.86            g-solo
+   10                                   
+
+
+%----------------------------------
+
+*  1931.MID
+    1   +b   0.0   1.0  0.87 bass       Bass ( BB ) 
+    2                                   Drums ( BB )
+    3        0.0   0.0  0.92            Piano ( BB )
+    4        0.0   0.0  0.15            Guitar ( BB ) 
+    5        0.1   0.0  0.51            Strings ( BB ) 
+    6   +m   1.0   0.0   1.0 melody     Melody ( BB )--BBOK
+    7                                   Soloist ( BB ) (none)
+
+
+%----------------------------------
+

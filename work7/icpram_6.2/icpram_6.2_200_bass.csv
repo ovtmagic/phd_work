@@ -1,0 +1,4 @@
+Filename;track type;Acc.%;Error 0;Error 1;Error 2;Error 3;TP;FP;FN;TN;Precision;Recall;F-measure
+clas200.csv;bass;99.50%;199;0;0;1;97;0;1;102;1.00;0.99;0.99
+jazz200.csv;bass;100.00%;200;0;0;0;200;0;0;0;1.00;1.00;1.00
+kar200.csv;bass;93.50%;187;9;4;0;185;13;0;2;0.93;1.00;0.97

@@ -1,0 +1,208 @@
+#################################################################################################################
+ Columnas:
+ <numero pista>	<prediccion>	<prob melodia>	<prob bajo>	<ocupacion>	<etiquetado>	<nombre de pista>
+
+prediccion: tipo de pista que el algoritmo predice que es: +m para melodia, +b para bajo
+
+#################################################################################################################
+
+* Medieval_ArsNova_Machau_machaut-b11.mid
+    1                                                                       
+    2   +m   0.7   0.0  0.91 melody     N'en fait n'en dit                  
+    3   +b   0.4   0.7  0.93            (Guillaume de Machaut)              
+    4                                   seq by n.nakamura, 2006.            
+
+
+%----------------------------------
+
+* Romanticism_Post-romanticism_Scriabin_fantasy_in_bmin_op28.mid
+    1                                   Encoded by Brad Stark
+    2   +m   0.7   0.0  0.53 piano_rh   www.brad-stark.com
+    3        0.1   0.3  0.83 piano_lh   Scriabin: Op. 28
+    4        0.2   0.0  0.79            Fantasy in B minor
+
+
+%----------------------------------
+
+* Romanticism_Romantic-Nationalism_Breton_547tbeapolo.mid
+    1        0.3   0.0  0.19 melody     Flautin - Piccolo
+    2   +m   0.8   0.0  0.35 melody     Flautas
+    3   +m   0.9   0.0  0.43 melody     Oboes
+    4        0.1   0.0  0.47            Clarinetes en Si b
+    5        0.0   0.3  0.23            Clarinete bajo en Si b
+    6        0.1   0.0  0.39            Fagotes
+    7        0.0   0.0   0.1            Trompas en Fa
+    8                                   Triangulo
+    9        0.3   0.0  0.36            Arpa M.I.
+   10        0.0   0.4  0.52            Arpa M.D.
+   11        0.4   0.0  0.43            Violines I
+   12        0.3   0.0  0.41            Violines II
+   13        0.4   0.0  0.47            Violas
+   14        0.0   0.0  0.65 bass       Violonchelos
+   15   +b   0.0   0.8  0.04            Contrabajos
+   16                                   Escenas Andaluzas (1894) - 2. Polo Gitano
+   17                                   Tomas Breton (1850-1923)
+   18                                   seq by (c) 1988 Ramon Pajares Box 
+   19                                   rpajares@nil.es
+
+
+%----------------------------------
+
+* Romanticism_Romantic-Nationalism_Tchaikovsky_nutcrac1.mid
+    1                                   Nutcracker Theme    
+    2                                   Tchiakovsky         
+    3                                   Copyright (C) 1992  
+    4                                   Voyetra Technologies
+    5        0.3   0.0  0.46 melody     B Piano             
+    6   +b   0.0   0.7  0.63            B Bass              
+    7   +m   0.5   0.0  0.44 melody     B Bells             
+    8        0.3   0.0  0.46            X Piano             
+    9   +b   0.0   1.0  0.71 bass       X Bass              
+   10   +m   0.5   0.0  0.44 melody     X Celesta           
+   11        0.4   0.0  0.47 melody     X String Melody     
+
+
+%----------------------------------
+
+* Romanticism_Romanticism_Beethoven_B9-1-MAA.mid
+    1   +m   0.6   0.0  0.55 melody     Flute
+    2   +m   1.0   0.0   0.6            Oboe
+    3   +m   0.8   0.0  0.57            Clarinet
+    4        0.0   0.0  0.59            Bassoon
+    5        0.2   0.0  0.53            Horns 1,2
+    6        0.0   0.0  0.46            Horns 3,4
+    7        0.1   0.0  0.23            Trumpets
+    8        0.0   0.3  0.28            Timpani
+    9        0.2   0.0   1.0            Color
+   10   +m   0.8   0.0  0.53            Violin 1
+   11   +m   0.7   0.0  0.52            Violin 2
+   12        0.2   0.0  0.45            Viola
+   13        0.1   0.0  0.54            Celli
+   14   +b   0.0   1.0  0.42 bass       Bass
+   15        0.1   0.0  0.01            Pizz Violins
+   16        0.0   0.1  0.07            Pizz Bass
+   17                                   Michael A. Abelson
+   18                                   12/23/97
+   19                                   AWE-32 optimized
+
+
+%----------------------------------
+
+* Romanticism_Romanticism_Chopin_Prelude_Op28_No6_in_Bm_Tolling_Bells_2.mid
+    1        0.0   0.0   0.9            Piano               
+    2   +m   0.5   0.0  0.87            Strings             
+    3   +b   0.0   0.9  0.57 bass       Cellos              
+    4                                   --------------------
+    5                                   Edgar W Cox, III    
+    6                                   Performs            
+    7                                   Chopin's Prelude    
+    8                                   in Bminor           
+    9                                   --------------------
+   10                                                       
+
+
+%----------------------------------
+
+* Romanticism_Romanticism_Chopin_valse14.mid
+    1   +m   0.6   0.0  0.92 melody     Grand Piano         
+    2                                   * "Waltz in E Mnr"  
+    3                                   * by F. Chopin      
+    4                                   * Midi Transcription
+    5                                   * by Ken Gilliland  
+
+
+%----------------------------------
+
+* Romanticism_Romanticism_Jullien_Jullien_Tarantelle.mid
+    1   +m   0.9   0.0  0.79 melody     Tarantelle de Belphegor
+    2   +m   0.7   0.0  0.26 melody     by Louis Jullien(1812-1860)
+    3   +m   0.5   0.0  0.47 melody     (Roch Albert)
+    4   +m   1.0   0.0  0.71 melody     arranged and sequenced 
+    5   +m   0.5   0.0  0.63 melody     by G. Pollen (2001)
+    6        0.1   0.0   0.4            
+    7        0.1   0.0   0.3            
+    8        0.0   0.0   0.2            
+    9        0.3   0.0  0.11            
+   10        0.4   0.0  0.11            
+   11        0.0   0.0  0.13            
+   12        0.0   0.0  0.13            
+   13   +b   0.0   1.0  0.23            
+   14                                   
+   15                                   
+   16   +m   0.5   0.0  0.87 melody     
+   17   +m   0.7   0.0  0.59            
+   18        0.3   0.0  0.45            
+   19        0.0   0.0  0.27            
+   20   +b   0.0   1.0  0.26 bass       
+
+
+%----------------------------------
+
+* Romanticism_Romanticism_Schumann_Concerto_Piano_and_Orch_Op.92_intro.mid
+    1   +m   0.7   0.0  0.25 melody     flutes
+    2   +m   0.8   0.0  0.24 melody     oboes
+    3   +m   0.9   0.0  0.28 melody     clarinets
+    4        0.0   0.0  0.28            bassoons
+    5        0.1   0.0  0.29            horns in D, E , F
+    6        0.1   0.0  0.11            trumpets in D, E
+    7        0.1   0.0  0.76            Piano
+    8        0.1   0.0  0.07            timpani  
+    9   +m   0.7   0.0  0.37 melody     1st violins
+   10   +m   0.9   0.0  0.36            2nd violins
+   11        0.3   0.0  0.37            violas
+   12        0.0   0.0  0.37            cellos
+   13   +b   0.0   0.8   0.2 bass       contra basses
+   14        0.0   0.4  0.89 bass       solo cello
+   15                                   Schumann
+   16                                   opus 92
+   17                                   midi:joekb
+   18                                   
+   19                                   Intro and allegro
+   20                                   appasionato
+   21                                   (concertstück)
+
+
+%----------------------------------
+
+* XXCentury_Neoclassicism_Hindemith_Symph_metamorphosis_mov1.mid
+    1        0.4   0.0  0.28            Glockenspiel
+    2        0.3   0.0   0.5 melody     Flute and piccolo
+    3   +m   0.6   0.0  0.54 melody     Oboe
+    4   +m   0.6   0.0  0.31 melody     English horn
+    5   +m   0.6   0.0  0.56 melody     Clarinet
+    6        0.0   0.2   0.3            Bassoon
+    7        0.2   0.0  0.44            French Horns
+    8        0.4   0.0  0.25            Trumpet
+    9        0.0   0.1  0.27            Trombone and Tuba
+   10                                   Percussion
+   11        0.0   0.3  0.24            Timpani
+   12   +m   0.7   0.0  0.63            Violin I
+   13   +m   0.6   0.0  0.54            Violin II
+   14   +m   0.8   0.0  0.63            Viola
+   15        0.0   0.0  0.54            Cello
+   16   +b   0.0   0.6  0.37 bass       Double bass
+
+
+%----------------------------------
+
+* XXCentury_XX-Nationalism_Sibelius_karelia_interemezzo.mid
+    1        0.4   0.0  0.48 melody     Flutes
+    2        0.3   0.0  0.48 melody     Oboes
+    3        0.2   0.0  0.48 melody     Clarinets in Bb
+    4   +b   0.0   0.6  0.48            Bassoons
+    5        0.0   0.0  0.57            Horns
+    6        0.3   0.0  0.88            Trumpets in F
+    7        0.0   0.0  0.88            Trombones & Tuba
+    8                                   Tambourine
+    9                                   Bass Drum
+   10                                   Cymbals
+   11        0.1   0.0  0.73            Timpani
+   12        0.1   0.0  0.61            Tremolo Strings
+   13        0.3   0.0  0.32            Violins
+   14        0.4   0.0  0.39            Violas
+   15   +b   0.0   0.6  0.59 bass       Cellos
+   16        0.0   0.0  0.98 bass       Basses
+
+
+%----------------------------------
+

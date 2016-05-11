@@ -1,0 +1,101 @@
+Nombre_fichero,N_Pistas,melody,bass,piano_rh,piano_lh,mixdown,,,,
+Baroque_Baroque-Early_Merula_mcan11_m.mid,3,1,3,,,,Primo Violino,Violone,OK,
+Baroque_Baroque-Early_Young_04yste_m.mid,4,1,3 4,,,,Violino Primo,Basso Continuo,OK,
+Baroque_Baroque-Late_Albinoni_Rollerball_Albinoni_Super_8_Remix_cloudburst.mid,2,1,2,,,,MAIN,BASS,OK,
+Baroque_Baroque-Late_Bach_3PART_06.mid,3,1,3,,,,RH,LH,OK,
+Baroque_Baroque-Late_Bach_997-5DOU.mid,16,,,1,2,,Solo Lute or Keyboard,--------------------------------------,OK,
+Baroque_Baroque-Late_Bach_anna-18.mid,2,1,2,,,,Marche  G-dur,,OK,
+Baroque_Baroque-Late_Bach_anna-24.mid,3,1,2 3,,,,,,OK,
+Baroque_Baroque-Late_Bach_bjs99014.mid,6,3,4,,,,MD,MS,OK,
+Baroque_Baroque-Late_Bach_invent1.mid,2,1,2,,,,Treble Clef         ,Bass Clef           ,OK,
+Baroque_Baroque-Late_Bach_jsbos12.mid,13,5 6 8,7 11,,,,Oboe I,Bassoon,OK,
+Baroque_Baroque-Late_Bach_K003.mid,2,1,,,,,Italian,,xxxxx,quitar, una sola pista
+Baroque_Baroque-Late_Bach_MUSOFF_K.mid,1 2,2,,,,,,,OK,
+Baroque_Baroque-Late_Bach_p22b_min.mid,2,,,1,2,,treble,bass,OK,
+Baroque_Baroque-Late_Bach_prelud21.mid,2,,,1,2,,P21B-MAJ.MID,P21B-MAJ.MID,OK,
+Baroque_Baroque-Late_Bach_WT1_7B.mid,3,,,1 2,3,,RH L/LH H,LH L,OK,
+Baroque_Baroque-Late_Pachelbel_pachelbel_magnificat_part_I_20.mid,16,1,,,,,Pachelbel's Magnificat,,xxxxx,quitar, una sola pista
+Baroque_Baroque-Late_Pachelbel_trumpet_quartet_canon.mid,9,1 2 3,4,,,,Trumpet 2,Trumpet 4,OK,
+Baroque_Baroque-Middle_Rosenmuller_01padal_m.mid,4,1 2,3 4,,,,Cantus I,Basso pro Organo,OK,
+Baroque_Baroque-Middle_Sanz_1298gs3hach.mid,14,3,8,,,,E' string,E string,xxxxx,cada pista es una cuerda
+Classicism_Classicism_Haydn_hay-p38b.mid,4,,,1,2,,Piano Sonata No.38 in E Flat,by FJ Haydn (2nd mvmt. - Adagio),OK,
+Classicism_Classicism_Mozart_2024panos3no1.mid,20,9,13,3 5 7,4 6 8,1,Piano 1 Trebble,Bassi,OK,
+Classicism_Classicism_Mozart_moz330_2.mid,2,,,1,2,,Piano R.H.,Piano L.H.,OK,
+Classicism_Classicism_Mozart_Mozart-minuet-k2-2.mid,2,,,1,2,,Piano RH,Piano LH,OK,
+Classicism_Classicism_Mozart_mozk22.mid,12,1 2 5 6,9,,,,Oboe II,Bass,OK,Pista 7 melodia?
+Classicism_Classicism_Mozart_Sinfonia-n40-de-Mozart.mid,0,,,,,,,,xxxxx,
+Classicism_Classicism_Mozart_wam0330.mid,5,,,,,,,,xxxxx,ninguna pista, error
+Classicism_Pre-classicism_Scarlatti_scarlatt.mid,2,,,,,,,,xxxxx,dos pistas iguales
+Medieval_ArsNova_Machau_machaut-b05.mid,3,2,3,,,,Riches d'amour                      ,(Guillaume de Machaut)              ,OK,
+Medieval_Gregorian_Comunion_33_Domingo.mid,5,1,,,,,Cantor,,xxxxx,quitar una sola pista valida
+Renaissance_Renaissance-Late_Byrd_1737no155lavolta.mid,2,1,,,,,Instrument 1,,xxxxx,dos pistas iguales
+Renaissance_Renaissance-Late_Byrd_byrd-pavan.mid,15,1,12,,,,recorder,Bass,xxxxx,quitar, muchas dudas
+Renaissance_Renaissance-Late_Byrd_FW163.mid,2,1,,,,,Track 1,,xxxxx,quitar, una sola pista valida
+Renaissance_Renaissance-Late_Monteverdi_monteverdi_lamento_a1.mid,3,1,3,,,,Arianna,2,OK,
+Renaissance_Renaissance-Late_Praetorius_pragav3.mid,11,2 3,6,,,,s1,b,OK,
+Renaissance_Renaissance-Late_Victoria_Ave_Maria_de_Victoria.mid,5,1,4,,,,Soprano,Basse,OK,
+Renaissance_Renaissance-Late_Victoria_Ave_Maris_Stella-1-Kyrie.mid,4,1,4,,,,s,b,OK,
+Renaissance_Renaissance-Late_Victoria_Ave_Regina-2-Gloria-1t.mid,8,3,4 8,,,,2s,1b,OK,
+Renaissance_Renaissance-Late_Victoria_Domine_In_Virtute_Tua-1b.mid,8,1 4 5,8,,,,1s,1b,OK,dudas
+Renaissance_Renaissance-Late_Victoria_Dum_Complerentur-5-Benedictus-2c.mid,7,1 2 4,7,,,,1s,b,OK,dudas
+Renaissance_Renaissance-Late_Victoria_Ecce_Dominus_Veniet.mid,5,1,5,,,,s,b,OK,
+Renaissance_Renaissance-Late_Victoria_Estote_Fortes_In_Bello-t.mid,4,3,4,,,,t,b,OK,
+Renaissance_Renaissance-Late_Victoria_Laetatus_Sum-5-Agnus_Dei-1t.mid,12,7,4 8 12,,,,1b,2b,OK,dudas
+Renaissance_Renaissance-Late_Victoria_LJbis2-Vau_Et_Egressus_Est-b.mid,5,1 2,5,,,,1s,b,OK,
+Renaissance_Renaissance-Late_Victoria_LJbis8-Aleph_Quomodo_Obscuratum-2s.mid,5,1 2,5,,,,1s,b,OK,
+Renaissance_Renaissance-Late_Victoria_Magnificat_Quarti_Toni-pares-2c.mid,5,1 3,5,,,,s,b,OK,
+Renaissance_Renaissance-Late_Victoria_Misa_Quarti_Toni-1-Kyrie.mid,4,1,4,,,,s,b,OK,
+Renaissance_Renaissance-Late_Victoria_O_Quam_Gloriosum_Est_Regnum.mid,4,1,4,,,,s,b,OK,
+Renaissance_Renaissance-Late_Victoria_O_Sacrum_Convivium_a_6.mid,6,1,6,,,,s,b,OK,dudas
+Renaissance_Renaissance-Late_Victoria_Pasion_San_Mateo.mid,4,1,4,,,,s,b,OK,
+Renaissance_Renaissance-Late_Victoria_Pro_Victoria-6-Agnus_Dei-3s.mid,9,1 2 6,4 9,,,,1b,1b,OK,
+Renaissance_Renaissance-Late_Victoria_Quam_Pulchri_Sunt-2-Gloria-c.mid,4,2,4,,,,b,b,OK,Pista 1 melodia?
+Renaissance_Renaissance-Late_Victoria_Quia_Viderunt_Oculi-c.mid,5,2,5,,,,s,b,OK,Pista 1 melodia?
+Renaissance_Renaissance-Late_Victoria_TR09-Animam_Meam_Dilectam-t.mid,4,2,,,,,b,b,OK,
+Renaissance_Renaissance-Late_Victoria_TR11-Iesum_Tradidit_Impius-t.mid,4,1 4,,,,,1s,t,OK,
+Renaissance_Renaissance-Late_Victoria_TR16-Astiterunt-Reges.mid,4,1,4,,,,s,b,OK,
+Renaissance_Renaissance-Late_Victoria_Victimae_Paschale.mid,8,1 2,4 8,,,,1s,b,OK,
+Renaissance_Renaissance-Late_Victoria_Vidi_Speciosam-1-Kyrie-1s.mid,6,1,6,,,,1s,b,OK,
+Renaissance_Renaissance-Late_Victoria_Vidi_Speciosam-c.mid,6,1 2 3,6,,,,1s,b,OK,
+Romanticism_Post-romanticism_Mahler_mahl4_4.mid,16,1 7,,,,,,,OK,
+Romanticism_Post-romanticism_Messager_2595mirette04.mid,6,1 2,,3,4,,Mirette,piano,OK,
+Romanticism_Post-romanticism_Scriabin_prelude_op11_no18.mid,2,,,1,2,,Right Hand,Left Hand,OK,
+Romanticism_Romantic-Nationalism_Grieg_1857dehalvandebergkoning.mid,0,,,,,,,,xxxxx,Error en fichero
+Romanticism_Romantic-Nationalism_Grieg_991gpanita.mid,7,1,7,,,,ANITRA'S DANCE,,OK,
+Romanticism_Romantic-Nationalism_Grieg_AveMStellaGrieg.mid,4,1,4,,,,,,OK,
+Romanticism_Romantic-Nationalism_Sousa_973riflerg1.mid,8,1,3,,,,Trumpet-Solo,Tuba,OK,
+Romanticism_Romantic-Nationalism_Tchaikovsky_969gp4nut.mid,24,1 2 3 6 7 20,24,,,,4. Trepak from,,OK,
+Romanticism_Romanticism_Beethoven_5thSymph_SYMPHONY.mid,4,1,4,,,,Fifth Symphony,,OK,
+Romanticism_Romanticism_Beethoven_beet54s.mid,16,1 2 3 12,16,,,,Piccolo,,OK,
+Romanticism_Romanticism_Brahms_BR-120B2.mid,5,1,,2,3,,Sonata For Clarinet and Piano ,2nd mvmt.  Allegro appassionato,OK,
+Romanticism_Romanticism_Brahms_brwlz_12.mid,2,,,1,2,,Piano,,OK,
+Romanticism_Romanticism_Carulli_262car_ante.mid,2,,,1,2,,,,OK,
+Romanticism_Romanticism_Chopin_CHOPROND.mid,11,,,2,3,,Piano 1 ,Piano 2 ,OK,
+Romanticism_Romanticism_Chopin_Piano_Sonata_No3_in_Bm_Op.58_mov4.Finale_Presto_non_tanto.mid,2,,,1,2,,,,OK,
+Romanticism_Romanticism_Chopin_Polonaise_in_Cm_Op.40_No.2.mid,4,,,1 3,2 4,,1Melodie main droite,2Accompagnement main gauche,OK,
+Romanticism_Romanticism_Gounod_GP_FA_MS.mid,13,13,12,,,,,,xxxxx,muchas dudas
+Romanticism_Romanticism_Liszt_Christmas_Tree_9.Evening_Bells.mid,16,1 2,,,,,Track 1,,OK,
+Romanticism_Romanticism_Mendelssohn_mendel05.mid,7,6,,,,,Melody  (BB),,OK,
+Romanticism_Romanticism_Panofka_panofka_24_vocalises_ttes_voix_16.mid,3,1,,2,3,,chant,piano 2,OK,
+Romanticism_Romanticism_Panofka_panofka_24_vocalises_ttes_voix_22.mid,3,1,,2,3,,chant,piano 2,OK,
+Romanticism_Romanticism_Rossini_barber-overture.mid,15,7 11,15,,,,,,OK,
+Romanticism_Romanticism_Rossini_WTELLCEN.mid,16,3 5 8,,,,,woodwinds           ,lo pizz             ,OK,
+Romanticism_Romanticism_Schubert_1266d960m3.mid,8,,,1,2,,Right,,OK,
+Romanticism_Romanticism_Schubert_First_Waltzes_D.365_Op.9.mid,4,1,4,,,,Grand Piano,Instrument19,OK,dudas
+Romanticism_Romanticism_Schubert_Var_on_Anselm_Huttenbrenner_in_Am_D.576.13.mid,2,,,,,,,,xxxxx,ninguna pista
+Romanticism_Romanticism_Schumann_Zigeunerleben_Op.29_No.3.mid,6,3 4 5 6,,1,2,,          (ike_chan@d1.dion.ne.jp),by R. SCHUMANN,OK,
+Romanticism_Romanticism_Wagner_VALKYRIE.mid,29,4 8 18,5 20,,,,woodwinds           ,FHV                 ,OK,
+XXCentury_Impressionism_Debussy_012_debima04.mid,8,1,5,,,,No. 01 Treble,No. 03 Bass,OK,
+XXCentury_Impressionism_Debussy_013_jimbo.mid,5,1,1,,,,Pianoforte,Pianoforte,xxxxx,solo una pista
+XXCentury_Misc_Messiaen_1331banquetc.mid,6,6,,,,,Pedale 2',Pedale 8',OK,
+XXCentury_Neoclassicism_Prokofiev_piano_conc_no3_op26_mov1.mid,16,1 2 3 4 12,16,,,,Piccolo,Bass,OK,muchas pistas
+XXCentury_XX-Nationalism_Albeniz_albesp5.mid,8,,,1,2,,Piano right,,OK,
+XXCentury_XX-Nationalism_Gershwin_2131prgybess.mid,10,3 4,6,,,,Ch  2   ,Ch  5   ,OK,
+XXCentury_XX-Nationalism_Holst_first_suite_op28_march.mid,17,1 2 3 4 13,9 17,,,,Suite in E flat,,OK,
+XXCentury_XX-Nationalism_Holst_Jupiter.mid,28,16,17,,,,Tenor Tuba in Bb,Bass Tuba,xxxxx,demasiadas pistas
+XXCentury_XX-Nationalism_Janacek_JANSINF5.mid,26,2,13,,,,Piccolo,Tuba,OK,
+XXCentury_XX-Nationalism_Janacek_TarasBulba3.mid,39,29,38,,,,Tremolo Strings,Basses,xxxxx,
+XXCentury_XX-Nationalism_Nielsen_symp_no2_finale.mid,19,1 3 13,19,,,,Flutes,Pizz Basses,OK,
+XXCentury_XX-Nationalism_Tarrega_tarrega_preludio_no1.mid,2,1,2,,,,,, OK,
+XXCentury_XX-Nationalism_Villalobos_prole_do_bebe_no1_no4_mulatinha.mid,17,1,8,9 10,,,Violin,Cello,xxxxx,discordante
+XXCentury_XX-Nationalism_Villalobos_prole_do_bebe_no1_no7_polichinelo_2.mid,15,,,1 2,3,,aux Right Hand,,OK,

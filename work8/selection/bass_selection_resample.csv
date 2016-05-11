@@ -1,0 +1,4 @@
+Train Filename,Test Filename,track type,Acc.%,Error 0,Error 1,Error 2,Error 3,TP,FP,FN,TN,Precision,Recall,F-measure
+Total b_class_train.model,class_test.csv,bass,75.97%,332,13,82,10,266,95,10,66,0.74,0.96,0.84
+Total b_jazz_train.model,jazz_test.csv,bass,98.61%,425,4,2,0,421,6,0,4,0.99,1.00,0.99
+Total b_kar_train.model,kar_test.csv,bass,98.00%,442,4,5,0,433,9,0,9,0.98,1.00,0.99

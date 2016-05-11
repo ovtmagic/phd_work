@@ -1,0 +1,205 @@
+#################################################################################################################
+ Columnas:
+ <numero pista>	<prediccion>	<prob melodia>	<prob bajo>	<ocupacion>	<etiquetado>	<nombre de pista>
+
+prediccion: tipo de pista que el algoritmo predice que es: +m para melodia, +b para bajo
+
+#################################################################################################################
+
+* Baroque_Baroque-Late_Bach_babwv653.mid
+    1   +m   0.9   0.0  0.88            
+    2   +m   0.6   0.0  0.46 melody     
+    3   +b   0.0   1.0  0.87 bass       
+    4                                   J.S. BACH
+    5                                   Eighteen Chorale Settings, No. 3, BWV 653
+    6                                   Sequenced by Lee Dawson
+    7                                   email     ldawson@steward-net.com
+
+
+%----------------------------------
+
+* Baroque_Baroque-Late_Bach_BACH2PR2.mid
+    1        0.4   0.0  0.97 mixdown    Piano
+    2                                   (c) 1994
+    3                                   Creative Labs Inc. 
+    4                                   Bach Prelude bk2 no2
+    5                                   Recorded by Dr. Chew
+
+
+%----------------------------------
+
+* Baroque_Baroque-Late_Bach_jsbos21.mid
+    1                        melody     1st Movement - Overture
+    2                        melody     Sequenced by D. L. Viens 19 Jan 2001
+    3                                   dlviens@empire.net
+    4                                   
+    5   +m   0.9   0.0  0.87            Flauto traverso
+    6   +m   0.9   0.0  0.86            Violin I
+    7   +m   0.7   0.0  0.73            Violin II
+    8   +m   0.6   0.0  0.72            Viola
+    9   +b   0.0   0.5   0.7 bass       Cello
+   10        0.0   0.0  0.75            Harpsichord 
+   11                                   Johann Sebastian Bach - Orchestral Suite No. 2 in B minor, BWV1067 - No. 1 Overture
+
+
+%----------------------------------
+
+* Baroque_Baroque-Late_Bach_Minuets.mid
+    1   +m   0.5   0.0   0.8 mixdown    
+    2                                   
+    3                                   
+    4                                   
+    5                                   
+    6                                   
+    7                                   
+
+
+%----------------------------------
+
+* Baroque_Baroque-Middle_Rosenmuller_07son_m.mid
+    1   +m   0.9   0.0  0.84            Violino Primo
+    2   +m   0.8   0.0  0.88 melody     Violino Secondo
+    3   +m   0.6   0.0  0.88 melody     Violetta Primo
+    4   +b   0.0   0.6  0.86            Viola (da gamba)
+    5                                   Basso Continuo
+    6        0.4   0.1  0.92            Basso Continuo
+
+
+%----------------------------------
+
+* Renaissance_Renaissance-Early_Anonymous_eladondon.mid
+    1                                   E la don don, Verges María
+    2        0.4   0.0  0.43 melody     1
+    3   +m   0.7   0.0  0.63            2
+    4        0.2   0.0  0.53 bass       3
+    5   +b   0.0   0.7   0.6            4
+    6                                   drum
+    7                                   E la don don, Verges María
+    8                                   Anonymous
+    9                                   © 1996 by Curtis Clark. Free for personal use
+   10                                   jcclark@csupomona.edu
+   11                                   http://www.csupomona.edu/~jcclark/emusic/
+
+
+%----------------------------------
+
+* Renaissance_Renaissance-Late_Anonymous_pippers_fancy.mid
+    1                                   Piper's fancy (The new rigged ship)
+    2   +m   0.5   0.0  0.93 melody     1
+    3        0.3   0.0  0.73            2
+    4   +m   0.5   0.0  0.76 bass       3
+    5   +b   0.6   0.7  0.88            drum
+    6                                   Piper's fancy/The new rigged ship
+    7                                   English country dance
+    8                                   © 1996 by Curtis Clark. Free for personal use
+    9                                   jcclark@csupomona.edu
+   10                                   http://www.csupomona.edu/~jcclark/emusic/
+
+
+%----------------------------------
+
+* Renaissance_Renaissance-Late_Gastoldi_gastoldi-amor_v.mid
+    1   +m   0.6   0.0  0.64            Soprano
+    2   +m   0.6   0.0  0.65            Alto 1
+    3   +m   0.7   0.0  0.61 melody     Alto 2
+    4        0.2   0.0  0.56            Tenor
+    5   +b   0.1   0.8  0.64 melody     Bass
+    6                                   Amor vittorioso
+    7                                   Giovanni Gastoldi
+    8                                   Sequenced by Kelson Vibber
+
+
+%----------------------------------
+
+* Romanticism_Romanticism_Beethoven_symphony7m4.mid
+    1                                   (C) & (P) 1992
+    2                                   Romeo Music Intl.
+    3        0.2   0.0  0.49            2 Flšten
+    4        0.4   0.0  0.49            2 Hoboen
+    5        0.3   0.0  0.49            2 Klarinetten in A
+    6        0.0   0.0  0.44            2 Fagotte
+    7        0.0   0.0  0.66            2 Hšrner in A
+    8   +m   0.9   0.0  0.66 melody     2 Trompeten in D
+    9        0.2   0.0  0.34            Pauken in A-E
+   10   +m   0.6   0.0  0.75            1. Violinen
+   11        0.3   0.0  0.83            2. Violinen
+   12        0.4   0.0  0.83 bass       Bratschen
+   13        0.0   0.2  0.58            Violoncelli
+   14   +b   0.0   0.9  0.58            KontrabŠsse
+
+
+%----------------------------------
+
+* Romanticism_Romanticism_Gounod_GP_1_FAU.mid
+    1   +m   0.6   0.0  0.13            BALLET MUSIC
+    2   +m   1.0   0.0  0.35            from the Opera FAUST
+    3   +m   0.8   0.0  0.17            by Charles Gounod (1868)
+    4   +m   0.8   0.0  0.35            1. Danse Prelude
+    5        0.0   0.0  0.41            
+    6        0.0   0.0  0.53            arr : G. Pollen (2000)
+    7        0.2   0.0  0.06            
+    8        0.1   0.0  0.17            
+    9        0.0   0.0  0.18            
+   10        0.0   0.2   0.1            
+   11                                   
+   12        0.0   0.0  0.26            
+   13   +m   0.9   0.0  0.87            
+   14   +m   0.5   0.0  0.49 melody     
+   15        0.0   0.0  0.45            
+   16        0.0   0.0  0.42            
+   17   +b   0.0   0.6  0.33            
+
+
+%----------------------------------
+
+* XXCentury_XX-Nationalism_Janacek_tarasb3.mid
+    1        0.4   0.0  0.21            K Piccolo
+    2   +m   0.6   0.0  0.57            Flutes
+    3   +m   0.7   0.0   0.6 melody     Oboes
+    4        0.2   0.0  0.17 melody     English Horn
+    5   +m   0.8   0.0  0.54            Clarinets
+    6        0.0   0.0  0.56 melody     Bassoons
+    7   +b   0.0   0.6  0.22            Contrabassoon
+    8        0.2   0.0  0.64            Horns
+    9   +m   0.5   0.0  0.95            Mute F Trumpet
+   10        0.3   0.0  0.32            F Trumpets
+   11        0.0   0.0  0.38            Trombones
+   12        0.0   0.1   0.2            K Tuba
+   13        0.0   0.0  0.22            Timpani
+   14        0.4   0.0   0.2            Bells
+   15        0.4   0.0   0.2            K Bells
+   16                                   Triangle
+   17                                   Snare Drum
+   18                                   Cymbals
+   19        0.0   0.0  0.43            K Organ
+   20        0.1   0.0  0.17            K Harp
+   21        0.2   0.0  0.03            Pizz Violins
+   22        0.2   0.0  0.57            Tremolo Strings
+   23   +m   0.7   0.0  0.32            Violins
+   24        0.1   0.0  0.14            Pizz Violas
+   25        0.3   0.0  0.44            Violas
+   26        0.0   0.0  0.12            K Pizz Cellos
+   27        0.1   0.1  0.42            Cellos
+   28        0.0   0.4  0.11 bass       K Pizz Basses
+   29        0.0   0.2  0.42            Basses
+
+
+%----------------------------------
+
+* XXCentury_XX-Nationalism_Orff_orff_carmina_18.mid
+    1        0.2   0.0  0.65 melody     Baryton solo
+    2   +m   1.0   0.0  0.38 melody     S
+    3   +m   0.6   0.0  0.38 melody     A
+    4        0.1   0.0  0.29            T
+    5        0.0   0.0  0.29            B
+    6                                   Percussion
+    7                                   Percussion-2
+    8        0.3   0.0  0.76 bass       Piano
+    9   +b   0.0   0.9  0.43            Piano-2
+   10        0.4   0.0   0.4            Glockenspiel/Gong
+   11        0.0   0.0  0.21            Timpani
+   12                                   Tempo Track
+
+
+%----------------------------------
+

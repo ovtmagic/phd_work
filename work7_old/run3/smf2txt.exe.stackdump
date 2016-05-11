@@ -1,0 +1,8 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=00406550
+eax=00000000 ebx=80038A08 ecx=0000DB31 edx=80038B0C esi=80038A08 edi=80038B0C
+ebp=00289F90 esp=00289DA0 program=D:\bin\smf2txt.exe, pid 10168, thread main
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+00289F90  00406550 (800924BD, 800924BD, 800924BC, 800924C4)
+End of stack trace

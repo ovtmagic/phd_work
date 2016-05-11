@@ -1,0 +1,98 @@
+#################################################################################################################
+ Columnas:
+ <numero pista>	<prediccion>	<prob melodia>	<prob bajo>	<ocupacion>	<etiquetado>	<nombre de pista>
+
+prediccion: tipo de pista que el algoritmo predice que es: +m para melodia, +b para bajo
+
+#################################################################################################################
+
+%----------------------------------
+
+* Baroque_Baroque-Late_Vivaldi_gloria.mid
+    1   +m   0.9   0.0  0.65            
+    2   +m   0.6   0.0  0.64            
+    3        0.1   0.0  0.64            
+    4        0.2   0.1  0.64            
+    5        0.1   0.0   0.5            
+    6   +b   0.0   1.0  0.46 bass       
+    7                                   
+    8                                   
+    9                                   
+   10                                   
+   11                                   
+   12                                   
+
+
+%----------------------------------
+
+* Classicism_Classicism_Lidon_lidon-quartet_2ndmid.mid
+    1        0.4   0.0  0.76 melody     Trompa en Mib
+    2   +m   1.0   0.0  0.67            Violin 1
+    3   +m   0.7   0.0   0.7            Violin 2
+    4   +b   0.0   0.6  0.63 bass       Violon
+    5                                   Tempo
+    6                                   Cuarteto en forma de concierto (1800)
+    7                                   2. Largo-Allegretto
+    8                                   by Jose Lidon (1746-1827), Spanish
+    9                                   seq by (c) 1999 Ramon Pajares Box
+   10                                   rpajares@nilsl.net
+
+
+%----------------------------------
+
+* Romanticism_Post-romanticism_Saint_Saens_gp_danse.mid
+    1   +m   0.7   0.0  0.21            DANSE MACABRE
+    2   +m   0.5   0.0  0.14            a tone poem by
+    3   +m   0.6   0.0  0.31            Camille Saint-Saens
+    4   +m   0.7   0.0  0.28            in 1875
+    5        0.0   0.0  0.28            arr : G. Pollen  in 1999
+    6        0.0   0.3  0.19            
+    7        0.1   0.0  0.27            Midi output =
+    8        0.0   0.0  0.19            CREATIVE MIDI
+    9        0.4   0.0  0.21            INSTRUMENT MAPPER
+   10        0.2   0.0   0.2            
+   11        0.0   0.1  0.23            AWE 64 GOLD
+   12   +m   0.6   0.0  0.29 melody     Creative Labs.
+   13        0.0   0.1  0.11            
+   14        0.1   0.0  0.14            
+   15                                   
+   16        0.4   0.0  0.18            
+   17   +m   0.5   0.0  0.19 melody     
+   18   +m   0.8   0.0  0.46            
+   19   +m   0.9   0.0  0.49            
+   20        0.3   0.0  0.41            
+   21        0.1   0.0  0.42            
+   22   +b   0.0   0.6   0.3 bass       
+
+
+%----------------------------------
+
+* Romanticism_Romanticism_Bizet_570thetop.mid
+    1        0.3   0.4  0.78 piano_rh   ACCOUSTICAL PIANO   
+    2        0.4   0.0  0.39 bass       ACCOUSTICAL PIANO   
+    3                                   ====================
+    4                                   "THE TOP"           
+    5                                   Composer:  Bizet    
+    6                                   Frm Children's Suite
+    7                                   Performed Real Time 
+    8                                   by Dianne E. Leffer 
+    9                                   1989                
+
+
+%----------------------------------
+
+* XXCentury_Impressionism_Debussy_debussy-lafille.mid
+    1   +m   1.0   0.0  0.84 melody     La fille aux chevaux de lin
+    2                                   By Claude Debussy
+    3   +b   0.0   0.6  0.76            "Midified" by Casey Cook
+
+
+%----------------------------------
+
+* XXCentury_XX-Nationalism_Albeniz_leyenda.mid
+    1        0.3   0.0  0.88 melody     Gitarre
+    2                                   Tempo
+
+
+%----------------------------------
+

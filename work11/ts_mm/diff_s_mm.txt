@@ -1,0 +1,89 @@
+35c35
+< Renaissance_Renaissance-Late_Victoria_Quam_Pulchri_Sunt-2-Gloria-c.mid,bass,4,1,0,0,0
+---
+> Renaissance_Renaissance-Late_Victoria_Quam_Pulchri_Sunt-2-Gloria-c.mid,bass,-1,0,0,1,0
+60c60
+< Medieval_ArsNova_Machau_machaut-b17.mid,bass,4,1,0,0,0
+---
+> Medieval_ArsNova_Machau_machaut-b17.mid,bass,3,0,1,0,0
+186c186
+< Simile_Est_Regnum_Coelorum_6_Agnus_Dei_1b.mid,bass,8,1,0,0,0
+---
+> Simile_Est_Regnum_Coelorum_6_Agnus_Dei_1b.mid,bass,4,1,0,0,0
+274c274
+< Renaissance_Renaissance-Early_Binchois_Binchois16.mid,bass,3,1,0,0,0
+---
+> Renaissance_Renaissance-Early_Binchois_Binchois16.mid,bass,2,1,0,0,0
+367c367
+< Classicism_Classicism_Mozart_arias-004-vamodi.mid,bass,8,1,0,0,0
+---
+> Classicism_Classicism_Mozart_arias-004-vamodi.mid,bass,4,1,0,0,0
+414c414
+< Renaissance_Renaissance-Late_Victoria_Quicumque_Christum_Quaeritis-s.mid,bass,4,1,0,0,0
+---
+> Renaissance_Renaissance-Late_Victoria_Quicumque_Christum_Quaeritis-s.mid,bass,-1,0,0,1,0
+
+
+
+%----------------------------------
+
+*  Renaissance_Renaissance-Late_Victoria_Quam_Pulchri_Sunt-2-Gloria-c.mid
+    1     +a   0.4   0.0   0.6  0.74 melody     s
+    2     +a   0.1   0.0   1.0  0.94 melody     c
+    3     +a   0.1   0.0   1.0  0.88 accomp     t
+    4     +m   0.7   0.3   0.0  0.87 bass       b
+
+%----------------------------------
+
+*  Medieval_ArsNova_Machau_machaut-b17.mid
+    1
+    2     +m   0.9   0.0   0.0  0.84 melody     Sanz cuer m'en vois/Amis, dolens
+    3     +b   0.1   0.6   0.2  0.84 accomp         /Dame, par vous
+    4     +b   0.1   0.5   0.2  0.84 bass       (Guillaume de Machaut)
+
+
+%----------------------------------
+
+*  Renaissance_Renaissance-Late_Victoria_Quicumque_Christum_Quaeritis-s.mid
+    1     +a   0.4   0.0   0.6  0.83 melody     s
+    2     +a   0.3   0.0   1.0   0.9 accomp     c
+    3     +a   0.1   0.0   1.0  0.82 accomp     t
+    4     +m   0.8   0.3   0.0  0.81 bass       b
+
+
+
+#################################################################################################################
+ Columnas:
+ <numero pista>	<prediccion>	<prob melodia>	<prob bajo>	<prob accomp>	<ocupacion>	<etiquetado>	<nombre de pista>
+
+prediccion: tipo de pista que el algoritmo predice que es: +m para melodia, +b para bajo
+
+#################################################################################################################
+
+*  Renaissance_Renaissance-Late_Victoria_Quam_Pulchri_Sunt-2-Gloria-c.mid
+    1     +a   0.1   0.0   0.9  0.74 melody     s
+    2     +a   0.0   0.0   0.9  0.94 melody     c
+    3     +a   0.1   0.0   1.0  0.88 accomp     t
+    4     +m   0.7   0.3   0.0  0.87 bass       b
+
+
+%----------------------------------
+
+*  Medieval_ArsNova_Machau_machaut-b17.mid
+    1                                                                               
+    2     +m   1.0   0.0   0.0  0.84 melody     Sanz cuer m'en vois/Amis, dolens    
+    3          0.2   0.4   0.3  0.84 accomp         /Dame, par vous                 
+    4     +b   0.2   0.7   0.1  0.84 bass       (Guillaume de Machaut)              
+
+
+%----------------------------------
+
+*  Renaissance_Renaissance-Late_Victoria_Quicumque_Christum_Quaeritis-s.mid
+    1     +a   0.0   0.0   1.0  0.83 melody     s
+    2     +a   0.2   0.0   0.8   0.9 accomp     c
+    3     +a   0.0   0.0   0.9  0.82 accomp     t
+    4     +m   0.7   0.2   0.0  0.81 bass       b
+
+
+%----------------------------------
+
