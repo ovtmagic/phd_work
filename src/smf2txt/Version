@@ -1,0 +1,5 @@
+Version 1.1 Correction of the bug of key
+Version 1.2 Correction of error in the track track(track 0)
+Version 1.3 Add metadata information (-m), -s option is deprecated
+Version 1.4 Add program change metadata 
+Version 1.5 Correction of the bug of onsets in seconds  
