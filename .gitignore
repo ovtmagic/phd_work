@@ -12,3 +12,5 @@ bin/*
 *.log
 *.pyc
 *.o
+datasets
+samples
