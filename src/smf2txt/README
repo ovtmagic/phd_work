@@ -1,0 +1,74 @@
+
+   	    	     Standard MIDI File to text
+
+		   Version 1.6 May 5, 2010
+		Correction of the bug of onsets in seconds 
+		    by Pedro J. Ponce de León
+			pierre@dlsi.ua.es
+
+		   Version 1.5 April 27, 2010
+		Correction of the bug of onsets in seconds 
+		    by Tomás Pérez García
+			tperez@dlsi.ua.es
+
+		   Version 1.4 March 8, 2010
+			Add program change metadata 
+		    by Tomás Pérez García
+			tperez@dlsi.ua.es
+
+        	    Version 1.3 December 5, 2009
+		  	Add metadata information (-m), 
+		     -s option is deprecated
+		    by Tomás Pérez García
+			tperez@dlsi.ua.es
+
+		    Version 1.2, May 20, 2009
+			Correction of the bug of key
+		     by Tomás Pérez García
+			tperez@dlsi.ua.es
+
+		    Version 1.1, October 17, 2008
+			Correction of the bug of key
+		     by Tomás Pérez García
+			tperez@dlsi.ua.es
+
+         	    Version 0.5beta,  March 09, 2005	
+			 based in midisong++
+			
+		      by Miguel Sanchez Molina
+			 msanchez@dlsi.ua.es
+
+	Pattern Recognition and Artificial Intelligence Group
+                      http://grfia.dlsi.ua.es/
+        	       University of Alicante
+	        	  http://www.ua.es
+
+
+This distribution contains a tool which permit you to convert
+standard MIDI file note events to text. Is based in c++ midi library
+midisong++ (see lib/README).
+
+The following files are included in the distribution:
+
+    C++ Source Code 
+	smf2txt.cpp	  Main file
+	lib/common.cpp	  Common classes
+	lib/common.h	  Definitions for common.cpp
+	lib/song.cpp	  Main classes (song,track)
+	lib/song.h	  Definitions for song.cpp
+	lib/midieven.cpp  Event classes (notes, control change, etc..)
+	lib/midieven.h	  Definitions for midieven.cpp
+	lib/m_ifstrm.cpp  Class which provides MIDI stream input services
+	lib/m_ifstrm.h 	  Definitions for m_ifstrm.cpp
+	lib/m_ofstrm.cpp  Class which provides MIDI stream output services
+	lib/m_ofstrm.h	  Definitions for m_ofstrm.h
+	lib/mididef.h	  Standart code definitions
+
+    Build Utilities
+    	Makefile	  Make file
+	
+    Documentation
+    	README	          This file
+
+
+Try 'smf2txt --help' for more information.
