@@ -1,4 +1,6 @@
 .DS_Store
+.lock
+.metadata
 *.model
 *.zip
 *.gz
@@ -13,3 +15,4 @@ bin/*
 *.pyc
 *.o
 datasets
+samples
