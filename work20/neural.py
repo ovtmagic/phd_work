@@ -102,7 +102,7 @@ if __name__ == "__main__":
     csv_test, _ = arff2csv(datasets_path + "m_kar_test.arff")
     print("FILE: %s (attrs: %s)" % (csv_train, num_attr))
     print("FILE: %s (attrs: %s)" % (csv_test, num_attr))
-    net = TNeuralNet(csv_train, csv_test, num_attr, [47, 8, 8])
+    net = TNeuralNet(csv_train, csv_test, num_attr, [100, 80])
     result = net.run()
     print("Result: %s" % (result))
     
