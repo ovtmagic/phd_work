@@ -1,6 +1,7 @@
 .DS_Store
 .lock
 .metadata
+.settings
 *.model
 *.zip
 *.gz
@@ -8,11 +9,11 @@
 *.mid
 *.MID
 *.kar
-tmp/*
-bin/*
 *.arff
 *.log
 *.pyc
 *.o
 datasets
 samples
+tmp
+bin/*

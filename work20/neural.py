@@ -50,6 +50,10 @@ class TNeuralNet:
         self.inputs = inputs
         self.layers = layers
         self.seed = seed
+        # check layers != 0
+        for i in range(len(self.layers)):
+            if self.layers[i] == 0:
+                self.layers[i] = 1
         
     def run(self):
         # fix random seed for reproducibility
@@ -68,6 +72,7 @@ class TNeuralNet:
         
         
         # create model
+        print("- model: %s" % self.layers)
         model = Sequential()
         # fist layer
         model.add(Dense(self.layers[0], input_dim=self.inputs, activation='relu'))
@@ -78,18 +83,18 @@ class TNeuralNet:
         model.add(Dense(1, activation='sigmoid'))
         
         # Compile model
-        print("- compile")
+        #print("- compile: %s" % self.layers)
         model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
         
         
         # Fit the model
-        print("- fit")
+        #print("- fit")
         model.fit(X, Y, epochs=150, batch_size=10, verbose=0)
         
         # evaluate the model
-        print("- evaluates")
-        scores = model.evaluate(X_test, Y_test)
-        print("\n%s: %.2f%%" % (model.metrics_names[1], scores[1]*100))   
+        #print("- evaluates")
+        scores = model.evaluate(X_test, Y_test, verbose=0)
+        #print("\n%s: %.2f%%" % (model.metrics_names[1], scores[1]*100))   
         result = scores[1]*100
         return result
         
@@ -98,11 +103,11 @@ class TNeuralNet:
         
 if __name__ == "__main__":
     datasets_path = "../datasets/arff/"
-    csv_train, num_attr = arff2csv(datasets_path + "m_kar_train.arff")
-    csv_test, _ = arff2csv(datasets_path + "m_kar_test.arff")
+    csv_train, num_attr = arff2csv(datasets_path + "m_jazz_train.arff")
+    csv_test, _ = arff2csv(datasets_path + "m_jazz_test.arff")
     print("FILE: %s (attrs: %s)" % (csv_train, num_attr))
     print("FILE: %s (attrs: %s)" % (csv_test, num_attr))
-    net = TNeuralNet(csv_train, csv_test, num_attr, [100, 80])
+    net = TNeuralNet(csv_train, csv_test, num_attr, [17, 3])
     result = net.run()
     print("Result: %s" % (result))
     

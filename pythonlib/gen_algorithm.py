@@ -58,10 +58,11 @@ class TItemExample:
 class TGA:
     def __init__(self, initial_pop):
         self.pop = initial_pop # initial population
-        self.size_pop = len(pop)
+        self.size_pop = len(initial_pop)
 
     # evaluate a generation (get values)
     def evaluate(self, pop):
+        #print("len: %s" % len(pop))
         for p in pop:
             p.evaluate()
         return pop
