@@ -16,4 +16,5 @@
 datasets
 samples
 tmp
+**/tmp/*
 bin/*

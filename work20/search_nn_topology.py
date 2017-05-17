@@ -60,20 +60,32 @@ class TItem:
 
 
 # create csv database
-datasets_path = "samples/arff/"
-csv_train, num_attr = neural.arff2csv(datasets_path + "m_jazz_train.arff")
-csv_test, _ = neural.arff2csv(datasets_path + "m__test.arff")
-print("FILE: %s (attrs: %s)" % (csv_train, num_attr))
-print("FILE: %s (attrs: %s)" % (csv_test, num_attr))
+datasets_path = "../samples/0/arff"
+genres = ["kar", "jazz", "class"]
+track_type = ["m", "b"]
+pop_size = 15
+num_generations = 20
 
-
-# Genetic algoritm
-# initialize population
-pop = []
-for i in range(15):
-    x = TItem(num_attr, csv_train, csv_test)
-    x.initialize()
-    pop.append(x)
-ga = gen_algorithm.TGA(pop)
-ga.run(20)
-
+for t in track_type:
+    for g in genres:
+        csv_train, num_attr = neural.arff2csv("%s/%s_%s_train.arff" % (datasets_path, t, g))
+        csv_test, _ = neural.arff2csv("%s/%s_%s_test.arff" % (datasets_path, t, g))
+        print("FILE: %s (attrs: %s)" % (csv_train, num_attr))
+        print("FILE: %s (attrs: %s)" % (csv_test, num_attr))
+        
+        # Genetic algoritm
+        # initialize population
+        pop = []
+        for i in range(pop_size):
+            x = TItem(num_attr, csv_train, csv_test)
+            x.initialize()
+            pop.append(x)
+        ga = gen_algorithm.TGA(pop)
+        results = ga.run(num_generations)
+        
+        # save results
+        out_file = "tmp/result_%s_%s.txt" % (t,g)
+        f = open(out_file, "w")
+        for i in results:
+            f.write("%s: %s\n" % (i.value, i.data))
+        f.close()

@@ -102,6 +102,7 @@ class TGA:
     
     # run genetic algorithm   
     def run(self, num_gen):
+        results = []
         # values for initial population
         self.pop = self.evaluate(self.pop)
         self.order()
@@ -114,7 +115,8 @@ class TGA:
             self.order()
             self.pop = self.pop[0:self.size_pop]
             self.print(i+1)
-            
+            results.append(self.pop[0])
+        return results
             
 
             
